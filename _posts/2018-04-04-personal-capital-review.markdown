@@ -1,9 +1,22 @@
 ---
 layout: post
-title:  "Personal Capital Review"
+title:  "Personal Capital - Finance Aggregator"
 date:   2018-04-04 14:05:14 -0400
 categories: finance
 ---
-I used Personal Capital for everything.
 
-Here's a [referral code](http://share.personalcapital.com/x/psOnBl), if you link up any investment account, we'll both earn a $20 Amazon Gift Card.
+[Personal Capital](http://share.personalcapital.com/x/psOnBl) is a financial account aggregator, similar to Mint. You can link all of your bank accounts, credit cards, investment accounts, mortgages, and assets, and it’ll track the values and balances over time. Most importantly to me, I can get a high level overview of all of my finances in one spot. [Personal Capital](http://share.personalcapital.com/x/psOnBl) will also generate a Net Worth for you, which is the sum of all of your assets, investments, and liquid cash, minus your credit cards, loans, and mortgages. I use it daily to keep track of my spending and investments.
+
+For me, I have a TON of accounts to keep track of. I like to “churn” credit cards, which means to open new credit cards regularly for sign on bonuses. I currently have 6 bank accounts (1 is updated manually, but I don’t use this account often), and one cash account, which is the dollar bills in my piggy bank.
+
+I also have my investments synced, which consists of Crypto, my 401k, my Roth IRA, my HSA, my individual stocks with [Robinhood](http://share.robinhood.com/roberts459), and my taxable Vanguard brokerage accounts. [Robinhood](http://share.robinhood.com/roberts459) does not integrate with [Personal Capital](http://share.personalcapital.com/x/psOnBl) currently, so whenever I buy a new stock, I add it to my portfolio on the Personal Capital site. Stock prices and the shares you owned are tallied and added to your investment totals.
+
+I have 15 credit cards on [Personal Capital](http://share.personalcapital.com/x/psOnBl). Yes, 15, including Discover, Capital One, American Express, Citi, Chase, Bank of America, Barclaycard, and even one from my Credit Union. AND it syncs every single one of them! I also have my car loan and my mortgage synced.
+
+As far as assets, I have the value of my home, which can be pulled directly from Zillow, and the value of my Corvette. Some people add furniture, art, jewelry to their assets, but I don’t own much of value outside of my car and home.
+
+[Personal Capital](http://share.personalcapital.com/x/psOnBl) also lets you get a list of all your transactions per account, and gives great historical data. This is a feature that I used heavily with Mint while I budgeted in college, and [Personal Capital](http://share.personalcapital.com/x/psOnBl) does just as good a job with it. You can see how much you spend per month, and on what types of spending. You can see trends on your spending, and set up budgets.
+
+The main draw to [Personal Capital](http://share.personalcapital.com/x/psOnBl) over Mint is the investments. [Personal Capital](http://share.personalcapital.com/x/psOnBl) will show you your asset allocation and performance over time. I even get an email every Sunday to see how my portfolio is doing. You can also setup email alerts for large transactions, such as when your paycheck arrives or your credit card bills are paid.
+
+There is a good mobile app for [Personal Capital](http://share.personalcapital.com/x/psOnBl), and it supports 2 Factor Authentication (2FA), both on the web site and the mobile applications for Android and iOS. Personal Capital will even do 2FA for most of your accounts. I currently have 2FA with my mortgage, so I enter the code once a month when I want to see my principle paid down.
