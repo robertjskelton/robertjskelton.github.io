@@ -17,19 +17,17 @@ avatar: https://avatars1.githubusercontent.com/u/2255621?s=400&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: robertjskelton@gmail.com
   facebook: robertjskelton
-  flickr:
   github: robertjskelton
   instagram: beertastingbrevard
   linkedin: robertjskelton
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: test # just type anything here for a working RSS icon
   twitter: robertjskelton
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  stackoverflow: users/1938341/robertjskelton # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UC-W1fWe0xjgzd7DeXLSU1MA # channel/<your_long_string> or user/<user-name>
+  googleplus: +RobertSkelton # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
