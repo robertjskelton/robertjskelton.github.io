@@ -1,0 +1,138 @@
+---
+layout: post
+title:  "How to Drive Cool Cars on a Budget"
+date:   2018-04-10 14:05:14 -0400
+categories: cars
+---
+
+One of life's biggest expenses is transportation, especially cars. I love cars, and love getting different cars. I get bored driving the same vehicle for more than a few years. You could imagine this would be expensive, but it doesn’t have to be. I’m 26 and have owned 8 cars, and I’ve not lost much money on them at all. The biggest downside is that you have to pay registration and taxes on every car you buy, but some of that can be tax deductible.
+
+The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own. My first 3 cars I owned in high school, so my helped me out by paying for gas, insurance, and registration. Also, 7 of these cars were Rear Wheel Drive, manual transmission cars, and I have owned a single automatic, AWD SUV. 6 of the 8 were American made and had no isses, and 2 were German made and had so many issues.
+
+----
+### 1. 1993 Ford Mustang LX
+* Bought: $1,700 / 195,000 miles
+* Sold: $1,750 / 205,000 miles
+* MPG: 25/30, regular gas
+* Insurance: Unsure, parents paid for
+* Engine: 2.3L 4-cylinder, 100HP
+* Oil Changes: $30 for standard oil change, every 3,000 to 5,000 miles
+* Taxes/Registration: Unsure, parents paid for
+
+![1993 Mustang](/images/cars/93mustang.jpg)
+
+This car was bought by my parents for me and my brother to learn to drive a manual transmission. I broke the clutch in it, and the A/C compressor went out in it, which cost about $600 to fix both. We owned it for a few years as an extra car, and sold it for more than we paid.
+
+----
+### 2. 1996 Ford Mustang
+* Bought: $3,600 / 118,000 miles
+* Sold: $2,400 / 135,000 miles
+* MPG: 23/28, regular gas
+* Insurance: Unsure, parents paid for
+* Engine: 3.6L 6-cylinder, 150HP
+* Oil Changes: $30 for standard oil change, every 3,000 to 5,000 miles
+* Taxes/Registration: Unsure, parents paid for
+
+![1996 Mustang](/images/cars/96mustang.jpg)
+
+This was the first car I bought myself, the older, silver Mustang in the middle of the picture. I put a $70 Cold Air Intake on it. Other than that, I did no major work on the car, so it had no expenses outside of gas and oil changes. I originally sold the car for $3,200, but the buyer blew a head gasket on the way home. This really surprised me, since after I had 17,000 issue-free miles, they broke a major part in a 5 mile drive home. Since they were family friends, I took it back, and sold it as is a week later for $800 less.
+
+----
+### 3. 1999 Chevrolet Camaro
+* Bought: $4,000 / 99,000 miles
+* Sold: $3,600 / 115,000 miles
+* MPG: 22/27, regular gas
+* Insurance: Unsure, parents paid for
+* Engine: 3.8L 6-cylinder, 200HP
+* Oil Changes: $30 for standard oil change, every 3,000 to 5,000 miles
+* Taxes/Registration: Unsure, parents paid for
+
+![1999 Camaro](/images/cars/camaro.jpg)
+
+I bought the Camaro before heading to college as something more exciting – it had T-Tops! The picture doesn’t portray how enthralled I was. I drove this at the beginning of my college career and had no issues with it. Just a couple hundred dollars upgrading the headlights and front grill, hey, I was 18! When I sold it after a few years, I didn’t lose much money to upgrade to my next car, which was a…
+
+----
+### 4. 2004 Cadillac CTS-V
+* Bought: $17,800 / 49,000 miles
+* Sold: $13,000 / 99,000 miles
+* MPG: 16/23, premium gas
+* Insurance: $120/mo for full coverage
+* Engine: 5.7L 8-cylinder, 400HP
+* Oil Changes: $100 for full synthetic oil change, every 10,000 miles
+* Taxes/Registration: Unsure, parents paid for
+
+![2004 CTS-V](/images/cars/ctsv.jpg)
+
+I bought this with the money I had saved from summer jobs and my first semester of Co-oping as a Test Engineer. It came with new tires, I got one set of new tires for free a few years later from my brother (he won them), and I sold it needing new tires. The CTS-V was an amazing car: a luxury sport sedan with a Corvette Z06 engine and a 6-speed manual transmission. I loved it! However, the insurance was really high, and so were the gas costs. This was the longest I had ever owned a car, which was about 4 years. I sold it when I moved down to Florida for my first real Engineering job. I still find myself wanting a car like this again, and they are still selling used years later for the same prices. No more depreciation on these, unfortunately for me.
+
+----
+### 5. 2008 Chevrolet Corvette
+* Bought: $27,500 / 36,000 miles
+* Sold: $26,500 /49,000 miles
+* MPG: 23/30, premium gas
+* Insurance: $90/mo for full coverage
+* Engine: 6.2L 8-cylinder, 430HP
+* Oil Changes: $100 for full synthetic oil change, every 10,000 miles
+* Taxes/Registration: $3,000
+
+![2008 Corvette](/images/cars/c6.jpg)
+
+I bought the Corvette after getting my first paycheck as a full time employee after college. A bright blue Corvette with a targa top in perfect Florida weather, why not? A few months later, I was wondering how bad of a financial decision it really was. My dad and brother gave me 0% loans since I couldn’t pay for all of it at once, and I was paying them about $1,000/month to pay it off quickly. It took about 6 months to pay off. Finally selling my CTS-V really helped. I owned the Corvette for a little over a year, and luckily sold it for not much of a loss in order to pay off the down payment on my house.
+
+Buying a Corvette and a house in the same year might not be the best financial decision, but it worked out for me once I sold the Vette. This was the nicest and fastest car I had owned at this point.
+
+The expenses on this were really low, since insurance is super cheap and it got relatively good MPG for a sports car. Everyone wonders how the insurance low, so think about this: Who buys a Corvette, and what do they do with them? Most Corvette owners are 60+ and retired, and they use their Corvette as a weekend car or cruiser, not a daily driver. This means they are garaged the majority of the time, and there are not very many insurance claims on them. This drives the insurance price pretty low, which was great for me! Most people in Corvette Clubs like to brag how few miles they put on their Vette, I was the opposite. I put about 13,000 miles on mine in the year I owned it, and loved every single one of them. It made me want to get back into one once I was more financially stable.
+
+----
+### 6. 1999 Porsche Boxster
+Bought: $5,500 / 85,000 miles
+Sold: $5,000  / 89,000 miles
+MPG: 19/25, premium gas
+Insurance: $50/mo for legal minimum
+Engine: 2.5L 6-cylinder, 200HP
+Oil Changes: $95 for full synthetic oil change, every 7,000 miles
+Taxes/Registration: $500
+
+![1999 Boxster](/images/cars/boxster.jpg)
+
+I bought the Porsche as a replacement to Corvette, which I sold to pay towards the down payment on my house. The difference in selling my Corvette and buying a Porsche was over $21,000! My co-workers wondered why I “upgraded” from a Corvette to a Porsche, and their jaw dropped when they find out I only paid $6,000 after tax and registration for it. The insurance for full coverage on it was about $130/mo, which I thought was insane on a car that’s so cheap. Therefore, I just went for the legal minimum. My thoughts were that if I wreck it, I can just buy another car. I’m also quite confident in my driving abilities.
+
+I called it my cheap beater Porsche, and that’s not too far off. I converted the non-functional automatic convertible top to a manually-operated top, and I just leave it down all the time. The back window was plastic that has faded to yellow, so it had terrible visibility when the top is up. I spent $50 on new tail light bulbs and a new headlight switch, since those didn’t work when I bought it. Luckily for me, I picked this up for a steal on Craigslist, and bought it the same day it was posted. I loved driving a cheap car that I don’t care about anymore! I kept this about 9 months. I put about $350 into new brakes and rotors. I did them myself, since the dealer quoted $2,700 to do it. When I sold it on eBay, it needed a new water pump, which was about $700 installed.
+
+I lost about $1,000 to drive this for close to a year, not bad. I sold it to buy my first automatic car, and first non-sports car.
+
+----
+### 7. 2005 BMW X5 4.8
+* Bought: $7,000 / 102,000 miles
+* Sold: $7,005 in trade-in / 108,000 miles
+* MPG: 14/19, premium gas (ouch)
+* Insurance: $67/mo for legal minimum
+* Engine: 4.8L 8-cylinder, 360HP
+* Oil Changes: None yet
+* Taxes/Registration: $700
+
+![2005 X5](/images/cars/x5.jpg)
+
+I bought this awesome BMW SUV. It was $72,000 new, and I bought it for 10% of that. It was large inside, had a panoramic sunroof, Bluetooth, and heated seats in the front and back. Perfect for Florida! It came with huge 20″ rims that are 315 in the back. I got lots of compliments on the wheels. The car was enjoyable to drive, the A/C was so cold, and it felt like it owned the road. It’s not a sports car, but it’ll scoot. 360HP in this SUV is no slouch. It’s got torque to tow as well. The gas mileage is horrific on this car, and it holds 25 gallons of premium.
+
+I never bought new tires on it, but it had a TON of problems. The inside driver door panel was off for at least half the time I owned it, and I replaced almost every part in there myself. The window barely worked. I ended up using a zip tie to solder a piece of plastic together inside the door. The BMW and Porsche I had might have been lemons, It needed some engine work before I tried selling it private party, then ended up trading it in on this...
+
+----
+### 8. 2016 Chevrolet Corvette
+* Bought: $40,000 / 44,000 miles
+* Sold: Not yet, keeping at least 4 years!
+* MPG: 23/32+, premium gas
+* Insurance: $90/mo for excellent coverage
+* Engine: 6.2L 8-cylinder, 455HP
+* Oil Changes: None yet
+* Taxes/Registration: ~$2,500
+
+![Corvette](/images/turo/vette.jpg)
+
+Newest car and by far the most expensive car I've ever owned. Something about lifestyle creep... I got a 1.49% interest rate 48 month car loan on a USED car. Found this 1-owner, higher mileage C7 Corvette at a dealer. It was the exact combo I wanted, blue exterior and brown/tan interior, 2LT, manual transmission. It was Certified Pre-Owned, so it has free oil changes and services for a few years, plus it was a better price than any 2016 for sale in the country at the time. I haggled for a while, got up to leave a few times, and got about 3k off the dealer price and got more than I paid for my BMW on trade in.
+
+The 2016 came with a front camera so you don't hit the front bumper parking, and a flat bottom steering wheel. This is such a nice car, and I'm making some money on the side [renting it with Turo](https://rskelton.com/rent-other-peoples-cars-with-turo/). I was really tired of how expensive the BMW was and how unreliable it was, so I was happy to pay a premium to get into a reliable American car again. Plus it has cylinder deactivation to run on 4-cylinders when you want to, which helped me get 36 MPG on a road trip to Tampa.
+
+
+----
+So those are the cars, I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they effected your financial plans? Leave them in the comments!
