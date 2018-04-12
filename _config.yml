@@ -21,7 +21,7 @@ footer-links:
   pinterest:
   rss: test # just type anything here for a working RSS icon
   twitter: robertjskelton
-  stackoverflow: users/1938341/robertjskelton # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  #stackoverflow: users/1938341/robertjskelton # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UC-W1fWe0xjgzd7DeXLSU1MA # channel/<your_long_string> or user/<user-name>
   googleplus: +RobertSkelton # anything in your profile username that comes after plus.google.com/
 

@@ -14,16 +14,16 @@ I also set up rskelton.com using a Highly Available (HA) WordPress install on AW
 rskelton.com currently uses the following technologies, and drew inspiration from [Joe Hendrix's Github Page](https://hendrixjoseph.github.io):
 * [Jekyll](https://jekyllrb.com/), specifically [jekyll-now](https://www.jekyllnow.com/). Jekyll is an awesome framework that turns markdown into a website. It takes a little while to get used to it, definitely more complicated than Wordpress, but worth the time to learn it.
 * [Github pages](https://pages.github.com/), which automatically runs and hosts the jekyll markdown code
-* Github for the code for the site. Open Source, public repo, available [here](https://github.com/robertjskelton/robertjskelton.github.io). For new posts, I just create the post locally on my laptop, I can use "jekyll serve" to preview the website changes in localhost:4000, and then simply push my changes to my repo and they appear on [rskelton.com](https://rskelton.com) within seconds.
+* Github is where for the code for the site is hosted. It is all open source in my public repo, available [here](https://github.com/robertjskelton/robertjskelton.github.io). For new posts, I create a post locally on my laptop. I can use "jekyll serve" to preview changes in a browser at "localhost:4000", and then push my changes to my repo. After that, they appear on [rskelton.com](https://rskelton.com) within seconds.
 * [Route 53](https://aws.amazon.com/route53/) in AWS, this is my DNS. I pay a small amount per lookup, less than $1/month.
 * [Cloudflare](https://www.cloudflare.com) for SSL. Github pages does SSL if you use their website name (robertjskelton.github.io) but since I used a custom domain, that isn't supported. Cloudflare provides a [simple way](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/) to fix that.
-* [Disqus](https://disqus.com/) for comments
-* [Google Analytics](https://analytics.google.com) for Analytics
-* [Google Adsense](https://www.google.com/adsense) for ads
+* [Disqus](https://disqus.com/) for comments.
+* [Google Analytics](https://analytics.google.com) for Analytics.
+* [Google Adsense](https://www.google.com/adsense) for ads.
 
 ----
 
-I have also still own the following websites:
+I have also own the following websites:
 * [Beer Tasting Brevard](https://beertastingbrevard.com) - a beer tasting company website that I started. Hosted with an S3 bucket, Cloudfront, and Route 53 on AWS, using the Instagram API to pull new images from [Instagram](https://www.instagram.com/beertastingbrevard) so that I never have to manually update the website.
-* [Robert's Epiphone Valve Jr Mods](http://robertsvalvejrmods.blogspot.com) - Electrical Engineering undergrad project for a course, I mad a bunch of modifications to a guitar amp.
-* [Old Travel Blog](http://robertandashleightakeeurope.blogspot.com) - Hosted with Blogspot, a Europe travel blog with my ex-girlfriend.
+* [Robert's Epiphone Valve Jr Mods](http://robertsvalvejrmods.blogspot.com) - Hosted with Blogspot, this was an Electrical Engineering undergrad project, I made a bunch of modifications to a guitar amp and documented them on this site.
+* [Europe Travel Blog](http://robertandashleightakeeurope.blogspot.com) - Hosted with Blogspot, this is a 2013 Europe travel blog.
