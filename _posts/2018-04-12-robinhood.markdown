@@ -22,3 +22,5 @@ If you want to try it out, use my [referral code](http://share.robinhood.com/rob
 ![Robinhood Web Interface](/images/robinhood/web.png)
 
 When you’re trading on [Robinhood](http://share.robinhood.com/roberts459), I highly recommend doing a limit buy or limit sell. This way you specify the most you’d pay for a stock, or the least you’d sell your stock for. Some people put in many limit buys for low prices, and many limit sells for high prices. That way, if a stock happens to get pretty high, it’ll automatically sell. This could be awesome if you’re just trying to flip stocks, but it might go up even higher than your limit sell is set at. Pros and cons.
+
+[Robinhood](http://share.robinhood.com/roberts459) has recently added cryptocurrencies and options to their repertoire of services, though I haven't delved into either. You can buy and sell Bitcoin, Ethereum, and buy and sell options of stocks. I don't quite understand options, other than that you can make or lose a lot of money very quickly. I'll stick with the tried and true dividend stocks. 
