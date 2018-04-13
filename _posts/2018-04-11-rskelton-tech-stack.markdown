@@ -7,7 +7,7 @@ categories: tech
 
 This blog, hosted at [rskelton.com](https://rskelton.com), is one of the many iterations of Robert Skelton's personal blog. Over the years, it has been hosted at [robertjskelton.blogspot.com](https://robertjskelton.blogspot.com), robertjskelton.com (dead), and skelton.co (dead). I have hosted it using WordPress on DigitalOcean, Github Pages, a Static AWS S3 bucket, and now this current iteration is my favorite. This site is here to stay, finally. This site also merges content from citrusrenovations.com (defunct home renovation blog) and retirengineering.com (defunct financial blog), both of which I hosted using WordPress on DigitalOcean.
 
-I previously set up rskelton.com using a Highly Available (HA) WordPress install on AWS. I use AWS for my job full time, so this was good experience. The problem is, it's really expensive to have a HA install, $70/mo or more. I didn't want to pay that much for just a blog, so I set about finding a new way to manage a blog. 
+I previously set up rskelton.com using a Highly Available (HA) WordPress install on AWS. I use AWS for my job full time, so this was good experience. The problem is, it's really expensive to have a HA install, $70/mo or more. I didn't want to pay that much for just a blog, so I set about finding a new way to manage a blog.
 
 ----
 
@@ -23,7 +23,7 @@ rskelton.com currently uses the following technologies, and drew inspiration fro
 
 ----
 
-I have also own the following websites:
-* [Beer Tasting Brevard](https://beertastingbrevard.com) - a beer tasting company website that I started. Hosted with an S3 bucket, Cloudfront, and Route 53 on AWS, using the Instagram API to pull new images from [Instagram](https://www.instagram.com/beertastingbrevard) so that I never have to manually update the website.
+I also own the following websites:
+* [Beer Tasting Brevard](https://beertastingbrevard.com) - a beer tasting company website that I started. It is hosted using a static S3 bucket, AWS Cloudfront for SSL, and Route 53 for DNS. I also have some Javascript on the site that uses Instagram API to pull new images from [Instagram](https://www.instagram.com/beertastingbrevard). This way, I never have to manually update pictures on the website, new images are automatically populated from Instagram posts.
 * [Robert's Epiphone Valve Jr Mods](http://robertsvalvejrmods.blogspot.com) - Hosted with Blogspot, this was an Electrical Engineering undergrad project, I made a bunch of modifications to a guitar amp and documented them on this site.
-* [Europe Travel Blog](http://robertandashleightakeeurope.blogspot.com) - Hosted with Blogspot, this is a 2013 Europe travel blog.
+* [Europe Travel Blog](http://robertandashleightakeeurope.blogspot.com) - Hosted with Blogspot, this is a 2013 Europe travel blog. If I hadn't made these 2 blogs using Blogspot, I'm 100% sure I would have tried to change hosts 10 times and lost all my content over the last 5 years. Blogspot isn't fancy or pretty, but I'm glad I used it back then. 
