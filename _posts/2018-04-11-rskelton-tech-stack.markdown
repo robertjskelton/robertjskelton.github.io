@@ -7,7 +7,7 @@ categories: tech
 
 This blog, hosted at [rskelton.com](https://rskelton.com), is one of the many iterations of Robert Skelton's personal blog. Over the years, it has been hosted at [robertjskelton.blogspot.com](https://robertjskelton.blogspot.com), robertjskelton.com (dead), and skelton.co (dead). I have hosted it using WordPress on DigitalOcean, Github Pages, a Static AWS S3 bucket, and now this current iteration is my favorite. This site is here to stay, finally. This site also merges content from citrusrenovations.com (defunct home renovation blog) and retirengineering.com (defunct financial blog), both of which I hosted using WordPress on DigitalOcean.
 
-I also set up rskelton.com using a Highly Available (HA) WordPress install on AWS. I use AWS for my job full time, so this was be good experience. The problem is, it's really expensive to have a HA install, $70/mo or more. I didn't want to pay that much.
+I previously set up rskelton.com using a Highly Available (HA) WordPress install on AWS. I use AWS for my job full time, so this was good experience. The problem is, it's really expensive to have a HA install, $70/mo or more. I didn't want to pay that much for just a blog, so I set about finding a new way to manage a blog. 
 
 ----
 
