@@ -15,8 +15,7 @@ The credit union is [Consumers Credit Union (CCU)](https://www.myconsumers.org/p
 
 3. You also need to elect to receive eDocuments. Sure, easy, no one wants more snail mail.
 
-4. Finally, complete 12 pin-less debit transactions. This is the only one that requires effort. For this, both my brother and I have our CCU debit card linked to Facebook Messenger. Every month, we send each other 12 individual one cent transactions. Each one registers as a pin-less debit card transactions, and our obligations are met! Even if you don’t hit the 12 transactions, there are no account fees – you just earn a measly .01% interest that month.
-
+4. Finally, complete 12 pin-less debit transactions. This is the only one that requires effort. For this, both my brother and I have our CCU debit card linked to Facebook Messenger. Every month, we send each other 12 individual one cent transactions. Each one registers as a pin-less debit card transactions, and our obligations are met!
 
 This yields me about $30-50 per month just off of my money I have in a holding pattern, waiting to pay off my utility bills, credit cards, and mortgage. There are a few small tasks you have to setup to take advantage of the higher interest rates, but are well worth checking out. If you don't meet all of the above, you still earn .01%, which is normal for big banks.
 
