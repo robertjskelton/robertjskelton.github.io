@@ -11,7 +11,7 @@ The credit union is [Consumers Credit Union (CCU)](https://www.myconsumers.org/p
 
 1. Get one direct deposit per month. Easy, just setup some or all of your workplace paycheck to use this bank. The majority of my paycheck goes here every other week.
 
-2. Access online banking once per month. This is easily accomplished using finance aggregation websites, such as [Personal Capital](https://rskelton.com/personal-capital-review) or Mint. I prefer [Personal Capital](https://rskelton.com/personal-capital-review) for wealth management, but I think Mint is better for budgeting. I used Mint throughout college to get a better grasp on finances, though I made the switch to Personal Capital](https://rskelton.com/personal-capital-review) in 2016 when I discovered Mint couldn’t track my mortgage.
+2. Access online banking once per month. This is easily accomplished using finance aggregation websites, such as [Personal Capital](https://rskelton.com/personal-capital-review) or Mint. I prefer [Personal Capital](https://rskelton.com/personal-capital-review) for wealth management, but I think Mint is better for budgeting. I used Mint throughout college to get a better grasp on finances, though I made the switch to [Personal Capital](https://rskelton.com/personal-capital-review) in 2016 when I discovered Mint couldn’t track my mortgage.
 
 3. You also need to elect to receive eDocuments. Sure, easy, no one wants more snail mail.
 
