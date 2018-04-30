@@ -1,0 +1,15 @@
+---
+layout: page
+title: Car Posts
+permalink: /category/cars/
+---
+
+<p>Posts in category "cars" are:</p>
+
+<ul>
+  {% for post in site.categories.cars %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
