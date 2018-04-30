@@ -5,7 +5,7 @@ date:   2018-04-30 1:05:14 -0400
 categories: renovations
 ---
 
-I completed a quick weekend bathroom remodel on the guest bathroom with the help of my finances mom, Cindy, and my roommate, Alex. I kept the existing vanity and shower, but gave everything a nice touchup. The changes included new paint on the walls and vanity cabinets, new towel and toilet paper holders, new mirror, new vanity light, new baseboards, and a new curved shower rod curtain. Both the shower rod curtain and vanity light are the same model as in the master bathroom we remodeled recently. I kept the existing over the toilet wall mounted storage, since it's in good shape. Here are the before pictures:
+I completed a quick bathroom remodel the weekend on the guest bathroom with the help of my fiancés mom, (Cindy) and one of my roommates (Alex). I kept the existing vanity and shower, but gave everything a nice touchup. The changes included new paint on the walls and vanity cabinets, new towel and toilet paper holders, new mirror, new vanity light, new baseboards, and a new curved shower rod curtain. Both the shower rod curtain and vanity light are the same model as in the master bathroom we remodeled recently. I kept the existing over the toilet wall mounted storage, since it's in good shape. Here are the before pictures:
 
 ![Before](/images/bathroom/before1.jpg)
 ![Before](/images/bathroom/before2.jpg)
@@ -42,7 +42,7 @@ Since we painted before installing the new vanity light, it was dark in the bath
 ![Process](/images/bathroom/process13.jpg)
 ![Process](/images/bathroom/process14.jpg)
 
-This bathroom doesn't have pull out drawers in the vanity, they're blanks, so there isn't much storage. I decided to buy the biggest medicine cabinet I could find, which was 48" x 30". It's almost as big as the old mirror was. This gives more storage and a more modern look. A new vanity light helped as well. I installed a dual curved shower curtain holder, so you can hang towels on the outside and people can still shower. The toilet paper holder has a storage spot on top for baby wipes.
+This bathroom doesn't have pull out drawers in the vanity, they're blanks, so there isn't much storage. I decided to buy the biggest medicine cabinet I could find, which was 48" x 30". It's almost as big as the old mirror was. This gives more storage and a more modern look. A new vanity light helped as well. I installed a dual curved shower curtain holder, so you can hang towels on the outside and people can still shower. The toilet paper holder has a storage spot on top for baby wipes. Alex was helpful in installing all the new wall hanging hardware.
 
 ![Done](/images/bathroom/shower.jpg)
 
