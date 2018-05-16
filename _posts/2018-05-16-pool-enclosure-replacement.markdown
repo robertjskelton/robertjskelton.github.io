@@ -23,9 +23,9 @@ Hurricane Irma destroyed my original enclosure in September 2017. I got 4 quotes
 
 
 
-I went with the 4th company, [Palm Bay Aluminum](http://www.palmbayaluminum.com), even though they weren't the cheapest. The cheapest required 60% of the cost up front, but Palm Bay Aluminum only asked for 100% at completion. That was worth it for me!
+I went with the 4th company, [Palm Bay Aluminum](http://www.palmbayaluminum.com), even though they weren't the cheapest. The cheapest required 60% of the cost up front, but Palm Bay Aluminum asked for 0% down and 100% at completion. Leaving my money invested for those 4 months earned me about $200 interest anyways, so the price difference was about $500 after factoring that in. Not having to carry the risk of some aluminum company having lots of my money before even starting a project was worth it for me!
 
-My screen was completed and the permit signed off and inspected on May 4, 2018. Until that was finished, I had this chicken wire fence around the pool, to keep the dogs in and because it is a law to have some sort of fence around your pool. It looked terrible.
+My screen was started on April 17 and took about 4 days to finish the install. The front screens were completed shortly after, and the permit signed off and inspected on May 4, 2018. Until the screen was started, I had this chicken wire fence around the pool, to keep the dogs in and because it is a law to have some sort of fence around your pool. It looked terrible.
 
 ![Screen](/images/pool/before.jpg)
 
@@ -37,7 +37,7 @@ Here's all the aluminum and parts they needed.
 
 ![Screen](/images/pool/materials.jpg)
 
-And the new "super gutter" installed. The old gutter only went the length of the roof on the house, and didn't have a gutter attached to the metal roof area above the Florida room. The new super gutter is a gutter the entire length, which is stronger, better for water flow, and looks way better.
+And the new "super gutter" installed. The old gutter only went the length of the roof on the house, and didn't have a gutter attached to the metal roof area above the Florida room (where you can see the step). The new super gutter runs the entire length, which is stronger, better for water flow, and looks way better.
 
 ![Screen](/images/pool/gutter.jpg)
 
@@ -55,7 +55,7 @@ I got them to install a dog door for Bentley, and it is super sturdy. It's a [Ma
 ![Screen](/images/pool/bentley.jpg)
 ![Screen](/images/pool/dog_door.jpg)
 
-Enjoying the first day with a screen!
+Enjoying one of my favorite beers the first day with a screen!
 
 ![Screen](/images/pool/huna.jpg)
 
@@ -63,7 +63,7 @@ This is how they joined the super gutter into the existing downspout.
 
 ![Screen](/images/pool/gutter_attached.jpg)
 
-After the screen was up, Alex and I (but mostly Alex) got to work installing lighting. There were awesome string lights on the old enclosure which were hooked up to an on/off switch, we wanted that same functionality, but better. Alex hooked up a system with pulleys that required attaching hooks at the top most point and a lower point on each side, so we needed to get up there. He made a ladder thing that went across the pool so you could reach the top with a 10 ft ladder. Check it out!
+After the screen was up, Alex and I (but mostly Alex) got to work installing lighting. There were awesome string lights in a zig-zag pattern on the old enclosure which were hooked up to an on/off switch, we wanted that same functionality, but better. Alex hooked up a system with pulleys that required attaching hooks at the top most point and a lower point on each side, so we needed to get up there. He made a ladder thing that went across the pool so you could reach the top with a 10 ft ladder. Check it out!
 
 ![Screen](/images/pool/ladder.jpg)
 ![Screen](/images/pool/alex.jpg)
@@ -72,7 +72,7 @@ Bentley also found a new way to sit, with his tail just hanging into the water.
 
 ![Screen](/images/pool/bentley_sitting.jpg)
 
-As far as the electrical, each beam of the roof has its own outlet, which is run through black conduit. So there are 5 outlets for the 5 strands of lights, and the strands can be pulled in and out easily as they are on wire. I think I'll replace the strands with Christmas lights in December!
+As far as the electrical, each beam of the roof has its own outlet, which is run through black conduit. So there are 5 outlets for the 5 strands of lights, and the strands can be pulled in and out easily as they are on wire. The lights are just in a staggered pattern now, no zig-zags like before. I think I'll replace the light strands with Christmas lights in December!
 
 ![Screen](/images/pool/electrical_in_progress.jpg)
 ![Screen](/images/pool/electrical_in_progress_2.jpg)
@@ -86,4 +86,4 @@ Notice the enclosure opposite mine is a box gable roof, like my old one was. It 
 
 ![Screen](/images/pool/lights_on.jpg)
 
-I'm very pleased with the new enclosure, the lights, the dog door, and Palm Bay Aluminum's work!
+I'm very pleased with the new enclosure, the lights, the dog door, and Alex and Palm Bay Aluminum's work!
