@@ -5,9 +5,13 @@ date:   2018-05-16 10:05:14 -0400
 categories: renovations
 ---
 
+I had a pool enclosure on my house, it was likely built along with the pool in the 80s or 90s. These enclosures are common to have over Florida pools to keep leaves and bugs out. Some people call them screen, cages, bird cages, enclosures, etc. I had a few screen panels blown out in 2016 during Hurricane Matthew, and the guy who replaced them said I'd be lucky if my enclosure lasted 5 more years. It lasted 1.
+
+My old pool enclosure.
+
 ![Screen](/images/pool/before_irma.jpg)
 
-I had a pool enclosure on my house, it was likely built along with the pool in the 80s or 90s. These enclosures are common to have over Florida pools to keep leaves and bugs out. Some people call them screen, cages, bird cages, enclosures, etc. I had a few screen panels blown out in 2016 during Hurricane Matthew, and the guy who replaced them said I'd be lucky if my enclosure lasted 5 more years. It lasted 1.
+After Irma destoryed that enclosure.
 
 ![Screen](/images/pool/irma.jpg)
 
