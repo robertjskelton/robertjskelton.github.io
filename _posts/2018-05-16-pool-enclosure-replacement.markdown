@@ -87,3 +87,5 @@ Notice the enclosure opposite mine is a box gable roof, like my old one was. It 
 ![Screen](/images/pool/lights_on.jpg)
 
 I'm very pleased with the new enclosure, the lights, the dog door, and Alex and Palm Bay Aluminum's work!
+
+![Screen](/images/pool/night.jpg)
