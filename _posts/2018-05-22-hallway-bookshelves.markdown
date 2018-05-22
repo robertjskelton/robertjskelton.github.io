@@ -9,7 +9,7 @@ I made some simple hallway bookshelves. They cost $43 and a few hours of my time
 
 ![Bookshelves](/images/bookshelves/pre.jpg)
 
-Materials included brackets and a sheet of 3/4" plywood, cut down to 2 pieces of 9" x 24".
+Materials included brackets and a piece of 3/4" MDF, cut down to 2 pieces of 9" x 24". 
 
 ![Bookshelves](/images/bookshelves/paint.jpg)
 
