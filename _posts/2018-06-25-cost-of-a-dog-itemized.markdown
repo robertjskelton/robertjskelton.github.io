@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cost of a Dog, Itemized"
-date:   2018-06-24 14:10:14 -0400
+date:   2018-06-25 14:10:14 -0400
 categories: finance
 ---
 
