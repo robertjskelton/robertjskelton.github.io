@@ -16,7 +16,7 @@ categories: recipes
 * 2+ avocados, sliced into small pieces
 * 1 can of corn
 
-### Recipe
+### Instructions
 1. Cook rice
 2. Cook corn in microwave
 3. Cook shrimp
@@ -28,7 +28,8 @@ categories: recipes
 * Add cilantro
 * Add cheese
 * Add hot sauce
+* Add lime juice
 
-## Makes ~7 servings
-## Elizabeth's Rating: 9
-## Robert's Rating: 10
+### Makes ~7 servings
+### Elizabeth's Rating: 9
+### Robert's Rating: 10
