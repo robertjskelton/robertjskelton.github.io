@@ -20,7 +20,7 @@ categories: recipes
 1. Cook rice
 2. Combine 1 tbsp soy sauce, 1 tbsp white wine vinegar, 1 tsp cornstarch, tons of pepper as the marinade
 3. Cut the steak into strips, marinate
-4. Place rice into containers
+4. Place cooked rice into containers
 5. Cook steak, place into same containers
 6. Combine 3 tbsp soy sauce, 1 tbsp water, 2 tsp cornstarch and crushed red pepper as the sauce for the veggies
 7. Cook onion and red bell pepper, add sauce
@@ -31,7 +31,10 @@ categories: recipes
 * Add sesame seeds
 
 ### Makes ~6 servings
-### Elizabeth's Rating: ?
-### Robert's Rating: 8
 ### Total Price: ~$13
 ### Price per serving: $2.17
+
+----
+
+#### Elizabeth's Rating: ?
+#### Robert's Rating: 8

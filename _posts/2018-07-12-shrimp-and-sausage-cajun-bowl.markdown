@@ -31,7 +31,10 @@ categories: recipes
 * Add lime juice
 
 ### Makes ~7 servings
-### Elizabeth's Rating: 9
-### Robert's Rating: 10
 ### Total Price: ~$15
 ### Price per serving: $2.14
+
+----
+
+#### Elizabeth's Rating: 9
+#### Robert's Rating: 10
