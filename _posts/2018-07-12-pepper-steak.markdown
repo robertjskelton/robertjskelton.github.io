@@ -5,7 +5,7 @@ date:   2018-07-12 11:10:14 -0400
 categories: recipes
 ---
 
-![Picture](/images/recipes/peppersteak.jpg)
+![Picture](/images/recipes/pepper-steak.jpg)
 
 ### Ingredients
 * 1.5+ lbs Beef Round Steak
