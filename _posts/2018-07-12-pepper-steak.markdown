@@ -29,6 +29,7 @@ categories: recipes
 ### Considerations
 * Add green onions
 * Add sesame seeds
+* Make more sauce
 
 ### Makes ~6 servings
 ### Total Price: ~$13
@@ -36,5 +37,5 @@ categories: recipes
 
 ----
 
-#### Elizabeth's Rating: ?
+#### Elizabeth's Rating: 6
 #### Robert's Rating: 8
