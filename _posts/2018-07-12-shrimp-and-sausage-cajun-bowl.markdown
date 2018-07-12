@@ -10,22 +10,21 @@ categories: recipes
 ### Ingredients
 * 2+ cups of brown or white rice
 * Shrimp, seasoned with some cajun seasoning
-* 1+ Zucchini, peppered
+* 1+ Zucchini, quartered and peppered
 * 1+ Bell Pepper, any color
 * 1 Andouille Sausage, cut up
-* 2+ avocados
+* 2+ avocados, sliced into small pieces
 * 1 can of corn
 
 ### Recipe
 1. Cook rice
-2. Throw corn in microwave
+2. Cook corn in microwave
 3. Cook shrimp
 4. Cook zucchini and bell pepper
 5. Cook sausage
-6. Cut up avocados into small pieces
-7. Combine rice, shrimp, corn, zucchini and peppers, sausage, avocados into containers.
+6. Combine rice, shrimp, corn, zucchini and peppers, sausage, avocados into containers.
 
-### Things that could make this recipe better
+### Considerations
 * Add cilantro
 * Add cheese
 * Add hot sauce
