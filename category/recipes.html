@@ -1,0 +1,13 @@
+---
+layout: page
+title: Recipes
+permalink: /category/recipes/
+---
+
+<ul>
+  {% for post in site.categories.recipes %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
