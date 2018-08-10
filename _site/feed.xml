@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-26T11:45:23-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">Simple Guide to Raising Your Credit Score</title><link href="http://localhost:4000/simple-guide-to-raising-your-credit-score/" rel="alternate" type="text/html" title="Simple Guide to Raising Your Credit Score" /><published>2018-07-26T10:15:14-04:00</published><updated>2018-07-26T10:15:14-04:00</updated><id>http://localhost:4000/simple-guide-to-raising-your-credit-score</id><content type="html" xml:base="http://localhost:4000/simple-guide-to-raising-your-credit-score/">&lt;p&gt;&lt;img src=&quot;/images/credit/all.jpg&quot; alt=&quot;All&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-10T13:44:31-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">Matching Your Net Worth with Your Lifetime Earnings</title><link href="http://localhost:4000/matching-your-net-worth-with-your-lifetime-earnings/" rel="alternate" type="text/html" title="Matching Your Net Worth with Your Lifetime Earnings" /><published>2018-08-10T12:05:14-04:00</published><updated>2018-08-10T12:05:14-04:00</updated><id>http://localhost:4000/matching-your-net-worth-with-your-lifetime-earnings</id><content type="html" xml:base="http://localhost:4000/matching-your-net-worth-with-your-lifetime-earnings/">&lt;p&gt;A cool metric to track your net worth is against your lifetime earnings, of which you can pull from your social security income. I first heard of this from &lt;a href=&quot;https://retireby40.org/your-lifetime-wealth-ratio/&quot;&gt;Retire By 40&lt;/a&gt;, which he calls your Lifetime Wealth Ratio. Basically, it’s a way to how well you are investing, or if you’re overspending. I decided to run mine and see!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;social-security-earnings&quot;&gt;Social Security Earnings&lt;/h3&gt;
+&lt;p&gt;You can get your social security earnings from the &lt;a href=&quot;https://www.ssa.gov/&quot;&gt;Social Security website&lt;/a&gt;, which I signed up for a few years ago, and my figures are below. Note that I worked at a water treatment plant making $8/hr in the summers of 2008, 2009, and 2010. In 2011, 2012 and 2013 I worked 3-5 months per year at an engineering co-op, earning $15.50-$18/hr. I didn’t work in 2014 (still in college), then started my first professional job in May 2015. I switched jobs for a 35% raise in February 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ss/ss_income.png&quot; alt=&quot;Social Security&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So 2008 to 2017, I made $209,044. Added in with my latest paycheck (August 2018), I’ve made $48,305 this year. This brings my lifetime total to $257,349.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;current-net-worth&quot;&gt;Current Net Worth&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ss/pc.png&quot; alt=&quot;Networth&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My current net worth is $254,500, which means I’m $2,805 BEHIND my Social Security reported income. However, I’m at a 98.9% ratio of net worth to lifetime income, which is pretty good at age 26. The only reason my ratio is this high is because of my great single real estate purchase. I purchased a 4 bedroom single family home in May 2016 for $170K, which is my primary residence. I’ve had 2-3 roommates for the last few years which almost cover my mortgage, which was a 15 year mortgage with 20% down. The house has also appreciated to about $250K, thanks to a strong market and lots of sweat equity.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So I’m doing pretty well at 98.9% of my lifetime earnings still attributed to me in assets, investments, or cash. How are you doing?&lt;/p&gt;</content><author><name></name></author><summary type="html">A cool metric to track your net worth is against your lifetime earnings, of which you can pull from your social security income. I first heard of this from Retire By 40, which he calls your Lifetime Wealth Ratio. Basically, it’s a way to how well you are investing, or if you’re overspending. I decided to run mine and see!</summary></entry><entry><title type="html">Simple Guide to Raising Your Credit Score</title><link href="http://localhost:4000/simple-guide-to-raising-your-credit-score/" rel="alternate" type="text/html" title="Simple Guide to Raising Your Credit Score" /><published>2018-07-26T10:15:14-04:00</published><updated>2018-07-26T10:15:14-04:00</updated><id>http://localhost:4000/simple-guide-to-raising-your-credit-score</id><content type="html" xml:base="http://localhost:4000/simple-guide-to-raising-your-credit-score/">&lt;p&gt;&lt;img src=&quot;/images/credit/all.jpg&quot; alt=&quot;All&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In the last year, I’ve helped my fiancé raise her credit score from ~580 to ~720, and my credit score is over 800. Credit scores are a number that lenders take into account when offering you loans, and can make a huge difference when buying a house. A high credit score will get you a lower interest rate, which can add up to tens of thousands of dollars over the life of a mortgage. It takes time to increase your credit score, but it is very simple to do.&lt;/p&gt;
 
@@ -312,87 +333,4 @@ Divided by Salary = $36,646 / $82,400 = 44.5%&lt;/li&gt;
 
 &lt;p&gt;I took the entire assembly off, found 2 longer screws and washers that would secure the plastic bottom piece to the steering column. I attached both and tightened them up, but found that it made the ignition hard to use, and the turn signal stalk was obstructed. It was secured too tight. I ended up removed 1 of the screw and washer sets, so that just 1 remains, and it is as secure as it was when new, but it won’t break this time!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/fiat/complete.jpg&quot; alt=&quot;Fiat&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">My fiancé has a 2013 Fiat 500, which has been a great little car. Great gas mileage, easy to drive, hardly any issues in almost 60,000 miles! The window regulator broke on the passenger side, which was fixed at the dealer for $300, just out of warranty. The steering wheel column cover also broke, and the dealer wanted $600 to fix that, so I decided to see what I could do.</summary></entry><entry><title type="html">Pool Enclosure Replacement</title><link href="http://localhost:4000/pool-enclosure-replacement/" rel="alternate" type="text/html" title="Pool Enclosure Replacement" /><published>2018-05-16T10:05:14-04:00</published><updated>2018-05-16T10:05:14-04:00</updated><id>http://localhost:4000/pool-enclosure-replacement</id><content type="html" xml:base="http://localhost:4000/pool-enclosure-replacement/">&lt;p&gt;I had a pool enclosure on my house, it was likely built along with the pool in the 80s or 90s. These enclosures are common to have over Florida pools to keep leaves and bugs out. Some people call them screen, cages, bird cages, enclosures, etc. I had a few screen panels blown out in 2016 during Hurricane Matthew, and the guy who replaced them said I’d be lucky if my enclosure lasted 5 more years. It lasted 1.&lt;/p&gt;
-
-&lt;p&gt;My old pool enclosure.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/before_irma.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After Irma destoryed that enclosure.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/irma.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hurricane Irma destroyed my original enclosure in September 2017. I got 4 quotes to replace the enclosure, along with a few screen on my front porch. I finally got an insurance check for about $9,000 in January 2018, and then got 4 quotes. The quotes were:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;$14,242 with a 6 month lead time. 100% down.&lt;/li&gt;
-  &lt;li&gt;$11,940 with a 4 month lead time. 10% down, 90% due at completion.&lt;/li&gt;
-  &lt;li&gt;$9,985 with a 4 month lead time. 60% down, 40% due at completion.&lt;/li&gt;
-  &lt;li&gt;$10,685 with a 3 month lead time. 0% down, 100% due at completion.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I went with the 4th company, &lt;a href=&quot;http://www.palmbayaluminum.com&quot;&gt;Palm Bay Aluminum&lt;/a&gt;, even though they weren’t the cheapest. The cheapest required 60% of the cost up front, but Palm Bay Aluminum asked for 0% down and 100% at completion. Leaving my money invested for those 4 months earned me about $200 interest anyways, so the price difference was about $500 after factoring that in. Not having to carry the risk of some aluminum company having lots of my money before even starting a project was worth it for me!&lt;/p&gt;
-
-&lt;p&gt;My screen was started on April 17 and took about 4 days to finish the install. The front screens were completed shortly after, and the permit signed off and inspected on May 4, 2018. Until the screen was started, I had this chicken wire fence around the pool, to keep the dogs in and because it is a law to have some sort of fence around your pool. It looked terrible.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/before.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Palm Bay Aluminum started by removing the old gutter and prepping the existing metal roof area for attachments. They ended up adding a 3” beam of aluminum for better structural integrity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/prep.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here’s all the aluminum and parts they needed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/materials.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And the new “super gutter” installed. The old gutter only went the length of the roof on the house, and didn’t have a gutter attached to the metal roof area above the Florida room (where you can see the step). The new super gutter runs the entire length, which is stronger, better for water flow, and looks way better.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/gutter.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What I thought was interesting is that the assemblers build the entire roof in the front yard in pieces, then walk it to the back and and raise it, then place a wall under it. The roof is screened before being raised into place. It makes a ton of sense! The new roof is a Mansard style, which is stronger than the box gable style that the old screen was.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/front_yard_assembly.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/front_yard_assembly_2.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/raising.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/up.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I got them to install a dog door for Bentley, and it is super sturdy. It’s a &lt;a href=&quot;https://amzn.to/2L54qCF&quot;&gt;Magnador&lt;/a&gt;, which is framed in with aluminum. It has magnets on the bottom and flap in order to keep the flap at its lowest position. It also has locks so that you can lock the dog in or out, or if you don’t have a dog you can lock it to ensure no other creatures figure out the door. I got the biggest size possible, since Bentley is a pretty big dog at 65 pounds. The additional cost to install and frame the dog door in was $125, on top of the previously stated prices above.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/side.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/far_side.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/bentley.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/dog_door.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Enjoying one of my favorite beers the first day with a screen!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/huna.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is how they joined the super gutter into the existing downspout.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/gutter_attached.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After the screen was up, Alex and I (but mostly Alex) got to work installing lighting. There were awesome string lights in a zig-zag pattern on the old enclosure which were hooked up to an on/off switch, we wanted that same functionality, but better. Alex hooked up a system with pulleys that required attaching hooks at the top most point and a lower point on each side, so we needed to get up there. He made a ladder thing that went across the pool so you could reach the top with a 10 ft ladder. Check it out!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/ladder.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/alex.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bentley also found a new way to sit, with his tail just hanging into the water.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/bentley_sitting.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As far as the electrical, each beam of the roof has its own outlet, which is run through black conduit. So there are 5 outlets for the 5 strands of lights, and the strands can be pulled in and out easily as they are on wire. The lights are just in a staggered pattern now, no zig-zags like before. I think I’ll replace the light strands with Christmas lights in December!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/electrical_in_progress.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/electrical_in_progress_2.jpg&quot; alt=&quot;Screen&quot; /&gt;
-&lt;img src=&quot;/images/pool/electrical.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The grey switch is the on/off switch for the lights, and it turns on all 5 sets of lights.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/lights_off.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Notice the enclosure opposite mine is a box gable roof, like my old one was. It looks like a triangle at the end. The new style is different, more squared. The result is a higher maximum roof height!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/lights_on.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m very pleased with the new enclosure, the lights, the dog door, and Alex and Palm Bay Aluminum’s work!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/pool/night.jpg&quot; alt=&quot;Screen&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I had a pool enclosure on my house, it was likely built along with the pool in the 80s or 90s. These enclosures are common to have over Florida pools to keep leaves and bugs out. Some people call them screen, cages, bird cages, enclosures, etc. I had a few screen panels blown out in 2016 during Hurricane Matthew, and the guy who replaced them said I’d be lucky if my enclosure lasted 5 more years. It lasted 1.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/fiat/complete.jpg&quot; alt=&quot;Fiat&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">My fiancé has a 2013 Fiat 500, which has been a great little car. Great gas mileage, easy to drive, hardly any issues in almost 60,000 miles! The window regulator broke on the passenger side, which was fixed at the dealer for $300, just out of warranty. The steering wheel column cover also broke, and the dealer wanted $600 to fix that, so I decided to see what I could do.</summary></entry></feed>
