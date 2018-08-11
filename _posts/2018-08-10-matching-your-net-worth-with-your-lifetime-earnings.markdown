@@ -22,7 +22,14 @@ So 2008 to 2017, I made $209,044. Added in with my latest paycheck (August 2018)
 
 ![Networth](/images/ss/pc.png)
 
-My current net worth is $254,500 (tracked with [Personal Capital](http://share.personalcapital.com/x/psOnBl)), which means I'm $2,805 BEHIND my Social Security reported income. However, I'm at a **98.9% ratio of net worth to lifetime income**, which is pretty good at age 26. The only reason my ratio is this high is because of my great single real estate purchase. I purchased a 4 bedroom single family home in May 2016 for $170K, which is my primary residence. I've had 2-3 roommates for the last few years which almost cover my mortgage, which was a 15 year mortgage with 20% down. The house has also appreciated to about $250K, thanks to a strong market and lots of sweat equity.
+My current net worth is $254,500 (tracked with [Personal Capital](http://share.personalcapital.com/x/psOnBl)), which means I'm $2,805 BEHIND my Social Security reported income. However, I'm at a **98.9% ratio of net worth to lifetime income**, which is pretty good at age 26.
+
+----
+
+### How
+The main reason my ratio is this high is because of my great single real estate purchase. I purchased a 4 bedroom single family home in May 2016 for $170K, which is my primary residence. I've had 2-3 roommates for the last few years which almost cover my mortgage, which was a 15 year mortgage with 20% down. The house has also appreciated to about $250K, thanks to a strong market and lots of sweat equity.
+
+I'd also like to acknowledge how my family has helped. My dad gave me $5K to help on the down payment on my house, and loaned me $30K to pay back as I could. I paid it back in less than 6 months after downgrading my car and putting every penny towards it. I also recently received a $25K life insurance check from my grandfather passing. 100% of that was put into investments and savings. Both of these benefits gave me a head start compared to my peers, and its something I'm very thankful for.
 
 ----
 
