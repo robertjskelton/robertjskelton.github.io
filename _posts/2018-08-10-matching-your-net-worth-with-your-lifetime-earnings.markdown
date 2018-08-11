@@ -26,10 +26,10 @@ My current net worth is $254,500 (tracked with [Personal Capital](http://share.p
 
 ----
 
-### How
+### How?
 The main reason my ratio is this high is because of my great single real estate purchase. I purchased a 4 bedroom single family home in May 2016 for $170K, which is my primary residence. I've had 2-3 roommates for the last few years which almost cover my mortgage, which was a 15 year mortgage with 20% down. The house has also appreciated to about $250K, thanks to a strong market and lots of sweat equity.
 
-I'd also like to acknowledge how my family has helped. My dad gave me $5K to help on the down payment on my house, and loaned me $30K to pay back as I could. I paid it back in less than 6 months after downgrading my car and putting every penny towards it. I also recently received a $25K life insurance check from my grandfather passing. 100% of that was put into investments and savings. Both of these benefits gave me a head start compared to my peers, and its something I'm very thankful for.
+I'd also like to acknowledge how my family has helped. My dad gave me $5K to help on the down payment on my house, and loaned me $30K to pay back as I could. I paid it back in less than 6 months after [downgrading my car](https://rskelton.com/drive-cool-cars-on-a-budget/) and putting every penny towards it. I also recently received a $25K life insurance check from my grandfather passing. 100% of that was put into investments and savings. Both of these benefits gave me a head start, and its something I'm very thankful for.
 
 ----
 
