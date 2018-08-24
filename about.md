@@ -15,4 +15,3 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 * [Football Games I've Attended](https://rskelton.com/football)
 * [Concerts I've Attended](https://rskelton.com/concerts)
 * [Rent](https://rskelton.com/rent)
-* [Hours](https://rskelton.com/hours)
