@@ -10,9 +10,9 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 
 ----
 ### Spreadsheets
-* [Net Worth](rskelton.com/nw)
-* [Beer Inventory](beertastingbrevard.com/beer.html)
-* [Football Games I've Attended](rskelton.com/football)
-* [Concerts I've Attended](rskelton.com/concerts)
-* [Rent](rskelton.com/rent)
-* [Hours](rskelton.com/hours)
+* [Net Worth](https://rskelton.com/nw)
+* [Beer Inventory](https://beertastingbrevard.com/beer.html)
+* [Football Games I've Attended](https://rskelton.com/football)
+* [Concerts I've Attended](https://rskelton.com/concerts)
+* [Rent](https://rskelton.com/rent)
+* [Hours](https://rskelton.com/hours)
