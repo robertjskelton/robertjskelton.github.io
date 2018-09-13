@@ -8,21 +8,17 @@ categories: recipes
 ![Picture](/images/recipes/shrimp-sausage-bowl.jpg)
 
 ### Ingredients
-* 2+ cups of brown or white rice
 * Shrimp, seasoned with some cajun seasoning
 * 1+ Zucchini, quartered and peppered
 * 1+ Bell Pepper, any color
 * 1 Andouille Sausage, cut up
 * 2+ avocados, sliced into small pieces
-* 1 can of corn
 
 ### Instructions
-1. Cook rice
-2. Cook corn in microwave
+1. Cook zucchini and bell peppers
+2. Cook sausage
 3. Cook shrimp
-4. Cook zucchini and bell pepper
-5. Cook sausage
-6. Combine rice, shrimp, corn, zucchini and peppers, sausage, avocados into containers.
+4. Combine shrimp, zucchini, peppers, sausage, avocados into containers.
 
 ### Considerations
 * Add cilantro
