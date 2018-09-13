@@ -14,5 +14,6 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 * [Beer Inventory](https://beertastingbrevard.com/beer.html)
 * [Football Games I've Attended](https://rskelton.com/football)
 * [Concerts I've Attended](https://rskelton.com/concerts)
-* [Rent](https://rskelton.com/rent)
+* [Rental Income](https://rskelton.com/rent)
+* [Individual Stock Dividends](https://rskelton.com/dividends)
 * [Weight](https://rskelton.com/weight)
