@@ -10,10 +10,11 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 
 ----
 ### Spreadsheets
-* [Net Worth](https://rskelton.com/nw)
-* [Beer Inventory](https://beertastingbrevard.com/beer.html)
 * [Football Games I've Attended](https://rskelton.com/football)
+* [Individual Stock Dividends](https://rskelton.com/dividends)
+* [Net Worth](https://rskelton.com/nw)
+* [Salary History](https://rskelton.com/weight)
+* [Beer Inventory](https://beertastingbrevard.com/beer.html)
 * [Concerts I've Attended](https://rskelton.com/concerts)
 * [Rental Income](https://rskelton.com/rent)
-* [Individual Stock Dividends](https://rskelton.com/dividends)
 * [Weight](https://rskelton.com/weight)
