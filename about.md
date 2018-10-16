@@ -18,3 +18,4 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 * [Concerts I've Attended](https://rskelton.com/concerts)
 * [Rental Income](https://rskelton.com/rent)
 * [Weight](https://rskelton.com/weight)
+* [Lexus GX470 For Sale](https://rskelton.com/gx470)
