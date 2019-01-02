@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-02T09:17:55-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">Lexus GX470 LED Interior Lights</title><link href="http://localhost:4000/Lexus-GX470-LED-Interior-Lights/" rel="alternate" type="text/html" title="Lexus GX470 LED Interior Lights" /><published>2018-12-13T11:00:14-05:00</published><updated>2018-12-13T11:00:14-05:00</updated><id>http://localhost:4000/Lexus-GX470-LED-Interior-Lights</id><content type="html" xml:base="http://localhost:4000/Lexus-GX470-LED-Interior-Lights/">&lt;p&gt;&lt;img src=&quot;/images/lexus/both.jpg&quot; alt=&quot;Both&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-02T09:55:45-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">2018 Goals Revisited</title><link href="http://localhost:4000/2018-Goals-Revisited/" rel="alternate" type="text/html" title="2018 Goals Revisited" /><published>2019-01-01T07:00:14-05:00</published><updated>2019-01-01T07:00:14-05:00</updated><id>http://localhost:4000/2018-Goals-Revisited</id><content type="html" xml:base="http://localhost:4000/2018-Goals-Revisited/">&lt;p&gt;I keep track of some short term and long term goals using checklists in Google Keep. Here is a recap of my goals for 2018.&lt;/p&gt;
+
+&lt;h3 id=&quot;financial&quot;&gt;Financial&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Max out my Roth IRA ($5.5k) - ```diff&lt;/li&gt;
+  &lt;li&gt;PASS
+```&lt;/li&gt;
+  &lt;li&gt;Max out my fiancés Roth IRA ($5.5k) - FAIL, we set up an auto-contribution, but ended up about 1k short. We still have until April to finish this goal, which we will.&lt;/li&gt;
+  &lt;li&gt;Max out my 401k ($18.5k) - PASS, or really close.&lt;/li&gt;
+  &lt;li&gt;Max out my HSA ($3.45k) - PASS&lt;/li&gt;
+  &lt;li&gt;Keep 3k in an Ally Emergency Fund - FAIL, I had more than 3k in there multiple times but I always take it out. I use my emergency fund different than most.&lt;/li&gt;
+  &lt;li&gt;Have 30k saved in taxable investment accounts for a down payment on our next house - FAIL, reached 19k.&lt;/li&gt;
+  &lt;li&gt;Reach a Net Worth of 260k - FAIL. I hit 259.5k in June! The market fluctuated so much that I ended the year with about 255k.&lt;/li&gt;
+  &lt;li&gt;Have a total of 100k invested - PASS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;house&quot;&gt;House&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rskelton.com/pool-enclosure-replacement/&quot;&gt;Fix Pool Cage&lt;/a&gt; - PASS&lt;/li&gt;
+  &lt;li&gt;Redo Owen’s Room - PASS. One of my roommates finally moved out, so we redid that room. It was pretty disgusting. About $600 in materials and some sweat and it looks amazing.&lt;/li&gt;
+  &lt;li&gt;Redo the kitchen - FAIL. This one is going to be expensive and I hope to get it done by the end of 2019. I did buy a much needed new fridge!&lt;/li&gt;
+  &lt;li&gt;Finish master bathroom - PASS. We installed new floors, vanity, tub, toilet, shower, etc. It’s nice.&lt;/li&gt;
+  &lt;li&gt;Finish master closet - FAIL. The layout of the small master closet kinda stinks, so I want to redo the shelving.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rskelton.com/$500-bathroom-remodel/&quot;&gt;Finish 2nd bathroom&lt;/a&gt; - FAIL. We painted the cabinets and walls and put in a new mirror and fixtures, but have yet to do the floors or shower. That is a priority in 2019.&lt;/li&gt;
+  &lt;li&gt;Paint outside of house - FAIL. I got lots of free exterior paint but never got the drive to actually complete this.&lt;/li&gt;
+  &lt;li&gt;Landscaping - FAIL. I put in some fruit trees and a lavender garden, but I need to put in tons more work outside.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;A in Educational Technology in Spring 2018 at Georgia Tech - PASS&lt;/li&gt;
+  &lt;li&gt;A in Machine Learning for Trading in Summer 2018 at Georgia Tech - FAIL, I dropped the summer course because of the rigor.&lt;/li&gt;
+  &lt;li&gt;A in Health Informations in Fall 2018 at Georgia Tech - FAIL, I got a B. I’ll take it.&lt;/li&gt;
+  &lt;li&gt;Get Elizabeth and my college diplomas framed - FAIL. It would take me an hour at Michaels and a few hundred bucks, but I haven’t done it still.&lt;/li&gt;
+  &lt;li&gt;Obtain the AWS SysOps Administrator Certification - PASS.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;other&quot;&gt;Other&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Weight down to 200 - PASS, we started on the keto diet and I dropped from 220 to 195.&lt;/li&gt;
+  &lt;li&gt;Reach 125 of the &lt;a href=&quot;https://www.beeradvocate.com/lists/top/&quot;&gt;Top 250 Beers on Beer Advocate&lt;/a&gt; - FAIL, I was at 102 at the start of the year, and they changed their algorithm. I ended up with about 90.&lt;/li&gt;
+  &lt;li&gt;Go to church - FAIL, we went 3 or 4 times.&lt;/li&gt;
+  &lt;li&gt;Get engaged - PASS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rskelton.com/category/cars/&quot;&gt;Get a newer car&lt;/a&gt; - PASS…twice. I bought a 2016 Corvette and a 2007 Lexus GX470.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I keep track of some short term and long term goals using checklists in Google Keep. Here is a recap of my goals for 2018.</summary></entry><entry><title type="html">Lexus GX470 LED Interior Lights</title><link href="http://localhost:4000/Lexus-GX470-LED-Interior-Lights/" rel="alternate" type="text/html" title="Lexus GX470 LED Interior Lights" /><published>2018-12-13T11:00:14-05:00</published><updated>2018-12-13T11:00:14-05:00</updated><id>http://localhost:4000/Lexus-GX470-LED-Interior-Lights</id><content type="html" xml:base="http://localhost:4000/Lexus-GX470-LED-Interior-Lights/">&lt;p&gt;&lt;img src=&quot;/images/lexus/both.jpg&quot; alt=&quot;Both&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently got another car, my &lt;a href=&quot;https://rskelton.com/drive-cool-cars-on-a-budget/&quot;&gt;10th car ever&lt;/a&gt;. It’s a 2007 Lexus GX470, basically a nicer 4Runner with leather and a V8. I chose this model specifically since it is a very reliable car, with an example of the same engine and chassis running for over &lt;a href=&quot;https://www.motoringresearch.com/car-news/man-drives-toyota-1-million-miles-9-years-gets-free-toyota/&quot;&gt;1 Million miles&lt;/a&gt;. Mine only has 145k miles. I asked for an overnight test drive, and took it to pick up a delivery of laminate floors from Lowes before I even purchased it.&lt;/p&gt;
 
@@ -281,72 +325,4 @@
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;elizabeths-rating-9&quot;&gt;Elizabeth’s Rating: 9&lt;/h4&gt;
-&lt;h4 id=&quot;roberts-rating-10&quot;&gt;Robert’s Rating: 10&lt;/h4&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Cost of a Dog, Itemized</title><link href="http://localhost:4000/cost-of-a-dog-itemized/" rel="alternate" type="text/html" title="Cost of a Dog, Itemized" /><published>2018-06-25T14:10:14-04:00</published><updated>2018-06-25T14:10:14-04:00</updated><id>http://localhost:4000/cost-of-a-dog-itemized</id><content type="html" xml:base="http://localhost:4000/cost-of-a-dog-itemized/">&lt;p&gt;My fiancé, Elizabeth, and I adopted a black lab mix puppy from the &lt;a href=&quot;https://www.leecountyhumane.org/&quot;&gt;Lee County Humane Society&lt;/a&gt; in Auburn, AL in April 2017. His name is Bentley, and he’s a wonderful dog! He weighs about 65 pounds, and stays with me while I work from home. I wanted to know exactly how much he was costing us, so here’s the expenses for our dog broken down. This post is also an excuse to publish tons of dog pictures.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/pup.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Purchase/Adoption&lt;/strong&gt; - If you buy a dog from a breeder, costs can be in the multi-hundreds to the multi-thousands of dollars. We adopted our pup at the Humane Society, and the adoption fee was $120. He was already neutered, had his first few rounds of shots, and was already healthy enough to be taken home at 8 weeks. I’m not going to include this one time cost in my yearly dog expenses, but it’s something to consider with a dog.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/cake.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Training&lt;/strong&gt; - We did a Beginning Puppy Training at PetCo, it was a little over $100. This class was really more about us (the humans) learning how to train our dog. Now that we have taken it, I think we’d do a good job at training any other dogs we adopt without paying for a class. This was also a one time expense, so I won’t count it towards yearly expenses. I highly recommend taking a class like this with your first dog so that you can learn how to train them.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/lake.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://amzn.to/2trGgLe&quot;&gt;Food&lt;/a&gt;&lt;/strong&gt; - We buy a bag of dog food about every 5 weeks, about 10 bags per year. We buy &lt;a href=&quot;https://amzn.to/2trGgLe&quot;&gt;Hills Science Diet for Sensitive Stomachs&lt;/a&gt;, highly recommended by every vet Elizabeth has ever worked for. Each bag costs about $50. We also give him lots of veggies, peanut butter, and table scraps, but they aren’t just for him. He gets all of the broccoli stalks and lots of baby carrots, those costs are more associated with us humans though, so counting those here.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/barkbox.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.barkbox.com/r/VLSI3YAX94&quot;&gt;BarkBox&lt;/a&gt;&lt;/strong&gt; -  We use BarkBox to get new toys and treats, but mostly to keep up out of the Pet Store. We’re pretty bad about impulse buying all kinds of treats and bones when we’re in there. &lt;a href=&quot;http://www.barkbox.com/r/VLSI3YAX94&quot;&gt;BarkBox&lt;/a&gt; costs $20/month, and has been very worth it for us so far. It usually has 2 toys, 2 bags of treats, and a bone, which would cost well over $20 at PetCo.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/tango.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://amzn.to/2MprawH&quot;&gt;Probiotic Powder&lt;/a&gt;&lt;/strong&gt; - Bentley farts a lot. We give him 1 probiotic powder pack at breakfast to reduce that as much as possible, this is about $1 per day.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/pool.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Medicine&lt;/strong&gt; - Here’s where we have gotten lucky so far. My fiancé, Elizabeth, works for a veterinarian’s office. So far, we have received all of Bentley’s medicine for free! This saves us about $200 per year, so if your fiancé doesn’t work for a vet, don’t forget to consider for this cost.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/halloween.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Vet Visits&lt;/strong&gt; - Required shots, yearly checkups, etc. Bentley has had issues with his stomach, so we’ve had a few costly vet visits already. It does help that Elizabeth gets all vet services for half price because of her job, so we’ve spent about $400 per year so far on this. It’d be more than double if we didn’t have that benefit.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/luau.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;www.rover.com/refer/robers32904/&quot;&gt;Dog Sitting&lt;/a&gt;&lt;/strong&gt; - I stay at home with Bentley most days, and if I’m out of town then my fiancé or our roommates usually feed him, take him outside to use the bathroom, etc. The exception is long holidays when everyone goes out of town, like Thanksgiving or Christmas. We paid our neighbor $100 last year to watch Bentley for a few days over Christmas, and Elizabeth stayed in town on Thanksgiving. This year we’ll probably both be gone both holidays, so maybe $200 for dog sitting those two holidays. We’ve used &lt;a href=&quot;www.rover.com/refer/robers32904/&quot;&gt;Rover&lt;/a&gt; to watch other dogs before, and will likely look to utilize it again over the holidays.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/lightsaber.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Other&lt;/strong&gt; - I say we have the BarkBox to keep up out of the pet store, but we still go too much. I’d say on average, we spend $20/month on more toys, leashes, collars, &lt;a href=&quot;https://amzn.to/2K9EhWo&quot;&gt;harnesses&lt;/a&gt;, dog bowls, treats, bones, a cage, dog bed, etc. We bought most of this stuff when we first got Bentley, but we still buy him new collars, more bones, and harnesses and leashes if the old ones get worn out.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/hd.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Total = Food + BarkBox + Probiotic Powder + Medicine + Vet Visits + Dog Sitting + Etc&lt;/p&gt;
-
-&lt;p&gt;Total = (10 bags * $50) + (12 months * $20/month) + (365 days * $1/day) + $0 + ($400/yr) + ($200/year)+ (12 months * $20/month)&lt;/p&gt;
-
-&lt;p&gt;Total per Year = ($500) + ($240) + ($365) + ($0) + ($400) + ($200) + ($240)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Total = $1,945&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dog/handsome.jpg&quot; alt=&quot;Bentley&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There you go, about $2,000 per year for our full size Labrador, or $5.50 per day. So worth it. This does not factor in some large upfront costs, like adoption fees, puppy training, or some things you’ll need for your first dog, like harnesses, leashes, crates, dog beds, which will likely add up to over $500. Getting a dog is a big financial decision, but can be even more expensive if you have to take your dog to day care or don’t have access to benefits of a vet office.&lt;/p&gt;</content><author><name></name></author><summary type="html">My fiancé, Elizabeth, and I adopted a black lab mix puppy from the Lee County Humane Society in Auburn, AL in April 2017. His name is Bentley, and he’s a wonderful dog! He weighs about 65 pounds, and stays with me while I work from home. I wanted to know exactly how much he was costing us, so here’s the expenses for our dog broken down. This post is also an excuse to publish tons of dog pictures.</summary></entry></feed>
+&lt;h4 id=&quot;roberts-rating-10&quot;&gt;Robert’s Rating: 10&lt;/h4&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
