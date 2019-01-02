@@ -8,9 +8,7 @@ categories: finance
 I keep track of some short term and long term goals using checklists in Google Keep. Here is a recap of my goals for 2018.
 
 ### Financial
-* Max out my Roth IRA ($5.5k) - ```diff
-+ PASS
-```
+* Max out my Roth IRA ($5.5k) - PASS.
 * Max out my fiancés Roth IRA ($5.5k) - FAIL, we set up an auto-contribution, but ended up about 1k short. We still have until April to finish this goal, which we will.
 * Max out my 401k ($18.5k) - PASS, or really close.
 * Max out my HSA ($3.45k) - PASS
