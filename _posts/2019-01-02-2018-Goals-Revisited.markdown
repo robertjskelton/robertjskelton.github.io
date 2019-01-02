@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2018 Goals Revisited"
-date:   2010-01-02 04:00:14 -0400
+date:   2010-01-01 08:00:14 -0400
 categories: finance, renovations
 ---
 
