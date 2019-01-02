@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "2018 Goals Revisited"
-date:   2010-01-01 08:00:14 -0400
-categories: finance
+date:   2019-01-01 08:00:14 -0400
+categories: finance, renovations
 ---
 
 I keep track of some short term and long term goals using checklists in Google Keep. Here is a recap of my goals for 2018.
