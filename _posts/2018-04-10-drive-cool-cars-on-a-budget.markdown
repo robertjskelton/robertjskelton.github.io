@@ -5,6 +5,8 @@ date:   2019-01-03 09:05:14 -0400
 categories: cars
 ---
 
+![Both](/images/cars/lexus.jpg)
+
 One of life's biggest expenses is transportation, especially cars. I love cars, and love getting different cars. I get bored driving the same vehicle for more than a few years. You could imagine this would be expensive, but it doesn’t have to be. I’m 26 and have owned 9 cars (10 if you count my fiancés Fiat 500, not listed below), and I’ve not lost much money on them at all. The biggest downside is that you have to pay registration and taxes on every car you buy, but some of that can be tax deductible.
 
 The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own. My first 3 cars I owned in high school, so my helped me out by paying for gas, insurance, and registration. Also, 7 of these cars were Rear Wheel Drive, manual transmission cars, and I have owned two silver on black V8 automatic AWD SUVs. 6 of the 9 were American made and had no issues, and 2 were German made and had so many issues. The one Japanese car has been great so far.
