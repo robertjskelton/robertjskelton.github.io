@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "How to Drive Cool Cars on a Budget"
-date:   2018-04-10 14:05:14 -0400
+title:  "How to Drive Cool Cars on a Budget [UPDATED January 2019]"
+date:   2019-01-93 09:05:14 -0400
 categories: cars
 ---
 
 One of life's biggest expenses is transportation, especially cars. I love cars, and love getting different cars. I get bored driving the same vehicle for more than a few years. You could imagine this would be expensive, but it doesn’t have to be. I’m 26 and have owned 8 cars, and I’ve not lost much money on them at all. The biggest downside is that you have to pay registration and taxes on every car you buy, but some of that can be tax deductible.
 
-The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own. My first 3 cars I owned in high school, so my helped me out by paying for gas, insurance, and registration. Also, 7 of these cars were Rear Wheel Drive, manual transmission cars, and I have owned a single automatic, AWD SUV. 6 of the 8 were American made and had no isses, and 2 were German made and had so many issues.
+The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own. My first 3 cars I owned in high school, so my helped me out by paying for gas, insurance, and registration. Also, 7 of these cars were Rear Wheel Drive, manual transmission cars, and I have owned two silver on black V8 automatic AWD SUVs. 6 of the 9 were American made and had no issues, and 2 were German made and had so many issues. The one Japanese car has been great so far.
 
 ----
 ### 1. 1993 Ford Mustang LX
@@ -122,7 +122,7 @@ I never bought new tires on it, but it had a TON of problems. The inside driver 
 * Bought: $40,000 / 44,000 miles
 * Sold: Not yet, keeping at least 4 years!
 * MPG: 23/32+, premium gas
-* Insurance: $90/mo for excellent coverage
+* Insurance: $110/mo for excellent coverage
 * Engine: 6.2L 8-cylinder, 455HP
 * Oil Changes: None yet
 * Taxes/Registration: ~$2,500
@@ -133,6 +133,25 @@ Newest car and by far the most expensive car I've ever owned. Something about li
 
 The 2016 came with a front camera so you don't hit the front bumper parking, and a flat bottom steering wheel. This is such a nice car, and I'm making some money on the side [renting it with Turo](https://rskelton.com/rent-other-peoples-cars-with-turo/). I was really tired of how expensive the BMW was and how unreliable it was, so I was happy to pay a premium to get into a reliable American car again. Plus it has cylinder deactivation to run on 4-cylinders when you want to, which helped me get 36 MPG on a road trip to Tampa.
 
+An update on my Vette for 2019: I've put 12,000 miles on it this year, and it's gotten an oil change and new O2 sensors under warranty. Great, reliable car! I've also made almost $1,500 renting it on [Turo!](https://rskelton.com/rent-other-peoples-cars-with-turo/)
 
 ----
-So those are the cars, I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they effected your financial plans? Leave them in the comments!
+### 9. 2007 Lexus GX470
+* Bought: $10,000 / 145,000 miles
+* Sold: Not yet, and not planning on selling
+* MPG: 15/19, any gas, I still use premium
+* Insurance: $80/mo for excellent coverage
+* Engine: 4.7L 8-cylinder, 270HP
+* Oil Changes: None yet, but I'll do them myself
+* Taxes/Registration: $1,700
+
+![GX470](/images/cars/lexus.jpg)
+
+We wanted to get a SUV to move our dogs around and do more home improvement projects, so I wanted to get something reliable that would last a very long time. I did my research and decided on a Toyota 4Runner. With leather, and a V8. So the 4th generation Toyota 4Runner V8 Limited. Unfortunately, those are rare, and relatively expensive. Then I found out that Lexus made the same car, with more factory options and it's even nicer than the 4Runner, has a V8, leather, and it sells for less than a V8 Limited 4Runner. That sold me.
+
+I was originally planning to buy a 2003 model in Pennsylvania for $5,000, but it had rust, was a little rough, and the owner was seeming like he was never going to deliver it. I was paying him to drive it down, but he flaked on me 3 times. I had searches set up on every website you can think of, and not many come up for sale. One ended up showing up in Melbourne, FL, where I live, for 10k. It was this one that I bought. I was going to go look at it, so I scheduled and appointment with this local car dealer for the next day. They called me that day and said the car had already sold, pending financing. Oh well.
+
+They called me back another day later and said financing fell through, so I went down that day and bought it, putting almost $7k of the purchase on a Capital One Venture card to get a signing bonus! This car was nearly perfect, low miles for the models, recent maintenance on the timing belt and water pump, new battery, tires, brakes - it needs nothing. I got this car for below market (the car would've sold the next day if I didn't buy it), and I plan on driving it until it dies. This is a car that needs very little maintenance since it's a Toyota, and I'm already loving it.
+
+----
+So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they effected your financial plans? Leave them in the comments!
