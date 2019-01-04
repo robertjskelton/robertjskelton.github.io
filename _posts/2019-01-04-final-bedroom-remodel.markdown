@@ -7,7 +7,7 @@ categories: renovations
 
 ![Owen](/images/owen/23.jpg)
 
-My least favorite roommate finally moved out and I got the chance to renovate that bedroom. We installed new switches, outlets, floors, ceiling fan, and painted.
+Owen finally moved out and I got the chance to renovate that bedroom. We installed new switches, outlets, floors, ceiling fan, and paint.
 
 Total renovation cost was under $400! I already had extra light switches, underlayment, and tools to install everything. Here is what else I bought:
 * [Ceiling Fan](https://www.lowes.com/pd/Harbor-Breeze-Centreville-42-in-Brushed-Nickel-LED-Indoor-Ceiling-Fan-with-Light-Kit/1000259351): $54
@@ -34,7 +34,7 @@ Painted the room. I had already painted around the door frames and installed new
 
 ![Owen](/images/owen/5.jpg)
 
-I used some bleach to clean up that black grossness. 
+I used some bleach to clean up that black grossness.
 
 ![Owen](/images/owen/6.jpg)
 
@@ -54,7 +54,7 @@ Here you can see the new outlets and switches going in.
 
 ![Owen](/images/owen/10.jpg)
 
-Clean the floors before starting to install your laminate.
+Clean the floors before starting to install your laminate. I officially have no more carpet in my house!
 
 ![Owen](/images/owen/11.jpg)
 
