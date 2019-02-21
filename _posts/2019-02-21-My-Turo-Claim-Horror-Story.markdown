@@ -298,6 +298,7 @@ Turo is not on your side, and will do everything possibly to pay you as little a
 
 I have [relisted my Corvette](https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353), and will requiring a higher cost per day, and  require more days per rental.
 
+
 # Appendix
 
 [Pictures/Videos](https://photos.app.goo.gl/EEWHzVyj2soqduuT9) of the Corvette, timestamps in the details.
@@ -315,4 +316,3 @@ I have [relisted my Corvette](https://turo.com/rentals/cars/fl/palm-bay/chevrole
 * Address: [102 Palm Cir Palm Shores, Fl 32940](https://www.google.com/maps/place/102+Palm+Cir,+Melbourne,+FL+32940/@28.1924181,-80.6625654,17z/data=!3m1!4b1!4m5!3m4!1s0x88de051482b308c7:0x14521373bab1ecfe!8m2!3d28.1924181!4d-80.6603714), owner is Brian Rogers, her father.
 * They had been dating for 4 months at the time of the vandalism, and are still dating as of the writing of this post.
 * FIT student/cheerleader/Publix cashier.
-* Marina shared a video on January 8 at 8PM, so she must not have stayed in the mental hospital very long.
