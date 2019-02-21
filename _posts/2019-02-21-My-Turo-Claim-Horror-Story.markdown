@@ -264,6 +264,9 @@ Picked up car from Ace’s, total charge was $4,538.47, which I paid out of pock
 
 John found a full container of hair gel in the car that Daniel had left in it from the rental.
 
+![Gel](/images/turo/gel.jpg)
+
+
 No response from Turo.
 
 ### Feb 16
@@ -311,7 +314,7 @@ I have [relisted my Corvette](https://turo.com/rentals/cars/fl/palm-bay/chevrole
 * Cell listed on Turo  321-361-6793
 * Law Office Number  321-419-8666
 
-[Marina](https://www.facebook.com/marina.rogers.739) [Rogers](https://www.instagram.com/marinarogers112/) - Daniel Martinez girlfriend.
+[Marina](https://www.facebook.com/marina.rogers.739) [Rogers](https://www.instagram.com/marinarogers112/) - Daniel Martinez' girlfriend.
 * Age: 21
 * Address: [102 Palm Cir Palm Shores, Fl 32940](https://www.google.com/maps/place/102+Palm+Cir,+Melbourne,+FL+32940/@28.1924181,-80.6625654,17z/data=!3m1!4b1!4m5!3m4!1s0x88de051482b308c7:0x14521373bab1ecfe!8m2!3d28.1924181!4d-80.6603714), owner is Brian Rogers, her father.
 * They had been dating for 4 months at the time of the vandalism, and are still dating as of the writing of this post.
