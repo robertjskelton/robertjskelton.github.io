@@ -89,7 +89,7 @@ Donovan Durr from Turo support contacted me. He mentioned that the grill already
 Daniel finally messaged me that night, saying he’s been busy with a jury and asking what he needed to do to take care of this. I messaged him back saying 8k was the damage cost.
 
 ### Jan 10
-No responses from Turo.
+No response from Turo.
 
 No response from Daniel.
 
@@ -134,6 +134,8 @@ From Donovan:
 >My supervisor took a second look at the claim and we will be able to go ahead and cover the scratches on the top as well. So that would be everything covered except for this scratch attached to this message, that portion of the front grill that was already missing and the damage to the splitter. I will go ahead and have an estimate written up at this time. If you have any questions, feel free to let me know.
 
 ### Jan 16
+No response from Turo.
+
 Received email from SnapSheet, offering me $1,169.51 to cover the damages. The denied a large part of the damage to my car. They said:
 
 > We have no pre-trip photos of the undercarriage, the damage to the front grill is pre-existing, and we cannot determine if the scratch on the rear hatch on the passenger's side is pre-existing based on the pre-trip photos.
@@ -148,6 +150,8 @@ Donovan said $200 interior damage refund will go directly to my earnings.
 Left a message for Ace’s on dropping off Vette and working on supplements.
 
 ### Jan 18
+No response from Turo.
+
 Brought Vette to Ace’s, John took pictures and said that he’d work on supplements with Turo/Snapsheet
 
 ### Jan 19
@@ -243,7 +247,7 @@ Heard back from Donovan at Turo Support, the supplement went from Snapsheet to h
 ### Feb 12
 John from Ace’s called, the car is finished except putting a few trim pieces on. Windows on and tinted, paint looks good. Planned to pick up car on Friday, Feb 15.
 
-Heard back from Donovan with an supplement payment of $3,066.96.
+Heard back from Donovan with a supplement payment of $3,066.96.
 
 That would put the total paid  at $3,066.96 + $1,169.51 + $200 = $4,436.47
 
@@ -290,6 +294,9 @@ So after all was finished, I got to keep $214.13, but I have a large scratch on 
 ### Feb 20
 [Corvette relisted](https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353), required multiple day rentals and higher rate per day, along with a cleaning fee if not returned clean.
 
+### Feb 21
+Changed my mind, took the Corvette off Turo because this was a nightmare.
+
 # Conclusion
 First, I want to thank [Ace's Body Shop](https://www.facebook.com/Aces-Autobody-1381810925437470/). They did a great job on my car, and John went above and beyond filling out multiple supplements for Turo and Snapsheet. Seriously, thanks, you guys were great.
 
@@ -298,8 +305,6 @@ It took 46 days for Turo to fix damages on my car, and hours of my time dealing 
 I have learned that, if you rent your car on Turo, it should be a car you don't care about, and to take 50+ pictures before and after every rental. Part of my claim was denied because I only took the 5 required before and after pictures.
 
 Turo is not on your side, and will do everything possibly to pay you as little as possible. It took me almost 7 weeks to get my damages paid for. I was lucky that I have another car, or else I would have been without a car for a majority of those 7 weeks.
-
-I have [relisted my Corvette](https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353), and will requiring a higher cost per day, and  require more days per rental.
 
 
 # Appendix
