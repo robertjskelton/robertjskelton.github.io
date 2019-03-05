@@ -11,7 +11,7 @@ categories: cars
 Dude rents my nice Corvette on Turo, his bi-polar girlfriend vandalizes it, it takes 46 days for Turo to pay to get _most_ of it fixed, and they wouldn't fix some of it.
 
 # Background
-[Daniel B](https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&timeline_context_item_type=intro_card_relationship&timeline_context_item_source=100004641037329) [Martinez Jr](https://www.instagram.com/atty4streets), age 37, a [local attorney](https://themartinezlaw.com), rented my [2016 Corvette 2LT](https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353) from Jan 3 to Jan 5 on a website called [Turo](https://turo.com/c/roberts974). Turo is a website where you can rent your personal car to other people, and Turo provides insurance. Kinda like AirBNB for cars. He had rented my Corvette for a weekend previously, and only put 10 miles on it. The other time he rented my car, I had to go through his dad in order to pick my car up, since he wouldn’t answer his phone or texts.
+[Daniel B](https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&timeline_context_item_type=intro_card_relationship&timeline_context_item_source=100004641037329) [Martinez Jr](https://www.instagram.com/street.lawyer/), age 37, a [local attorney](https://themartinezlaw.com), rented my [2016 Corvette 2LT](https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353) from Jan 3 to Jan 5 on a website called [Turo](https://turo.com/c/roberts974). Turo is a website where you can rent your personal car to other people, and Turo provides insurance. Kinda like AirBNB for cars. He had rented my Corvette for a weekend previously, and only put 10 miles on it. The other time he rented my car, I had to go through his dad in order to pick my car up, since he wouldn’t answer his phone or texts.
 
 # Timeline
 
@@ -311,7 +311,7 @@ Turo is not on your side, and will do everything possibly to pay you as little a
 
 [Pictures/Videos](https://photos.app.goo.gl/EEWHzVyj2soqduuT9) of the Corvette, timestamps in the details.
 
-[Daniel B](https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&timeline_context_item_type=intro_card_relationship&timeline_context_item_source=100004641037329) [Martinez Jr](https://www.instagram.com/atty4streets) - Rented my Corvette
+[Daniel B](https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&timeline_context_item_type=intro_card_relationship&timeline_context_item_source=100004641037329) [Martinez Jr](https://www.instagram.com/street.lawyer) - Rented my Corvette
 * Age: 37
 * Address: [554 Sedgewood Circle, Melbourne, FL](https://www.google.com/maps/place/554+Sedgewood+Cir,+Melbourne,+FL+32904/@28.0543978,-80.6605715,17z/data=!3m1!4b1!4m5!3m4!1s0x88de0dc110aa0175:0x96e0eb8bac68e40e!8m2!3d28.0543978!4d-80.6583775). This is a rental house owned by American Homes 4 Rent.
 * He lives with his parents, Daniel and Grace Martinez
