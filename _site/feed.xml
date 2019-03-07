@@ -1,10 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-21T11:12:40-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">My Turo Claim Horror Story</title><link href="http://localhost:4000/My-Turo-Claim-Horror-Story/" rel="alternate" type="text/html" title="My Turo Claim Horror Story" /><published>2019-02-21T08:00:14-05:00</published><updated>2019-02-21T08:00:14-05:00</updated><id>http://localhost:4000/My-Turo-Claim-Horror-Story</id><content type="html" xml:base="http://localhost:4000/My-Turo-Claim-Horror-Story/">&lt;p&gt;&lt;img src=&quot;/images/turo/no_window.jpg&quot; alt=&quot;No Window&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-07T14:22:41-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">GX470 Android Headunit and Backup Camera Install</title><link href="http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install/" rel="alternate" type="text/html" title="GX470 Android Headunit and Backup Camera Install" /><published>2019-03-07T08:00:14-05:00</published><updated>2019-03-07T08:00:14-05:00</updated><id>http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install</id><content type="html" xml:base="http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install/">&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/backup.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I installed a new Android headunit in my 2007 Lexus GX470, complete with a reverse activated backup camera. The install took about 5 hours over the course of a few days, and here is how I did it.&lt;/p&gt;
+
+&lt;h3 id=&quot;parts-needed&quot;&gt;Parts Needed:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.aliexpress.com/item/9-inch-car-radio-for-Toyota-Prado-120-2004-2009-Quadcore-Android-6-0-car/32801839608.html?spm=2114.search0104.3.24.5edff7d9xxAsrB&amp;amp;ws_ab_test=searchweb0_0,searchweb201602_1_10065_10068_10130_10890_10547_319_10546_317_10548_10545_10696_453_10084_454_10083_433_10618_10307_537_536_10902_10059_10884_10887_321_322_10103,searchweb201603_6,ppcSwitch_0&amp;amp;algo_expid=c0b5c1d2-1f43-48c9-8027-ff2257719e95-3&amp;amp;algo_pvid=c0b5c1d2-1f43-48c9-8027-ff2257719e95&amp;amp;transAbTest=ae803_5&quot;&gt;9 inch Android Headunit with Canbus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2XJWMnt&quot;&gt;Backup Camera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2EL3NLR&quot;&gt;Bluetooth OBDII Adapter (optional)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/parts.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So ordering the headunit is a little sketchy. It’s from Aliexpress in China, and will take 2-4 weeks to arrive. This one comes with external GPS, microphone, a WiFi antenna, works with the existing aux input, and has 2 USB female cables to attach.&lt;/p&gt;
+
+&lt;p&gt;There seems to be only a few aftermarket headunits made for the non-Nav GX470, and the fine folks on &lt;a href=&quot;https://www.facebook.com/groups/LexusGXOR&quot;&gt;GXOR&lt;/a&gt; seem to think this is the best option. If you have a navigation equipped GX470, the best option is a Tesla-style massive screen. It costs quite a bit more and makes the air conditioned buttons integrated into the touch screen, which I would hate. Luckily I don’t have that model!&lt;/p&gt;
+
+&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
+&lt;p&gt;First, take out any CDs in your current headunit. I forgot to do this. If you want to buy my old headunit, it comes with 6 great CDs!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/remove_air.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then, remove the two trim pieces on either side of the shifter, using a flat head screwdriver or a plastic trim puller. I used a screwdriver.&lt;/p&gt;
+
+&lt;p&gt;Then remove the 2 air conditioner vents. Lift gently from the bottom, where the trim pieces were holding them in. These 2 pieces are supposed to be very expensive to replace, so be very careful.&lt;/p&gt;
+
+&lt;p&gt;Then, remove the connector from each side. The drivers side has the hazard light connecter, the passenger side has the passenger air bag light.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/left_air.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/right_air.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you can pop out and unplug the coin/ash tray and the cigarette lighter, located below the air conditioning controls.&lt;/p&gt;
+
+&lt;p&gt;Take the 6 10mm bolts out of the radio harness.&lt;/p&gt;
+
+&lt;p&gt;You basically have 3 pieces to your center stack.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Top - Clock/MPG display&lt;/li&gt;
+  &lt;li&gt;Middle - Headunit, what we’re replacing&lt;/li&gt;
+  &lt;li&gt;Bottom - A/C controls&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/screws.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Start taking screws out of the existing Lexus headunit. There were a lot of screws to remove these 3 parts, and I didn’t document it, but prepare to spend a while on this. Also, you don’t reuse MOST of these screws, I had a ton left over. Once done un-screwing, remove all the connecters and remove the whole thing from the car. I did this, and it made it much easier to install the new head unit into the metal harness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/removed.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that the 10mm bolt, about where your knee is when driving (and shown just above my knee in the following picture), connects the harnesses that supply power. When testing your install, you’ll need to screw that in all the way. This is something I found out later while debugging.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/10mm.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have the pieces out of your car, you can install the new headunit into the same spot. The air conditioning controls will clip in below it. I installed the top piece after I had inserted the rest back into the car.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/schematic.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As far as connections go, this was pretty simple. Connect like to like connectors where you can find them. I ran the USB female connectors into the glove box, since I won’t use them often and didn’t want to mount them. I ran the GPS module behind the dash, and stuck it up as high and far back as I could, then used the supplied 3M backing tape. It gets a very good signal, even when not exposed. I chose not to mount the microphone that was included with the headunit, as the included mic on the front of the headunit seemed to do a good enough job for my uses. The WiFi antennae is short and is attached to the back of the headunit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/chrome.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You’ll also want to run your wiring for the reverse camera. For the part behind the headunit, wire the yellow into the backup camera input (9) and tap the reverse cable in. For the run to your back door, you’ll need to do this on the passenger side, because of the way the rear door opens. I ran my wire behind the glove box and under the plastic tray on the seats, all the way to the 3rd row area.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/grommet.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is where it gets more complicated. You’ll need to run the wiring through the grommet thing seen above(hardest and most painful part of this whole project), and into the rear door area. There is almost no room inside the grommet to run the cable, so this will take some time. The rear door should paneling should be removed, which is pretty easy.&lt;/p&gt;
+
+&lt;p&gt;Damage from running the wiring through the grommet into the rear door.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/damage.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The wiring for the rear camera is simple. Connect the reverse power wire that you ran from the headunit (red), and the power wire (red) from the camera to the reverse light power wire, which is red with blue stripe. I used the passenger side reverse light since it was closer. Seal that connection with some solder.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/camera_wiring.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The yellow video cable from the camera connects to the RCA that you ran from the headunit. The ground (black) from the camera connects to any ground on the rear door, there are a quite few bolts you can use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/installed.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the headunit side, make sure you plug the yellow from the rearview camera into the correct video input. I did not do that the first time, and had to take apart my dash again. You want to use input 9, the rearview input.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/camera.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To mount the rear camera, I drilled 2 very small holes in the black plastic part directly above the license plate. I put the 2 camera screw in there with the camera, then ran the wire through where the drivers side license plate light was at. However, then the light wouldn’t stay in its spot, since it had a wire blocking the seal. I drilled out a very small notch into that opening for the light, just big enough for the wire to run through. I placed the wire in there, seen below, then the light would stay.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/wire.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;thoughts&quot;&gt;Thoughts&lt;/h3&gt;
+
+&lt;p&gt;I love the headunit. This was my first car audio install other than replacing speakers. The install was relatively easy, the inside of the car looks much nicer, and the audio is much better than flipping through radio stations or CDs. I have a 2007 GX470, which means it came with an aux port, and that is still functional with this headunit. The only downsides so far are that the screen became slightly unglued in the bottom left, probably because of the Florida heat. Maps are a little tricky, since this headunit is not always on an internet connection. So far, I’ve had success using Google Maps with a large portion downloaded locally onto the Android headunit. Still, this was a great $300 spent.&lt;/p&gt;
+
+&lt;h3 id=&quot;apps-i-recommend&quot;&gt;Apps I recommend&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.prowl.torque&quot;&gt;Torque Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.autolauncher.motorcar.free&quot;&gt;Car Launcher FREE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pandora.android&quot;&gt;Pandora&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.music&quot;&gt;Google Play Music&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.prowl.torque&quot;&gt;Torque&lt;/a&gt; is an awesome app for reading car diagnostics. I bought Torque Pro in 2011, and it has been used very often to read, diagnose, and clear engine codes, as well as get real time statistics from your car. You can connect to Torque using the OBDII interface in your car, and by using a Wifi or &lt;a href=&quot;https://amzn.to/2EL3NLR&quot;&gt;Bluetooth OBDII adapter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/torque.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.autolauncher.motorcar.free&quot;&gt;Car Launcher&lt;/a&gt; is a simple launcher application that makes the Android interface a little more car friendly. The buttons are bigger, you can dim the screen with one click, set the few applications you actually use on your home screen. It works well for me. The layouts are also customizable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/launcher.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Both &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pandora.android&quot;&gt;Pandora&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.music&quot;&gt;Google Play Music&lt;/a&gt; can download music and play offline. Some use Spotify or other apps. You can also plug in a USB filled with music into your USB inputs, play music on your phone over Bluetooth, or Wifi tether to your headunit and let the headunit do the audio while online.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/bt.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The backup camera is great so far. I think every large car should have one, and this one works especially well with the &lt;a href=&quot;https://amzn.to/2SWAmN5&quot;&gt;reverse lights&lt;/a&gt; I have. This camera also has the backup lines built in to the camera feed, so you don’t have to enable them in the Android settings&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/backup.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Plus the dogs love it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/dogtax.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Turo Claim Horror Story</title><link href="http://localhost:4000/My-Turo-Claim-Horror-Story/" rel="alternate" type="text/html" title="My Turo Claim Horror Story" /><published>2019-02-21T08:00:14-05:00</published><updated>2019-02-21T08:00:14-05:00</updated><id>http://localhost:4000/My-Turo-Claim-Horror-Story</id><content type="html" xml:base="http://localhost:4000/My-Turo-Claim-Horror-Story/">&lt;p&gt;&lt;img src=&quot;/images/turo/no_window.jpg&quot; alt=&quot;No Window&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;tldr&quot;&gt;TL;DR&lt;/h1&gt;
 &lt;p&gt;Dude rents my nice Corvette on Turo, his bi-polar girlfriend vandalizes it, it takes 46 days for Turo to pay to get &lt;em&gt;most&lt;/em&gt; of it fixed, and they wouldn’t fix some of it.&lt;/p&gt;
 
 &lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&amp;amp;timeline_context_item_type=intro_card_relationship&amp;amp;timeline_context_item_source=100004641037329&quot;&gt;Daniel B&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/atty4streets&quot;&gt;Martinez Jr&lt;/a&gt;, age 37, a &lt;a href=&quot;https://themartinezlaw.com&quot;&gt;local attorney&lt;/a&gt;, rented my &lt;a href=&quot;https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353&quot;&gt;2016 Corvette 2LT&lt;/a&gt; from Jan 3 to Jan 5 on a website called &lt;a href=&quot;https://turo.com/c/roberts974&quot;&gt;Turo&lt;/a&gt;. Turo is a website where you can rent your personal car to other people, and Turo provides insurance. Kinda like AirBNB for cars. He had rented my Corvette for a weekend previously, and only put 10 miles on it. The other time he rented my car, I had to go through his dad in order to pick my car up, since he wouldn’t answer his phone or texts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&amp;amp;timeline_context_item_type=intro_card_relationship&amp;amp;timeline_context_item_source=100004641037329&quot;&gt;Daniel B&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/street.lawyer/&quot;&gt;Martinez Jr&lt;/a&gt;, age 37, a &lt;a href=&quot;https://themartinezlaw.com&quot;&gt;local attorney&lt;/a&gt;, rented my &lt;a href=&quot;https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353&quot;&gt;2016 Corvette 2LT&lt;/a&gt; from Jan 3 to Jan 5 on a website called &lt;a href=&quot;https://turo.com/c/roberts974&quot;&gt;Turo&lt;/a&gt;. Turo is a website where you can rent your personal car to other people, and Turo provides insurance. Kinda like AirBNB for cars. He had rented my Corvette for a weekend previously, and only put 10 miles on it. The other time he rented my car, I had to go through his dad in order to pick my car up, since he wouldn’t answer his phone or texts.&lt;/p&gt;
 
 &lt;h1 id=&quot;timeline&quot;&gt;Timeline&lt;/h1&gt;
 
@@ -82,7 +199,7 @@
 &lt;p&gt;Daniel finally messaged me that night, saying he’s been busy with a jury and asking what he needed to do to take care of this. I messaged him back saying 8k was the damage cost.&lt;/p&gt;
 
 &lt;h3 id=&quot;jan-10&quot;&gt;Jan 10&lt;/h3&gt;
-&lt;p&gt;No responses from Turo.&lt;/p&gt;
+&lt;p&gt;No response from Turo.&lt;/p&gt;
 
 &lt;p&gt;No response from Daniel.&lt;/p&gt;
 
@@ -131,6 +248,8 @@ Finally, I want to do a final review on the scratches on the targa top that go d
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;jan-16&quot;&gt;Jan 16&lt;/h3&gt;
+&lt;p&gt;No response from Turo.&lt;/p&gt;
+
 &lt;p&gt;Received email from SnapSheet, offering me $1,169.51 to cover the damages. The denied a large part of the damage to my car. They said:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -149,6 +268,8 @@ Finally, I want to do a final review on the scratches on the targa top that go d
 &lt;p&gt;Left a message for Ace’s on dropping off Vette and working on supplements.&lt;/p&gt;
 
 &lt;h3 id=&quot;jan-18&quot;&gt;Jan 18&lt;/h3&gt;
+&lt;p&gt;No response from Turo.&lt;/p&gt;
+
 &lt;p&gt;Brought Vette to Ace’s, John took pictures and said that he’d work on supplements with Turo/Snapsheet&lt;/p&gt;
 
 &lt;h3 id=&quot;jan-19&quot;&gt;Jan 19&lt;/h3&gt;
@@ -244,7 +365,7 @@ Finally, I want to do a final review on the scratches on the targa top that go d
 &lt;h3 id=&quot;feb-12&quot;&gt;Feb 12&lt;/h3&gt;
 &lt;p&gt;John from Ace’s called, the car is finished except putting a few trim pieces on. Windows on and tinted, paint looks good. Planned to pick up car on Friday, Feb 15.&lt;/p&gt;
 
-&lt;p&gt;Heard back from Donovan with an supplement payment of $3,066.96.&lt;/p&gt;
+&lt;p&gt;Heard back from Donovan with a supplement payment of $3,066.96.&lt;/p&gt;
 
 &lt;p&gt;That would put the total paid  at $3,066.96 + $1,169.51 + $200 = $4,436.47&lt;/p&gt;
 
@@ -264,6 +385,8 @@ Finally, I want to do a final review on the scratches on the targa top that go d
 &lt;p&gt;Picked up car from Ace’s, total charge was $4,538.47, which I paid out of pocket. These clear protector on the drivers door over the paint was not installed, so he said for me to come back up next week to get it installed, it is already paid for.&lt;/p&gt;
 
 &lt;p&gt;John found a full container of hair gel in the car that Daniel had left in it from the rental.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/turo/gel.jpg&quot; alt=&quot;Gel&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;No response from Turo.&lt;/p&gt;
 
@@ -288,6 +411,9 @@ Finally, I want to do a final review on the scratches on the targa top that go d
 &lt;h3 id=&quot;feb-20&quot;&gt;Feb 20&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353&quot;&gt;Corvette relisted&lt;/a&gt;, required multiple day rentals and higher rate per day, along with a cleaning fee if not returned clean.&lt;/p&gt;
 
+&lt;h3 id=&quot;feb-21&quot;&gt;Feb 21&lt;/h3&gt;
+&lt;p&gt;Changed my mind, took the Corvette off Turo because this was a nightmare.&lt;/p&gt;
+
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
 &lt;p&gt;First, I want to thank &lt;a href=&quot;https://www.facebook.com/Aces-Autobody-1381810925437470/&quot;&gt;Ace’s Body Shop&lt;/a&gt;. They did a great job on my car, and John went above and beyond filling out multiple supplements for Turo and Snapsheet. Seriously, thanks, you guys were great.&lt;/p&gt;
 
@@ -297,13 +423,11 @@ Finally, I want to do a final review on the scratches on the targa top that go d
 
 &lt;p&gt;Turo is not on your side, and will do everything possibly to pay you as little as possible. It took me almost 7 weeks to get my damages paid for. I was lucky that I have another car, or else I would have been without a car for a majority of those 7 weeks.&lt;/p&gt;
 
-&lt;p&gt;I have &lt;a href=&quot;https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353&quot;&gt;relisted my Corvette&lt;/a&gt;, and will requiring a higher cost per day, and  require more days per rental.&lt;/p&gt;
-
 &lt;h1 id=&quot;appendix&quot;&gt;Appendix&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://photos.app.goo.gl/EEWHzVyj2soqduuT9&quot;&gt;Pictures/Videos&lt;/a&gt; of the Corvette, timestamps in the details.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&amp;amp;timeline_context_item_type=intro_card_relationship&amp;amp;timeline_context_item_source=100004641037329&quot;&gt;Daniel B&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/atty4streets&quot;&gt;Martinez Jr&lt;/a&gt; - Rented my Corvette&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/daniel.martinez.9822?eid=ARA1sLcJCI6aBEHu94oDyZUMBivz-L4RagzNM8K8-3gZ19GkX3xu6JMc-Tz3LdSULecDuvp0h7VbpOz-&amp;amp;timeline_context_item_type=intro_card_relationship&amp;amp;timeline_context_item_source=100004641037329&quot;&gt;Daniel B&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/street.lawyer&quot;&gt;Martinez Jr&lt;/a&gt; - Rented my Corvette&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Age: 37&lt;/li&gt;
   &lt;li&gt;Address: &lt;a href=&quot;https://www.google.com/maps/place/554+Sedgewood+Cir,+Melbourne,+FL+32904/@28.0543978,-80.6605715,17z/data=!3m1!4b1!4m5!3m4!1s0x88de0dc110aa0175:0x96e0eb8bac68e40e!8m2!3d28.0543978!4d-80.6583775&quot;&gt;554 Sedgewood Circle, Melbourne, FL&lt;/a&gt;. This is a rental house owned by American Homes 4 Rent.&lt;/li&gt;
@@ -313,13 +437,12 @@ Finally, I want to do a final review on the scratches on the targa top that go d
   &lt;li&gt;Law Office Number  321-419-8666&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/marina.rogers.739&quot;&gt;Marina&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/marinarogers112/&quot;&gt;Rogers&lt;/a&gt; - Daniel Martinez girlfriend.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/marina.rogers.739&quot;&gt;Marina&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/marinarogers112/&quot;&gt;Rogers&lt;/a&gt; - Daniel Martinez’ girlfriend.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Age: 21&lt;/li&gt;
   &lt;li&gt;Address: &lt;a href=&quot;https://www.google.com/maps/place/102+Palm+Cir,+Melbourne,+FL+32940/@28.1924181,-80.6625654,17z/data=!3m1!4b1!4m5!3m4!1s0x88de051482b308c7:0x14521373bab1ecfe!8m2!3d28.1924181!4d-80.6603714&quot;&gt;102 Palm Cir Palm Shores, Fl 32940&lt;/a&gt;, owner is Brian Rogers, her father.&lt;/li&gt;
   &lt;li&gt;They had been dating for 4 months at the time of the vandalism, and are still dating as of the writing of this post.&lt;/li&gt;
   &lt;li&gt;FIT student/cheerleader/Publix cashier.&lt;/li&gt;
-  &lt;li&gt;Marina shared a video on January 8 at 8PM, so she must not have stayed in the mental hospital very long.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">New Lexus Key</title><link href="http://localhost:4000/New-Lexus-Keys/" rel="alternate" type="text/html" title="New Lexus Key" /><published>2019-02-07T11:00:14-05:00</published><updated>2019-02-07T11:00:14-05:00</updated><id>http://localhost:4000/New-Lexus-Keys</id><content type="html" xml:base="http://localhost:4000/New-Lexus-Keys/">&lt;p&gt;&lt;img src=&quot;/images/lexus2/keys.jpg&quot; alt=&quot;Keys&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I fixed the 2 keys for my Lexus. The battery in both keys was dead, so the remote didn’t work. The screws to get the battery out were stripped, so I have to destroy each case to get in. &lt;a href=&quot;https://www.ajtdesign-llc.com/online-store/Injection-Fob-2008-2014-FJ-Cruiser-BLACK-p109350070&quot;&gt;AJT Designs&lt;/a&gt; makes some cool 3D printed key fob cases. The GX 470 uses the same key fob as the FJ Cruiser, so I ordered 2 of them in different color combos, seen above. I also installed new &lt;a href=&quot;https://amzn.to/2MU7wuz&quot;&gt;CR1616&lt;/a&gt; batteries, and both keys work perfect now.&lt;/p&gt;
@@ -788,25 +911,4 @@ Taxes/Registration: $500&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/lexus/braid.jpg&quot; alt=&quot;Braid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/lexus/dooropen.jpg&quot; alt=&quot;Door Open&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Front Door Remodel</title><link href="http://localhost:4000/front-door-remodel/" rel="alternate" type="text/html" title="Front Door Remodel" /><published>2018-10-17T12:00:14-04:00</published><updated>2018-10-17T12:00:14-04:00</updated><id>http://localhost:4000/front-door-remodel</id><content type="html" xml:base="http://localhost:4000/front-door-remodel/">&lt;p&gt;&lt;img src=&quot;/images/frontdoor/5.jpg&quot; alt=&quot;Before&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We finally redid our front door for good, final product above. We had taken the door off, sanded and painted it about 6 months ago, using the same color “Swimming” as our laundry room. Problem was, we used the same bucket of paint as the laundry room. Interior paint. You can guess how well that held up outside.&lt;/p&gt;
-
-&lt;p&gt;Below is the door after painting with interior paint. Notice the discoloration and bad spots. And the pups.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/frontdoor/0.jpg&quot; alt=&quot;Before&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When I bought the house, the door was pink/mauve. This is a picture from when I bought the house, the only picture I have of the front door. We originally redid it with new paint, weatherstripping, and hardware, but then had to repaint for good. That interior paint was not going to last on the door.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/frontdoor/before.jpg&quot; alt=&quot;Before&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We re-did the whole thing - took the door off the hinges, took off the hardware, sanded, sanded, sanded. You can see all of the different layers: wood, pink/mauve from before, primer, and the interior Swimming paint. We took off different levels in different spots.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/frontdoor/1.jpg&quot; alt=&quot;Before&quot; /&gt;
-&lt;img src=&quot;/images/frontdoor/2.jpg&quot; alt=&quot;Before&quot; /&gt;
-&lt;img src=&quot;/images/frontdoor/3.jpg&quot; alt=&quot;Before&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I then applied 4 coats of EXTERIOR Swimming - same color, but better for outdoor use. It’ll hold up much better this time. It looks much lighter with the direct light in the garage.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/frontdoor/4.jpg&quot; alt=&quot;Before&quot; /&gt;
-&lt;img src=&quot;/images/frontdoor/5.jpg&quot; alt=&quot;Before&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/lexus/dooropen.jpg&quot; alt=&quot;Door Open&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
