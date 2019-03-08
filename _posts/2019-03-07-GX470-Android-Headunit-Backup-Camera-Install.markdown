@@ -55,7 +55,15 @@ Note that the 10mm bolt, about where your knee is when driving (and shown just a
 
 ![Headunit](/images/lexus/headunit/10mm.jpg)
 
-Once you have the pieces out of your car, you can install the new headunit into the same spot. The air conditioning controls will clip in below it. I installed the top piece after I had inserted the rest back into the car.
+Once you have the pieces out of your car, you can install the new headunit into the same spot. To do this, you'll need to do a small amount of plastic removal on the A/C controls in your Lexus. I used a dremel, as shown below.
+
+![Headunit](/images/lexus/headunit/dremel1.jpg)
+
+Cut the top tab just a bit on the A/C controls. These tabs protrude too much for the new head unit to clip in and fit flush.
+
+![Headunit](/images/lexus/headunit/dremel2.jpg)
+
+After some cutting, the air conditioning controls will clip in below it. I installed the top piece after I had inserted the rest back into the car.
 
 ![Headunit](/images/lexus/headunit/schematic.jpg)
 
@@ -103,7 +111,7 @@ I love the headunit. This was my first car audio install other than replacing sp
 
 ![Headunit](/images/lexus/headunit/torque.jpg)
 
-[Car Launcher](https://play.google.com/store/apps/details?id=com.autolauncher.motorcar.free) is a simple launcher application that makes the Android interface a little more car friendly. The buttons are bigger, you can dim the screen with one click, set the few applications you actually use on your home screen. It works well for me. The layouts are also customizable. 
+[Car Launcher](https://play.google.com/store/apps/details?id=com.autolauncher.motorcar.free) is a simple launcher application that makes the Android interface a little more car friendly. The buttons are bigger, you can dim the screen with one click, set the few applications you actually use on your home screen. It works well for me. The layouts are also customizable.
 
 ![Headunit](/images/lexus/headunit/launcher.jpg)
 
