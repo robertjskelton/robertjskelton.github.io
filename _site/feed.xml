@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-07T14:22:41-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">GX470 Android Headunit and Backup Camera Install</title><link href="http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install/" rel="alternate" type="text/html" title="GX470 Android Headunit and Backup Camera Install" /><published>2019-03-07T08:00:14-05:00</published><updated>2019-03-07T08:00:14-05:00</updated><id>http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install</id><content type="html" xml:base="http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install/">&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/backup.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-22T14:59:10-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Recipes</subtitle><entry><title type="html">My Georgia Tech OMSCS Experience So Far</title><link href="http://localhost:4000/OMSCS-Experience-So-Far/" rel="alternate" type="text/html" title="My Georgia Tech OMSCS Experience So Far" /><published>2019-04-22T09:00:14-04:00</published><updated>2019-04-22T09:00:14-04:00</updated><id>http://localhost:4000/OMSCS-Experience-So-Far</id><content type="html" xml:base="http://localhost:4000/OMSCS-Experience-So-Far/">&lt;p&gt;&lt;img src=&quot;/images/gt/gt.png&quot; alt=&quot;GT&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was accepted to, and enrolled in, &lt;a href=&quot;http://www.omscs.gatech.edu/&quot;&gt;Georgia Tech’s OMSCS&lt;/a&gt; (Online Master of Science in Computer Science) in January 2016. This post is meant as a recap as the classes I’ve taken, and my experiences throughout this program. Every class is a 3 hour credit. You need 10 classes, or 30 hours, to earn this degree, which you have to complete within 6 years of admission. There is no thesis requirement, just pass all the classes and you’ve earned the degree.&lt;/p&gt;
+
+&lt;p&gt;I transferred in 3 hours that I didn’t use from my undergrad at Auburn. I needed 5 engineering elective hours to graduate at Auburn, and I passed 12. I had too much free time then. One class, ELEC5150-Intro to Information Security at Auburn, transferred as credit for CS6035-Intro to Information Security at Georgia Tech.&lt;/p&gt;
+
+&lt;p&gt;I only take 1 class at a time, since I also work full time and like to do things besides be in front of the computer. I’ve dropped a few classes, and got a D in 1 class, which doesn’t count towards your graduation credits, but, unfortunately, does count towards your GPA. Anyways, here’s the classes I’ve taken, grades I earned, if I recommend the course, and my thoughts on each.&lt;/p&gt;
+
+&lt;h1 id=&quot;spring-2016---cs6300---software-development-process&quot;&gt;&lt;a href=&quot;http://www.omscs.gatech.edu/cs-6300-software-development-process&quot;&gt;Spring 2016 - CS6300 - Software Development Process&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grade: B&lt;/li&gt;
+  &lt;li&gt;Would recommend&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was a great first class to take in OMSCS. It eases you into the concept of working at your own pace, working with groups of people that you never meet in person, and the basics of using Github in a small group. I got a B, but was really close to an A. I wish I had put a little more effort into this class. Dr. Orso is a interesting professor, and you learn a bit of Java and how to build a simple Android app.&lt;/p&gt;
+
+&lt;h1 id=&quot;summer-2016---cs6310---software-architecture-and-design&quot;&gt;&lt;a href=&quot;https://www.omscs.gatech.edu/cs-6310-software-architecture-design&quot;&gt;Summer 2016 - CS6310 - Software Architecture and Design&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grade: B&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a software architecture course. I work in cloud architecture, more along the infrastructure lines, but I didn’t learn much in this class. The lectures are boring, the content is boring… it’s just a whole course on UML.&lt;/p&gt;
+
+&lt;h1 id=&quot;fall-2016---cs6250---computer-networks&quot;&gt;&lt;a href=&quot;https://www.omscs.gatech.edu/cs-6250-computer-networks&quot;&gt;Fall 2016 - CS6250 - Computer Networks&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grade: Dropped&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is considered to be one of the easiest classes in OMSCS, but it wasn’t for me. It’s all about writing networking algorithms in Python, and it just didn’t click for me. I dropped this one pretty early.&lt;/p&gt;
+
+&lt;h1 id=&quot;spring-2017---cs6475---computational-photography&quot;&gt;&lt;a href=&quot;https://cs6475.wordpress.com/&quot;&gt;Spring 2017 - CS6475 - Computational Photography&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grade: D&lt;/li&gt;
+  &lt;li&gt;Advice against&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This class with Dr. Irfan Issa has been my worst Georgia Tech class, and second worse classroom experience ever (no one will ever top Dr. Baginski’s Analog Electronics at Auburn). So this class I really struggled in, but I put in a ton of effort, and expected to make a mid C. A bad grade, but at least credit towards graduation. This class is heavy on Python and matrix algebra, both topics I am not strong in. So I go into the final project with a 75, and I just have to get about a 10 (out of 100) to keep my C. One annoying thing about Dr. Issa is that he gives you the assignment file as something like final_project.pdf, and wants the deliverable to have the exact same name (final_project.pdf). You can see how this can cause issues if you’re keeping your projects in the same directory, like a logical person.&lt;/p&gt;
+
+&lt;p&gt;Well, I uploaded my final project after completion and did an OK job, not A material, but definitely more than a 10 material. When grades came back a few weeks later, I saw that I had a D in the class. I asked the TAs and professor why, and it was because I uploaded the final_project.pdf that was the instructions, not my actual final report. When I selected the file to upload, I was in the wrong directory. I received a 0 on the final project, they would not accept my completed final_report.pdf, and therefore I failed this class. I brought this up to Georgia Tech as a Official Grade Dispute, and it was not re-graded. My D stood.&lt;/p&gt;
+
+&lt;p&gt;Overall, I would recommend not taking this class unless you have a very strong interest in Computational Photography.&lt;/p&gt;
+
+&lt;h1 id=&quot;summer-2017---cs6400---database-systems-concepts-and-designs&quot;&gt;&lt;a href=&quot;https://www.omscs.gatech.edu/cs-6400-database-systems-concepts-and-design&quot;&gt;Summer 2017 - CS6400 - Database Systems, Concepts and Designs&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grade: A&lt;/li&gt;
+  &lt;li&gt;Would recommend&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is another really good class, and it was nice to take a interesting class after my awful previous semester. I had considered dropping the whole program after getting a D in my previous course. In this database course, I learned a bunch, and worked with a really great group on my projects in this course. Dr. Mark is funny and keeps lectures interesting. This class also helped me in my work, as I’ve been working more with databases now than ever before.&lt;/p&gt;
+
+&lt;h1 id=&quot;fall-2017---none&quot;&gt;Fall 2017 - None&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UgOu1zPtW2I&quot;&gt;Why do school when you can watch football?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;spring-2018---cs6460---educational-technology&quot;&gt;&lt;a href=&quot;https://www.omscs.gatech.edu/cs-6460-educational-technology&quot;&gt;Spring 2018 - CS6460 - Educational Technology&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grade: A&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This class is taught by Dr. David Joyner, who is highly liked in the OMSCS community. He is a interesting professor, but this wasn’t the most interesting topic for me. This class has a decent amount of busy work, like weekly status reports and required meetings, but it made for the easiest grade in OMSCS so far. I didn’t learn a whole lot in this course, but it is a decent course and good for padding your GPA.&lt;/p&gt;
+
+&lt;h1 id=&quot;summer-2018---cs7646---machine-learning-for-trading&quot;&gt;&lt;a href=&quot;http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course&quot;&gt;Summer 2018 - CS7646 - Machine Learning for Trading&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dropped&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I signed up for this thinking it was a really interesting sounding course. The content is interesting, but it gets tough, quick. The first project was easy, then it became super difficult. The course deals with stock trading, AI, and utilizes Python, numpy, pandas, and other Python libraries. I also had a lot of things going on in my personal life, so I couldn’t devote as much time as I needed to this course, so I dropped it. Dr. Balch’s lectures are interesting.&lt;/p&gt;
+
+&lt;h1 id=&quot;fall-2018---cs6440---intro-to-health-informatics&quot;&gt;&lt;a href=&quot;https://www.omscs.gatech.edu/cs-6440-intro-health-informatics&quot;&gt;Fall 2018 - CS6440 - Intro to Health Informatics&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grade: B&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This class was not fun or educational for me. The class is 100% run by a TA, there is no instructor involvement. The lectures are dry, and the content is not interesting for me. You spend most of the course learning about FHIR, a healthcare API, but every time we were had an assignment to do any development with it, the API was not functioning. Luckily, you don’t have to use FHIR for your final project, and I think 0% of my class ended up using it. We were allowed to pick any healthcare related project that was given to us, and it ended up being a simple team project. I came away with a B, but was close to an A. I would not take this class again.&lt;/p&gt;
+
+&lt;h1 id=&quot;spring-2019---cs7646---machine-learning-for-trading&quot;&gt;&lt;a href=&quot;http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course&quot;&gt;Spring 2019 - CS7646 - Machine Learning for Trading&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dropped… again&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I got a promotion at work and my work load started going up, I got engaged, ended up doing more home remodeling, more car stuff, and less school. Same as the first time I took this course, the second project was overly difficult. I won’t try to take this one a 3rd time, but the content does still interest me.&lt;/p&gt;
+
+&lt;h1 id=&quot;summer-2019---none&quot;&gt;Summer 2019 - None&lt;/h1&gt;
+&lt;p&gt;Honeymoon for a week in Costa Rica, no way I’m doing school then.&lt;/p&gt;
+
+&lt;h1 id=&quot;fall-2019---cs6238---secure-computing-systems&quot;&gt;Fall 2019 - CS6238 - Secure Computing Systems&lt;/h1&gt;
+&lt;p&gt;This is the first time this class has been taught, so it’ll either be super easy or the worst class ever. I’ll let you know in December.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;summary&quot;&gt;Summary&lt;/h1&gt;
+&lt;p&gt;So as of April 2019, I have 18 credits out of 30. I need to pass 4 more classes by Spring 2022 in order to graduate.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">GX470 Android Headunit and Backup Camera Install</title><link href="http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install/" rel="alternate" type="text/html" title="GX470 Android Headunit and Backup Camera Install" /><published>2019-03-07T08:00:14-05:00</published><updated>2019-03-07T08:00:14-05:00</updated><id>http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install</id><content type="html" xml:base="http://localhost:4000/GX470-Android-Headunit-Backup-Camera-Install/">&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/backup.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I installed a new Android headunit in my 2007 Lexus GX470, complete with a reverse activated backup camera. The install took about 5 hours over the course of a few days, and here is how I did it.&lt;/p&gt;
 
@@ -51,7 +141,15 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/10mm.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Once you have the pieces out of your car, you can install the new headunit into the same spot. The air conditioning controls will clip in below it. I installed the top piece after I had inserted the rest back into the car.&lt;/p&gt;
+&lt;p&gt;Once you have the pieces out of your car, you can install the new headunit into the same spot. To do this, you’ll need to do a small amount of plastic removal on the A/C controls in your Lexus. I used a dremel, as shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/dremel1.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cut the top tab just a bit on the A/C controls. These tabs protrude too much for the new head unit to clip in and fit flush.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/dremel2.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After some cutting, the air conditioning controls will clip in below it. I installed the top piece after I had inserted the rest back into the car.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/lexus/headunit/schematic.jpg&quot; alt=&quot;Headunit&quot; /&gt;&lt;/p&gt;
 
@@ -871,44 +969,4 @@ Taxes/Registration: $500&lt;/p&gt;
   &lt;li&gt;Go to church - FAIL, we went 3 or 4 times.&lt;/li&gt;
   &lt;li&gt;Get engaged - PASS&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://rskelton.com/category/cars/&quot;&gt;Get a newer car&lt;/a&gt; - PASS…twice. I bought a 2016 Corvette and a 2007 Lexus GX470.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">I keep track of some short term and long term goals using checklists in Google Keep. Here is a recap of my goals for 2018.</summary></entry><entry><title type="html">Lexus GX470 LED Interior Lights</title><link href="http://localhost:4000/Lexus-GX470-LED-Interior-Lights/" rel="alternate" type="text/html" title="Lexus GX470 LED Interior Lights" /><published>2018-12-13T11:00:14-05:00</published><updated>2018-12-13T11:00:14-05:00</updated><id>http://localhost:4000/Lexus-GX470-LED-Interior-Lights</id><content type="html" xml:base="http://localhost:4000/Lexus-GX470-LED-Interior-Lights/">&lt;p&gt;&lt;img src=&quot;/images/lexus/both.jpg&quot; alt=&quot;Both&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I recently got another car, my &lt;a href=&quot;https://rskelton.com/drive-cool-cars-on-a-budget/&quot;&gt;10th car ever&lt;/a&gt;. It’s a 2007 Lexus GX470, basically a nicer 4Runner with leather and a V8. I chose this model specifically since it is a very reliable car, with an example of the same engine and chassis running for over &lt;a href=&quot;https://www.motoringresearch.com/car-news/man-drives-toyota-1-million-miles-9-years-gets-free-toyota/&quot;&gt;1 Million miles&lt;/a&gt;. Mine only has 145k miles. I asked for an overnight test drive, and took it to pick up a delivery of laminate floors from Lowes before I even purchased it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus/lowes.jpg&quot; alt=&quot;Lowes&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The first thing I always do to my cars is to replace all the yellow, halogen bulbs with lower power, higher output white LEDs. This makes the car look newer, and visibility is always better. The lights are all relatively easy to replace, you just need a small flat head screwdriver. Note that I did blow a fuse changing the vanity lights, and had to replace a 10A fuse in the fuse box located under the hood. You won’t have to do that if you don’t short the connection, so use something plastic instead of metal to remove those bulbs.&lt;/p&gt;
-
-&lt;p&gt;Here’s a list of lights I used:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S3FE8J&quot;&gt;Map Lights: BA9S x2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2UQpLoh&quot;&gt;Vanity Lights: 30mm festoon, thin x2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;Courtesy Lights: 194 x4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;Step Rail Lights: 194 x4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;License Plate Lights: 194 x2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2SaufEu&quot;&gt;Overhead Lights in Rear and Middle Seats: 31mm festoon x2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Courtesy Lights
-&lt;img src=&quot;/images/lexus/courtesy.jpg&quot; alt=&quot;Courtesy Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;License Plate Lights
-&lt;img src=&quot;/images/lexus/license.jpg&quot; alt=&quot;License Plate Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Step Rail Lights, before and after
-&lt;img src=&quot;/images/lexus/step.jpg&quot; alt=&quot;Step Rail Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Map Lights, before and after
-&lt;img src=&quot;/images/lexus/map.jpg&quot; alt=&quot;Map Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;To replace the license plate lights, I had to take the rear door off. When I bought it, the handle on the inside of that door was broken, so I made a new one. I’ve seen some posts on &lt;a href=&quot;https://www.facebook.com/groups/LexusGXOR/&quot;&gt;GXOR&lt;/a&gt;, a great resource for Lexus GX mods, that involve making a new strap from a NATO bracelet or similar. I did similar.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus/reardooroff.jpg&quot; alt=&quot;Door Off&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I took a rope that we used to use for our hammock and cut it into 3 pieces. I braided it, tight, then ran it through the back. It’s tied up with tons of electrical tape behind the door.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus/doorfix.jpg&quot; alt=&quot;Door Fix&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus/braid.jpg&quot; alt=&quot;Braid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus/dooropen.jpg&quot; alt=&quot;Door Open&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I keep track of some short term and long term goals using checklists in Google Keep. Here is a recap of my goals for 2018.</summary></entry></feed>
