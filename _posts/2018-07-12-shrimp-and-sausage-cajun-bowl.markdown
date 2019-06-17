@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Shrimp and Sausage Cajun Bowl"
+title:  "Recipe - Shrimp and Sausage Cajun Bowl"
 date:   2018-07-12 10:10:14 -0400
-categories: recipes
+categories: etc
 ---
 
 ![Picture](/images/recipes/shrimp-sausage-bowl.jpg)

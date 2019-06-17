@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Pepper Steak"
+title:  "Recipe - Pepper Steak"
 date:   2018-07-12 11:10:14 -0400
-categories: recipes
+categories: etc
 ---
 
 ![Picture](/images/recipes/pepper-steak.jpg)

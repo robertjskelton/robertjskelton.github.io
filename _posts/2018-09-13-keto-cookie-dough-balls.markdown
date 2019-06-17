@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Keto Cookie Dough Balls"
+title:  "Recipe - Keto Cookie Dough Balls"
 date:   2018-09-13 11:10:14 -0400
-categories: recipes
+categories: etc
 ---
 
 ![Picture](/images/recipes/keto-cookie-dough.jpg)
