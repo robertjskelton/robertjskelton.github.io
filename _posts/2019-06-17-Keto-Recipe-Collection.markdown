@@ -58,7 +58,7 @@ My wife and I have been doing a Keto diet for about 9 months. We have both lost 
 
 
 ### Desserts
-* [Milkshake](https://drdavinahseats.com/recipes/keto-mudslide) - My favorite keto dessert.
+* [Chocolate Milkshake](https://rskelton.com/Keto-Chocolate-Milkshake/) - My favorite keto dessert.
 * [Pudding](https://mooreorlesscooking.com/2015/06/17/lo-carb-pudding-dessert/) - We make this weekly.
 * [Pecan Pie](https://www.reddit.com/r/ketorecipes/comments/9ur8un/keto_pecan_pie/)
 * [Cookie Dough Balls](https://rskelton.com/keto-cookie-dough-balls/)
