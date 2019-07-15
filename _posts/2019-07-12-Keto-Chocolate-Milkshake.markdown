@@ -9,7 +9,7 @@ categories: etc
 
 ### Ingredients
 * 2 Cups Ice
-* 3 Tbsp [Swerve](https://amzn.to/2l2Cern), or similar Keto confections sugar
+* 3 Tbsp [Swerve](https://amzn.to/2l2Cern), or similar Keto confectioners sugar
 * 3/4 Cup Heavy Whipping Cream
 * 1.5 Cups Almond Milk
 * 2 scoops [Protein Powder](https://amzn.to/2l2Cern)
