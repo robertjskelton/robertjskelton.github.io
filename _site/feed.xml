@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-10T15:48:35-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">Pros and Cons of Working From Home</title><link href="http://localhost:4000/Pros-and-Cons-of-Working-From-Home/" rel="alternate" type="text/html" title="Pros and Cons of Working From Home" /><published>2019-07-10T09:00:14-04:00</published><updated>2019-07-10T09:00:14-04:00</updated><id>http://localhost:4000/Pros-and-Cons-of-Working-From-Home</id><content type="html" xml:base="http://localhost:4000/Pros-and-Cons-of-Working-From-Home/">&lt;p&gt;I’ve been working from home full time for over 2.5 years, and it is a major benefit of my current position. Remote work offers some great benefits, but also some notable cons.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-29T16:06:32-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">Format an Audio USB for a C7 Corvette from a Mac</title><link href="http://localhost:4000/Format-Audio-USB-for-C7-Corvette-From-Mac/" rel="alternate" type="text/html" title="Format an Audio USB for a C7 Corvette from a Mac" /><published>2019-07-29T12:00:14-04:00</published><updated>2019-07-29T12:00:14-04:00</updated><id>http://localhost:4000/Format-Audio-USB-for-C7-Corvette-From-Mac</id><content type="html" xml:base="http://localhost:4000/Format-Audio-USB-for-C7-Corvette-From-Mac/">&lt;p&gt;&lt;img src=&quot;/images/vette/plug.jpg&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.  Insert a &lt;a href=&quot;https://amzn.to/2OpmYmB&quot;&gt;USB drive&lt;/a&gt; into your Mac&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.  Open disk utility.&lt;/strong&gt; This is under Applications &amp;gt; Utilities &amp;gt; Disk Utility.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/vette/1.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.  Eject the partition.&lt;/strong&gt;
+This is listed below the USB Drive name itself, and has an eject button to the right. Labeled “2” in the picture above.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.  Format the USB&lt;/strong&gt;
+Click on the USB Name, then Erase. Select Format MS-DOS and Scheme “Master Boot Record”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Format the partition&lt;/strong&gt;
+Click on the partition below it that was just created, then Erase. Select format MS-DOS.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/vette/2.png&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Add Audio Files&lt;/strong&gt;
+Find your USB drive and drag and drop audio files onto it. Most people seem to recommend playlists, since those will play non stop in your Vette.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Put in in your Vette&lt;/strong&gt;
+Plug your USB drive into the USB slot either behind the dash, or under the center console. Either one works for audio, in a 2016 at least.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">How To Save Money on Large Purchases</title><link href="http://localhost:4000/How-To-Save-Money-On-Large-Purchases/" rel="alternate" type="text/html" title="How To Save Money on Large Purchases" /><published>2019-07-18T12:00:14-04:00</published><updated>2019-07-18T12:00:14-04:00</updated><id>http://localhost:4000/How-To-Save-Money-On-Large-Purchases</id><content type="html" xml:base="http://localhost:4000/How-To-Save-Money-On-Large-Purchases/">&lt;p&gt;If you do any amount of online shopping, using some of the following tips can save you some money!&lt;/p&gt;
+
+&lt;h1 id=&quot;rakuten&quot;&gt;Rakuten&lt;/h1&gt;
+&lt;p&gt;First is &lt;a href=&quot;https://www.rakuten.com/r/ROBERT47769?eeid=43662&amp;amp;utm_source=extension&amp;amp;utm_medium=raf_link&quot;&gt;Rakuten&lt;/a&gt;, formerly called Ebates. This is a browser extension that helps you to earn cash back on purchases at certain retailers. It will also suggest other retailers if you can get the same item at a cheaper price. I have &lt;a href=&quot;https://rskelton.com/using-rakuten-for-more-cashback&quot;&gt;wrote about Rakuten before&lt;/a&gt;, and I’ve earned about $350 in cash back since 2016. I recently needed to buy a new range and microwave, and the ones I decided on were about $1300 at Home Depot. My Rakuten extension popped up and said I could buy the same models at ABT.com for about $1100, and they give 6% back at Rakuten, which is $66 back!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ebates/rakuten.png&quot; alt=&quot;Rakuten&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;credit-card-cash-back&quot;&gt;Credit Card Cash Back&lt;/h1&gt;
+&lt;p&gt;This one is obvious, but you can pay with credit cards to earn some more cash back. Some cards have rotating categories, so will give higher percentage cash back at certain retailers, but only during certain quarters. The Chase Freedom and Discover IT cards are examples of these cards. A great example here is that for Q3 2019, which is the current quarter as I write this article, Discover is 5% back on Paypal purchases. As I was checking out at ABT.com for my new appliances (mentioned above), they had the option to check out with Paypal, so I did with my Discover IT card. At 5% of $1100, that is $55 cash back, on top of the $66 I got from Rakuten. So using Rakuten and the right credit card got me from $1300 to $1100 - $66 - $55 = under $1000! Nice.&lt;/p&gt;
+
+&lt;h1 id=&quot;honey&quot;&gt;Honey&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://joinhoney.com/ref/dsskgi&quot;&gt;Honey&lt;/a&gt; is very similar to Rakuten, but I don’t think it does as good of a job at giving cash back. It gives cash back in the form of “Honey Gold”, which you can buy gift cards with. The nice feature of Honey is that it will automatically try coupon codes! Lots of  ecommerce sites have discount codes or coupon codes, that are sometimes not public. Honey has a list of these, and will try to use all of them. I like to get the discount code from Honey, then use Rakuten for their cash back. You can not earn both cash back through Rakuten AND Honey Gold. If you click on one after the other, one will pop up saying that you can’t earn for both cash back portals, so pick and choose which one works best for your given transaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ebates/honey1.png&quot; alt=&quot;Honey&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ebates/honey2.png&quot; alt=&quot;Honey&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;slickdeals&quot;&gt;Slickdeals&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://slickdeals.net/&quot;&gt;Slickdeals&lt;/a&gt; is the classic website for finding things that are on sale. You can set up email alerts for items you are interested in. I did this with some $60 Sennheiser headphones that I knew went on sale pretty often. I set up the emails, and bought them a few months later for $28. This site is mostly focused on technology products, but there are tons of other products on here. I’ve bought some clothes and dry food products that I’ve seen on Slickdeals.&lt;/p&gt;
+
+&lt;h1 id=&quot;home-depot-and-lowes-10-off-codes&quot;&gt;Home Depot and Lowe’s 10% Off Codes&lt;/h1&gt;
+&lt;p&gt;If you’re making a large purchase at Home Depot or Lowe’s, it can behoove you buy online and use a coupon code. You can generate them, somehow (search the Slickdeals forums if you are interested), or you can buy them for a few bucks. When you’re spending $1,000 on flooring, it’s worth it to spend $5 to get a 10% coupon, which will save you $95. I’ve bought &lt;a href=&quot;https://lowescoupon.info/&quot;&gt;Lowe’s coupons here&lt;/a&gt; and found free ones &lt;a href=&quot;https://renovopower.com/lowes.html&quot;&gt;here&lt;/a&gt;, though I am not affiliated with either website. You can also fill out a &lt;a href=&quot;https://moversguide.usps.com/mgo/disclaimer?referral=MG80&quot;&gt;USPS Change of Address form&lt;/a&gt;, and they send you a welcome kit. This usually includes a 10% off coupon to both Home Depot and Lowe’s.&lt;/p&gt;
+
+&lt;h1 id=&quot;bumped&quot;&gt;Bumped&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://bumped.com/?ref=8ad7cc96&quot;&gt;Bumped&lt;/a&gt; is an app that you give access to your credit card transactions, and you can earn stocks based on what retailers you shop at. You get a choice of 1 retailer per category, and they are called “Loyalties”. For example, Home Improvement is a category. I chose Home Depot over Lowe’s, since I shop at Home Depot much more. When Bumped notices a transaction on any of my linked credits cards from Home Depot, it’ll give me a small percentage of that purchase as a stock, 1% at Home Depot. There are tons of categories. I don’t ever count on this, but I set it up a few months ago and I’ve earned about $30 in stocks from just doing normal shopping. This is a new application, so the app is still a bit buggy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ebates/bumped.jpg&quot; alt=&quot;Bumped&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;camelcamelcamel&quot;&gt;CamelCamelCamel&lt;/h1&gt;
+&lt;p&gt;This is one I don’t use that often, since I don’t a ton of Amazon shopping, but &lt;a href=&quot;https://camelcamelcamel.com/&quot;&gt;CamelCamelCamel&lt;/a&gt; is a Amazon price history. You can install it as a browser extension, and see the price of an item over time. Honey does a lot of the same things.&lt;/p&gt;</content><author><name></name></author><summary type="html">If you do any amount of online shopping, using some of the following tips can save you some money!</summary></entry><entry><title type="html">Recipe - Keto Chocolate Milkshake</title><link href="http://localhost:4000/Keto-Chocolate-Milkshake/" rel="alternate" type="text/html" title="Recipe - Keto Chocolate Milkshake" /><published>2019-07-12T09:00:14-04:00</published><updated>2019-07-12T09:00:14-04:00</updated><id>http://localhost:4000/Keto-Chocolate-Milkshake</id><content type="html" xml:base="http://localhost:4000/Keto-Chocolate-Milkshake/">&lt;p&gt;&lt;img src=&quot;/images/recipes/milkshake.jpg&quot; alt=&quot;Picture&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;2 Cups Ice&lt;/li&gt;
+  &lt;li&gt;3 Tbsp &lt;a href=&quot;https://amzn.to/2l2Cern&quot;&gt;Swerve&lt;/a&gt;, or similar Keto confectioners sugar&lt;/li&gt;
+  &lt;li&gt;3/4 Cup Heavy Whipping Cream&lt;/li&gt;
+  &lt;li&gt;1.5 Cups Almond Milk&lt;/li&gt;
+  &lt;li&gt;2 scoops &lt;a href=&quot;https://amzn.to/2l2Cern&quot;&gt;Protein Powder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;instructions&quot;&gt;Instructions&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Put everything in blender&lt;/li&gt;
+  &lt;li&gt;Blend&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Pros and Cons of Working From Home</title><link href="http://localhost:4000/Pros-and-Cons-of-Working-From-Home/" rel="alternate" type="text/html" title="Pros and Cons of Working From Home" /><published>2019-07-10T09:00:14-04:00</published><updated>2019-07-10T09:00:14-04:00</updated><id>http://localhost:4000/Pros-and-Cons-of-Working-From-Home</id><content type="html" xml:base="http://localhost:4000/Pros-and-Cons-of-Working-From-Home/">&lt;p&gt;I’ve been working from home full time for over 2.5 years, and it is a major benefit of my current position. Remote work offers some great benefits, but also some notable cons.&lt;/p&gt;
 
 &lt;h1 id=&quot;pros&quot;&gt;Pros&lt;/h1&gt;
 
@@ -275,7 +342,7 @@
 
 &lt;h3 id=&quot;desserts&quot;&gt;Desserts&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drdavinahseats.com/recipes/keto-mudslide&quot;&gt;Milkshake&lt;/a&gt; - My favorite keto dessert.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rskelton.com/Keto-Chocolate-Milkshake/&quot;&gt;Chocolate Milkshake&lt;/a&gt; - My favorite keto dessert.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mooreorlesscooking.com/2015/06/17/lo-carb-pudding-dessert/&quot;&gt;Pudding&lt;/a&gt; - We make this weekly.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/9ur8un/keto_pecan_pie/&quot;&gt;Pecan Pie&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://rskelton.com/keto-cookie-dough-balls/&quot;&gt;Cookie Dough Balls&lt;/a&gt;&lt;/li&gt;
@@ -859,77 +926,4 @@ Finally, I want to do a final review on the scratches on the targa top that go d
   &lt;li&gt;Address: &lt;a href=&quot;https://www.google.com/maps/place/102+Palm+Cir,+Melbourne,+FL+32940/@28.1924181,-80.6625654,17z/data=!3m1!4b1!4m5!3m4!1s0x88de051482b308c7:0x14521373bab1ecfe!8m2!3d28.1924181!4d-80.6603714&quot;&gt;102 Palm Cir Palm Shores, Fl 32940&lt;/a&gt;, owner is Brian Rogers, her father.&lt;/li&gt;
   &lt;li&gt;They had been dating for 4 months at the time of the vandalism, and are still dating as of the writing of this post.&lt;/li&gt;
   &lt;li&gt;FIT student/cheerleader/Publix cashier.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">New Lexus Key</title><link href="http://localhost:4000/New-Lexus-Keys/" rel="alternate" type="text/html" title="New Lexus Key" /><published>2019-02-07T11:00:14-05:00</published><updated>2019-02-07T11:00:14-05:00</updated><id>http://localhost:4000/New-Lexus-Keys</id><content type="html" xml:base="http://localhost:4000/New-Lexus-Keys/">&lt;p&gt;&lt;img src=&quot;/images/lexus2/keys.jpg&quot; alt=&quot;Keys&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I fixed the 2 keys for my Lexus. The battery in both keys was dead, so the remote didn’t work. The screws to get the battery out were stripped, so I have to destroy each case to get in. &lt;a href=&quot;https://www.ajtdesign-llc.com/online-store/Injection-Fob-2008-2014-FJ-Cruiser-BLACK-p109350070&quot;&gt;AJT Designs&lt;/a&gt; makes some cool 3D printed key fob cases. The GX 470 uses the same key fob as the FJ Cruiser, so I ordered 2 of them in different color combos, seen above. I also installed new &lt;a href=&quot;https://amzn.to/2MU7wuz&quot;&gt;CR1616&lt;/a&gt; batteries, and both keys work perfect now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/parking.jpg&quot; alt=&quot;Parking&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also found out this thing is difficult to park, and ordered a new 9” head unit to replace the stock radio.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Cleaning Headlights and Other Improvements on the Lexus</title><link href="http://localhost:4000/Cleaning-Headlights-and-other-improvements-on-the-Lexus/" rel="alternate" type="text/html" title="Cleaning Headlights and Other Improvements on the Lexus" /><published>2019-01-28T11:00:14-05:00</published><updated>2019-01-28T11:00:14-05:00</updated><id>http://localhost:4000/Cleaning-Headlights-and-other-improvements-on-the-Lexus</id><content type="html" xml:base="http://localhost:4000/Cleaning-Headlights-and-other-improvements-on-the-Lexus/">&lt;p&gt;&lt;img src=&quot;/images/lexus2/in_process.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve cleaned the headlights on my Lexus, using toothpaste and car wax. Materials included a tube of toothpaste with baking soda, some wax, an old toothbrush, and some rags. Simply spread the toothpaste around the headlights in a circular motion, similar to waxing. Let it sit for a few minutes, then wipe off with some damp rags. Then wax your headlights to apply a sealant on your lights. Toothpaste is not a good sealant.&lt;/p&gt;
-
-&lt;p&gt;Before Pictures
-&lt;img src=&quot;/images/lexus2/before_L.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/before_L_F.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/before_R.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Materials
-&lt;img src=&quot;/images/lexus2/materials.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/toothpaste.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/in.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/in_process.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After Removing Toothpaste and Waxing
-&lt;img src=&quot;/images/lexus2/after_L.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/after_R.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/after_L_F.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/after_R_F.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I noticed a huge difference on the fog lights, which were really cloudy. The headlights themselves improved some, but they weren’t that bad to start with.&lt;/p&gt;
-
-&lt;p&gt;I also installed a new &lt;a href=&quot;https://amzn.to/2MBqzcI&quot;&gt;gas cap&lt;/a&gt;, which got rid of a few engine error codes, and some new &lt;a href=&quot;https://amzn.to/2RSoajZ&quot;&gt;hood struts&lt;/a&gt;. The hood fell on me while I was changing some bulbs the other week, and I didn’t want that to happen again. The hood struts took about 20 minutes to change, and I needed a 12mm socket.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/lexus2/hood.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;
-&lt;img src=&quot;/images/lexus2/hood2.jpg&quot; alt=&quot;Clean Headlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Parts:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2MBqzcI&quot;&gt;Toyota Gas Cap&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2RSoajZ&quot;&gt;BOXI Hood struts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Exterior Lights</title><link href="http://localhost:4000/Lexus-GX470-Exterior-Lights/" rel="alternate" type="text/html" title="Lexus GX470 Exterior Lights" /><published>2019-01-15T11:00:14-05:00</published><updated>2019-01-15T11:00:14-05:00</updated><id>http://localhost:4000/Lexus-GX470-Exterior-Lights</id><content type="html" xml:base="http://localhost:4000/Lexus-GX470-Exterior-Lights/">&lt;p&gt;&lt;img src=&quot;/images/lexus/lights4.jpg&quot; alt=&quot;All&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I wrote about &lt;a href=&quot;https://rskelton.com/Lexus-GX470-LED-Interior-Lights/&quot;&gt;installing new Interior LEDs&lt;/a&gt; on my Lexus GX470, and here’s a bit about exterior lights. I installed new low beams, high beams, daytime running lamps, fog lights, and reverse lights. The install of all of these lights took about an hour. For the front lights, you just have to remove a few engine covers, and for the reverse lights, you have to remove the rear door cover. The fog lights were the most difficult, as you have to get under the car with a 10mm socket.&lt;/p&gt;
-
-&lt;p&gt;I was very happy with the outcome - for under $110, you get a higher end look out of your vehicle, but also much better visibility. The reverse lights and high beams are incredible. My only complaint was that the fogs were yellower than I’d hoped.&lt;/p&gt;
-
-&lt;p&gt;Here’s a list of lights I used, you need 2 of each bulb:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2SUTGdu&quot;&gt;H11 - Low Beams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2FyBJgO&quot;&gt;9005 - High Beams&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2sv2Dyq&quot;&gt;H3 - Fog Lights&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2SWAmN5&quot;&gt;7440 - Reverse Lights&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;194 - Daytime Running Lights&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Low Beams Only
-&lt;img src=&quot;/images/lexus/lights1.jpg&quot; alt=&quot;Low&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;High Beams - these give amazing visibility when driving!
-&lt;img src=&quot;/images/lexus/lights2.jpg&quot; alt=&quot;High&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Daytime Running Lights only
-&lt;img src=&quot;/images/lexus/lights3.jpg&quot; alt=&quot;DRL&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Low Beams and Fogs
-&lt;img src=&quot;/images/lexus/lights4.jpg&quot; alt=&quot;All&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’d like to thank the kind members of the &lt;a href=&quot;https://www.facebook.com/groups/LexusGXOR&quot;&gt;GXOR Facebook group&lt;/a&gt; for their suggestions. &lt;a href=&quot;http://www.pfranleds.com/gx-470-1/&quot;&gt;Here&lt;/a&gt; is a handy website for all the light bulbs in a GX470.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
