@@ -24,6 +24,11 @@ rskelton.com currently uses the following technologies, and drew inspiration fro
 ----
 
 I also own the following websites:
-* [Beer Tasting Brevard](https://beertastingbrevard.com) - a beer tasting company website that I started. It is hosted using a static S3 bucket, AWS Cloudfront for SSL, and Route 53 for DNS. I also have some Javascript on the site that uses Instagram API to pull new images from [Instagram](https://www.instagram.com/beertastingbrevard). This way, I never have to manually update pictures on the website, new images are automatically populated from Instagram posts.
 * [Robert's Epiphone Valve Jr Mods](http://robertsvalvejrmods.blogspot.com) - Hosted with Blogspot, this was an Electrical Engineering undergrad project, I made a bunch of modifications to a guitar amp and documented them on this site.
-* [Europe Travel Blog](http://robertandashleightakeeurope.blogspot.com) - Hosted with Blogspot, this is a 2013 Europe travel blog. If I hadn't made these 2 blogs using Blogspot, I'm 100% sure I would have tried to change hosts 10 times and lost all my content over the last 5 years. Blogspot isn't fancy or pretty, but I'm glad I used it back then. 
+* [Europe Travel Blog](http://robertandashleightakeeurope.blogspot.com) - Hosted with Blogspot, this is a 2013 Europe travel blog. If I hadn't made these 2 blogs using Blogspot, I'm 100% sure I would have tried to change hosts 10 times and lost all my content over the last 5 years. Blogspot isn't fancy or pretty, but I'm glad I used it back then.
+
+----
+
+Former websites
+* Beer Tasting Brevard - a beer tasting company website that I started. It was hosted using a static S3 bucket, AWS Cloudfront for SSL, and Route 53 for DNS. I also had some Javascript on the site that uses the Instagram API to pull new images from the Instagram I made for this page. This way, I never had to manually update pictures on the website, new images were automatically populated from Instagram posts.
+* Citrus Renovations - WordPress blog hosted on a DigitalOcean droplet where I detailed home renovations. Most of that content has been migrated to this blog.
