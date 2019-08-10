@@ -5,7 +5,7 @@ date:   2019-08-09 7:00:14 -0400
 categories: cars
 ---
 
-![Divider](/images/divider/24.jpg)
+![Divider](/images/divider/26.jpg)
 
 I have a big dog, Bentley, a 75 pound lab mix, who loves being in the front of the GX when I'm driving. Only issue is, he's a 75 pound dog. So I wanted a webbing divider to keep him in the 3rd row area, but the only one on the market that is made to fit the GX starts at $180! I used [this product from Raingler](https://raingler.com/collections/lexus-heavy-duty-cargo-netting/products/lexus-gx-j120-barrier-divider) as my inspiration, and started to plan how to make my own.
 
@@ -90,3 +90,9 @@ It took about 3 hours and $60 of parts to build a webbing barrier that is perfec
 Any questions, feel free to comment, or ask me in the [GXOR Facebook group](https://www.facebook.com/groups/LexusGXOR/?ref=group_header).
 
 ![Divider](/images/divider/dogs.jpg)
+
+Update, 1 day later: I had to add 2 more vertical strips, since Bentley jumped through them once he saw we had Chick-fil-A in the front seat.
+
+![Divider](/images/divider/25.jpg)
+
+![Divider](/images/divider/26.jpg)
