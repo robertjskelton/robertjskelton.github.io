@@ -19,7 +19,9 @@ In spot 1 there is a blue/white cord, and in spot 2 there is a black/white cord.
 
 ![Radar](/images/radar/2.jpg)
 
-Put your power from the radar cord (red) into spot 1 with the blue/white cord. Put the ground (black) into spot 2, the black/white cord. I then wrapped a bit of black electrical tape around the power cord and the other wires running into the mirror, to keep everything from moving around too much. Plug in your radar detector.
+Put your power from the radar cord (red) into spot 1 with the blue/white cord. Put the ground (black) into spot 2, the black/white cord. The prings from the [RJ11 power cord](https://amzn.to/2pSNAke) should fit snug.
+
+I then wrapped a bit of black electrical tape around the power cord and the other wires running into the mirror, to keep everything from moving around too much. Plug in your radar detector.
 
 You have power when the car is on, and the power drops when the car is turned off. Perfect.
 
