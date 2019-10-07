@@ -13,18 +13,20 @@ This is a post for my own knowledge, to keep track of what colors I've painted w
 
 * Master Bedroom, Accent Wall - SW Naval Infinity, SW6244 Eggshell Ultra Deep.
 
-* Master Suite, everything else - SW Laid-back Beige, HGSW3127.
+* Master Suite - SW Laid-back Beige, HGSW3127.
 
-* "Drum Room", multi-purpose room attached to the kitchen - HC141 Cemented Deal, Sherwin Williams. This is the only paint I've bought an actual paint store, as opposed to Lowe's or Home Depot. Sherwin Williams had paint 40% off.
+* Master closet - HC141 Cemented Deal, Sherwin Williams.
+
+* Kitchen - HC141 Cemented Deal, Sherwin Williams.
 
 * Office - Behr Pro Fresh Croissant, Eggshell, PR334.
 
 * Laundry Room - SW Swimming Eggshell, SW6764.
 
-* Alex's Room - Behr Pro PR333, Exotic Blossom Eggshell.
+* Alex's Room - Behr Pro PR333, Exotic Blossom Eggshell. To be changed.
 
 * Primer - Kilz Pro-X Interior Primer, P10. I do 2 coats of this when converting brown wood to white.
 
 * Trim - Behr Marquee Interior Gloss Enamel,  Semi-Brilliant, green can. I finish baseboards and other wood trim in a coat or two of this.
 
-* Exterior trim - Brevard Recycles Harmony, Exterior Latex. This was free paint from Ace Hardware.
+* Ceilings - Valspar flat ceiling paint. 
