@@ -10,14 +10,14 @@ categories: cars
 I installed ditch lights in my GX today, it took about 3 hours and $250.
 
 
-Parts Bought
-* [GX470 Rago Ditch Mounts](https://www.ragofabrication.com/collections/gx470/products/2002-2009-1st-generation-lexus-gx470-ditch-light-brackets-1)
+# Parts Bought
+* [Rago Fabrication GX470 Ditch Mounts](https://www.ragofabrication.com/collections/gx470/products/2002-2009-1st-generation-lexus-gx470-ditch-light-brackets-1)
 * [2x Baja Squadron Sport LED ](https://amzn.to/31vmj4C)
 * [1x Add a Circuit Tap](https://amzn.to/2VYJoeI)
 
 ![Ditch Lights](/images/dl/1.jpg)
 
-At the time of purchase, Rago was having a sale. I bought the ditch brackets and Baja Squadron Sport pods with wiring harness for $235. You could do this install with any set of LED pods, but you'll have to make your own wiring harness (with a fuse). The Rago mounts are great, so definitely use those.
+At the time of purchase, [Rago Fabrication](https://www.ragofabrication.com/) was having a sale. I bought the ditch brackets and Baja Squadron Sport pods with wiring harness for $235. You could do this install with any set of LED pods, but you'll have to make your own wiring harness (with a fuse). The Rago mounts are great, so definitely use those.
 
 Alright, here's how to do it. First, install the brackets from Rago. This was a required first for me, since my brackets got here five days before my lights and wiring harness. I followed [this video](https://www.youtube.com/watch?v=1F9legl29M4) to install the brackets, just take 1 bolt out at a time to make the hood not move.
 
