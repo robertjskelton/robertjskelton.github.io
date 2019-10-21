@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-16T17:31:15-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">Lexus GX470 Blackout All Chrome</title><link href="http://localhost:4000/GX470-Blackout-All-Chrome/" rel="alternate" type="text/html" title="Lexus GX470 Blackout All Chrome" /><published>2019-10-16T10:00:14-04:00</published><updated>2019-10-16T10:00:14-04:00</updated><id>http://localhost:4000/GX470-Blackout-All-Chrome</id><content type="html" xml:base="http://localhost:4000/GX470-Blackout-All-Chrome/">&lt;p&gt;&lt;img src=&quot;/images/blackout/10.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-21T18:16:56-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">Lexus GX470 Ditch Lights Install</title><link href="http://localhost:4000/GX470-Ditch-Light-Install/" rel="alternate" type="text/html" title="Lexus GX470 Ditch Lights Install" /><published>2019-10-21T07:00:14-04:00</published><updated>2019-10-21T07:00:14-04:00</updated><id>http://localhost:4000/GX470-Ditch-Light-Install</id><content type="html" xml:base="http://localhost:4000/GX470-Ditch-Light-Install/">&lt;p&gt;&lt;img src=&quot;/images/dl/26.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I installed ditch lights in my GX today, it took about 3 hours and $250.&lt;/p&gt;
+
+&lt;p&gt;Parts Bought&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ragofabrication.com/collections/gx470/products/2002-2009-1st-generation-lexus-gx470-ditch-light-brackets-1&quot;&gt;GX470 Rago Ditch Mounts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/31vmj4C&quot;&gt;2x Baja Squadron Sport LED &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;1x Add a Circuit Tap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/1.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the time of purchase, Rago was having a sale. I bought the ditch brackets and Baja Squadron Sport pods with wiring harness for $235. You could do this install with any set of LED pods, but you’ll have to make your own wiring harness (with a fuse). The Rago mounts are great, so definitely use those.&lt;/p&gt;
+
+&lt;p&gt;Alright, here’s how to do it. First, install the brackets from Rago. This was a required first for me, since my brackets got here five days before my lights and wiring harness. I followed &lt;a href=&quot;https://www.youtube.com/watch?v=1F9legl29M4&quot;&gt;this video&lt;/a&gt; to install the brackets, just take 1 bolt out at a time to make the hood not move.&lt;/p&gt;
+
+&lt;p&gt;Next, put the lights on the brackets, follow the instructions there.&lt;/p&gt;
+
+&lt;p&gt;Then, take apart all the plastic in your engine, if you still have it. The plastic that is. I hope you still have the engine. I took off the engine cover in order to remove the very back plastic piece that was hiding some wiring.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/2.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/3.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lay your wiring harness in place, you can even hook it up. You can take the red to the positive terminal and black to the negative terminal of your battery to test the harness and lights, just make sure the switch is one.&lt;/p&gt;
+
+&lt;p&gt;Now here comes what I thought was the hardest part - getting part of the wiring harness through the firewall. I decided to use the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt;, so I don’t plug directly in to the battery (which is possible). The part of the harness that connects to the splitter that plugs both lights in, I fed that part through the firewall from the cabin.&lt;/p&gt;
+
+&lt;p&gt;To do that, I cut a hole in the rubber nipple (where you see the white coat hanger in the pictures below) in the engine compartment on the firewall grommet thing. This is made for wiring expansions anyways. Then, under the drivers seat, push the wiring up through the hole that leads to the engine compartment. I found it MUCH easier to remove the plug (leaving just wiring and connections) and to tape those wires to a wire hanger that had already been pushed through the firewall.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/5.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/6.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/7.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/8.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/9.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alright, got that done? Sweet. Bet it took a minute. Now you can make sure everything works. Plug in the lights to the harnesses, the black to a ground, and the red to power. I pulled back the plastic by the drivers left footwell to use a ground bolt there, you can see in the top left of the picture below. Then I used the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt; to tap the 30A drivers power seat fuse, which is in the small fuse box under the steering wheel. The switch should turn on the lights, and when the lights are on the switch should light up red. To hook up the included harness to the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt;, snip the end off the end of the red wire that was included, expose some of the copper using wire cutters, then push that wire into the end of the tap. Crimp the connection using some elbow grease and pliers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/10.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/11.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For your switch in the cabin, I had to remove the wiring for it to sit snug in its newly drilled hole. To do this, unplug all the wires (remember where they are), then run the wires up from the back of the hole. Then plug those wires back into the switch, out of the plastic, then you can put the switch where the hole is. I made my hole a little bit too big, so you can use tape or velcro or caulk or basically anything to make it a little more snug.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/12.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/13.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/14.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/15.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What a terrible hole.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/16.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/17.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/18.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/19.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, just make everything pretty. I ran the interior wiring behind the plastic footwell. In the engine compartment, I ran the wiring for each light under the plastic piece by the windshield, so very little of the wiring is exposed. This was a little difficult to do, but looks a lot better. I also used zip ties to keep the new electrical running next to the old electrical, and behind that plastic panel I mentioned earlier. Reassemble your engine plastic pieces, close up the interior pieces, you’ve got some bright lights!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/20.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/21.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/22.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/24.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The reason my install took so long was because I broke the connectors when I was putting the switch back together inside the hole, and had to crimp some new ends. Also I blew a fuse when testing. Then again, it’s electrical in a car. Have you ever done a electrical project in your car and NOT blown a fuse. Me either. The nice thing about the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt; that I linked is that it comes with lots of extra fuses, so I just replaced it with a 5A fuse of the same size.&lt;/p&gt;
+
+&lt;p&gt;As far as the products, the Rago mounts fit perfect. You can have the hood opened or closed and the lights never touch your windshield. Some videos I saw complain about the wiring harness being too short, but it was long enough for my GX. The lights seem great so far, SUPER bright.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dl/23.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
+&lt;img src=&quot;/images/dl/25.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If I were to make this nicer, what I would have done is buy a new plate that converts your existing switch panel to have one extra blank from &lt;a href=&quot;https://sbeprecision.com/product/gx470-mirror-switch-plate-with-blanks-plus-2-switch-openings/?fbclid=IwAR2135GD3VnZ60hwcgVjCgGwLRl3IdyQAwuM_xPr2Y2IB22XYZAg6pRJnuU&quot;&gt;SBE Precision Products&lt;/a&gt;, and a new &lt;a href=&quot;https://www.ragofabrication.com/collections/led-wiring-and-accessories/products/toyota-factory-switch-square?variant=40556182663&quot;&gt;Toyota OEM looking ditch light switch&lt;/a&gt;. That would have added $70 to my install just for a nicer looking switch, so I didn’t. If you go that route, &lt;a href=&quot;https://www.youtube.com/watch?v=6nWmIKTCtkY&quot;&gt;here is a good video&lt;/a&gt; on how to do the wiring - it is a little bit different but your switch is backlit, which is fancy.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Blackout All Chrome</title><link href="http://localhost:4000/GX470-Blackout-All-Chrome/" rel="alternate" type="text/html" title="Lexus GX470 Blackout All Chrome" /><published>2019-10-16T10:00:14-04:00</published><updated>2019-10-16T10:00:14-04:00</updated><id>http://localhost:4000/GX470-Blackout-All-Chrome</id><content type="html" xml:base="http://localhost:4000/GX470-Blackout-All-Chrome/">&lt;p&gt;&lt;img src=&quot;/images/blackout/10.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I had already &lt;a href=&quot;https://rskelton.com/Plasti-Dip-GX470-Grill/&quot;&gt;blacked out the front grill&lt;/a&gt; on my GX with &lt;a href=&quot;https://amzn.to/2H7U2dj&quot;&gt;Plasti Dip&lt;/a&gt;, and it is holding up really well and looks great, so I figured I would replace the rest of the chrome throughout the vehicle.&lt;/p&gt;
 
@@ -455,78 +525,4 @@ Plug your USB drive into the USB slot either behind the dash, or under the cente
 &lt;p&gt;&lt;img src=&quot;/images/cr/beer.jpg&quot; alt=&quot;Beer&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;other-things-to-know-about-costa-rica&quot;&gt;Other things to know about Costa Rica&lt;/h1&gt;
-&lt;p&gt;Bring a credit card with no foreign transaction fees, we used my Capital One Venture Card for everything. The drive from Papagayo (west coast) to San Jose has toll roads you have to pay with cash. You can pay with USD and get change back in colones, the local currency. When driving, there are many 1 lane bridges. There is a sign on one side that shows which side has to yield, and the side without a yield sign gets to go without yielding. The roads are all very windy. Our rental took diesel, and all of the gas stations were not self serve. They had an attendant who would fill you up. People who work in the hospitality and tourism industry in Costa Rica are very nice and, in general, have very good English. We did not know much Spanish, but only had to bring out Google Translate once. Download Google Maps and Google Translate for offline usage fore you go if you have limited international data, like we did. We used 0MB of data the whole week, since each hotel had Wifi.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Keto Recipe Collection</title><link href="http://localhost:4000/Keto-Recipe-Collection/" rel="alternate" type="text/html" title="Keto Recipe Collection" /><published>2019-06-17T09:00:14-04:00</published><updated>2019-06-17T09:00:14-04:00</updated><id>http://localhost:4000/Keto-Recipe-Collection</id><content type="html" xml:base="http://localhost:4000/Keto-Recipe-Collection/">&lt;p&gt;My wife and I have been doing a Keto diet for about 9 months. We have both lost over 30 pounds doing this diet. Since this involves cooking using lots of low carb recipes, I have bookmarked a large collection of recipes we like, here they are.&lt;/p&gt;
-
-&lt;h3 id=&quot;breakfast&quot;&gt;Breakfast&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ruled.me/jalapeno-popper-egg-cups/&quot;&gt;Jalapeño Popper Egg Cups&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;snacks&quot;&gt;Snacks&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.isavea2z.com/no-carb-cheese-wrap-folios-copycat-recipe/&quot;&gt;Cheese Wraps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wholesomeyum.com/recipes/8-ingredient-spinach-artichoke-dip-low-carb-gluten-free/&quot;&gt;Spinach Artichoke Dip&lt;/a&gt;- We dip &lt;a href=&quot;https://amzn.to/2KVZHVX&quot;&gt;Whisps&lt;/a&gt; into this.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ruled.me/bbq-bacon-wrapped-smokies/&quot;&gt;Bacon Wrapped Lil Smokies&lt;/a&gt; - If you omit the BBQ sauce, it has less carbs and is still great.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wholesomeyum.com/recipes/keto-low-carb-sushi-rolls-recipe-healthy/&quot;&gt;Sushi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;chicken&quot;&gt;Chicken&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://laughingspatula.com/pesto-mozzarella-and-tomato-stuffed-chicken-breasts/#wprm-recipe-container-5260&quot;&gt;Pesto Mozzarella and Tomato Stuffed Chicken Breast&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.delish.com/cooking/recipe-ideas/recipes/a51442/chicken-zucchini-alfredo-recipe/&quot;&gt;Chicken Zucchini Alfredo&lt;/a&gt; - If you have a mandolin, you can cut up zucchini to make pasta that’s amazing.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/b7uso3/keto_chicken_parm/&quot;&gt;Chicken Parmesan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/aktsqw/the_best_keto_butter_chicken_over_cauliflower/&quot;&gt;Indian Style Butter Chicken over Cauliflower Rice&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/bnxnwj/spicy_thai_peanut_chicken/&quot;&gt;Thai Peanut Chicken&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.savorylotus.com/pesto-chicken-avocado-salad/&quot;&gt;Pesto Chicken Avocado Salad&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/a4g6iw/creamy_tuscan_chicken_with_roasted_asparagus/&quot;&gt;Tuscan Chicken&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/9ag2pw/bacon_avocado_and_chicken_sandwich/?st=JLB65CHQ&amp;amp;sh=24d06f0a&quot;&gt;Bacon, Avocado, Chicken Sandwich&lt;/a&gt; - Using the &lt;a href=&quot;https://www.reddit.com/r/GifRecipes/comments/9scjzq/lowcarb_keto_bagels_fathead_dough/e8nph5x/&quot;&gt;fathead buns&lt;/a&gt; recipe in the link below.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;beef&quot;&gt;Beef&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.delish.com/cooking/recipe-ideas/recipes/a52731/cheese-taco-shells-recipe/&quot;&gt;Cheese Taco Shells&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lowcarbmaven.com/low-carb-taco-seasoning-keto-gluten-free/&quot;&gt;Taco Seasoning&lt;/a&gt; - Brown some beef with this and put it into those cheese taco shells, you’ve got Taco night.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/9h93rf/guacamole_bacon_burger_on_cheesebuns/&quot;&gt;Guac Bacon Burger&lt;/a&gt; - Also using the &lt;a href=&quot;https://www.reddit.com/r/GifRecipes/comments/9scjzq/lowcarb_keto_bagels_fathead_dough/e8nph5x/&quot;&gt;fathead buns&lt;/a&gt; recipe below.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;crab&quot;&gt;Crab&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.savorytooth.com/crab-stuffed-mushrooms/&quot;&gt;Crab Stuffed Mushroom&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lowcarbyum.com/keto-crab-cakes/&quot;&gt;Crab Cakes&lt;/a&gt; - This is our most made meal. We use Alaskan faux crab (krab), and I just brown it in a pan, no making cakes. But the combination of ingredients here is great.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fish&quot;&gt;Fish&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dietdoctor.com/recipes/keto-thai-fish-curry-coconut&quot;&gt;Coconut Curry Thai Fish&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.allrecipes.com/recipe/228056/parmesan-crusted-tilapia-fillets/&quot;&gt;Parmesan Crusted Tilapia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;shrimp&quot;&gt;Shrimp&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://keto-daily.com/keto-sheet-pan-shrimp-recipe/?fbclid=IwAR0zDUl6Q5PvkRquoFq99Xwzjjanm02ZhBHrzbuPznWzzozyDNafztqTc1M&quot;&gt;Sheet Pan Cajun Shrimp&lt;/a&gt; - I usually add some Andouille sausage to this.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/c1mr1y/crispy_shrimp_0g_carbs/&quot;&gt;Crispy Shrimp&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;other&quot;&gt;Other&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/GifRecipes/comments/9scjzq/lowcarb_keto_bagels_fathead_dough/e8nph5x/&quot;&gt;Fathead Buns&lt;/a&gt; - I make these all the time, and they taste great for a week! I usually make these into balls to make buns, instead of bagels.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://culinarylion.com/recipes/zucchini-fried-ravioli/&quot;&gt;Zucchini Fried Ravioli&lt;/a&gt; - This is our absolute favorite recipe, period. But it’s really annoying and time consuming to make, so I don’t make it often.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/409b7q/homemade_innoutinspired_animal_style_salad/&quot;&gt;In N Out Style Salad&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wholesomeyum.com/recipes/baked-healthy-buffalo-cauliflower-bites-wings-recipe/&quot;&gt;Buffalo Cauliflower Bites&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/99p88p/lasagna_stuffed_portobello_mushroom_with_bacon/&quot;&gt;Lasagna Stuffed Mushrooms&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;desserts&quot;&gt;Desserts&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rskelton.com/Keto-Chocolate-Milkshake/&quot;&gt;Chocolate Milkshake&lt;/a&gt; - My favorite keto dessert.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mooreorlesscooking.com/2015/06/17/lo-carb-pudding-dessert/&quot;&gt;Pudding&lt;/a&gt; - We make this weekly.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/9ur8un/keto_pecan_pie/&quot;&gt;Pecan Pie&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rskelton.com/keto-cookie-dough-balls/&quot;&gt;Cookie Dough Balls&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://prettypies.com/recipe/low-carb-chocolate-pizza/&quot;&gt;Chocolate Pizza&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/bj4dtu/snickerdoodle_crepes/&quot;&gt;Snickerdoodle Crepes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/ketorecipes/comments/bxgfgh/peanut_butter_and_chocolate_mug_cake_no_flour/&quot;&gt;Peanut Butter and Chocolate Mug Cake&lt;/a&gt; - We use low sugar peanut butter instead of PB2.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lowcarbspark.com/keto-lava-cake/&quot;&gt;Chocolate Lava Mug Cake&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hip2keto.com/recipes/3-minute-keto-cinnamon-roll-mug-cake/&quot;&gt;Cinnamon Roll Mug Cake&lt;/a&gt; - Noticing a trend with the mug cakes?&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wholesomeyum.com/recipes/low-carb-keto-cream-cheese-frosting-recipe/&quot;&gt;Cream Cheese Frosting&lt;/a&gt; - Use this frosting recipe on the cinnamon roll above.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://peaceloveandlowcarb.com/keto-pumpkin-spice-chocolate-chip-cookies/&quot;&gt;Pumpkin Spice Chocolate Chip Cookies&lt;/a&gt; - October and November only.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">My wife and I have been doing a Keto diet for about 9 months. We have both lost over 30 pounds doing this diet. Since this involves cooking using lots of low carb recipes, I have bookmarked a large collection of recipes we like, here they are.</summary></entry></feed>
+&lt;p&gt;Bring a credit card with no foreign transaction fees, we used my Capital One Venture Card for everything. The drive from Papagayo (west coast) to San Jose has toll roads you have to pay with cash. You can pay with USD and get change back in colones, the local currency. When driving, there are many 1 lane bridges. There is a sign on one side that shows which side has to yield, and the side without a yield sign gets to go without yielding. The roads are all very windy. Our rental took diesel, and all of the gas stations were not self serve. They had an attendant who would fill you up. People who work in the hospitality and tourism industry in Costa Rica are very nice and, in general, have very good English. We did not know much Spanish, but only had to bring out Google Translate once. Download Google Maps and Google Translate for offline usage fore you go if you have limited international data, like we did. We used 0MB of data the whole week, since each hotel had Wifi.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
