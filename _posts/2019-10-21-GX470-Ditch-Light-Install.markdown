@@ -42,7 +42,11 @@ To do that, I cut a hole in the rubber nipple (where you see the white coat hang
 ![Ditch Lights](/images/dl/8.jpg)
 ![Ditch Lights](/images/dl/9.jpg)
 
-Alright, got that done? Sweet. Bet it took a minute. Now you can make sure everything works. Plug in the lights to the harnesses, the black to a ground, and the red to power. I pulled back the plastic by the drivers left footwell to use a ground bolt there, you can see in the top left of the picture below. Then I used the [Add a Circuit Tap](https://amzn.to/2VYJoeI) to tap the 30A drivers power seat fuse, which is in the small fuse box under the steering wheel. The switch should turn on the lights, and when the lights are on the switch should light up red. To hook up the included harness to the [Add a Circuit Tap](https://amzn.to/2VYJoeI), snip the end off the end of the red wire that was included, expose some of the copper using wire cutters, then push that wire into the end of the tap. Crimp the connection using some elbow grease and pliers.
+Alright, got that done? Sweet. Bet it took a minute. Now you can make sure everything works. Plug in the lights to the harnesses, the black to a ground, and the red to power. I pulled back the plastic by the drivers left footwell to use a ground bolt there, you can see in the top left of the picture below. Then I used the [Add a Circuit Tap](https://amzn.to/2VYJoeI) to tap the 30A drivers power seat fuse, which is in the small fuse box under the steering wheel. The switch should turn on the lights, and when the lights are on the switch should light up red.
+
+To hook up the included harness to the [Add a Circuit Tap](https://amzn.to/2VYJoeI), snip the end off the end of the red wire that was included, expose some of the copper using wire cutters, then push that wire into the end of the tap. Crimp the connection using some elbow grease and pliers. Pull the 30A from the drivers power seat slot and put it in the closer spot to the connector. Add another fuse in the next slot, this is the fuse for your ditch lights. 
+
+![Ditch Lights](/images/dl/update.jpg)
 
 ![Ditch Lights](/images/dl/10.jpg)
 ![Ditch Lights](/images/dl/11.jpg)
