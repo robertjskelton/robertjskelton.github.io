@@ -5,9 +5,9 @@ date:   2019-10-25 7:00:14 -0400
 categories: cars
 ---
 
-![Fog Lights](/images/fog/1.jpg)
+![Fog Lights](/images/fog/4.jpg)
 
-I tinted my fog lights on the GX yellow, it was pretty simple. Here's how to do it.
+I yellow tinted my fog lights on the GX, it was pretty simple. Here's how to do it.
 
 ![Fog Lights](/images/fog/1.jpg)
 
@@ -15,7 +15,7 @@ Take your fog lights off the car. This is a 10mm bolt behind each light, which c
 
 ![Fog Lights](/images/fog/2.jpg)
 
-Take them fogs to your work station. Clean the housing really well. Get out your tint, I used [this yellow tint from Amazon](https://amzn.to/32QXscE).
+Take the fogs to your work station. Clean the housing really well. Get out your tint, I used [this yellow tint from Amazon](https://amzn.to/32QXscE).
 
 Spray some water from a spray bottle on the lights, then apply the film, sticky side touching the lights. Spray some more water on the outside of the film, then squeegee the water out, using the included tool or a credit card, or similar.
 
