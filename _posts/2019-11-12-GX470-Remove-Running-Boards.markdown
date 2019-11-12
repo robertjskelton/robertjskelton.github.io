@@ -13,9 +13,9 @@ Before
 
 I removed the stock running boards on my Lexus GX470, now my SUV doesn't look as much like a soccer mom vehicle!
 
-For the drivers step, I completely remove the whole step, then re-attached the trim that makes the vehicle look finished. If you don't re-install that trim, you will have some exposed holes on the exterior, and it doesn't look as good, plus I've read that it can let water in your cabin. For the passenger running board, I knew how the step worked, so I actually cut the step off in place!
+For the drivers step, I completely removed the whole step, then re-attached the trim that makes the vehicle look finished. If you don't re-install that trim, you will have some exposed holes on the exterior, and it doesn't look as good, plus I've read that it can let water in your cabin. For the passenger running board, I knew how the step worked, so I actually cut the step off in place! Trimming the bottom part of the step off and not removing it from the car was definitely the best way to go.
 
-There are basically 3 mounts holding each step on the vehicle, each is held on with 3x 12mm bolts. You can see these mounts in the pictures below. Remove those, and reinsert them once the steps are removed so that the hole in the frame doesn't get gunked up.
+There are basically 3 mounts holding each step on the vehicle, each is held on with 3x 12mm bolts. You can see these mounts in the pictures below, hanging off the frame. Remove those, and reinsert them once the steps are removed so that the hole in the frame doesn't get gunked up.
 
 ![Running Boards](/images/steps/2.jpg)
 
