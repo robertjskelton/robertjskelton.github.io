@@ -162,7 +162,7 @@ They called me back another day later and said financing fell through, so I went
 If you check the [cars category](https://rskelton.com/category/cars/) of my website, I detail many of the mods I've been doing on my GX, I really love this car.
 
 ----
-### 9. 2013 Fiat 500
+### 10. 2013 Fiat 500
 * Bought: $20,000 / 19 miles
 * Sold: $2,000 / ~80,000 miles
 * MPG: 28/33, Mid grade gas
@@ -176,7 +176,7 @@ If you check the [cars category](https://rskelton.com/category/cars/) of my webs
 My wife's parents bought her this car in college. It was a decent little car for a while, it went almost 70,000 miles with not many issues. The last 10k miles we owned it, it went through 4 window regulators and the car died on her at work one day, ended up being a bushing in the shifter that prevented the car from starting. We decided it was time to upgrade her, and we bought her a...
 
 ----
-### 9. 2018 Ford Mustang Convertible
+### 11. 2018 Ford Mustang Convertible
 * Bought: $22,000 / 33,000 miles
 * Sold: Not yet, not for a while!
 * MPG: 21/32, premium gas
@@ -192,7 +192,7 @@ Sweet convertible Mustang! It has white paint with a rare red interior, there we
 We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fiat and Corvette over and traded them both in. It was really sad to see my C7 go, but at the same time, it was way too expensive of a car for me. I got a little upset not having a fun manual sports car though, so I bought myself a...
 
 ----
-### 9. 2004 Honda S2000
+### 12. 2004 Honda S2000
 * Bought: $10,000 / 85,000 miles
 * Sold: Not yet
 * MPG: 18/25, premium gas. Great smiles per gallon!
