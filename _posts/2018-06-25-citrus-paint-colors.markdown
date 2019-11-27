@@ -23,10 +23,12 @@ This is a post for my own knowledge, to keep track of what colors I've painted w
 
 * Laundry Room - SW Swimming Eggshell, SW6764.
 
-* Alex's Room - Behr Pro PR333, Exotic Blossom Eggshell. To be changed.
+* Alex's Room - HC141 Cemented Deal, Sherwin Williams.
+
+* Owen's Room / Guest Room - SW Laid-back Beige, HGSW3127.
 
 * Primer - Kilz Pro-X Interior Primer, P10. I do 2 coats of this when converting brown wood to white.
 
 * Trim - Behr Marquee Interior Gloss Enamel,  Semi-Brilliant, green can. I finish baseboards and other wood trim in a coat or two of this.
 
-* Ceilings - Valspar flat ceiling paint. 
+* Ceilings - Valspar flat ceiling paint.
