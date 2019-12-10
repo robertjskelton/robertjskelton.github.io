@@ -61,10 +61,10 @@ So those are the major steps. This took 6 weeks to complete the whole thing, and
 * Cabinet Hardware - $100 - [Brahmco](https://brahmco.com/). Super cheap hardware, I bought a decent amount of extras because so many of these broke on install.
 * Etc (oven cord, can light, transition piece, toilet seal) - $75
 
-Total = $25,430
+### Total = $25,430
 
 ![Kitchen](/images/kitchen/3.jpg)
 
-My goal was to be at 20-22k for a kitchen remodel. This would probably be close, since these costs also include re-tiling ~400 sq ft of hallway, laundry room, and bathroom, and re-texturing my whole house ceiling. Overall, I'm very happy with our new kitchen, and was well worth $25k spent. Our old kitchen had cabinets falling apart, multiple broken tiles, and a terrible tile countertop that was impossible to keep clean. Our new quartz is SO easy to keep clean and makes cooking more enjoyable.
+My goal was to be at 20-22k for a kitchen remodel. This would probably be close, since these costs also include re-tiling ~400 sq ft of hallway, laundry room, and bathroom, and re-texturing all of the popcorn ceiling. Overall, I'm very happy with our new kitchen and other rooms, and was well worth $25k spent. Our old kitchen had cabinets falling apart, multiple broken tiles, and a terrible tile countertop that was impossible to keep clean. Our new quartz is SO easy to keep clean and makes cooking more enjoyable.
 
 [Here is a link to an album](https://photos.app.goo.gl/G9fbve1XfvYaWzLD9) of the full remodel process, over 200 pictures!
