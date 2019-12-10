@@ -20,11 +20,15 @@ This step made so much dust, I changed the air filter in our house every day for
 * Remove old tile floors in hallway
 * Remove old tile floors in guest bathroom
 * Remove old tile floors in laundry room
+* Remove speakers in ceiling in kitchen and bedrooms
 
 ### Part 2: Get kitchen ready for cabinets
 This step took a really long time and progress was actually noticable.
-* Re-texture and paint ceiling in whole house
 * Re-route electrical that was in pantry column to other places
+* Re-route air pipe, since this was in the drop ceiling before
+* Replace any bad pieces of drywall
+* Replace holes from where speakers and drop ceiling were
+* Re-texture and paint ceiling in whole house
 * Re-tile kitchen
 * Re-tile hallway
 * Re-tile guest bathroom
