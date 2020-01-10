@@ -23,20 +23,20 @@ You can also view this data yourself, apparently even after you sell the car. So
 # Replication Steps
 Here are the steps to replicate this in the myChevrolet app.
 
-1. Open the app
+**1. Open the app**
 
 [App](/images/mychevy/2.jpg)
 
-2. Click Smart Driver
+**2. Click Smart Driver**
 
 ![App](/images/mychevy/3.jpg)
 
-3. Click More Trip Detail Views.
+**3. Click More Trip Detail Views.**
 ![App](/images/mychevy/4.jpg)
 ![App](/images/mychevy/6.jpg)
 ![App](/images/mychevy/7.jpg)
 
-4. Click timeline to see exact address
+**4. Click timeline to see exact address**
 ![App](/images/mychevy/9.jpg)
 
 You can also view other trips from the same day, or select other days to see location data and driving habits
