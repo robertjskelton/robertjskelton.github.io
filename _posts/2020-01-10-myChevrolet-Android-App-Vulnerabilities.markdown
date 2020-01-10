@@ -42,4 +42,4 @@ Here are the steps to replicate this in the myChevrolet app.
 You can also view other trips from the same day, or select other days to see location data and driving habits
 ![App](/images/mychevy/5.jpg)
 
-This is a major security flaw. Chevrolet and GM need a process to verify that owners of cars linked to app still own their car regularly. I have reported this security issue to GM on HackerOne.
+This is a major security flaw. Chevrolet and GM need a process to verify that owners of cars linked to app still own their car regularly. I have reported this security issue to [GM on HackerOne](https://hackerone.com/gm), there is no bug bounty for GM vulnerabilities.
