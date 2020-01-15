@@ -1,4 +1,152 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-27T12:10:04-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">How to Drive Cool Cars on a Budget [Updated November 2019]</title><link href="http://localhost:4000/drive-cool-cars-on-a-budget-2019/" rel="alternate" type="text/html" title="How to Drive Cool Cars on a Budget [Updated November 2019]" /><published>2019-11-27T08:05:14-05:00</published><updated>2019-11-27T08:05:14-05:00</updated><id>http://localhost:4000/drive-cool-cars-on-a-budget-2019</id><content type="html" xml:base="http://localhost:4000/drive-cool-cars-on-a-budget-2019/">&lt;p&gt;&lt;img src=&quot;/images/cars/all.jpg&quot; alt=&quot;Both&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-15T12:00:25-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">Honda S2000 Exterior LED Swap</title><link href="http://localhost:4000/S2000-Exterior-LED-Swap/" rel="alternate" type="text/html" title="Honda S2000 Exterior LED Swap" /><published>2020-01-15T10:20:14-05:00</published><updated>2020-01-15T10:20:14-05:00</updated><id>http://localhost:4000/S2000-Exterior-LED-Swap</id><content type="html" xml:base="http://localhost:4000/S2000-Exterior-LED-Swap/">&lt;p&gt;&lt;img src=&quot;/images/s2k/11.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I did the interior LEDs a few months ago (which also included a few exterior lights), but now I needed to swap my brights and marker lights. Here are the parts I used.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2qmq3sF&quot;&gt;High Beams: H1 x2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;Accent Light on Front Headlights: 194 x2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So to change these lights, you have to get your S2000 off the ground with the tires off, and pull off the inside liner. It is a huge pain to do this, here’s how to get the tires off and the car up in the air.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/s2k/3.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, you’ll need some &lt;a href=&quot;https://amzn.to/2QTtTnp&quot;&gt;ramps&lt;/a&gt;, some pieces of wood (I used old pieces of baseboards), and a &lt;a href=&quot;https://www.harborfreight.com/3-Ton-Low-Profile-Rapid-Pump-Floor-Jack-64264.html&quot;&gt;low profile jack&lt;/a&gt;. Put the wood in front of your ramps, then drive your car onto the wood and a little on to the ramp. Now you should be able to get the low profile jack under your car. I had to use some small wood blocks, or else the front bumper would have scraped my ramps. The jack is a low profile jack from Harbor Freight, but still is too high for the S2000 without being on some ramps. This car sits really low, even at stock height. Before you jack up your car, make sure you break the 19mm lug nuts on each wheel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/s2k/1.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;
+&lt;img src=&quot;/images/s2k/2.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jack up the car so it’s in the air now. Put some jack stands under it and take 1 wheel off. Peel off the wheel well liner (again, mine didn’t have one when I bought it). The marker light is just a simple 194 LED swap. The high beam is a little more difficult. It is the light closest to your engine. Disconnect the wiring harness to it, then remove the rubber gasket keeping it watertight.
+&lt;img src=&quot;/images/s2k/7.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/s2k/5.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;
+&lt;img src=&quot;/images/s2k/8.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you can release the metal clamp thing (super annoying) and remove the old bulb.
+&lt;img src=&quot;/images/s2k/9.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;
+&lt;img src=&quot;/images/s2k/10.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, place in the new bulb and try to work the clamp around it. Run the wiring out through the rubber gasket and place that gasket back on. Now plug in the red and black wires from the LED into the harness, and test your brights. If it doesn’t work, try reversing the polarity of your red and black wires, orientation matters! Once you’ve got it working, a little electrical tape would help, and run the wires back in place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/s2k/4.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;
+On the image above, the passenger high beam has been changed and the driver side bulb has not, for comparison.&lt;/p&gt;
+
+&lt;p&gt;Now you can place that wheel back on and repeat for the other side. Remove the jack stands, lower the jack, drive your car back off your ramps and wood blocks, and you’ve got some great high beams! Some people get mad saying “putting LEDs in projector housing is bad and blinds people”, but these are high beams anyways, they shouldn’t be on while you’re driving behind or towards someone anyways.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/s2k/11.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">myChevrolet Android App Vulnerabilities</title><link href="http://localhost:4000/myChevrolet-Android-App-Vulnerabilities/" rel="alternate" type="text/html" title="myChevrolet Android App Vulnerabilities" /><published>2020-01-10T11:00:14-05:00</published><updated>2020-01-10T11:00:14-05:00</updated><id>http://localhost:4000/myChevrolet-Android-App-Vulnerabilities</id><content type="html" xml:base="http://localhost:4000/myChevrolet-Android-App-Vulnerabilities/">&lt;p&gt;&lt;img src=&quot;/images/mychevy/1.jpg&quot; alt=&quot;App&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently sold my 2016 Corvette, and previously I had set up my car with the myChevrolet app on my Android phone. This app lets you lock and unlock your car, turn on the horn, and if your car is an automatic transmission (mine was a manual), you can remote start your car. Pretty sweet, right?&lt;/p&gt;
+
+&lt;p&gt;Well, it turns out you never lose access to your car, even after you sell it. I sold my Vette on October 29, 2019. It has been over 90 days since I sold my car to Sarasota Ford, and then they sold the car to another customer. However, I still have access to unlock and lock my old car, turn on the horn, and more importantly see the location of the car!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mychevy/8.jpg&quot; alt=&quot;App&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;background&quot;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Chevy and OnStar partner to sell you location data in the app, which I never paid for. However there is a feature of the app that lets you track your driving habits, in order to get discounts on insurance. The app will tell you when and where your car performed hard braking, hard acceleration, when you drove at night, etc. It can send this info to Progressive or other insurance providers to prove you drive safe, and should get a discount. This was useful info when I used Turo to rent my Vette, before the &lt;a href=&quot;https://rskelton.com/My-Turo-Claim-Horror-Story&quot;&gt;Great Turo Fiasco of 2019&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can also view this data yourself, apparently even after you sell the car. So I can see where and when my old Corvette was driven, where the new buyer lives, where the new buyer works, what locations the new buyer visits, all of which are shown in a censored screenshot below. The uncensored version shows me the full address. I can unlock the car. If it was an automatic transmission, I could also start the car.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mychevy/9.jpg&quot; alt=&quot;App&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;replication-steps&quot;&gt;Replication Steps&lt;/h1&gt;
+&lt;p&gt;Here are the steps to replicate this in the myChevrolet app.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Open the app&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/mychevy/2.jpg&quot;&gt;App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Click Smart Driver&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mychevy/3.jpg&quot; alt=&quot;App&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Click More Trip Detail Views.&lt;/strong&gt;
+&lt;img src=&quot;/images/mychevy/4.jpg&quot; alt=&quot;App&quot; /&gt;
+&lt;img src=&quot;/images/mychevy/6.jpg&quot; alt=&quot;App&quot; /&gt;
+&lt;img src=&quot;/images/mychevy/7.jpg&quot; alt=&quot;App&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Click timeline to see exact address&lt;/strong&gt;
+&lt;img src=&quot;/images/mychevy/9.jpg&quot; alt=&quot;App&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also view other trips from the same day, or select other days to see location data and driving habits
+&lt;img src=&quot;/images/mychevy/5.jpg&quot; alt=&quot;App&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a major security flaw. Chevrolet and GM need a process to verify that owners of cars linked to app still own their car regularly. I have reported this security issue to &lt;a href=&quot;https://hackerone.com/gm&quot;&gt;GM on HackerOne&lt;/a&gt;, there is no bug bounty for GM vulnerabilities.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Kitchen Remodel</title><link href="http://localhost:4000/Kitchen-Remodel/" rel="alternate" type="text/html" title="Kitchen Remodel" /><published>2019-12-10T11:00:14-05:00</published><updated>2019-12-10T11:00:14-05:00</updated><id>http://localhost:4000/Kitchen-Remodel</id><content type="html" xml:base="http://localhost:4000/Kitchen-Remodel/">&lt;p&gt;&lt;img src=&quot;/images/kitchen/1.jpg&quot; alt=&quot;Kitchen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The kitchen remodel. I’ve been dreading making this post because there is a lot of content, so here goes. We redid the 1980 kitchen in our house, and redid the layout, among other things. Everything. Here is all the tasks that the remodel consisted of.&lt;/p&gt;
+
+&lt;h3 id=&quot;part-1-demolition&quot;&gt;Part 1: Demolition&lt;/h3&gt;
+&lt;p&gt;This step made so much dust, I changed the air filter in our house every day for a few weeks. The vacuums got a workout.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Remove drop ceiling in Kitchen&lt;/li&gt;
+  &lt;li&gt;Remove built in pantry column in kitchen&lt;/li&gt;
+  &lt;li&gt;Remove all popcorn in house&lt;/li&gt;
+  &lt;li&gt;Remove cabinets in Kitchen&lt;/li&gt;
+  &lt;li&gt;Remove old tile floors in Kitchen&lt;/li&gt;
+  &lt;li&gt;Dig trench in kitchen floor to run conduit and electrical to new island&lt;/li&gt;
+  &lt;li&gt;Remove old tile floors in hallway&lt;/li&gt;
+  &lt;li&gt;Remove old tile floors in guest bathroom&lt;/li&gt;
+  &lt;li&gt;Remove old tile floors in laundry room&lt;/li&gt;
+  &lt;li&gt;Remove speakers in ceiling in kitchen and bedrooms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;part-2-get-kitchen-ready-for-cabinets&quot;&gt;Part 2: Get kitchen ready for cabinets&lt;/h3&gt;
+&lt;p&gt;This step took a really long time and progress was actually noticable.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Re-route electrical that was in pantry column to other places&lt;/li&gt;
+  &lt;li&gt;Re-route air pipe, since this was in the drop ceiling before&lt;/li&gt;
+  &lt;li&gt;Replace any bad pieces of drywall&lt;/li&gt;
+  &lt;li&gt;Replace holes from where speakers and drop ceiling were&lt;/li&gt;
+  &lt;li&gt;Re-texture and paint ceiling in whole house&lt;/li&gt;
+  &lt;li&gt;Re-tile kitchen&lt;/li&gt;
+  &lt;li&gt;Re-tile hallway&lt;/li&gt;
+  &lt;li&gt;Re-tile guest bathroom&lt;/li&gt;
+  &lt;li&gt;Re-tile laundry room&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/kitchen/2.jpg&quot; alt=&quot;Kitchen&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;part-3-kitchen-goes-in&quot;&gt;Part 3: Kitchen goes in!&lt;/h3&gt;
+&lt;p&gt;Finally had a usable kitchen, this part took about 4 weeks to get to. Was very happy to not be using a microwave on my back patio anymore.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Add custom cabinets to Kitchen&lt;/li&gt;
+  &lt;li&gt;Add electrical to island cabinet and back wall (between new pantry cabinets)&lt;/li&gt;
+  &lt;li&gt;Install old fridge and dishwasher&lt;/li&gt;
+  &lt;li&gt;Install new microwave and range&lt;/li&gt;
+  &lt;li&gt;Install counter top/sink&lt;/li&gt;
+  &lt;li&gt;Connect sink and disposal to water/drain&lt;/li&gt;
+  &lt;li&gt;Install tile backsplash - I did this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;part-4-final-touch-up&quot;&gt;Part 4: Final touch up&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Install cabinet handles - I did this.&lt;/li&gt;
+  &lt;li&gt;Cut and install shelf paper - Alex did this.&lt;/li&gt;
+  &lt;li&gt;Touch up paint basically every wall in the house - I did this.&lt;/li&gt;
+  &lt;li&gt;Re-install baseboards in kitchen - I did this.&lt;/li&gt;
+  &lt;li&gt;Caulk. So much caulk. - I did some of this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So those are the major steps. This took 6 weeks to complete the whole thing, and here is how the costs broke down.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cabinets - &lt;a href=&quot;https://www.facebook.com/waringbrotherscabinets/&quot;&gt;Waring Brothers Cabinets&lt;/a&gt; - $8550. Custom shaker white cabinets&lt;/li&gt;
+  &lt;li&gt;Labor - Josh and Jen of &lt;a href=&quot;https://www.facebook.com/atozcontemporarydesign/&quot;&gt;A to Z Contemporary Design&lt;/a&gt;- $9018. This number also included materials for the ceiling, like paint and texture. Josh and Jen and a few others did all the labor other than the few things noted.&lt;/li&gt;
+  &lt;li&gt;Countertops/sink - &lt;a href=&quot;https://www.facebook.com/Surfside-Granite-Quartz-324158218503088/&quot;&gt;Surfside Granite&lt;/a&gt; - $4460. Cambria Brittanica Quartz&lt;/li&gt;
+  &lt;li&gt;Appliances - new GE slide in range and microwave (I had bought a dishwasher and fridge over the previous years as old appliances broke) - $1115. I bought these from a website called ABT that I found on &lt;a href=&quot;https://rskelton.com/using-rakuten-for-more-cashback/&quot;&gt;Rakuten&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Permit - City of Palm Bay - $162&lt;/li&gt;
+  &lt;li&gt;Flooring, grout, thin set - $950. &lt;a href=&quot;https://www.homedepot.com/p/LifeProof-Blonde-Wood-6-in-x-24-in-Glazed-Porcelain-Floor-and-Wall-Tile-14-55-sq-ft-case-LP38624HD1PR/308527506&quot;&gt;6x24 LifeProof Blonde Wood&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Backsplash, grout, thin set - $700. &lt;a href=&quot;https://www.homedepot.com/p/Jeffrey-Court-Siberian-Gloss-11-625-in-x-11-75-in-x-8-mm-Glass-Mosaic-Tile-99520/202663565&quot;&gt;Siberian Glass Glass Tile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shelf Paper - $300&lt;/li&gt;
+  &lt;li&gt;Cabinet Hardware - $100 - &lt;a href=&quot;https://brahmco.com/&quot;&gt;Brahmco&lt;/a&gt;. Super cheap hardware, I bought a decent amount of extras because so many of these broke on install.&lt;/li&gt;
+  &lt;li&gt;Etc (oven cord, can light, transition piece, toilet seal) - $75&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;total--25430&quot;&gt;Total = $25,430&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/kitchen/3.jpg&quot; alt=&quot;Kitchen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My goal was to be at 20-22k for a kitchen remodel. This would probably be close, since these costs also include re-tiling ~400 sq ft of hallway, laundry room, and bathroom, and re-texturing all of the popcorn ceiling. Overall, I’m very happy with our new kitchen and other rooms, and was well worth $25k spent. Our old kitchen had cabinets falling apart, multiple broken tiles, and a terrible tile countertop that was impossible to keep clean. Our new quartz is SO easy to keep clean and makes cooking more enjoyable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://photos.app.goo.gl/G9fbve1XfvYaWzLD9&quot;&gt;Here is a link to an album&lt;/a&gt; of the full remodel process, over 200 pictures!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">How to Drive Cool Cars on a Budget [Updated November 2019]</title><link href="http://localhost:4000/drive-cool-cars-on-a-budget-2019/" rel="alternate" type="text/html" title="How to Drive Cool Cars on a Budget [Updated November 2019]" /><published>2019-11-27T08:05:14-05:00</published><updated>2019-11-27T08:05:14-05:00</updated><id>http://localhost:4000/drive-cool-cars-on-a-budget-2019</id><content type="html" xml:base="http://localhost:4000/drive-cool-cars-on-a-budget-2019/">&lt;p&gt;&lt;img src=&quot;/images/cars/all.jpg&quot; alt=&quot;Both&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of life’s biggest expenses is transportation, especially cars. I love cars, and love getting different cars. I get bored driving the same vehicle for more than a few years. You could imagine this would be expensive, but it doesn’t have to be. I’m 27 and have owned 12 cars, and I’ve not lost much money on them at all. The biggest downside is that you have to pay registration and taxes on every car you buy, but some of that can be tax deductible.&lt;/p&gt;
 
@@ -173,7 +321,7 @@
 &lt;p&gt;If you check the &lt;a href=&quot;https://rskelton.com/category/cars/&quot;&gt;cars category&lt;/a&gt; of my website, I detail many of the mods I’ve been doing on my GX, I really love this car.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;9-2013-fiat-500&quot;&gt;9. 2013 Fiat 500&lt;/h3&gt;
+&lt;h3 id=&quot;10-2013-fiat-500&quot;&gt;10. 2013 Fiat 500&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Bought: $20,000 / 19 miles&lt;/li&gt;
   &lt;li&gt;Sold: $2,000 / ~80,000 miles&lt;/li&gt;
@@ -189,7 +337,7 @@
 &lt;p&gt;My wife’s parents bought her this car in college. It was a decent little car for a while, it went almost 70,000 miles with not many issues. The last 10k miles we owned it, it went through 4 window regulators and the car died on her at work one day, ended up being a bushing in the shifter that prevented the car from starting. We decided it was time to upgrade her, and we bought her a…&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;9-2018-ford-mustang-convertible&quot;&gt;9. 2018 Ford Mustang Convertible&lt;/h3&gt;
+&lt;h3 id=&quot;11-2018-ford-mustang-convertible&quot;&gt;11. 2018 Ford Mustang Convertible&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Bought: $22,000 / 33,000 miles&lt;/li&gt;
   &lt;li&gt;Sold: Not yet, not for a while!&lt;/li&gt;
@@ -207,7 +355,7 @@
 &lt;p&gt;We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fiat and Corvette over and traded them both in. It was really sad to see my C7 go, but at the same time, it was way too expensive of a car for me. I got a little upset not having a fun manual sports car though, so I bought myself a…&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h3 id=&quot;9-2004-honda-s2000&quot;&gt;9. 2004 Honda S2000&lt;/h3&gt;
+&lt;h3 id=&quot;12-2004-honda-s2000&quot;&gt;12. 2004 Honda S2000&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Bought: $10,000 / 85,000 miles&lt;/li&gt;
   &lt;li&gt;Sold: Not yet&lt;/li&gt;
@@ -223,7 +371,7 @@
 &lt;p&gt;&lt;img src=&quot;/images/s2000/1.jpg&quot; alt=&quot;S2000&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they effected your financial plans? Leave them in the comments!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Honda S2000 LED Swap</title><link href="http://localhost:4000/S2000-LED-Swap/" rel="alternate" type="text/html" title="Honda S2000 LED Swap" /><published>2019-11-12T10:20:14-05:00</published><updated>2019-11-12T10:20:14-05:00</updated><id>http://localhost:4000/S2000-LED-Swap</id><content type="html" xml:base="http://localhost:4000/S2000-LED-Swap/">&lt;p&gt;&lt;img src=&quot;/images/s2000/1.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they effected your financial plans? Leave them in the comments!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Honda S2000 Interior LED Swap</title><link href="http://localhost:4000/S2000-Interior-LED-Swap/" rel="alternate" type="text/html" title="Honda S2000 Interior LED Swap" /><published>2019-11-12T10:20:14-05:00</published><updated>2019-11-12T10:20:14-05:00</updated><id>http://localhost:4000/S2000-Interior-LED-Swap</id><content type="html" xml:base="http://localhost:4000/S2000-Interior-LED-Swap/">&lt;p&gt;&lt;img src=&quot;/images/s2000/1.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently bought my 12th car, a 2004 Honda S2000, so I’ll be doing a few little convenience mods here and there. My first mod is always LEDs, which make the car brighter and more visible, and make it look like a more modern car. Here are the parts I used:&lt;/p&gt;
 
@@ -231,14 +379,12 @@
   &lt;li&gt;&lt;a href=&quot;https://amzn.to/2UQpLoh&quot;&gt;Map Lights: 30mm festoon, thin x2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;Trunk Light: 194 x1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;License Plate Light: 194 x1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2S6HvcZ&quot;&gt;Accent Light on Front Headlights: 194 x2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2qmq3sF&quot;&gt;High Beams: H1 x2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://amzn.to/37n7l4t&quot;&gt;Reverse Light: T20 7440 x2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/s2000/2.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Yeah, the S2000 doesn’t have that many lights compared to my GX. Anyways, they’re all pretty simple to do. The map lights, you pry off only the clear cover, and there are two notches where it indicates where to put in a screwdriver. The trunk requires no tools to remove. The license plate light is one Phillips screw to change. The front marker lights, which might be an AP2 model only thing, not sure, you CAN change those without removing anything, just turn the tire one way and do the lights you can reach, then go turn the tires the other way to do the other side. Reverse bulbs can be changed from inside of the trunk liner. Easy enough!&lt;/p&gt;
+&lt;p&gt;Yeah, the S2000 doesn’t have that many lights compared to my GX. Anyways, they’re all pretty simple to do. The map lights, you pry off only the clear cover, and there are two notches where it indicates where to put in a screwdriver. For the reverse lights, the trunk liner requires no tools to remove, just remove the liner and put in the new reverse bulbs. The trunk light itself, you can just use a flat head screwdriver. The license plate light is one Phillips screw to change.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/s2000/3.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Running Board Removal</title><link href="http://localhost:4000/GX470-Remove-Running-Boards/" rel="alternate" type="text/html" title="Lexus GX470 Running Board Removal" /><published>2019-11-12T10:20:14-05:00</published><updated>2019-11-12T10:20:14-05:00</updated><id>http://localhost:4000/GX470-Remove-Running-Boards</id><content type="html" xml:base="http://localhost:4000/GX470-Remove-Running-Boards/">&lt;p&gt;&lt;img src=&quot;/images/steps/17.jpg&quot; alt=&quot;Running Boards&quot; /&gt;
 After&lt;/p&gt;
@@ -459,144 +605,4 @@ Before&lt;/p&gt;
 
 &lt;p&gt;Now the only chrome left on the car is the Lexus logo on the front grill and on the rims. And the tow hitch. And the lug nuts. Not blacking any of that out though.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blackout/10.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Change Heated Seat Bulbs</title><link href="http://localhost:4000/GX470-Change-Heated-Seat-Bulbs/" rel="alternate" type="text/html" title="Lexus GX470 Change Heated Seat Bulbs" /><published>2019-10-16T07:00:14-04:00</published><updated>2019-10-16T07:00:14-04:00</updated><id>http://localhost:4000/GX470-Change-Heated-Seat-Bulbs</id><content type="html" xml:base="http://localhost:4000/GX470-Change-Heated-Seat-Bulbs/">&lt;p&gt;&lt;img src=&quot;/images/hs/1.jpg&quot; alt=&quot;HS&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the lights that provided a backlight to my heated seats on my GX470 was out, so I wanted to change it. I initially tried pulling the bulb out and replacing it with an LED of similar size, but the LED would not light up in any orientation, and the harness that holds the old bulb in was really difficult to deal with, so I just bought new bulbs.&lt;/p&gt;
-
-&lt;p&gt;I ended up ordered a pair of &lt;a href=&quot;https://www.superbrightleds.com/moreinfo/instrument-cluster-gauge/neox-led-bulb-high-power-instrument-panel-led/221/&quot;&gt;NEO3-RHP: 3mm NEO3-xHP Red&lt;/a&gt; from SuperBrightLEDs for $1.79 each. I figured, heated seat, should be red, right?.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hs/2.jpg&quot; alt=&quot;HS&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;To install, pop the switch out of the dash with a small flathead screwdriver or plastic pry tool.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hs/3.jpg&quot; alt=&quot;HS&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Remove the connector from the wiring. You can use pliers or a clamp to hold it out of the dash, or else it will fall back in and you’ll probably have to use pliers to fish that connector back out. Then remove the cover that says L or R.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hs/4.jpg&quot; alt=&quot;HS&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The LED itself is the grey circle on the side of the switch. Use a screwdriver to rotate the old light to the left, the insert your new LED into the same spot, and rotate it right. Plug it back in and turn on the car to see if you have a light. If not, just remove the LED and rotate it to the opposite polarity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hs/5.jpg&quot; alt=&quot;HS&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;To reassemble, attach the L or R switch cover, plug back into the harness, then push back into your dash. Done.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hs/1.jpg&quot; alt=&quot;HS&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Radar Detector Hardwire</title><link href="http://localhost:4000/GX470-Radar-Hardwire/" rel="alternate" type="text/html" title="Lexus GX470 Radar Detector Hardwire" /><published>2019-10-07T07:00:14-04:00</published><updated>2019-10-07T07:00:14-04:00</updated><id>http://localhost:4000/GX470-Radar-Hardwire</id><content type="html" xml:base="http://localhost:4000/GX470-Radar-Hardwire/">&lt;p&gt;&lt;img src=&quot;/images/radar/4.jpg&quot; alt=&quot;Radar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I recently put my Corvette on the market, so I took the hardwired radar detector out of it. Might as well put it in the GX!&lt;/p&gt;
-
-&lt;p&gt;I used a &lt;a href=&quot;https://amzn.to/2pSNAke&quot;&gt;RJ11 power cord&lt;/a&gt; that has a simple power and ground, with the goal to get power behind the mirror. It was ridiculously easy, the easiest of any car I’ve ever done. There are 2 wires behind the rearview mirror that are exposed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/radar/3.jpg&quot; alt=&quot;Radar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/radar/1.jpg&quot; alt=&quot;Radar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In spot 1 there is a blue/white cord, and in spot 2 there is a black/white cord.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/radar/2.jpg&quot; alt=&quot;Radar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Put your power from the radar cord (red) into spot 1 with the blue/white cord. Put the ground (black) into spot 2, the black/white cord. The prongs from the &lt;a href=&quot;https://amzn.to/2pSNAke&quot;&gt;RJ11 power cord&lt;/a&gt; should fit snug.&lt;/p&gt;
-
-&lt;p&gt;I then wrapped a bit of black electrical tape around the power cord and the other wires running into the mirror, to keep everything from moving around too much. Plug in your radar detector.&lt;/p&gt;
-
-&lt;p&gt;You have power when the car is on, and the power drops when the car is turned off. Perfect.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/radar/4.jpg&quot; alt=&quot;Radar&quot; /&gt;
-&lt;img src=&quot;/images/radar/5.jpg&quot; alt=&quot;Radar&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I wrapped the cord once around my mirror, since it was a little long, then mounted it with the normal suction cup mounts, which aren’t great. If you’re doing any off road driving, you’ll want to take your detector down, or get a &lt;a href=&quot;https://blendmount.com/&quot;&gt;Blendmount&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I use a &lt;a href=&quot;https://amzn.to/2pSNAke&quot;&gt;Escort radar detector&lt;/a&gt;, these detectors have great sensitivity, but you can dial it back and customize them how you like them. I actually use an older model 8500 X50 that I bought for my first Corvette.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Custom Webbing Dog Divider</title><link href="http://localhost:4000/GX470-Custom-Webbing-Dog-Divider/" rel="alternate" type="text/html" title="Lexus GX470 Custom Webbing Dog Divider" /><published>2019-08-09T07:00:14-04:00</published><updated>2019-08-09T07:00:14-04:00</updated><id>http://localhost:4000/GX470-Custom-Webbing-Dog-Divider</id><content type="html" xml:base="http://localhost:4000/GX470-Custom-Webbing-Dog-Divider/">&lt;p&gt;&lt;img src=&quot;/images/divider/26.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I have a big dog, Bentley, a 75 pound lab mix, who loves being in the front of the GX when I’m driving. Only issue is, he’s a 75 pound dog. So I wanted a webbing divider to keep him in the 3rd row area, but the only one on the market that is made to fit the GX starts at $180! I used &lt;a href=&quot;https://raingler.com/collections/lexus-heavy-duty-cargo-netting/products/lexus-gx-j120-barrier-divider&quot;&gt;this product from Raingler&lt;/a&gt; as my inspiration, and started to plan how to make my own.&lt;/p&gt;
-
-&lt;p&gt;The Raingler divider uses stitching for the joints, and I can sew, but I don’t have a sewing machine. The type of stitches used to sew together an intersection of webbing really requires a sewing machine (or thousands of hour of free time which I don’t have), so I found some other projects that had used grommets to assemble webbing. I decided to go this route, and purchased the following parts on Amazon, which ran me about $60.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/1.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Parts Bought&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2KpyTwR&quot;&gt;4x Frontmans Loops&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/31vmj4C&quot;&gt;4x D Rings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2KBZxBr&quot;&gt;6x Carabiners&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2YUjQiP&quot;&gt;10-12 yards of Webbing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2KpSf4S&quot;&gt;Grommet Kit with 100 grommets&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tools Needed&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Hammer&lt;/li&gt;
-  &lt;li&gt;Scissors&lt;/li&gt;
-  &lt;li&gt;Lighter&lt;/li&gt;
-  &lt;li&gt;Drill with a bit that can drill through metal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For mounting the divider, it needs to have something to attach to on the inside of the car. I noticed the Raingler product added some mount points into the body, inside of the panels, so I did that. I pulled back the panels on both sides of the car, right behind the second row seats, and found 2 spots I could drill in to on each side. This gives 2 mount points per side, plus a 3rd mount point per side on the bottom of the middle seats.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/2.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/3.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I put 1 &lt;a href=&quot;https://amzn.to/2KpyTwR&quot;&gt;Frontmans Loop&lt;/a&gt; at each spot, with about a 10” strip of webbing, with a &lt;a href=&quot;https://amzn.to/31vmj4C&quot;&gt;D ring&lt;/a&gt; on the other end. For making these connection pieces, I made them before putting them in the car. I cut a strip of webbing, then used the grommet punch to make holes. Make sure you burn off the loose strings on the ends of the webbing and the holes. Then, I used the grommet die to put a grommet in, with a Frontmans Loop on one side a D ring on the other. This was my first time using grommets, and the &lt;a href=&quot;https://amzn.to/2KpSf4S&quot;&gt;kit&lt;/a&gt; I bought was actually pretty easy to use.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/4.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/5.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/6.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/12.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/13.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/8.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I did this for 2 spots on the drivers side and 2 spots on the passenger side, and fed the top connector piece above the panel, and the bottom connector piece between the 2 panels I had to pull off. The most difficult part of this whole project was drilling into the metal body panels.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/9.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/10.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/11.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/14.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I decided I wanted the webbing to be able to flex with the middle seats being up or down. Turns out, the distance between the mount point on the seats being up or down and the mount point I added was only a 2” difference, so I used the longer measurement. Here’s my chicken scratch measurements, I cut and built my divider using the bottom diagram. 34” along the top mounting points I added, 46” in the middle mount points I added, and 30” for the 2 mount points built in on the middle seats. The vertical strip from the top to middle was 21”, and from middle to bottom was 14”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/15.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I made the perimeter first, and made sure it fit on the mount points I had added and the back of the middle row seats. All fits! The hardest part was where 3 different strips intersected. I was worried the grommet would be too small to contain all 3 pieces of webbing, but it held great.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/16.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/17.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/18.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then I added another horizontal strip and started adding a few vertical strips, putting grommets at every intersection along the way.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/19.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/20.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/21.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All done, then just install it! You can see the webbing flexes enough that the middle row can be up or down, however the middle row can not recline much.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/21.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/22.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/24.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It took about 3 hours and $60 of parts to build a webbing barrier that is perfect for Bentley, and I have enough leftover parts, webbing, and carabiners that I could make a second one, or any other cool webbing things. I can also add many more vertical and horizontal strips. This was made to keep our lab in the back. We also have a 12 pound Cavalier, and she can fit through the nets, but that’s OK, she doesn’t get in my way when I drive.&lt;/p&gt;
-
-&lt;p&gt;Any questions, feel free to comment, or ask me in the &lt;a href=&quot;https://www.facebook.com/groups/LexusGXOR/?ref=group_header&quot;&gt;GXOR Facebook group&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/dogs.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Update, 1 day later: I had to add 2 more vertical strips, since Bentley jumped through them once he saw we had Chick-fil-A in the front seat.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/25.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/divider/26.jpg&quot; alt=&quot;Divider&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/blackout/10.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
