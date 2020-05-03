@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-15T12:00:25-05:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">Honda S2000 Exterior LED Swap</title><link href="http://localhost:4000/S2000-Exterior-LED-Swap/" rel="alternate" type="text/html" title="Honda S2000 Exterior LED Swap" /><published>2020-01-15T10:20:14-05:00</published><updated>2020-01-15T10:20:14-05:00</updated><id>http://localhost:4000/S2000-Exterior-LED-Swap</id><content type="html" xml:base="http://localhost:4000/S2000-Exterior-LED-Swap/">&lt;p&gt;&lt;img src=&quot;/images/s2k/11.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-03T15:23:27-04:00</updated><id>http://localhost:4000/</id><title type="html">Robert Skelton</title><subtitle>Finance | Tech | Cars | Renovations | Etc</subtitle><entry><title type="html">Garage Storage Solutions</title><link href="http://localhost:4000/Garage-Storage-Solutions/" rel="alternate" type="text/html" title="Garage Storage Solutions" /><published>2020-05-03T13:12:14-04:00</published><updated>2020-05-03T13:12:14-04:00</updated><id>http://localhost:4000/Garage-Storage-Solutions</id><content type="html" xml:base="http://localhost:4000/Garage-Storage-Solutions/">&lt;p&gt;&lt;img src=&quot;/images/garage/10.jpg&quot; alt=&quot;Garage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently reorganized and cleaned out my garage so our cars have more space. Here are some of the things I did.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;New cabinets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Well, old cabinets from the kitchen remodel. I painted them grey with spray paint, hung them up in a corner, and reused a small plastic organizer shelf for some additional storage. I actually hung these myself, using an old cabinet door as a bottom level and holder. Clamped the two cabinets together to screw them together, hung the doors using the old copper hardware, I think it looks good. I’ll add some copper handles eventually. This let me move a lot of things off my shelves in the corner, which I was able to reuse by moving a lot of stuff off the floor. Goal is to maximize floor space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/garage/1.jpg&quot; alt=&quot;Garage&quot; /&gt;
+&lt;img src=&quot;/images/garage/2.jpg&quot; alt=&quot;Garage&quot; /&gt;
+&lt;img src=&quot;/images/garage/3.jpg&quot; alt=&quot;Garage&quot; /&gt;
+&lt;img src=&quot;/images/garage/4.jpg&quot; alt=&quot;Garage&quot; /&gt;
+&lt;img src=&quot;/images/garage/5.jpg&quot; alt=&quot;Garage&quot; /&gt;
+&lt;img src=&quot;/images/garage/10.jpg&quot; alt=&quot;Garage&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Created some long stuff storage hanging in the air&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I made some hangers for wood/baseboards/trim/pipe/etc. Just used a long 2x4, cut into 6” sections and screwed into studs above the door and window. Gets some of that long stuff off the ground. Then I got rid of a ton of drywall and concrete backerboard I don’t need.  Before and after!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/garage/6.jpg&quot; alt=&quot;Garage&quot; /&gt;
+&lt;img src=&quot;/images/garage/9.jpg&quot; alt=&quot;Garage&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Created PVC organizers for yard tools&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was made from some PVC I was going to throw away. Cut the ends at 45 degrees so I could run a screw through to the stud. Put yard stuff in them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/garage/7.jpg&quot; alt=&quot;Garage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyways, this took a few days of painting, cleaning, and abusing my Shop Vac. I need a new Ship Vac filter so bad now, but my garage is clean. Also I hung some stuff up!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/garage/8.jpg&quot; alt=&quot;Garage&quot; /&gt;
+&lt;img src=&quot;/images/garage/11.jpg&quot; alt=&quot;Garage&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Architecture of Money</title><link href="http://localhost:4000/Architecture-of-Money/" rel="alternate" type="text/html" title="Architecture of Money" /><published>2020-04-24T11:20:14-04:00</published><updated>2020-04-24T11:20:14-04:00</updated><id>http://localhost:4000/Architecture-of-Money</id><content type="html" xml:base="http://localhost:4000/Architecture-of-Money/">&lt;p&gt;&lt;img src=&quot;/images/ccu/arch.png&quot; alt=&quot;Architecture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I like to talk about money, credit cards, banks, investing, etc. I realized that I knew where my money went, and it might be a little complicated, so I wanted to diagram it like a Cloud Architecture diagram. Here it is.&lt;/p&gt;
+
+&lt;p&gt;We’ve got 2 paychecks coming in, one for my job, and one for my wife. Most of that money goes to &lt;a href=&quot;https://rskelton.com/high-interest-checking-account/&quot;&gt;CCU&lt;/a&gt;, while some goes to Ally for our Emergency Fund, and some goes to Bethpage, where we have our HELOC.&lt;/p&gt;
+
+&lt;p&gt;Some of our paychecks go towards investments before it hits the bank, like our 401K’s and HSA at Fidelity. Some goes to investments after it hits the bank, like our Roth IRAs and Brokerage, which are all at Vanguard. I also have accounts open at &lt;a href=&quot;https://rskelton.com/robinhood/&quot;&gt;Robinhood&lt;/a&gt; and &lt;a href=&quot;https://fundrise.com/r/pdog4&quot;&gt;Fundrise&lt;/a&gt; that I don’t actively contribute to, just collect and reinvest dividends.&lt;/p&gt;
+
+&lt;p&gt;All of our auto-pays go out from CCU, including our mortgage, monthly credit card bills, and any utility bills that don’t let us pay by credit card. Our Bethpage account exists just for us to pay off our HELOC, which is also at Bethpage.&lt;/p&gt;
+
+&lt;p&gt;That’s basically it. Money flows in and around, pays for stuff and gets invested. A little more complicated, but we’re seeing results!&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Honda S2000 Exterior LED Swap</title><link href="http://localhost:4000/S2000-Exterior-LED-Swap/" rel="alternate" type="text/html" title="Honda S2000 Exterior LED Swap" /><published>2020-01-15T10:20:14-05:00</published><updated>2020-01-15T10:20:14-05:00</updated><id>http://localhost:4000/S2000-Exterior-LED-Swap</id><content type="html" xml:base="http://localhost:4000/S2000-Exterior-LED-Swap/">&lt;p&gt;&lt;img src=&quot;/images/s2k/11.jpg&quot; alt=&quot;S2000 LEDs&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I did the interior LEDs a few months ago (which also included a few exterior lights), but now I needed to swap my brights and marker lights. Here are the parts I used.&lt;/p&gt;
 
@@ -495,114 +542,4 @@ Before&lt;/p&gt;
 
 &lt;p&gt;Reinstall back on the GX!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/fog/4.jpg&quot; alt=&quot;Fog Lights&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Ditch Lights Install</title><link href="http://localhost:4000/GX470-Ditch-Light-Install/" rel="alternate" type="text/html" title="Lexus GX470 Ditch Lights Install" /><published>2019-10-21T07:00:14-04:00</published><updated>2019-10-21T07:00:14-04:00</updated><id>http://localhost:4000/GX470-Ditch-Light-Install</id><content type="html" xml:base="http://localhost:4000/GX470-Ditch-Light-Install/">&lt;p&gt;&lt;img src=&quot;/images/dl/26.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I installed ditch lights in my GX today, it took about 3 hours and $250.&lt;/p&gt;
-
-&lt;h1 id=&quot;parts-bought&quot;&gt;Parts Bought&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ragofabrication.com/collections/gx470/products/2002-2009-1st-generation-lexus-gx470-ditch-light-brackets-1&quot;&gt;Rago Fabrication GX470 Ditch Mounts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/31vmj4C&quot;&gt;2x Baja Squadron Sport LED &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;1x Add a Circuit Tap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/1.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At the time of purchase, &lt;a href=&quot;https://www.ragofabrication.com/&quot;&gt;Rago Fabrication&lt;/a&gt; was having a sale. I bought the ditch brackets and Baja Squadron Sport pods with wiring harness for $235. You could do this install with any set of LED pods, but you’ll have to make your own wiring harness (with a fuse). The Rago mounts are great, so definitely use those.&lt;/p&gt;
-
-&lt;p&gt;Alright, here’s how to do it. First, install the brackets from Rago. This was a required first for me, since my brackets got here five days before my lights and wiring harness. I followed &lt;a href=&quot;https://www.youtube.com/watch?v=1F9legl29M4&quot;&gt;this video&lt;/a&gt; to install the brackets, just take 1 bolt out at a time to make the hood not move.&lt;/p&gt;
-
-&lt;p&gt;Next, put the lights on the brackets, follow the instructions there.&lt;/p&gt;
-
-&lt;p&gt;Then, take apart all the plastic in your engine, if you still have it. The plastic that is. I hope you still have the engine. I took off the engine cover in order to remove the very back plastic piece that was hiding some wiring.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/2.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/3.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lay your wiring harness in place, you can even hook it up. You can take the red to the positive terminal and black to the negative terminal of your battery to test the harness and lights, just make sure the switch is one.&lt;/p&gt;
-
-&lt;p&gt;Now here comes what I thought was the hardest part - getting part of the wiring harness through the firewall. I decided to use the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt;, so I don’t plug directly in to the battery (which is possible). The part of the harness that connects to the splitter that plugs both lights in, I fed that part through the firewall from the cabin.&lt;/p&gt;
-
-&lt;p&gt;To do that, I cut a hole in the rubber nipple (where you see the white coat hanger in the pictures below) in the engine compartment on the firewall grommet thing. This is made for wiring expansions anyways. Then, under the drivers seat, push the wiring up through the hole that leads to the engine compartment. I found it MUCH easier to remove the plug (leaving just wiring and connections) and to tape those wires to a wire hanger that had already been pushed through the firewall.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/5.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/6.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/7.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/8.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/9.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Alright, got that done? Sweet. Bet it took a minute. Now you can make sure everything works. Plug in the lights to the harnesses, the black to a ground, and the red to power. I pulled back the plastic by the drivers left footwell to use a ground bolt there, you can see in the top left of the picture below. Then I used the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt; to tap the 30A drivers power seat fuse, which is in the small fuse box under the steering wheel. The switch should turn on the lights, and when the lights are on the switch should light up red.&lt;/p&gt;
-
-&lt;p&gt;To hook up the included harness to the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt;, snip the end off the end of the red wire that was included, expose some of the copper using wire cutters, then push that wire into the end of the tap. Crimp the connection using some elbow grease and pliers. Pull the 30A from the drivers power seat slot and put it in the closer spot to the connector. Add another fuse in the next slot, this is the fuse for your ditch lights.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/update.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/10.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/11.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For your switch in the cabin, I had to remove the wiring for it to sit snug in its newly drilled hole. To do this, unplug all the wires (remember where they are), then run the wires up from the back of the hole. Then plug those wires back into the switch, out of the plastic, then you can put the switch where the hole is. I made my hole a little bit too big, so you can use tape or velcro or caulk or basically anything to make it a little more snug.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/12.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/13.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/14.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/15.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What a terrible hole.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/16.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/17.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/18.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/19.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, just make everything pretty. I ran the interior wiring behind the plastic footwell. In the engine compartment, I ran the wiring for each light under the plastic piece by the windshield, so very little of the wiring is exposed. This was a little difficult to do, but looks a lot better. I also used zip ties to keep the new electrical running next to the old electrical, and behind that plastic panel I mentioned earlier. Reassemble your engine plastic pieces, close up the interior pieces, you’ve got some bright lights!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/20.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/21.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/22.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/24.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The reason my install took so long was because I broke the connectors when I was putting the switch back together inside the hole, and had to crimp some new ends. Also I blew a fuse when testing. Then again, it’s electrical in a car. Have you ever done a electrical project in your car and NOT blown a fuse. Me either. The nice thing about the &lt;a href=&quot;https://amzn.to/2VYJoeI&quot;&gt;Add a Circuit Tap&lt;/a&gt; that I linked is that it comes with lots of extra fuses, so I just replaced it with a 5A fuse of the same size.&lt;/p&gt;
-
-&lt;p&gt;As far as the products, the Rago mounts fit perfect. You can have the hood opened or closed and the lights never touch your windshield. Some videos I saw complain about the wiring harness being too short, but it was long enough for my GX. The lights seem great so far, SUPER bright.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/dl/23.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;
-&lt;img src=&quot;/images/dl/25.jpg&quot; alt=&quot;Ditch Lights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If I were to make this nicer, what I would have done is buy a new plate that converts your existing switch panel to have one extra blank from &lt;a href=&quot;https://sbeprecision.com/product/gx470-mirror-switch-plate-with-blanks-plus-2-switch-openings/?fbclid=IwAR2135GD3VnZ60hwcgVjCgGwLRl3IdyQAwuM_xPr2Y2IB22XYZAg6pRJnuU&quot;&gt;SBE Precision Products&lt;/a&gt;, and a new &lt;a href=&quot;https://www.ragofabrication.com/collections/led-wiring-and-accessories/products/toyota-factory-switch-square?variant=40556182663&quot;&gt;Toyota OEM looking ditch light switch&lt;/a&gt;. That would have added $70 to my install just for a nicer looking switch, so I didn’t. If you go that route, &lt;a href=&quot;https://www.youtube.com/watch?v=6nWmIKTCtkY&quot;&gt;here is a good video&lt;/a&gt; on how to do the wiring - it is a little bit different but your switch is backlit, which is fancy.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Lexus GX470 Blackout All Chrome</title><link href="http://localhost:4000/GX470-Blackout-All-Chrome/" rel="alternate" type="text/html" title="Lexus GX470 Blackout All Chrome" /><published>2019-10-16T10:00:14-04:00</published><updated>2019-10-16T10:00:14-04:00</updated><id>http://localhost:4000/GX470-Blackout-All-Chrome</id><content type="html" xml:base="http://localhost:4000/GX470-Blackout-All-Chrome/">&lt;p&gt;&lt;img src=&quot;/images/blackout/10.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I had already &lt;a href=&quot;https://rskelton.com/Plasti-Dip-GX470-Grill/&quot;&gt;blacked out the front grill&lt;/a&gt; on my GX with &lt;a href=&quot;https://amzn.to/2H7U2dj&quot;&gt;Plasti Dip&lt;/a&gt;, and it is holding up really well and looks great, so I figured I would replace the rest of the chrome throughout the vehicle.&lt;/p&gt;
-
-&lt;p&gt;First, I replaced the front 4 windows weatherstripping trim with black trim. This was available on overseas models (Prado), and you can grab the parts on eBay. I wasn’t particularly thrilled with the non-OEM quality of the parts I got from eBay, so I won’t link them. To install them, just remove one Torx screw (I think it was T10) from the inside of your door panel, then remove the old part. The new weatherstripping trim slides in, then screw it in. I had to use a mallet to get it to sit right. Repeat for all 4 doors.&lt;/p&gt;
-
-&lt;p&gt;The back 2 windows I did not change the weatherstripping trim, as it involves removing the rear windows, and I didn’t want to get into all that. I just Plasti Dipped it, along with the rear emblems. It took less than 1 can of &lt;a href=&quot;https://amzn.to/2H7U2dj&quot;&gt;Plasti Dip&lt;/a&gt; to do the entire rear of the car.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/1.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I taped a little of an outline, but it really didn’t help that much. At least it comes off easy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/2.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I did 8 coats, with 30 minutes in between.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/3.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then removed tape and started cleaning with a damp cloth.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/4.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I do not recommend using an exacto knife like I did, I left a few small scratches in the paint. Use some plastic if.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/5.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The one time I wish the GX had a V6…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/6.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/8.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/9.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now the only chrome left on the car is the Lexus logo on the front grill and on the rims. And the tow hitch. And the lug nuts. Not blacking any of that out though.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blackout/10.jpg&quot; alt=&quot;Blackout&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/fog/4.jpg&quot; alt=&quot;Fog Lights&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
