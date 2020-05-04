@@ -20,10 +20,9 @@ Well, old cabinets from the kitchen remodel. I painted them grey with spray pain
 ![Garage](/images/garage/5.jpg)
 ![Garage](/images/garage/11.jpg)
 
-
 # Created some long stuff storage hanging in the air
 
-I made some hangers for wood/baseboards/trim/pipe/etc. Just used a long 2x4, cut into 6" sections and screwed into studs above the door and window. Gets some of that long stuff off the ground. Then I got rid of a ton of drywall and concrete backerboard I don't need.  Before and after!
+I made some hangers for wood/baseboards/trim/pipe/etc. Just used a long 2x4, cut into 6" sections and screwed into studs above the door and window. Gets some of that long stuff off the ground. Then I got rid of a ton of drywall and concrete backer board I don't need.  Before and after!
 
 ![Garage](/images/garage/6.jpg)
 ![Garage](/images/garage/9.jpg)
@@ -34,7 +33,7 @@ This was made from some PVC I was going to throw away. Cut the ends at 45 degree
 
 ![Garage](/images/garage/7.jpg)
 
-Anyways, this took a few days of painting, cleaning, and abusing my Shop Vac. I need a new Ship Vac filter so bad now, but my garage is clean. Also I hung some stuff up!
+Anyways, this took a few days of painting, cleaning, and abusing my Shop Vac. I need a new Ship Vac filter so bad now, but my garage is clean. Also I hung some posters and decorations up that were just sitting on the ground. More floor space!
 
 ![Garage](/images/garage/8.jpg)
 ![Garage](/images/garage/10.jpg)
