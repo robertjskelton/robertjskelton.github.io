@@ -13,7 +13,7 @@ I've been searching for a set of new rims and tires for my GX470 for a while, an
 * TRD Pros
 * Sequoia takeoffs
 
-Basically anything that would fit my GX470, that wasn't the rims it came with. Finally bought this set, and decided to paint them copper. It's popular now.
+Basically anything that would fit my GX470, that wasn't the rims it came with. Finally bought this set, and decided to paint them bronze. It's popular now.
 
 Anyways, my prep was:
 * Pressure wash rims and center caps
@@ -30,7 +30,7 @@ Anyways, my prep was:
 * A few coats of [Dupli-Color Wheel Clearcoat](https://amzn.to/2YWROXi). I used matte because it is all my local auto store had.
 * Mount!
 
-Here are the progress pictures
+# Here are the progress pictures!
 
 Bought these rims, $350 with tires
 ![Rims](/images/rims/1.jpg)
