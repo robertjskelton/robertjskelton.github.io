@@ -11,5 +11,4 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 ----
 ### Spreadsheets
 * [Football Games](https://rskelton.com/football)
-* [Dividends](https://rskelton.com/dividends)
 * [Concerts](https://rskelton.com/concerts)
