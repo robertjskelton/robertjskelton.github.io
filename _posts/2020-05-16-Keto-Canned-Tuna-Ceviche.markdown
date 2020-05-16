@@ -14,7 +14,9 @@ categories: etc
 * 1 onion, or red onion
 * lime juice
 * Tabasco, to taste
+* Avocado
 
 ### Instructions
 1. Combine all Ingredients
 2. Salt and pepper to taste
+3. Top with avocado

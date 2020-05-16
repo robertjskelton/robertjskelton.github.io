@@ -40,6 +40,8 @@ My wife and I have been doing a Keto diet for about 9 months. We have both lost 
 
 
 ### Fish
+* [Canned Tuna Ceviche](https://rskelton.com/Keto-Canned-Tuna-Ceviche/)
+* [Canned Tuna Poke Bowl](https://rskelton.com/Keto-Canned-Tuna-Poke-Bowl/)
 * [Coconut Curry Thai Fish](https://www.dietdoctor.com/recipes/keto-thai-fish-curry-coconut)
 * [Parmesan Crusted Tilapia](https://www.allrecipes.com/recipe/228056/parmesan-crusted-tilapia-fillets/)
 
@@ -47,7 +49,6 @@ My wife and I have been doing a Keto diet for about 9 months. We have both lost 
 ### Shrimp
 * [Sheet Pan Cajun Shrimp](https://keto-daily.com/keto-sheet-pan-shrimp-recipe/?fbclid=IwAR0zDUl6Q5PvkRquoFq99Xwzjjanm02ZhBHrzbuPznWzzozyDNafztqTc1M) - I usually add some Andouille sausage to this.
 * [Crispy Shrimp](https://www.reddit.com/r/ketorecipes/comments/c1mr1y/crispy_shrimp_0g_carbs/)
-
 
 ### Other
 * [Fathead Buns](https://www.reddit.com/r/GifRecipes/comments/9scjzq/lowcarb_keto_bagels_fathead_dough/e8nph5x/) - I make these all the time, and they taste great for a week! I usually make these into balls to make buns, instead of bagels.
