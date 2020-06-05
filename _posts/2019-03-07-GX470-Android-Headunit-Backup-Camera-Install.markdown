@@ -71,11 +71,11 @@ As far as connections go, this was pretty simple. Connect like to like connector
 
 ![Headunit](/images/lexus/headunit/chrome.jpg)
 
-You'll also want to run your wiring for the reverse camera. For the part behind the headunit, wire the yellow into the backup camera input (9) and tap the reverse cable in. For the run to your back door, you'll need to do this on the passenger side, because of the way the rear door opens. I ran my wire behind the glove box and under the plastic tray on the seats, all the way to the 3rd row area.
+You'll also want to run your wiring for the reverse camera. For the part behind the headunit, wire the yellow into the backup camera input (9) and tap the reverse cable in. For the run to your back door, you'll need to do this on the passenger side, because of the way the rear door swings open on the passenger side. I ran my wire behind the glove box and under the plastic tray on the seats, all the way to the 3rd row area.
 
 ![Headunit](/images/lexus/headunit/grommet.jpg)
 
-This is where it gets more complicated. You'll need to run the wiring through the grommet thing seen above(hardest and most painful part of this whole project), and into the rear door area. There is almost no room inside the grommet to run the cable, so this will take some time. The rear door should paneling should be removed, which is pretty easy.
+This is where it gets more complicated. You'll need to run the wiring through the grommet thing seen above(hardest and most painful part of this whole project), and into the rear door area. There is almost no room inside the grommet to run the cable, so this will take some time. The rear door paneling should be removed, which is pretty easy.
 
 Damage from running the wiring through the grommet into the rear door.
 
@@ -105,17 +105,18 @@ I love the headunit. This was my first car audio install other than replacing sp
 * [Torque Pro](https://play.google.com/store/apps/details?id=org.prowl.torque)
 * [Car Launcher FREE](https://play.google.com/store/apps/details?id=com.autolauncher.motorcar.free)
 * [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
+* [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US)
 * [Google Play Music](https://play.google.com/store/apps/details?id=com.google.android.music)
 
 [Torque](https://play.google.com/store/apps/details?id=org.prowl.torque) is an awesome app for reading car diagnostics. I bought Torque Pro in 2011, and it has been used very often to read, diagnose, and clear engine codes, as well as get real time statistics from your car. You can connect to Torque using the OBDII interface in your car, and by using a Wifi or [Bluetooth OBDII adapter](https://amzn.to/2EL3NLR).
 
 ![Headunit](/images/lexus/headunit/torque.jpg)
 
-[Car Launcher](https://play.google.com/store/apps/details?id=com.autolauncher.motorcar.free) is a simple launcher application that makes the Android interface a little more car friendly. The buttons are bigger, you can dim the screen with one click, set the few applications you actually use on your home screen. It works well for me. The layouts are also customizable.
+[AGAMA Launcher](https://play.google.com/store/apps/details?id=altergames.carlauncher&hl=en_US) is a simple launcher application that makes the Android interface a little more car friendly. The buttons are bigger and you can set the few applications you actually use on your home screen. It works well for me. The layouts are also customizable.
 
 ![Headunit](/images/lexus/headunit/launcher.jpg)
 
-Both [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android) and [Google Play Music](https://play.google.com/store/apps/details?id=com.google.android.music) can download music and play offline. Some use Spotify or other apps. You can also plug in a USB filled with music into your USB inputs, play music on your phone over Bluetooth, or Wifi tether to your headunit and let the headunit do the audio while online.
+[Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US), [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android), and [Google Play Music](https://play.google.com/store/apps/details?id=com.google.android.music) can download music and play offline. You can also plug in a USB filled with music into your USB inputs, play music on your phone over Bluetooth, or Wifi tether to your headunit and let the headunit stream the audio while online.
 
 ![Headunit](/images/lexus/headunit/bt.jpg)
 
