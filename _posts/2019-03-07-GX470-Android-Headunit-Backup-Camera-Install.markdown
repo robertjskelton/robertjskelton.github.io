@@ -97,6 +97,8 @@ To mount the rear camera, I drilled 2 very small holes in the black plastic part
 
 ![Headunit](/images/lexus/headunit/wire.jpg)
 
+Finally go into your Android settings and configure the steering wheel controls, so you can control the volume and skip tracks from the steering wheel.
+
 ### Thoughts
 
 I love the headunit. This was my first car audio install other than replacing speakers. The install was relatively easy, the inside of the car looks much nicer, and the audio is much better than flipping through radio stations or CDs. I have a 2007 GX470, which means it came with an aux port, and that is still functional with this headunit. The only downsides so far are that the screen became slightly unglued in the bottom left, probably because of the Florida heat. Maps are a little tricky, since this headunit is not always on an internet connection. So far, I've had success using Google Maps with a large portion downloaded locally onto the Android headunit. Still, this was a great $300 spent.
