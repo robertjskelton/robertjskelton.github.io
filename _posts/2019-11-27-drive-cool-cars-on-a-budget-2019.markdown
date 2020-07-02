@@ -194,7 +194,7 @@ We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fi
 ----
 ### 12. 2004 Honda S2000
 * Bought: $10,000 / 85,000 miles
-* Sold: $12,00 / 85,800
+* Sold: $12,000 / 85,800
 * MPG: 18/25, premium gas. Great smiles per gallon!
 * Insurance: $50/mo for excellent coverage
 * Engine: 2.4L 4-cylinder, 237HP
@@ -203,7 +203,7 @@ We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fi
 
 A great deal on an AP2 S2000, with very low miles. So now we have the Lexus, Mustang, and my S2000. This car doesn't get driven with the top up, only down. It's a fun little sports car to drive around town in, but not comfortable at all. It has some aftermarket bumpers and side skirts, and a paint job, and I hate all of those things. It was sports car red from the factory, and the previous owner painted it maroon. Maybe eventually I'll convert it back to stock and get the nice red paint back on it, but for now I just use this to run errands around town, as long as I don't have to carry too much stuff. This drives just like my old Boxster, which is great, but it's a Honda, so it is reliable.
 
-Update - owned it for about 7 months, put in about $200 of parts into it, and sold it for a profit. Waited a whole business day before putting down a deposit on my next car. 
+Update - owned it for about 7 months, put in about $200 of parts into it, and sold it for a 4 figure profit. Waited a whole business day before putting down a deposit on my next car -  1991 Suzuki Cappuccino! More to come. 
 
 ![S2000](/images/s2000/1.jpg)
 
