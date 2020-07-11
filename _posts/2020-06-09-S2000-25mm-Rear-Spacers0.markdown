@@ -27,10 +27,10 @@ I bought a 1991 Suzuki Cappuccino, more on that later. First thing to do was an 
 4. Remove drain plug with 17mm, rotating clockwise!
 5. Oh yeah, make sure you have a drain pan under the car. Let the oil drain for a while.
 ![Oil](/images/cap/2.jpg)
-6. Add in the drain plug with a little bit of old oil, tighten just a bit with your 17mm.
-7. Add in your oil filter, just hand tight is fine.
+6. Add in the drain plug with a little bit of old oil, twist (counter clockwise) until hand tight, then tighten just a bit with your 17mm.
+7. Add in your oil filter, just hand tight is fine. The oil filter removal tool doesn't work to tighten anyways.
 ![Oil](/images/cap/3.jpg)
-8. Add about 3 quarts of oil
-9. Replace oil cap
+8. Add about 3 quarts of oil using your funnel 
+9. Replace oil cap in the engine bay
 10. Drive car off ramps, let sit at idle for about 5 minutes and watch for any leaks.
 11. If no leaks, check the oil level using the dipstick. If it is between full and low, you're done. If low, add more oil. If too full, that stinks. Repeat steps 1-10.
