@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to Drive Cool Cars on a Budget [Updated November 2019]"
-date:   2019-11-27 09:05:14 -0400
+title:  "How to Drive Cool Cars on a Budget"
+date:   2020-07-12 09:05:14 -0400
 categories: cars
 ---
 
@@ -201,11 +201,25 @@ We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fi
 * Oil Changes: None
 * Taxes/Registration: $700
 
+![S2000](/images/s2000/1.jpg)
+
 A great deal on an AP2 S2000, with very low miles. So now we have the Lexus, Mustang, and my S2000. This car doesn't get driven with the top up, only down. It's a fun little sports car to drive around town in, but not comfortable at all. It has some aftermarket bumpers and side skirts, and a paint job, and I hate all of those things. It was sports car red from the factory, and the previous owner painted it maroon. Maybe eventually I'll convert it back to stock and get the nice red paint back on it, but for now I just use this to run errands around town, as long as I don't have to carry too much stuff. This drives just like my old Boxster, which is great, but it's a Honda, so it is reliable.
 
-Update - owned it for about 7 months, put in about $200 of parts into it, and sold it for a 4 figure profit. Waited a whole business day before putting down a deposit on my next car -  1991 Suzuki Cappuccino! More to come. 
+I owned it for about 7 months, put in about $200 of parts into it, and sold it for a 4 figure profit. Waited a whole business day before putting down a deposit on my next car -  1991 Suzuki Cappuccino!
 
-![S2000](/images/s2000/1.jpg)
+----
+### 13. 1991 Suzuki Cappuccino
+* Bought: $5,000 / 122,000 km
+* Sold: Not yet
+* MPG: 30/50, premium gas. Insane MPG! It has a 5 gallon gas tank
+* Insurance: $50/mo for excellent coverage
+* Engine: .6L 3-cylinder Turbo, 63HP
+* Oil Changes: $40 or so, did the first one myself the day after buying it
+* Taxes/Registration: $350
+
+![Oil](/images/cap/4.jpg)
+
+This is a very unique car. Never sold in America, and can only be imported once 25 years old, this right hand drive JDM kei car gets tons of attention. It is slow, difficult to drive, but it's a blast. It has a 3 piece targa/t-top, a fold down back window, and it's SO SMALL. Very fun so far. This will probably need a decent amount of work since it is old, and parts are hard to come by in the US, since it wasn't sold here. If you want parts, you basically have to find someone in the UK (where it was sold 27-29 years ago), or in Japan, and get them to ship them to you. There is a pretty active following of these in a few Facebook groups.
 
 ----
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they effected your financial plans? Leave them in the comments!
