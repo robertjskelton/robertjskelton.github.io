@@ -8,7 +8,7 @@ categories: cars
 ![Oil](/images/cap/1.jpg)
 
 
-I bought a 1991 Suzuki Cappuccino, more on that later. First thing to do was an oil change. This is following [Larry's Youtube Video](https://www.youtube.com/watch?v=4M3r7QcHHKA)
+[I bought a 1991 Suzuki Cappuccino](https://rskelton.com/drive-cool-cars-on-a-budget/)! First thing to do was an oil change. This is following [Larry's Youtube Video](https://www.youtube.com/watch?v=4M3r7QcHHKA)
 
 ### Parts Required
 * Oil Filter - I used a Fram FS4386. You can also use a [Fram FG4967](https://amzn.to/2W5Qmje) or [Baldwin B33](https://amzn.to/3292e7S), or others.
