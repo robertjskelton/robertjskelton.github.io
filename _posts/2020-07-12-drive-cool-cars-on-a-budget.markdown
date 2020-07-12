@@ -5,7 +5,7 @@ date:   2020-07-12 09:05:14 -0400
 categories: cars
 ---
 
-![Both](/images/cars/all.jpg)
+![Oil](/images/cap/4.jpg)
 
 One of life's biggest expenses is transportation, especially cars. I love cars, and love getting different cars. I get bored driving the same vehicle for more than a few years. You could imagine this would be expensive, but it doesn’t have to be. I’m 27 and have owned 12 cars, and I’ve not lost much money on them at all. The biggest downside is that you have to pay registration and taxes on every car you buy, but some of that can be tax deductible.
 
