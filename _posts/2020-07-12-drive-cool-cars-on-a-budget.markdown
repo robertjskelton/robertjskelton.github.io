@@ -211,15 +211,17 @@ I owned it for about 7 months, put in about $200 of parts into it, and sold it f
 ### 13. 1991 Suzuki Cappuccino
 * Bought: $5,000 / 122,000 km
 * Sold: Not yet
-* MPG: 30/50, premium gas. Insane MPG! It has a 5 gallon gas tank
-* Insurance: $50/mo for excellent coverage
+* MPG: ~35/50, premium gas. Insane MPG! It has a whopping 5 gallon gas tank
+* Insurance: $45/mo for some coverage
 * Engine: .6L 3-cylinder Turbo, 63HP
-* Oil Changes: $40 or so, did the first one myself the day after buying it
+* Oil Changes: $40 or so, [did the first one myself the day after buying it](https://rskelton.com/Suzuki-Cappuccino-Oil-Change/)
 * Taxes/Registration: $350
 
 ![Oil](/images/cap/4.jpg)
 
-This is a very unique car. Never sold in America, and can only be imported once 25 years old, this right hand drive JDM kei car gets tons of attention. It is slow, difficult to drive, but it's a blast. It has a 3 piece targa/t-top, a fold down back window, and it's SO SMALL. Very fun so far. This will probably need a decent amount of work since it is old, and parts are hard to come by in the US, since it wasn't sold here. If you want parts, you basically have to find someone in the UK (where it was sold 27-29 years ago), or in Japan, and get them to ship them to you. There is a pretty active following of these in a few Facebook groups.
+This is a very unique car. Never sold in America, and can only be imported once 25 years old, this right hand drive JDM kei car gets tons of attention. It is slow, difficult to drive, but it's a blast. The top speed is about 83mph. I've got it up to 120...kmh. Everything is in Kilometers, so you have to convert in your head to know how fast you are going. It doesn't matter too much, since it might be the slowest car on the road, barely can get up to the speed limit.
+
+It has a 3 piece targa/t-top, a fold down back window, and it's SO SMALL. Very fun so far. This will probably need a decent amount of work since it is old, and parts are hard to come by in the US, since it wasn't sold here. If you want parts, you basically have to find someone in the UK (where it was sold 27-29 years ago), or in Japan, and get them to ship them to you. There is a pretty active following of these in a few Facebook groups.
 
 ----
-So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they effected your financial plans? Leave them in the comments!
+So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
