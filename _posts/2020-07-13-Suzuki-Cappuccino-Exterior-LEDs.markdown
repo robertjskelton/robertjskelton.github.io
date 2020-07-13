@@ -12,7 +12,7 @@ For any car I own, I like to replace old bulbs with something a little brighter.
 * [H1 High Beams x2](https://amzn.to/300sizs)
 * [H3 Low Beams x2](https://amzn.to/3frnutn)
 * [194 Marker lights x2](https://amzn.to/2C8xj0R)
-* [3157 Reverse light x1](https://amzn.to/2WeaI9U)
+* [BA9S Reverse light x1](https://amzn.to/2CveODT)
 
 To replace the high beams and marker lights, you actually have to take the headlight housing completely off, but it isn't too hard. You do have to lift the front end of the car in order to rotate the wheels freely, so jack up the front end to where the wheels are off the ground.
 
@@ -54,7 +54,7 @@ Marker lights, halogen low beams, LED high beams
 
 [H3 Low beams](https://amzn.to/3frnutn) are the same process as the high beam, but you can reach them from within the wheel well without removing the headlight housing. So if you're just replacing low beams, no need to jack up the car. Once you've replaced the low beams, then you can re-install the nuts and lower the car. Easy enough.
 
-Reverse lights were a bit more tricky. There are 2 10mm nuts located behind the reverse lamp housing. Both of them broke off on me when removing it. I put in a new [3157 LED](https://amzn.to/2WeaI9U), which is usually a turn signal bulb I just happened to have around. The reflector on the inside of the reverse housing was very rusted, so I cleaned it up before resealing. To attach back to the car, I drilled two holes in the back of the housing and zip tied it around the strong metal mesh. 50 miles and no movement, so it'll do until I find a better reverse housing solution!
+Reverse lights were a bit more tricky. There are 2 10mm nuts located behind the reverse lamp housing. Both of them broke off on me when removing it. I put in a new [BA9S LED](https://amzn.to/2CveODT) I just happened to have around. The reflector on the inside of the reverse housing was very rusted, so I cleaned it up before resealing. To attach back to the car, I drilled two holes in the back of the housing and zip tied it around the strong metal mesh. 50 miles and no movement, so it'll do until I find a better reverse housing solution!
 
 ![Lights](/images/cap_light/17.jpg)
 ![Lights](/images/cap_light/18.jpg)
