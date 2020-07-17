@@ -14,6 +14,7 @@ For any car I own, I like to replace old bulbs with something a little brighter.
 * [194 Marker lights x2](https://amzn.to/2C8xj0R)
 * [BA15S Reverse light x1](https://amzn.to/3gYvOkz)
 
+# High Beams and Marker Lights
 To replace the high beams and marker lights, you actually have to take the headlight housing completely off, but it isn't too hard. You do have to lift the front end of the car in order to rotate the wheels freely, so jack up the front end to where the wheels are off the ground.
 
 ![Lights](/images/cap_light/6.jpg)  
@@ -45,14 +46,9 @@ To plug the black and red wires for the LED to the harness, you actually need to
 
 ![Lights](/images/cap_light/13.jpg)
 
-Marker lights only
-![Lights](/images/cap_light/14.jpg)
-Marker lights and halogen low beams
-![Lights](/images/cap_light/15.jpg)
-Marker lights, halogen low beams, LED high beams
-![Lights](/images/cap_light/16.jpg)
 
-[H3 Low beams](https://amzn.to/3frnutn) is a similar process as the high beam, but you can reach them from within the wheel well without removing the headlight housing. So if you're just replacing low beams, no need to jack up the car. The dust collector also won't fit, but I didn't remove mine. The polarity on these were correct, so red to red and black to black. Can't explain that. Connect them, clamp them in good with some pliers or vice grips, and electrical tape it. 
+# Low Beams
+[H3 Low beams](https://amzn.to/3frnutn) is a similar process as the high beam, but you can reach them from within the wheel well without removing the headlight housing. So if you're just replacing low beams, no need to jack up the car. The dust collector also won't fit, but I didn't remove mine. The polarity on these were correct, so red to red and black to black. Can't explain that. Connect them, clamp them in good with some pliers or vice grips, and electrical tape it.
 
 ![Lights](/images/cap_light/22.jpg)
 ![Lights](/images/cap_light/23.jpg)
@@ -60,11 +56,23 @@ Marker lights, halogen low beams, LED high beams
 ![Lights](/images/cap_light/25.jpg)
 ![Lights](/images/cap_light/26.jpg)
 ![Lights](/images/cap_light/27.jpg)
-![Lights](/images/cap_light/28.jpg)
-![Lights](/images/cap_light/29.jpg)
+
 
 Once you've replaced the low beams, then you can re-install the nuts and lower the car. Easy enough.
 
+# Results!
+Marker lights only
+![Lights](/images/cap_light/14.jpg)
+Marker lights and halogen low beams
+![Lights](/images/cap_light/15.jpg)
+Marker lights, halogen low beams, LED high beams
+![Lights](/images/cap_light/16.jpg)
+Marker lights, LED low beams
+![Lights](/images/cap_light/28.jpg)
+Marker lights, LED low beams, LED high beams
+![Lights](/images/cap_light/29.jpg)
+
+# Reverse Lights
 Reverse lights were a bit more tricky. There are 2 10mm nuts located behind the reverse lamp housing. Both of them broke off on me when removing it. I put in a new [BA15S LED](https://amzn.to/3gYvOkz) I just happened to have around. The reflector on the inside of the reverse housing was very rusted, so I cleaned it up before resealing. To attach back to the car, I drilled two holes in the back of the housing and zip tied it around the strong metal mesh. 50 miles and no movement, so it'll do until I find a better reverse housing solution!
 
 ![Lights](/images/cap_light/17.jpg)
