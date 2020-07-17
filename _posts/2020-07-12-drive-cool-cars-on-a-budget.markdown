@@ -7,11 +7,11 @@ categories: cars
 
 ![Oil](/images/cap/4.jpg)
 
-One of life's biggest expenses is transportation, especially cars. I love cars, and love getting different cars. I get bored driving the same vehicle for more than a few years. You could imagine this would be expensive, but it doesn’t have to be. I’m 27 and have owned 12 cars, and I’ve not lost much money on them at all. The biggest downside is that you have to pay registration and taxes on every car you buy, but some of that can be tax deductible.
+One of life's biggest expenses is transportation, especially cars. I love cars, and love driving different cars. I get bored driving the same vehicle for more than a few years.. or months. You could imagine this would be expensive, but it doesn’t have to be. I've owned quite a few cars, and I’ve not lost much money on them at all. The biggest downside is that you have to pay registration and taxes on every car you buy, but some of that can be tax deductible.
 
 The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own.
 
-My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Also, 8 of these cars were Rear Wheel Drive, manual transmission cars, and I have owned two silver on black V8 automatic AWD SUVs. 6 of them were American made and had no issues, and 2 were German made and had so many issues. The two Japanese cars have been great so far, and the Italian Fiat we had was great for a long time, then got expensive to maintain.
+My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Most of my cars have been RWD sports cars that were manual, but a few SUVs and other vehicles too. I've had great experiences with the American and Japanese cars I've owned, an OK experience with the Italian Fiat, and terrible experiences with both Germans, so I'll likely never buy another German car. 
 
 ----
 ### 1. 1993 Ford Mustang LX
