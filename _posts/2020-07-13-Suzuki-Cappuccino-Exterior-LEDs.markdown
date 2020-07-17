@@ -33,7 +33,7 @@ Now the headlight housings will come out. The marker lights plug in at the botto
 
 ![Lights](/images/cap_light/7.jpg)
 
-For the high beams, remove the old bulbs and water seal around them. You will not get to reuse the rubber seal if you're switching to LEDs, so remove that. Seat your [H1 LED bulb](https://amzn.to/300sizs) in the headlight housing then clamp it in.
+For the high beams, remove the old bulbs and water seal around them. You will not get to reuse the dust collector if you're switching to LEDs, so remove that. Seat your [H1 LED bulb](https://amzn.to/300sizs) in the headlight housing then clamp it in.
 
 ![Lights](/images/cap_light/8.jpg)
 ![Lights](/images/cap_light/9.jpg)
@@ -52,7 +52,18 @@ Marker lights and halogen low beams
 Marker lights, halogen low beams, LED high beams
 ![Lights](/images/cap_light/16.jpg)
 
-[H3 Low beams](https://amzn.to/3frnutn) are the same process as the high beam, but you can reach them from within the wheel well without removing the headlight housing. So if you're just replacing low beams, no need to jack up the car. Once you've replaced the low beams, then you can re-install the nuts and lower the car. Easy enough.
+[H3 Low beams](https://amzn.to/3frnutn) is a similar process as the high beam, but you can reach them from within the wheel well without removing the headlight housing. So if you're just replacing low beams, no need to jack up the car. The dust collector also won't fit, but I didn't remove mine. The polarity on these were correct, so red to red and black to black. Can't explain that. Connect them, clamp them in good with some pliers or vice grips, and electrical tape it. 
+
+![Lights](/images/cap_light/22.jpg)
+![Lights](/images/cap_light/23.jpg)
+![Lights](/images/cap_light/24.jpg)
+![Lights](/images/cap_light/25.jpg)
+![Lights](/images/cap_light/26.jpg)
+![Lights](/images/cap_light/27.jpg)
+![Lights](/images/cap_light/28.jpg)
+![Lights](/images/cap_light/29.jpg)
+
+Once you've replaced the low beams, then you can re-install the nuts and lower the car. Easy enough.
 
 Reverse lights were a bit more tricky. There are 2 10mm nuts located behind the reverse lamp housing. Both of them broke off on me when removing it. I put in a new [BA15S LED](https://amzn.to/3gYvOkz) I just happened to have around. The reflector on the inside of the reverse housing was very rusted, so I cleaned it up before resealing. To attach back to the car, I drilled two holes in the back of the housing and zip tied it around the strong metal mesh. 50 miles and no movement, so it'll do until I find a better reverse housing solution!
 
