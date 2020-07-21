@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plasti Dip GX470 Grill"
+title:  "Lexus GX470 - Plasti Dip Grill"
 date:   2019-05-07 09:00:14 -0400
 categories: cars
 ---

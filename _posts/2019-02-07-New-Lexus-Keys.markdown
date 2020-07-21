@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Lexus Key"
+title:  "Lexus GX470 - New Keys"
 date:   2019-02-07 12:00:14 -0400
 categories: cars
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2016 Corvette Grill Mod"
+title:  "C7 Corvette Grill Mod"
 date:   2018-04-19 1:05:14 -0400
 categories: cars
 ---
