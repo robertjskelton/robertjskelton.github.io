@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interpreting the Japanese License Plate on my Suzuki Cappuccino"
+title:  "Suzuki Cappuccino - Interpreting the Japanese License Plate"
 date:   2020-07-21 8:15:14 -0400
 categories: cars
 ---

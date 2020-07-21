@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GX470 - Paint New Rims!"
+title:  "Lexus GX470 - Paint New Rims!"
 date:   2020-05-12 10:00:14 -0400
 categories: cars
 ---
