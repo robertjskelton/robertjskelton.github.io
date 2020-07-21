@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Suzuki Cappuccino Exterior LEDs"
+title:  "Suzuki Cappuccino - Exterior LEDs"
 date:   2020-07-13 8:00:14 -0400
 categories: cars
 ---

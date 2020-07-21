@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Change Heated Seat Bulbs"
+title:  "Lexus GX470 - Change Heated Seat Bulbs"
 date:   2019-10-16 7:00:14 -0400
 categories: cars
 ---

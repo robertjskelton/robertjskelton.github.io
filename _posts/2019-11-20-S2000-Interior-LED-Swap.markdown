@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Honda S2000 Interior LED Swap"
+title:  "Honda S2000 - Interior LED Swap"
 date:   2019-11-12 11:20:14 -0400
 categories: cars
 ---
@@ -16,6 +16,6 @@ I recently bought my 12th car, a 2004 Honda S2000, so I'll be doing a few little
 
 ![S2000 LEDs](/images/s2000/2.jpg)
 
-Yeah, the S2000 doesn't have that many lights compared to my GX. Anyways, they're all pretty simple to do. The map lights, you pry off only the clear cover, and there are two notches where it indicates where to put in a screwdriver. For the reverse lights, the trunk liner requires no tools to remove, just remove the liner and put in the new reverse bulbs. The trunk light itself, you can just use a flat head screwdriver. The license plate light is one Phillips screw to change. 
+Yeah, the S2000 doesn't have that many lights compared to my GX. Anyways, they're all pretty simple to do. The map lights, you pry off only the clear cover, and there are two notches where it indicates where to put in a screwdriver. For the reverse lights, the trunk liner requires no tools to remove, just remove the liner and put in the new reverse bulbs. The trunk light itself, you can just use a flat head screwdriver. The license plate light is one Phillips screw to change.
 
 ![S2000 LEDs](/images/s2000/3.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fiat 500 Steering Column Fix"
+title:  "Fiat 500 - Steering Column Fix"
 date:   2018-05-21 10:05:14 -0400
 categories: cars
 ---

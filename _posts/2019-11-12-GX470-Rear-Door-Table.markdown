@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Rear Door Table"
+title:  "Lexus GX470 - Rear Door Table"
 date:   2019-11-12 9:20:14 -0400
 categories: cars
 ---

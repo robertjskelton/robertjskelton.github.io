@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Suzuki Cappuccino Oil Change"
+title:  "Suzuki Cappuccino - Oil Change"
 date:   2020-07-11 10:00:14 -0400
 categories: cars
 ---

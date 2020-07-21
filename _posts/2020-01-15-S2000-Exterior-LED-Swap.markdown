@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Honda S2000 Exterior LED Swap"
+title:  "Honda S2000 - Exterior LED Swap"
 date:   2020-01-15 11:20:14 -0400
 categories: cars
 ---

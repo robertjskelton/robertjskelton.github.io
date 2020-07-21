@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 LED Interior Lights"
+title:  "Lexus GX470 - LED Interior Lights"
 date:   2018-12-13 12:00:14 -0400
 categories: cars
 ---

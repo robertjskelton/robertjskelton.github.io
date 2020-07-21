@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Format an Audio USB for a C7 Corvette from a Mac"
+title:  "C7 Corvette - Format an Audio USB from a Mac"
 date:   2019-07-29 012:00:14 -0400
 categories: cars
 ---

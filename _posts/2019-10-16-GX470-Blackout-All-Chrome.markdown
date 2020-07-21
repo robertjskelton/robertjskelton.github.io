@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Blackout All Chrome"
+title:  "Lexus GX470 - Blackout All Chrome"
 date:   2019-10-16 10:00:14 -0400
 categories: cars
 ---
@@ -39,6 +39,6 @@ The one time I wish the GX had a V6...
 
 ![Blackout](/images/blackout/9.jpg)
 
-Now the only chrome left on the car is the Lexus logo on the front grill and on the rims. And the tow hitch. And the lug nuts. Not blacking any of that out though. 
+Now the only chrome left on the car is the Lexus logo on the front grill and on the rims. And the tow hitch. And the lug nuts. Not blacking any of that out though.
 
 ![Blackout](/images/blackout/10.jpg)

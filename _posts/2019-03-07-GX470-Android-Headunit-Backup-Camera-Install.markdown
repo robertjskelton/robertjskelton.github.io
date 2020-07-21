@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Android Headunit and Backup Camera Install"
+title:  "Lexus GX470 - Android Headunit and Backup Camera Install"
 date:   2019-03-07 09:00:14 -0400
 categories: cars
 ---

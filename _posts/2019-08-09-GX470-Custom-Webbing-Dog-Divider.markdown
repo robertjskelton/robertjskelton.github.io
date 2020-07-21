@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Custom Webbing Dog Divider"
+title:  "Lexus GX470 - Custom Webbing Dog Divider"
 date:   2019-08-09 7:00:14 -0400
 categories: cars
 ---

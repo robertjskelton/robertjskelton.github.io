@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Running Board Removal"
+title:  "Lexus GX470 - Running Board Removal"
 date:   2019-11-12 11:20:14 -0400
 categories: cars
 ---

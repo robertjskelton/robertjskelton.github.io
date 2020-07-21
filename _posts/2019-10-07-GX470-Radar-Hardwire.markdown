@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Radar Detector Hardwire"
+title:  "Lexus GX470 - Radar Detector Hardwire"
 date:   2019-10-07 7:00:14 -0400
 categories: cars
 ---

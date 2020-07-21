@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cleaning Headlights and Other Improvements on the Lexus"
+title:  "Lexus GX470 - Cleaning Headlights and Other Improvements"
 date:   2019-01-28 12:00:14 -0400
 categories: cars
 ---

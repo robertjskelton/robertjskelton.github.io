@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexus GX470 Exterior Lights"
+title:  "Lexus GX470 - LED Exterior Lights"
 date:   2019-01-15 12:00:14 -0400
 categories: cars
 ---
