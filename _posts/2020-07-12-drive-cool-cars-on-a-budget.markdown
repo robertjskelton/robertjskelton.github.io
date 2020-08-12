@@ -11,7 +11,7 @@ One of life's biggest expenses is transportation, especially cars. I love cars, 
 
 The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own.
 
-My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Most of my cars have been RWD sports cars that were manual, but a few SUVs and other vehicles too. I've had great experiences with the American and Japanese cars I've owned, an OK experience with the Italian Fiat, and terrible experiences with both Germans, so I'll likely never buy another German car. 
+My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Most of my cars have been RWD sports cars that were manual, but a few SUVs and other vehicles too. I've had great experiences with the American and Japanese cars I've owned, an OK experience with the Italian Fiat, and terrible experiences with both Germans, so I'll likely never buy another German car.
 
 ----
 ### 1. 1993 Ford Mustang LX
@@ -101,7 +101,7 @@ The expenses on this were really low, since insurance is super cheap and it got 
 
 I bought the Porsche as a replacement to Corvette, which I sold to pay towards the down payment on my house. The difference in selling my Corvette and buying a Porsche was over $21,000! My co-workers wondered why I “upgraded” from a Corvette to a Porsche, and their jaw dropped when they find out I only paid $6,000 after tax and registration for it. The insurance for full coverage on it was about $130/mo, which I thought was insane on a car that’s so cheap. Therefore, I just went for the legal minimum. My thoughts were that if I wreck it, I can just buy another car. I’m also quite confident in my driving abilities.
 
-I called it my cheap beater Porsche, and that’s not too far off. I converted the non-functional automatic convertible top to a manually-operated top, and I just leave it down all the time. The back window was plastic that has faded to yellow, so it had terrible visibility when the top is up. I spent $50 on new tail light bulbs and a new headlight switch, since those didn’t work when I bought it. Luckily for me, I picked this up for a steal on Craigslist, and bought it the same day it was posted. I loved driving a cheap car that I don’t care about anymore! I kept this about 9 months. I put about $350 into new brakes and rotors. I did them myself, since the dealer quoted $2,700 to do it. When I sold it on eBay, it needed a new water pump, which was about $700 installed.
+I called it my cheap beater Porsche, and that’s not too far off. I converted the non-functional automatic convertible top to a manually-operated top, and I just left it down all the time. The back window was plastic that has faded to yellow, so it had terrible visibility when the top is up. I spent $50 on new tail light bulbs and a new headlight switch, since those didn’t work when I bought it. Luckily for me, I picked this up for a steal on Craigslist, and bought it the same day it was posted. I loved driving a cheap car that I don’t care about anymore! I kept this about 9 months. I put about $350 into new brakes and rotors. I did them myself, since the dealer quoted $2,700 to do it. When I sold it on eBay, it needed a new water pump, which was about $700 installed.
 
 I lost about $1,000 to drive this for close to a year, not bad. I sold it to buy my first automatic car, and first non-sports car.
 
@@ -135,7 +135,7 @@ I never bought new tires on it or did oil changes since I didn't own it for long
 
 Newest car and by far the most expensive car I've ever owned. Something about lifestyle creep... I got a 1.49% interest rate 48 month car loan on a USED car. Found this 1-owner, higher mileage C7 Corvette at a dealer. It was the exact combo I wanted, blue exterior and brown/tan interior, 2LT, manual transmission. It was Certified Pre-Owned, so it has free oil changes and services for a few years, plus it was a better price than any 2016 for sale in the country at the time. I haggled for a while, got up to leave a few times, and got about 3k off the dealer price and got more than I paid for my BMW on trade in.
 
-The 2016 came with a front camera so you don't hit the front bumper parking, and a flat bottom steering wheel. This is such a nice car, and I'm making some money on the side [renting it with Turo](https://rskelton.com/rent-other-peoples-cars-with-turo/). I was really tired of how expensive the BMW was and how unreliable it was, so I was happy to pay a premium to get into a reliable American car again. Plus it has cylinder deactivation to run on 4-cylinders when you want to, which helped me get 36 MPG on a road trip to Tampa.
+The 2016 came with a front camera so you don't hit the front bumper parking, and a flat bottom steering wheel. This is such a nice car, and I tried making some money on the side [renting it with Turo](https://rskelton.com/rent-other-peoples-cars-with-turo/), but then [this happened](https://rskelton.com/My-Turo-Claim-Horror-Story/). I was just really tired of how expensive the BMW was and how unreliable it was, so I was happy to pay a premium to get into a reliable American car again. Plus it had cylinder deactivation to run on 4-cylinders when you want to, which helped me get 36 MPG on a road trip to Tampa.
 
 Since my Vette was CPO, I never paid for oil changes on it. I owned it for almost 2 years before trading it in for a nicer car for my wife. I lost more on this car than any car I've ever had.
 
@@ -153,9 +153,9 @@ Since my Vette was CPO, I never paid for oil changes on it. I owned it for almos
 
 We needed something larger than a Corvette or Fiat to move our dogs around and do more home improvement projects, so I wanted to get something reliable SUV that would last a very long time. I did my research and decided on a Toyota 4Runner, with leather and a V8. So the 4th generation (2003-2009) Toyota 4Runner V8 Limited. Unfortunately, those are rare, and relatively expensive. Then I found out that Lexus made the same car, with more factory options and it's even nicer than the 4Runner, has a V8, leather, and it sells for less than a V8 Limited 4Runner. That sold me.
 
-I was originally planning to buy a 2003 model in Pennsylvania for $5,000, but it had rust, was a little rough, and the owner was seeming like he was never going to deliver it. I was paying him to drive it down, but he flaked on me 3 separate times. I had searches set up on every website you can think of, and not many come up for sale. One ended up showing up in Melbourne, FL, where I live, for 10k. It was more than I was wanting to spend, but it was much lower miles, newer, and nicer than I was planning on buying.
+I was originally going to buy a 2003 GX470 in Pennsylvania for $5,000, but it had rust, was a little rough, and the owner was seeming like he was never going to deliver it. I was paying him to drive it down, but he flaked on me 3 separate times. I had searches set up on every website you can think of, and not many come up for sale. One ended up showing up in my city for $10k. It was more than I was wanting to spend, but it was much lower miles, newer, and nicer than I was planning on buying.
 
-It was this one that I bought. I was going to go look at it, so I scheduled and appointment with this local car dealer for the next day. They called me that day and said the car had already sold, pending financing. Oh well.
+I was planning to go look at it, so I scheduled and appointment with this local car dealer for the next day. They called me that day and said the car had already sold, pending financing. Oh well.
 
 They called me back another day later and said financing fell through, so I went down that day and bought it, putting almost $7k of the purchase on a Capital One Venture card to get a signing bonus! This car was nearly perfect, super low miles for the model, recent maintenance on the timing belt and water pump, new battery, tires, brakes - it needs nothing. I got this car for below market (the car would've sold the next day if I didn't buy it), and I plan on driving it until it dies. This is a car that needs very little maintenance since it's a Toyota, it'll run 3,4,500k miles, and I'm already loving it.
 
@@ -187,14 +187,14 @@ My wife's parents bought her this car in college. It was a decent little car for
 
 ![Mustang](/images/cars/mustang.jpg)
 
-Sweet convertible Mustang! It has white paint with a rare red interior, there were only 3 for sale in America with that combo when we bought this. This car is fast for a 4 cylinder, and is just as nice as my Corvette was. It's the Premium Plus package, so it has lots of digital displays, heated and cooled seats, CarPlay and Android Auto and tons of other great features. This is a super comfortable car that is also fun to drive.
+Sweet convertible Mustang! It has white paint with a rare red interior, there were only 3 for sale in America with that combo when we bought this. This car is fast for a 4 cylinder, and is just as nice as my Corvette was. It has the Premium Plus package, so it has lots of digital displays, heated and cooled seats, CarPlay and Android Auto and tons of other great features. This is a super comfortable car that is also fun to drive.
 
 We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fiat and Corvette over and traded them both in. It was really sad to see my C7 go, but at the same time, it was way too expensive of a car for me. I got a little upset not having a fun manual sports car though, so I bought myself a...
 
 ----
 ### 12. 2004 Honda S2000
 * Bought: $10,000 / 85,000 miles
-* Sold: $12,000 / 85,800
+* Sold: $12,000 / 88,000
 * MPG: 18/25, premium gas. Great smiles per gallon!
 * Insurance: $50/mo for excellent coverage
 * Engine: 2.4L 4-cylinder, 237HP
@@ -222,6 +222,8 @@ I owned it for about 7 months, put in about $200 of parts into it, and sold it f
 This is a very unique car. Never sold in America, and can only be imported once 25 years old, this right hand drive JDM kei car gets tons of attention. It is slow, difficult to drive, but it's a blast. The top speed is about 83mph. I've got it up to 120...kmh. Everything is in Kilometers, so you have to convert in your head to know how fast you are going. It doesn't matter too much, since it might be the slowest car on the road, barely can get up to the speed limit.
 
 It has a 3 piece targa/t-top, a fold down back window, and it's SO SMALL. Very fun so far. This will probably need a decent amount of work since it is old, and parts are hard to come by in the US, since it wasn't sold here. If you want parts, you basically have to find someone in the UK (where it was sold 27-29 years ago), or in Japan, and get them to ship them to you. There is a pretty active following of these in a few Facebook groups.
+
+I was planning to keep this a year and sell it, but a few months into ownership I am liking it much more than expected, might keep it longer. 
 
 ----
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
