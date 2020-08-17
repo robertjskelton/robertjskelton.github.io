@@ -7,7 +7,7 @@ categories: cars
 
 ![Reverse](/images/cap_reverse/12.jpg)
 
-My reverse bulb and housing was ancient and rusted, so I bought a pair of ]7" LED light bars](https://amzn.to/311hToJ) to replace that single light.
+My reverse bulb and housing was ancient and rusted, so I bought a pair of [7" LED light bars](https://amzn.to/311hToJ) to replace that single light.
 
 ![Reverse](/images/cap_reverse/1.jpg)
 
@@ -39,7 +39,7 @@ Drilled holes based off where the mounts should sit, this is above the black mes
 
 ![Reverse](/images/cap_reverse/8.jpg)
 
-Got the first mount in. This is easily the most annoying part of the project, you have to hold the nut blindly behind the top of the bumper with a ratchet or wrench. Then use the allen wrench outside of the bumper to tighten the bolt into the nut.
+Got the first mount in. This is easily the most annoying part of the project, you have to hold the nut blindly behind the top of the bumper with a ratchet or wrench. Then use the included allen wrench outside of the bumper to tighten the bolt into the nut.
 
 Probably don't use a ratchet. I did, and the bolt was so long that it prevented me from removing the ratchet once I tightened the hardware in.. so I had to get another wrench to loosen it (since ratchets are one way only, right). Then got the new wrench under the bumper to loosen it. Don't make that mistake.
 
@@ -52,5 +52,7 @@ Both brackets in, now you can do the wiring. Red to red, black to black, your ch
 Nice and bright!
 
 ![Reverse](/images/cap_reverse/11.jpg)
+
+I decided to go with just 1 reverse light bar, since the hardware was so annoying to install, but running an extra 2 sets of wire to the other side of the bumper would make a blinding double reverse light bar combo. Hey, anything to make this vehicle more visible on the road.
 
 ![Reverse](/images/cap_reverse/12.jpg)
