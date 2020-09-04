@@ -5,9 +5,9 @@ date:   2020-09-04 10:00:14 -0400
 categories: tech
 ---
 
-![Reverse](/images/cap_reverse/pixel_4a.jpg)
+![Reverse](/images/cap_reverse/pixel4a.jpg)
 
-I bought a Google Pixel 4a to use on [Visible Wireless](https://www.visible.com/), a [Verizon MVNO](https://en.wikipedia.org/wiki/Mobile_virtual_network_operator). The Pixel 4a costs $350, but I bought it through Visible for $360, which included a $30 Speck case, and a []$100 prepaid Visa card for porting my phone number](https://slickdeals.net/f/14316353-pixel-4a-smartphone-at-visible-mobile-360-with-100-prepaid-card-for-switching-360). It also shipped in 1 day, compared to the backorders of week I've read about from Google Fi, the other carrier I was considering. I was also able to stack 4% back using [Rakuten](https://rskelton.com/using-rakuten-for-more-cashback/), and Paypal, which is 5% back on the Discover IT card as of the time of writing.
+I bought a Google Pixel 4a to use on [Visible Wireless](https://www.visible.com/), a [Verizon MVNO](https://en.wikipedia.org/wiki/Mobile_virtual_network_operator). The Pixel 4a costs $350, but I bought it through Visible for $360, which included a $30 Speck case, and a [$100 prepaid Visa card for porting my phone number](https://slickdeals.net/f/14316353-pixel-4a-smartphone-at-visible-mobile-360-with-100-prepaid-card-for-switching-360). It also shipped in 1 day, compared to the backorders of week I've read about from Google Fi, the other carrier I was considering. I was also able to stack 4% back using [Rakuten](https://rskelton.com/using-rakuten-for-more-cashback/), and Paypal, which is 5% back on the Discover IT card as of the time of writing.
 
 I currently have a work phone through AT&T, but the reception is so bad I can rarely get 4G in my house, and about 40% of my calls drop. I live in a large city, not in the country. I initially tried to transfer my work AT&T number, which is the number I use most, to Visible. I spent an hour online with AT&T support, and to do that I had to create a personal AT&T account, then transfer my work number from business AT&T to personal AT&T, and from there on to Visible. However, AT&T runs a hard credit pull when opening an account, even if I never hook up service, and we are in the process of buying a house, so that's a huge no from me, dawg. AT&T is keeping that number, however!
 
