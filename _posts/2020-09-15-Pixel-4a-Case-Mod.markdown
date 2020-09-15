@@ -7,7 +7,7 @@ categories: tech
 
 ![Reverse](/images/case/1.jpg)
 
-I bought a [Teevlo Wallet Case](https://amzn.to/3momryf) for my [Pixel 4a](https://rskelton.com/Pixel-4a-On-Visible-Wireless/), since I've been carrying my S8/S9 over the last 3 years with built in wallet cases. I love not carrying an extra wallet. This Teevlo case advertises carrying only 2 cards, and I carry a Drivers License and 2-3 credit cards at a time, so I needed to increase that card storage capacity.
+I bought a [Teelevo Wallet Case](https://amzn.to/3momryf) for my [Pixel 4a](https://rskelton.com/Pixel-4a-On-Visible-Wireless/), since I've been carrying my S8/S9 over the last 3 years with built in wallet cases. I love not carrying an extra wallet. This Teelevo case advertises carrying only 2 cards, and I carry a Drivers License and 2-3 credit cards at a time, so I needed to increase that card storage capacity.
 
 ![Reverse](/images/case/3.jpg)
 
