@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pixel 4a Case Mod"
-date:   2020-09-04 10:00:14 -0400
+date:   2020-09-15 10:00:14 -0400
 categories: tech
 ---
 
@@ -17,6 +17,6 @@ So what I did was cut out the rubber between the credit card slot and the phone,
 
 ![Reverse](/images/case/5.jpg)
 
-Plus the phone stands up on the case too! Highly recommended. 
+Plus the phone stands up on the case too! Highly recommended.
 
 ![Reverse](/images/case/2.jpg)
