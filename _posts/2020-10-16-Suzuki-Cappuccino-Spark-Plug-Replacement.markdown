@@ -11,7 +11,6 @@ I replaced the 3 spark plugs on my Cappuccino, pretty easy process. I'd recommen
 
 ### Parts Required
 * [Spark Plugs, NGK 6046 DCPR7EIX x3](https://amzn.to/358RJRS)
-* [Spark Plug Wires, x3](https://amzn.to/2T228co)
 * [5/8" Spark Plug deep socket](https://amzn.to/2H7OIZY)
 
 I had to take off 1 hose above the spark plugs, using needle nose pliers. Mine did not have a cover over the spark plugs, but they came with one stock.
@@ -25,5 +24,3 @@ Then just remove the spark plug wire, remove the old spark plug with a 5/8" deep
 ![Spark Plug](/images/spark_plug/3.jpg)
 
 ![Spark Plug](/images/spark_plug/4.jpg)
-
-Then just replace your spark plug wires, if you want, 2/3 of mine were in good shape, but I figure I'd go ahead and replace them, they're cheap.
