@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Drive Cool Cars on a Budget"
-date:   2020-07-12 09:05:14 -0400
+date:   2020-11-11 09:05:14 -0400
 categories: cars
 ---
 
@@ -12,6 +12,8 @@ One of life's biggest expenses is transportation, especially cars. I love cars, 
 The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own.
 
 My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Most of my cars have been RWD sports cars that were manual, but a few SUVs and other vehicles too. I've had great experiences with the American and Japanese cars I've owned, an OK experience with the Italian Fiat, and terrible experiences with both Germans, so I'll likely never buy another German car.
+
+Then I went through a phase of 3 red manual Japanese convertibles.
 
 ----
 ### 1. 1993 Ford Mustang LX
@@ -205,12 +207,12 @@ We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fi
 
 A great deal on an AP2 S2000, with very low miles. So now we have the Lexus, Mustang, and my S2000. This car doesn't get driven with the top up, only down. It's a fun little sports car to drive around town in, but not comfortable at all. It has some aftermarket bumpers and side skirts, and a paint job, and I hate all of those things. It was sports car red from the factory, and the previous owner painted it maroon. Maybe eventually I'll convert it back to stock and get the nice red paint back on it, but for now I just use this to run errands around town, as long as I don't have to carry too much stuff. This drives just like my old Boxster, which is great, but it's a Honda, so it is reliable.
 
-I owned it for about 7 months, put in about $200 of parts into it, and sold it for a 4 figure profit. Waited a whole business day before putting down a deposit on my next car -  1991 Suzuki Cappuccino!
+I owned it for about 7 months, put in about $200 of parts into it, and sold it for a 4 figure profit. Waited a whole business day before putting down a deposit on my next car - 1991 Suzuki Cappuccino!
 
 ----
 ### 13. 1991 Suzuki Cappuccino
 * Bought: $5,000 / 122,000 km
-* Sold: Not yet
+* Sold: $5,000 / 123,000 km
 * MPG: ~35/50, premium gas. Insane MPG! It has a whopping 5 gallon gas tank
 * Insurance: $45/mo for some coverage
 * Engine: .6L 3-cylinder Turbo, 63HP
@@ -223,7 +225,21 @@ This is a very unique car. Never sold in America, and can only be imported once 
 
 It has a 3 piece targa/t-top, a fold down back window, and it's SO SMALL. Very fun so far. This will probably need a decent amount of work since it is old, and parts are hard to come by in the US, since it wasn't sold here. If you want parts, you basically have to find someone in the UK (where it was sold 27-29 years ago), or in Japan, and get them to ship them to you. There is a pretty active following of these in a few Facebook groups.
 
-I was planning to keep this a year and sell it, but a few months into ownership I am liking it much more than expected, might keep it longer. 
+This was such a fun car to drive around in, got tons of look and was just a blast. Unfortunately, it needed quite a bit of work and had to get towed home. I'm not the greatest mechanic, so even after trying to replace everything I knew how to, I gave up and sold it as a non-running car. I broke even on it, and the next owner is planning a 2.2L turbo motorcycle engine swap for it.
+
+----
+### 14. 2016 Mazda Miata
+* Bought: $16,000 / 36,000 mi
+* Sold: Not yet
+* MPG: ~25/50, premium gas. Insane MPG! It has a whopping 5 gallon gas tank
+* Insurance: $4/mo for full coverage
+* Engine: 2L 4-cyl with a BBR Turbo
+* Oil Changes: $40 for full synthetic
+* Taxes/Registration: $800
+
+![Oil](/images/miata_led/miata.jpg)
+
+So I finally bought a Miata, third time is the charm. First time I tried to buy one I got a S2000, then a Cappuccino. Found this Miata locally for sale by widow, and got it for a great deal. She had it listed on Facebook only, 1 picture and no description. Haggled down a few grand and bought this for well below market value. It's got a BBR Turbo kit and some other engine goodies from Flyin Miata, and is the Club trim, so it's got the digital display. Fun to drive, quick enough, and I love how quick the top goes down.
 
 ----
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
