@@ -196,7 +196,7 @@ We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fi
 ----
 ### 12. 2004 Honda S2000
 * Bought: $10,000 / 85,000 miles
-* Sold: $12,000 / 88,000
+* Sold: $12,000 / 88,000 miles
 * MPG: 18/25, premium gas. Great smiles per gallon!
 * Insurance: $50/mo for excellent coverage
 * Engine: 2.4L 4-cylinder, 237HP
@@ -221,17 +221,15 @@ I owned it for about 7 months, put in about $200 of parts into it, and sold it f
 
 ![Oil](/images/cap/4.jpg)
 
-This is a very unique car. Never sold in America, and can only be imported once 25 years old, this right hand drive JDM kei car gets tons of attention. It is slow, difficult to drive, but it's a blast. The top speed is about 83mph. I've got it up to 120...kmh. Everything is in Kilometers, so you have to convert in your head to know how fast you are going. It doesn't matter too much, since it might be the slowest car on the road, barely can get up to the speed limit.
+This is a very unique car. Never sold in America, and can only be imported once 25 years old, this right hand drive JDM kei car gets tons of attention. It is slow, difficult to drive, but it's a blast. The top speed is about 83mph. I've got it up to 120...kmh. Everything is in Kilometers, so you have to convert in your head to know how fast you are going. It doesn't matter too much, since it might be the slowest car on the road, barely can get up to the speed limit. It has a 3 piece targa/t-top, a fold down back window, and it's SO SMALL. Very fun car.
 
-It has a 3 piece targa/t-top, a fold down back window, and it's SO SMALL. Very fun so far. This will probably need a decent amount of work since it is old, and parts are hard to come by in the US, since it wasn't sold here. If you want parts, you basically have to find someone in the UK (where it was sold 27-29 years ago), or in Japan, and get them to ship them to you. There is a pretty active following of these in a few Facebook groups.
-
-This was such a fun car to drive around in, got tons of look and was just a blast. Unfortunately, it needed quite a bit of work and had to get towed home. I'm not the greatest mechanic, so even after trying to replace everything I knew how to, I gave up and sold it as a non-running car. I broke even on it, and the next owner is planning a 2.2L turbo motorcycle engine swap for it.
+This was such a fun car to drive around in, got tons of look and was just a blast. Unfortunately, it needed quite a bit of work and had to get towed home. If you want parts, you basically have to find someone in the UK (where it was sold 27-29 years ago), or in Japan, and get them to ship them to you. I'm not the greatest mechanic, so even after trying to replace everything I knew how to, I gave up and sold it as a non-running car. I broke even on it, and the next owner is planning a 2.2L turbo motorcycle engine swap for it.
 
 ----
 ### 14. 2016 Mazda Miata
 * Bought: $16,000 / 36,000 mi
 * Sold: Not yet
-* MPG: ~25/50, premium gas. Insane MPG! It has a whopping 5 gallon gas tank
+* MPG: ~25/33, premium gas.
 * Insurance: $4/mo for full coverage
 * Engine: 2L 4-cyl with a BBR Turbo
 * Oil Changes: $40 for full synthetic
@@ -239,7 +237,7 @@ This was such a fun car to drive around in, got tons of look and was just a blas
 
 ![Oil](/images/miata_led/miata.jpg)
 
-So I finally bought a Miata, third time is the charm. First time I tried to buy one I got a S2000, then a Cappuccino. Found this Miata locally for sale by widow, and got it for a great deal. She had it listed on Facebook only, 1 picture and no description. Haggled down a few grand and bought this for well below market value. It's got a BBR Turbo kit and some other engine goodies from Flyin Miata, and is the Club trim, so it's got the digital display. Fun to drive, quick enough, and I love how quick the top goes down.
+So I finally bought a Miata, third time is the charm. First time I tried to buy one I got a S2000, then a Cappuccino. Found this Miata locally for sale by widow, and got it for a great deal. She had it listed on Facebook only, 1 picture and no description. Haggled down a few grand and bought this for well below market value. It's got a BBR Turbo kit, intercooler and intake from Flyin Miata, and it's the Club trim, so it's got the digital display. Fun to drive, quick enough, and I love how quick the top goes down.
 
 ----
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
