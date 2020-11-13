@@ -13,7 +13,7 @@ I recently bought this 2016 Miata, so of course, have to change all the lights t
 
 The license plate lights are a little tricky to get out, but once they are out, just plug in the LEDs and check for polarity with the lights on. If they don't come on, swap the polarity before re-installing.
 
-![LED](/images/miata_led/license_plate_removal.jpg)
+![LED](/images/miata_led/license_plate_removal.jpeg)
 
 ![LED](/images/miata_led/license_before.jpg)
 
