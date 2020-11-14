@@ -11,11 +11,13 @@ The ND Miata pipes in engine noise to the cabin from the factory, using a plasti
 
 If you still have the stock sound tube and want to remove it, there is a [Verus Engineering kit](https://www.flyinmiata.com/default/verus-sound-tube-delete.html) to remove the parts while retaining the stock intake. 
 
+Before
 ![Sound](/images/sound/1.jpg)
  
 Took this junk out
 ![Sound](/images/sound/2.jpg)
-
+ 
+ After
 ![Sound](/images/sound/3.jpg)
 
 
