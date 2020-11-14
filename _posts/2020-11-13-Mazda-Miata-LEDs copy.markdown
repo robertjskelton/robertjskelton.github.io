@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mazda Miata - LEDs"
-date:   2020-11-20 10:00:14 -0400
+date:   2020-11-13 10:00:14 -0400
 categories: cars
 ---
 
