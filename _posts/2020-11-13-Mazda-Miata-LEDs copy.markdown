@@ -5,7 +5,7 @@ date:   2020-11-13 10:00:14 -0400
 categories: cars
 ---
 
-![LED](/images/miata_led/miata.jpeg)
+![LED](/images/miata_led/miata.jpg)
 
 I recently bought this 2016 Miata, so of course, have to change all the lights to LEDs. This one doesn't have that many exterior bulbs to change.
 
