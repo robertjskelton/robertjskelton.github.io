@@ -39,7 +39,7 @@ Next, I sanded then cleaned all the pieces. Hit them all with a coat of primer, 
 ![Sound](/images/rhino/13.jpg)
 ![Sound](/images/rhino/14.jpg)
 
-Before you put it back on, clean all the rubber pieces, I used soap and water, the dry them. Mine rubber pieces were very gross. 
+Before you put it back on, clean all the rubber pieces, I used soap and water, then dry them. My rubber pieces were very gross. 
 
 ![Sound](/images/rhino/19.jpg)
 ![Sound](/images/rhino/15.jpg)
@@ -49,7 +49,7 @@ Then just put the rack back on, same way as you took it off.
 ![Sound](/images/rhino/17.jpg)
 ![Sound](/images/rhino/18.jpg)
 
-Finally, put the trim pieces back on. I also used a black rubber plastic welder, like a quick epoxy, to make sure the new trim pieces didn't fly off this time. You might not have to do this if you buy a set that fits better than my ebay set. 
+Finally, put the trim pieces back on. I also used a [Black Plastic Welder](https://amzn.to/36BhP0B), like a quick epoxy, to make sure the new trim pieces didn't fly off. You might not have to do this if you buy a set that fits better than my ebay set. 
 
 ![Sound](/images/rhino/20.jpg)
 ![Sound](/images/rhino/21.jpg)
