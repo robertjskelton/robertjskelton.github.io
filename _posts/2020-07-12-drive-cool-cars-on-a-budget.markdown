@@ -230,7 +230,7 @@ This was such a fun car to drive around in, got tons of look and was just a blas
 * Bought: $16,000 / 36,000 mi
 * Sold: Not yet
 * MPG: ~25/33, premium gas.
-* Insurance: $4/mo for full coverage
+* Insurance: $43/mo for full coverage
 * Engine: 2L 4-cyl with a BBR Turbo
 * Oil Changes: $40 for full synthetic
 * Taxes/Registration: $800
