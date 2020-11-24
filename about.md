@@ -14,3 +14,6 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 * [Concerts](https://rskelton.com/concerts)
 
 There are some links on this site that earn me referrals. As an Amazon Associate I earn from qualifying purchases. I do not post products that I don't personally recommend, though.
+
+### Email Subscription
+Sign up to receive [new posts by email here!](https://rskelton.com/email-subscribe)
