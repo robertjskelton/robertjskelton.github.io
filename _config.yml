@@ -19,8 +19,7 @@ footer-links:
   twitter: robertjskelton
   #stackoverflow: users/1938341/robertjskelton # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UC-W1fWe0xjgzd7DeXLSU1MA # channel/<your_long_string> or user/<user-name>
-
-
+  
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: rskelton-com
