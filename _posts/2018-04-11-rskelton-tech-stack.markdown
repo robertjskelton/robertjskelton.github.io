@@ -20,6 +20,7 @@ rskelton.com currently uses the following technologies, and drew inspiration fro
 * [Disqus](https://disqus.com/) for comments.
 * [Google Analytics](https://analytics.google.com) for Analytics.
 * [Google Adsense](https://www.google.com/adsense) for ads.
+* [Mailchimp for Subscriber emails](https://blog.webjeda.com/jekyll-subscribe-form/) - 2.5 years later I added an email signup. 
 
 ----
 
