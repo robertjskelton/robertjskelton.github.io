@@ -21,7 +21,7 @@ Then I patched all the holes in the wall and did some touch up paint.
 ![Ikea](/images/closet/7.jpg)
 ![Ikea](/images/closet/8.jpg)
 
-Added more laminate flooring (the previous owners did not finish the laminate flooring in any closet, I guess they didn't have the right tool.
+Added more laminate flooring. The previous owners did not finish the laminate flooring in any closet, I guess they didn't have the right tool (a [laminate pull bar](https://amzn.to/2VWlOQo), required for putting in laminate at the ends of rooms and closets).
 
 ![Ikea](/images/closet/9.jpg)
 
@@ -30,7 +30,7 @@ Then added new baseboards.
 ![Ikea](/images/closet/5.jpg)
 ![Ikea](/images/closet/10.jpg)
 
-Then I assembled the IKEA Aurdal closet, 4 drawers, mounted them in there, and moved my clothes from the guest room closet into this closet.
+Then I assembled the IKEA Aurdal closet, 4 drawers and 5 shelves, mounted them into the wall, and moved my clothes from the guest room closet into this closet.
 
 ![Ikea](/images/closet/6.jpg)
 ![Ikea](/images/closet/11.jpg)
@@ -38,4 +38,4 @@ Then I assembled the IKEA Aurdal closet, 4 drawers, mounted them in there, and m
 ![Ikea](/images/closet/13.jpg)
 ![Ikea](/images/closet/14.jpg)
 
-I like this closet a ton, and will end up doing our master bedroom closet in the same way, lots of dense clothes storage. The master closet is also a pretty bad closet. 
+I like this closet a ton, and will end up doing our master bedroom closet in the same way, lots of dense clothes and shoe storage. The master closet is also a pretty bad closet. 
