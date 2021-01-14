@@ -29,3 +29,5 @@ And, of course, behind that panel is some more storage. I keep a small air compr
 And finally, my wonderful [table on the rear door](https://rskelton.com/GX470-Rear-Door-Table/). Behind it, I keep some toilet paper, paper towels, first aid kit, [collapsable dog bowl](https://amzn.to/38OuOyB) (yeah, we travel with our dogs often), and the factory tool set is back there. I even mounted in a [bottle opener](https://amzn.to/35H2dJq). 
 
 ![Storage](/images/storage/1.jpg)
+
+All these storage items and the table build cost under $100, so a very cheaper way to optimize your GX's storage. 
