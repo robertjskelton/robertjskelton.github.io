@@ -9,10 +9,15 @@ categories: cars
 
 The GX has lots of room, and lots of opportunities to better organize your stuff. Some people build drawers in the back or buy fancy [metal molle panels](https://www.ragofabrication.com/products/gx-470-modular-storage-panel-system-powder-coated). I went just a few cheap organizers off of Amazon, plus the [table I built in the back](https://rskelton.com/GX470-Rear-Door-Table/). 
 
-I just bought 2 of [these storage organizers](https://amzn.to/3bETGud), I installed them on both sides of the center console in the front. We use them for storing our face masks, very 2020 appropriate. Once covid is over, not sure what I'll put here. They're held on with 3M tape, and if that ever came loose, some small black screws should do the trick. 
+I just bought 2 of [these storage organizers](https://amzn.to/3bETGud), I installed them on both sides of the center console in the front. We use them for storing our face masks, very 2020 appropriate. Once covid is over, not sure what I'll put here. They're held on with 3M tape. 
 
 ![Storage](/images/storage/6.jpg)
 ![Storage](/images/storage/5.jpg)
+
+Update: the 3M tape fell off less than a day later! I pre-drilled 4 spots for screws and they aren't going anywhere now. 
+
+![Storage](/images/storage/10.jpg)
+![Storage](/images/storage/11.jpg)
 
 I also bought a [Molle panel organizer](https://amzn.to/38HDwOM) that I keep on the drivers sunvisor to hold some pens and garage door opener. 
 
