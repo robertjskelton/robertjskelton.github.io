@@ -11,15 +11,21 @@ I added some hood struts to my Miata, which replace that little stick you prop u
 
 It took about 10 minutes to install, and I only needed a 12mm socket. 
 
-The included instructions are kinda vague (below), so here's what I did. 
+The included instructions are kinda vague (below), so here's what I did. I'm in America, so driver/passenger instructions are oriented for a LHD car. 
 
 ![Struts](/images/struts/11.jpg)
 
-Take the front bolt off of the black oval piece near the windshield, shown below. 
+Packaging
+![Struts](/images/struts/12.jpg)
+
+Included Parts
+![Struts](/images/struts/13.jpg)
+
+Take the bolt closer to the front of car off of the black oval piece near the windshield, shown below. 
 
 ![Struts](/images/struts/1.jpg)
 
-Place the on labelled "L" on the drivers side, with the notch into the blank hole. Use the washer and the stock bolt, and tighten that in. 
+Place the on labelled "L" on the drivers side, with the notch into the blank hole. Use the included washer and the stock bolt, and tighten that in. 
 
 ![Struts](/images/struts/2.jpg)
 
@@ -32,7 +38,7 @@ For the upper bracket, find the two painted bolts that attach the hood to the ho
 ![Struts](/images/struts/4.jpg)
 ![Struts](/images/struts/5.jpg)
 
-Insert your bracket, again L for drivers, R for passenger. Thread the screw into the hole, but don't tighten it much. This bracket has 3M tape on the back, so remove the sticker paper before seating the bracket. Then you can tighen the bolt. 
+Insert your upper bracket, again L for drivers, R for passenger. Thread the screw into the hole, but don't tighten it much. This bracket has 3M tape on the back, so remove the sticker paper before seating the bracket. Then you can tighen the bolt. 
 
 ![Struts](/images/struts/6.jpg)
 ![Struts](/images/struts/7.jpg)
