@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Drive Cool Cars on a Budget"
-date:   2020-11-11 09:05:14 -0400
+date:   2021-03-29 09:05:14 -0400
 categories: cars
 ---
 
@@ -228,16 +228,18 @@ This was such a fun car to drive around in, got tons of look and was just a blas
 ----
 ### 14. 2016 Mazda Miata
 * Bought: $16,000 / 36,000 mi
-* Sold: Not yet
+* Sold: $19,500 / 37,500 mi
 * MPG: ~25/33, premium gas.
 * Insurance: $43/mo for full coverage
-* Engine: 2L 4-cyl with a BBR Turbo
+* Engine: 2.0L 4-cyl with a BBR Turbo
 * Oil Changes: $40 for full synthetic
 * Taxes/Registration: $800
 
 ![Oil](/images/miata_led/miata.jpg)
 
 So I finally bought a Miata, third time is the charm. First time I tried to buy one I got a S2000, then a Cappuccino. Found this Miata locally for sale by widow, and got it for a great deal. She had it listed on Facebook only, 1 picture and no description. Haggled down a few grand and bought this for well below market value. It's got a BBR Turbo kit, intercooler and intake from Flyin Miata, and it's the Club trim, so it's got the digital display. Fun to drive, quick enough, and I love how quick the top goes down.
+
+I kept this for about 6 months, and used cars prices started going up a ton during Covid. I decided to sell for a pretty solid profit before depreciation started to really hit. I had it listed for only an HOUR online before someone from Michigan booked a flight to come pick it up. 
 
 ----
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
