@@ -9,6 +9,7 @@ categories: cars
 
 I installed a new Android headunit in my 2007 Lexus GX470, complete with a reverse activated backup camera. The install took about 5 hours over the course of a few days, and here is how I did it.
 
+[2021 Update:](https://rskelton.com/lexus-gx470-backup-camera/) the backup camera I recommended in the post died - [here is an updated post](https://rskelton.com/lexus-gx470-backup-camera/) on how to install a [better backup camera](https://amzn.to/3fUAWJp). 
 
 ### Parts Needed:
 * [9 inch Android Headunit with Canbus](https://www.aliexpress.com/item/9-inch-car-radio-for-Toyota-Prado-120-2004-2009-Quadcore-Android-6-0-car/32801839608.html?spm=2114.search0104.3.24.5edff7d9xxAsrB&ws_ab_test=searchweb0_0,searchweb201602_1_10065_10068_10130_10890_10547_319_10546_317_10548_10545_10696_453_10084_454_10083_433_10618_10307_537_536_10902_10059_10884_10887_321_322_10103,searchweb201603_6,ppcSwitch_0&algo_expid=c0b5c1d2-1f43-48c9-8027-ff2257719e95-3&algo_pvid=c0b5c1d2-1f43-48c9-8027-ff2257719e95&transAbTest=ae803_5)
