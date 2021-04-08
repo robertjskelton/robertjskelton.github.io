@@ -1,19 +1,16 @@
 ---
 layout: post
-title:  "Lexus GX470 - Backup Camera, 2021 Update"
-date:   2021-04-08 10:05:14 -0400
+title:  "Lexus GX470 - Replace Backup Camera"
+date:   2021-04-08 10:30:14 -0400
 categories: cars
 ---
 
 ![Camera](/images/camera/15.jpg)
 
-
 This is a followup to my earlier post on [installing an Android heaunit](https://rskelton.com/GX470-Android-Headunit-Backup-Camera-Install/), from 2019. The backup camera I installed lasted about 2 years before the video started flickering, then stopped working. All the metal hinges on the camera had rusted off, and I don't really commend buying that camera anymore. I replaced it with a newer, nicer camera. 
 
-![Camera](/images/camera/3.jpg)
 ![Camera](/images/camera/8.jpg)
 ![Camera](/images/camera/9.jpg)
-
 
 I bought this [Natika backup camera](https://amzn.to/3fUAWJp), which is all plastic on the outside, and mounts flush, so it will be more protected from the elements and less likely to rust. I already had wiring run from the headunit to the rear door from my previous install, so I just needed to splice in the new video wire, and then power and ground for this new backup camera. 
 
@@ -22,7 +19,9 @@ I bought this [Natika backup camera](https://amzn.to/3fUAWJp), which is all plas
 ![Camera](/images/camera/7.jpg)
 ![Camera](/images/camera/5.jpg)
 
-The only issue with this camera's cabling is that the yellow video cable coming from the headunit is a male connector, and the new backup camera also has a male connector. I could have bought a [yellow RCA coupler](https://amzn.to/2OvE0Ai), but I'm too impatient for that. I stripped the yellow wire and found a power, a ground, and a video wire. Simply spliced like to like, electrical taped like crazy, good to go. Soldering would work better, but my soldering iron is missing. 
+There are 3 optional wires you can cut on this camera. Cutting the white one treats the camera like a front facing camera. Cutting the green one removes the projected guide line on the video output. Cutting the purple one flips the camera's video output, which would be useful on truck's tailgate if mounted that way. I cut none of the wires, and left them all as-is. 
+
+The only issue with the new camera's cabling is that the yellow video cable coming from the headunit is a male connector, and the new backup camera also has a male connector. I could have bought a [yellow RCA coupler](https://amzn.to/2OvE0Ai), but I'm too impatient for that. I stripped the yellow wire and found a power, a ground, and a video wire. Simply spliced like to like from the new camera wiring to the existing wiring leading to the headunit, electrical taped like crazy, good to go. Soldering would work better, but my soldering iron is missing. 
 
 ![Camera](/images/camera/6.jpg)
 
