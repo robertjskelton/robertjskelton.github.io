@@ -21,7 +21,7 @@ I bought this [Natika backup camera](https://amzn.to/3fUAWJp), which is all plas
 
 There are 3 optional wires you can cut on this camera. Cutting the white one treats the camera like a front facing camera. Cutting the green one removes the projected guide line on the video output. Cutting the purple one flips the camera's video output, which would be useful on truck's tailgate if mounted that way. I cut none of the wires, and left them all as-is. 
 
-The only issue with the new camera's cabling is that the yellow video cable coming from the headunit is a male connector, and the new backup camera also has a male connector. I could have bought a [yellow RCA coupler](https://amzn.to/2OvE0Ai), but I'm too impatient for that. I stripped the yellow wire and found a power, a ground, and a video wire. Simply spliced like to like from the new camera wiring to the existing wiring leading to the headunit, electrical taped like crazy, good to go. Soldering would work better, but my soldering iron is missing. 
+The only issue with the new camera's cabling is that the yellow video cable coming from the headunit is a male connector, and the new backup camera also has a male connector. I could have bought a [yellow RCA coupler](https://amzn.to/2OvE0Ai), but I'm too impatient for that. I stripped the yellow wire and found a power, a ground, and a video wire. Simply spliced like to like from the new camera wiring to the existing wiring leading to the headunit, soldered them all, electrical taped like crazy, good to go. Make sure to solder them - I tried not soldering them and the reverse light connector broke loose after 1 day. 
 
 ![Camera](/images/camera/6.jpg)
 
