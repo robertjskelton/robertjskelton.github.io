@@ -43,3 +43,5 @@ So I ordered the [nicer more swivally arm](https://amzn.to/2RPMOlT) and was able
 
 ![Ram](/images/ram/10.jpg)
 ![Ram](/images/ram/11.jpg)
+
+Also if you're wondering what the piece of rubber that comes with the phone mount is, and how to use it, it is a [RAM X-Grip](https://www.youtube.com/watch?v=S8ky_uKTw98). Seems great for motorcycles or if you drive with the window down often, but the mount seems quite sturdy without it. 
