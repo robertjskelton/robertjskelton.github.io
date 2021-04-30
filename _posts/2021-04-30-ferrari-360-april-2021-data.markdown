@@ -29,6 +29,10 @@ A manual transmission demands about a $6,000 premium over a F1 (automatic with p
 
 ![April 2021](/images/360-april2021/trans.png)
 
+And this is the current Price vs Miles chart. The highest miled 360 I've seen had about 80k miles on it, though it was listed for much higher than expected. It's still for sale, and has been for a while. There is a cluster of them for sale in the 20-30k mile range. 
+
+![April 2021](/images/360-april2021/miles.png)
+
 I'll have another update at the end of May, and I'll be interested to see how the prices of this Ferrari go. Feel free to check out the [Ferrari 360 spreadsheet](https://rskelton.com/360) for the raw data, more charts, and links to all cars tracked. It's the greatest spreadsheet I've ever made, and I am very proud of it. If you have any additions, corrections or advice on how to improve my pivot tables, leave a comment. 
 
 The one in the top picture - that's my pick of this month. It's blue on blue on blue, a F1 Spider, listed in Florida for $65k. I like blue. 
