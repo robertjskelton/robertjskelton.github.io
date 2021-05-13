@@ -18,4 +18,4 @@ There are some links on this site that earn me referrals. As an Amazon Associate
 
 ----
 ### Support 
-Consider supporting me on [Patreon](https://www.patreon.com/rskelton) or [](https://www.paypal.com/donate?business=VPAJ4KB8EXFS8&currency_code=USD)
+Consider supporting me on [Patreon](https://www.patreon.com/rskelton) or [Paypal](https://www.paypal.com/donate?business=VPAJ4KB8EXFS8&currency_code=USD).
