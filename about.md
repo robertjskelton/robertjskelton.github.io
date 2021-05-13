@@ -12,9 +12,10 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 ### Spreadsheets
 * [Football Games](https://rskelton.com/football)
 * [Concerts](https://rskelton.com/concerts)
+* [Ferrari 360 For Sale](https://rskelton.com/360)
 
 There are some links on this site that earn me referrals. As an Amazon Associate I earn from qualifying purchases. I do not post products that I don't personally recommend, though.
 
 ----
-### Email Subscription
-Sign up to receive [new posts by email here!](https://rskelton.com/email-subscribe)
+### Support 
+Consider supporting me on [Patreon](https://www.patreon.com/rskelton) or [](https://www.paypal.com/donate?business=VPAJ4KB8EXFS8&currency_code=USD)
