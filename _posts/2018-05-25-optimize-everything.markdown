@@ -15,6 +15,8 @@ I pay someone to mow my lawn, but not to do my pool. When I bought my house in M
 ### 2. Bought a knockoff Roomba
 Since we have a dog who sheds a bit, plus 4 people in a house, the floor can get messy, quick. I decided to buy a Roomba, but I wanted the nicest, best one on the market, which was the [Roomba 980](https://amzn.to/2KVWe6N). This sells for $8-900, but you can find them on sale and stack coupons to get them down to about $600. That's more than I wanted to spend. I did a ton of research, and found the [Xiaomi Mi Robot](https://amzn.to/2s6N4NG), which I bought off some sketchy Chinese website for $280, with 2 month shipping. The Xiaomi Mi Robot is comparable to the Roomba 980, has an app, can be scheduled, controlled remotely, and is very smart in its cleaning patterns. When we finally got the vacuum, we named him Roscoe (yeah, we named our vacuum), gave him a label-maker name tag, and set him up on a schedule. Roscoe cleans the house every weekday at 2PM, and does a great job. This has saved countless hours of vacuuming so far, and all I do is empty the dust bin every 3 or 4 days. The house has never looked better!
 
+2021 Update: That Xiaomi died and we bought the newer version, a [Roborock S6](https://amzn.to/3uOpPWU), and it mops!
+
 ![Pool](/images/optimize/roscoe.jpg)
 
 ### 3. Walmart Grocery  
