@@ -9,11 +9,11 @@ categories: cars
 
 Here's my May 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. 
 
-In May 2021, I found 25 Ferrari 360s listed for sale, with an average price of $77,303. This is 5 less vehicles listed for sale than last month, and the average price has dropped .39%. 
+In May 2021, I found 25 new Ferrari 360s listed for sale, with an average price of $77,303. This is 5 less 360s than listed for sale last month, and the average price has dropped .39%. 
 
 ![May 2021](/images/360-may2021/overall.png)
 
-The cheapest color has switched to silver, which has always seemed to be the cheapest color. Previously, my data was showing that yellow was cheaper.The average price of navy vehicles has dropped quite a bit, mostly because I didn't track many navy 360s for sale until this month. 2 were listed in May for much lower prices than other navy ones I've seen before, which brought the average price down by 13%. Navy and the silverish blue (grigio alloy) are 2 of my favorite colors on this car. I have owned 2 blue Corvettes, I wouldn't be too surprised if I ended up purchasing a blue 360. 
+The cheapest color has switched to silver, which has always seemed to be the cheapest color. Previously, my data was showing that yellow was cheaper.The average price of navy vehicles has dropped quite a bit, mostly because I didn't track many navy 360s for sale until this month. Navy is a pretty rare color. 2 Navy 360s were listed in May for much lower prices than other navy ones I've seen before, which brought the average price down by 13%. Navy and the silverish blue (grigio alloy) are 2 of my favorite colors on this car. I have owned 2 blue Corvettes, I wouldn't be too surprised if I ended up purchasing a blue 360. 
 
 ![May 2021](/images/360-may2021/color.png)
 
