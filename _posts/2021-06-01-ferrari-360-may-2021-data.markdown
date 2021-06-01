@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Ferrari 360 - May 2021 Data"
+date:   2021-06-01 10:30:14 -0400
+categories: cars
+---
+
+![May 2021](/images/360-may2021/360.jpeg)
+
+Here's my May 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. 
+
+In May 2021, I found 25 Ferrari 360s listed for sale, with an average price of $77,303. This is 5 less vehicles listed for sale than last month, and the average price has dropped .39%. 
+
+![May 2021](/images/360-may2021/overall.png)
+
+The cheapest color has switched to silver, which has always seemed to be the cheapest color. Previously, my data was showing that yellow was cheaper.The average price of navy vehicles has dropped quite a bit, mostly because I didn't track many navy 360s for sale until this month. 2 were listed in May for much lower prices than other navy ones I've seen before, which brought the average price down by 13%. Navy and the silverish blue (grigio alloy) are 2 of my favorite colors on this car. I have owned 2 blue Corvettes, I wouldn't be too surprised if I ended up purchasing a blue 360. 
+
+![May 2021](/images/360-may2021/color.png)
+
+This month, the Spider (convertible) costs about $2,500 more than a Modena (coupe). The tracked prices of Modenas have gone up about half a percent, and the Spiders have gone down almost a percent. Last month, the difference was about $3,500, so the gap is narrowing. This is surprising to me, since Summer is here and convertibles are generally more desirable/expensive in summer. 
+
+![May 2021](/images/360-may2021/style.png)
+
+A manual transmission demands about a $3.500 premium over a F1 (automatic with paddle shifter). This number seems to be closing, with many manuals I've seen selling for less. HOWEVER! The manual transmission examples that are listed for sale often sell within a day if priced right. The manuals that sit for more than a few days often end up sitting for sale for months. These are often 360s with bad titles, terrible maintenance records, or odometer rollbacks. 
+
+![May 2021](/images/360-may2021/trans.png)
+
+And this is the current Price vs Miles chart. There are some interesting trends there, such a a trend to list right at $80k, and a large cluster of 360s for sale right around the 20k mile mark. 
+
+![May 2021](/images/360-may2021/miles.png)
+
+I'll have another update at the end of June. Feel free to check out the [Ferrari 360 spreadsheet](https://rskelton.com/360) for the raw data, more charts, and links to all cars tracked. If you have any additions, corrections or advice on how to improve my pivot tables, leave a comment. 
+
+The 360 Spider in the top picture - that's my pick of this month. It's a red on tan 360 Spider in Missouri with 65,000 miles. This is higher miles, and this one is listed for a whopping $85k, however it is a gated 6-speed manual. As mentioned, these are rare and sell quickly, so I bet this one sells very quickly. 
+
