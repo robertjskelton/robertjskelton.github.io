@@ -1,4 +1,4 @@
-e ---
+---
 layout: post
 title:  "Lexus GX470 - Extra Storage Solutions"
 date:   2021-01-14 10:05:14 -0400
@@ -43,7 +43,7 @@ I also cut some [foam gym tiles](https://amzn.to/3fWII4X) to have a bit more com
 
 ![Storage](/images/storage/14.jpg)
 
-I even added a [rechargable, magnetic light](https://amzn.to/2S8JvHe), which can simply attach to the metal of the rear door to light up the rear table at night. This is a great option for adding light above a table when you don't want to run new wiring through the door grommets, which is a hassle. 
+I even added a [rechargable magnetic light](https://amzn.to/2S8JvHe), which can simply attach to the metal of the rear door to light up the rear table at night. This is a great option for adding light above a table when you don't want to run new wiring through the door grommets, which is a hassle. 
 
 ![Storage](/images/storage/12.jpg)
 
