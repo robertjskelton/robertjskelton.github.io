@@ -5,7 +5,8 @@ date:   2021-06-09 10:39:12 -0400
 categories: cars
 ---
 
-![wetokole](/images/wetokole/1.jpg)
+![wetokole](/images/wetokole/11.jpg)
+
 
 I installed some [Wet Okole neoprene seat covers](https://www.wetokole.com/car-seat-covers/LEXUS/GX-470) on my 2007 Lexus GX470. I ended up ordering them from [AutoAnything](https://www.autoanything.com/seat-covers/67A1484A0A0.aspx), which was a bit cheaper if you didn't want any customizations. 
 
@@ -23,7 +24,7 @@ The seat covers took about 1 month for them to arrive, and they were exactly as 
 
 ![wetokole](/images/wetokole/3.jpg)
 
-My seats before were pretty rough, leather cleaner helped a bit, but a big rip in the passenger side was... well leather cleaner doesn't fix that. I considered getting a replacement leather seat, but with the amount of time this car spends at the beach (we live 10 minutes from the beach), I decided to go neoprene. 
+My seats before were pretty rough, leather cleaner helped a bit, but a big rip in the passenger side was... well leather cleaner doesn't fix that.  There was also a decent amount of wear in the middle seat from our dogs. I considered getting a replacement leather seat, but with the amount of time this car spends at the beach (we live 10 minutes from the beach), I decided to go neoprene. 
 
 ![wetokole](/images/wetokole/1.jpg)
 ![wetokole](/images/wetokole/2.jpg)
@@ -44,14 +45,15 @@ I worked on installing the headrest covers inside, where I have air conditioning
 For the front seat cover installs, Wet Okole recommended starting with the drivers bottom, which I did. I had to remove a few screws to start - 1 behind the drivers seat, on the left side. Then, pop off the controls for seat adjustments - there are 2 Phillips head screws under there. There is also another Phillips screw at the front of the seat, connecting the grey plastic pieces on the side and front together, I highly recommend NOT taking that off. Very impossible to get that back together, ask me how I know. 
 
 ![wetokole](/images/wetokole/front1.jpg)
+![wetokole](/images/wetokole/front3.jpg)
 
 Cover the seat with the cover, push the straps and clips under, clip them, tighten them. You'll want a chiropractor after this. If you have kids or friends with small hands, this would be a great step for them to help with! There are 3 sets of clips for each seat bottom. 
+
 ![wetokole](/images/wetokole/front2.jpg)
 
 
 Luckily, the top part of the seat goes on easier, just slip it on, push the flap through the middle of the seat, and velcro it together. For the flap that covers where rear passengers feet would go, I folded and tucked that up under the seat cover. 
 
-![wetokole](/images/wetokole/front3.jpg)
 ![wetokole](/images/wetokole/front4.jpg)
 ![wetokole](/images/wetokole/front5.jpg)
 
@@ -65,7 +67,7 @@ The rears were pretty easy, easier than the fronts for sure. Install them with b
 
 All done! This took me maybe 2 hours in the Florida sun. The new seat covers provide MUCH more padding, they are super comfortable. There also seems to be more storage under the back of the front seats, since there is no longer that flap overhanging there. 
 
-I have also noticed that white dog hair sticks to and shows up pretty noticable on the black neoprence, but our black dogs hair isn't noticable anywhere. The middle seats don't go up and down as easily as before, since there is friction in the middle caused by additional material. And now my interior doesn't look so dated. Except for the wood trim. I think I'll do something about that next. Anyways, here's a ton of pictures after the install. 
+I have also noticed that white dog hair sticks to and shows up pretty noticable on the black neoprence, but our black dogs hair isn't noticable anywhere. The middle seats don't go up and down as easily as before, since there is friction in the middle caused by additional material. And now my interior doesn't look so dated. Except for the wood trim. I think I'll do something about that next. Anyways, here's a ton of pictures after the install.  
 
 ![wetokole](/images/wetokole/5.jpg)
 ![wetokole](/images/wetokole/6.jpg)
