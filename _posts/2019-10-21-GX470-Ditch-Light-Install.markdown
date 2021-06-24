@@ -12,7 +12,7 @@ I installed ditch lights in my GX today, it took about 3 hours and $250.
 
 # Parts Bought
 * [Rago Fabrication GX470 Ditch Mounts](https://www.ragofabrication.com/collections/gx470/products/2002-2009-1st-generation-lexus-gx470-ditch-light-brackets-1)
-* [2x Baja Squadron Sport LED ](https://amzn.to/31vmj4C)
+* [2x Baja Squadron Sport LED ](https://amzn.to/3d9DGQZ)
 * [1x Add a Circuit Tap](https://amzn.to/2VYJoeI)
 
 ![Ditch Lights](/images/dl/1.jpg)
