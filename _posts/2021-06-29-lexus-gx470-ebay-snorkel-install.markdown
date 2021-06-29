@@ -7,15 +7,16 @@ categories: cars
 
 ![snorkel](/images/snorkel/1.jpg)
 
-
 I installed my ebay Snorkel with the help of John Gregulak. This is a cheap mod that looks cool, but it is a pretty big hassle to install. It took about 4 hours to install, and $145 of parts and materials. 
 
-I used the [writeup on Zack's blog](https://blog.awszac.com/2021/02/28/installing-an-ebay-special-snorkel-on-a-lexus-gx470/?fbclid=IwAR3W_wVzXe5yOCelXsUGSdZ4dZnsCxQgpjS8xFpadvk-XEM2998vNlQVZnk) and some other posts on [GXOR](https://www.facebook.com/groups/LexusGXOR/permalink/2120865391377896/) to choose the ebay snorkel and how to install. Other options include the [Ironman Snorkel](https://ironman4x4america.com/airforce-snorkel-suited-for-lexus-gx470-toyota-prado-120/), the [ARB Safari Snorkel](https://yotamafia.com/product/arb-safari-snorkel-intake-kit-lexus-gx470/), and the [JW Offroad Snorkel](https://www.jwoffroad.com/collections/frontpage/products/gx470-snorkel?variant=39631482880193). These cost much more, and the general consensus is that the more expensive snorkels are just as difficult to install, so I went the cheap route. 
+I used the [writeup on Zack's blog](https://blog.awszac.com/2021/02/28/installing-an-ebay-special-snorkel-on-a-lexus-gx470/?fbclid=IwAR3W_wVzXe5yOCelXsUGSdZ4dZnsCxQgpjS8xFpadvk-XEM2998vNlQVZnk) and some other posts on [GXOR](https://www.facebook.com/groups/LexusGXOR/permalink/2120865391377896/) to choose the ebay snorkel and how to install. This snorkel fits with the [Rago Ditch lights bracket](https://rskelton.com/GX470-Ditch-Light-Install/)
+
+Other options include the [Ironman Snorkel](https://ironman4x4america.com/airforce-snorkel-suited-for-lexus-gx470-toyota-prado-120/), the [ARB Safari Snorkel](https://yotamafia.com/product/arb-safari-snorkel-intake-kit-lexus-gx470/), and the [JW Offroad Snorkel](https://www.jwoffroad.com/collections/frontpage/products/gx470-snorkel?variant=39631482880193). These cost much more, and the general consensus is that the more expensive snorkels are just as difficult to install, so I went the cheap route. 
 
 Parts Used:
 * [ebay Snorkel](https://www.ebay.com/itm/324443003836) or [Amazon snorkel](https://amzn.to/3w1U4JP)
 * [2x Rare Earth Magents](https://amzn.to/2U6xzWW)
-* Electrical tape, painters tape, drill bits, other power tools, etc. 
+* Electrical tape, painters tape, drill bits, power tools, etc. 
 
 ![snorkel](/images/snorkel/2.jpg)
 ![snorkel](/images/snorkel/3.jpg)
@@ -54,7 +55,6 @@ Cut the big hole in your fender using a 4" metal hole saw, or a jig saw. Drill t
 ![snorkel](/images/snorkel/16.jpg)
 ![snorkel](/images/snorkel/17.jpg)
 
-
 This is the diagram of how it is all supposed to fit together.
 
 ![snorkel](/images/snorkel/diagram.jpg)
@@ -81,7 +81,7 @@ Once you're good there, you can fit the snorkel onto the rubber boot, aligning t
 ![snorkel](/images/snorkel/27.jpg)
 ![snorkel](/images/snorkel/28.jpg)
 
-Tighten all the hose clamps on the rubber boots. Re-install the air box and all hardware and sensors. You won't need this one piece on the air intake anymore, shown below. 
+Tighten all the hose clamps on the rubber boots. Re-install the air box and all hardware and sensors. You won't need this one piece on the air intake anymore, shown below. Save it for resale value hahahahahahaaha
 
 ![snorkel](/images/snorkel/20.jpg)
 
