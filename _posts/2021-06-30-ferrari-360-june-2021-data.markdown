@@ -7,7 +7,11 @@ categories: cars
 
 ![June 2021](/images/360-june2021/360.jpg)
 
-Here's my June 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. I also added a new column, to track who is selling the vehicle: Personal, Dealer, or Auction. 
+Here's my June 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. This is my third monthly post, previous posts are:
+* [April 2021](https://rskelton.com/ferrari-360-april-2021-data/)
+* [May 2021](https://rskelton.com/ferrari-360-may-2021-data/)
+
+I also added a new column, to track who is selling the vehicle: Personal, Dealer, or Auction, and will track the totals of those over time. 
 
 In June 2021, I found 37 new Ferrari 360s listed for sale, with an average price of $78,035. That is 12 more vehicles than listed last month, a huge increase, and prices have increased about 1%. However, I noticed that many vehicles are having price drops, and the highly priced ones are sitting for sale for a long time. I'm not including Salvage titled vehicles in my data, but I am noting the data in a [separate sheet](https://rskelton.com/360). I've noticed a few more reasonable priced salvage 360s this month. 
 
