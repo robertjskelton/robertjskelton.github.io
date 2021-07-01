@@ -7,23 +7,23 @@ categories: cars
 
 ![June 2021](/images/360-june2021/360.jpg)
 
-Here's my June 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. 
+Here's my June 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. I also added a new column, to track who is selling the vehicle: Personal, Dealer, or Auction. 
 
-In June 2021, I found 37 new Ferrari 360s listed for sale, with an average price of $78,035. That is 12 more vehicles than listed last month, a huge increase, and prices have increased about 1%. However, I noticed that many vehicles are having price drops, and the highly priced ones are sitting for sale for a long time. 
+In June 2021, I found 37 new Ferrari 360s listed for sale, with an average price of $78,035. That is 12 more vehicles than listed last month, a huge increase, and prices have increased about 1%. However, I noticed that many vehicles are having price drops, and the highly priced ones are sitting for sale for a long time. I'm not including Salvage titled vehicles in my data, but I am noting the data in a [separate sheet](https://rskelton.com/360). I've noticed a few more reasonable priced salvage 360s this month. 
 
 ![june 2021](/images/360-june2021/overall.png)
 
-The cheapest color has switched to white, only because I only have 1 data point for it. I did call about a white on red 360, but they were asking $135,000 for a F1 transmission one lol. Navy has gone down a bit, due to a few lower priced blue models coming up for sale. I also found a few new maroon 360s, which dropped their average asking price. Anecdotaly, if a dealer puts "Call for Price", it means the price is riduculously high. I've called about 2 other 360s recently listed at $155K and $255K, when I'd expect them to sell for the low $100s. That's the "I'll sell it if I can get that much" price. 
+I  bid on a Grigio Alloy 360 Modena at an auction, another bidder and I brought the price up to $37,000, where it sat until the last minute when someone bid $63,000. Seemed very weird for someone to bid in the last minute and for $25K more than the previous bid, but when I read some reviews of the auction company, they have a reputation for shadow bidders for preventing cars from selling too low, instead of a reserve. Oh well. 
 
-I ended up bidding on a Grigio Alloy 360 Modena at an auction, me and another bidder brought the price up to $37,000, where it sat until the last minute and someone bid $63,000. Seemed very weird for someone to bid in the last minute and for $25K more than the previous bid, but when I read some reviews of the auction company, they have a reputation for shadow bidders for preventing cars from selling too low, instead of a reserve. Oh well. 
+The cheapest color has switched to white, only because I only have 1 data point for it. I did call about a white on red 360, but they were asking $135,000 for a F1 transmission one lol. Navy has gone down a bit, due to a few lower priced blue models coming up for sale. I also found a few new maroon 360s, which dropped their average asking price. Anecdotaly, if a dealer puts "Call for Price", it means the price is riduculously high. I've called about 2 other 360s recently listed at $155K and $255K, when I'd expect them to sell for the low $100s. That's the "I'll sell it if I can get that much" price. 
 
 ![june 2021](/images/360-june2021/color.png)
 
-This month, the Spider (convertible) still costs about $2,500 more than a Modena (coupe). The tracked prices of Modenas have gone up .8%, and the Spiders up 1.11% (last month they dropped almost a percent, so this evens out).
+This month, the Spider still costs about $2,500 more than a Modena. The tracked prices of Modenas have gone up .8%, and the Spiders up 1.11% (last month they dropped almost a percent, so this evens out).
 
 ![june 2021](/images/360-june2021/style.png)
 
-A manual transmission demands about a $4,000 premium over a F1 (automatic with paddle shifter). Any manuals that I see under $90k tend to sell extremely quickly. One manual-transmission example in California sold for $65K, and it just popped up for sale again for $90K. I noticed another example, a manual 360 Spider, sell for $85k and quickly get relisted for $110k. But there are deals to be had if you're quick, but they don't come up often. 
+A manual transmission demands about a $4,000 premium over a F1 transmission. Any manuals that I see under $90k tend to sell extremely quickly. One manual transmission example in California sold for $65K the same day it was listed, and it just popped up for sale again for $90K. I noticed another example, a manual 360 Spider, sell for $85k and quickly get relisted for $110k. But there are deals to be had if you're quick, but they don't come up often. 
 
 ![june 2021](/images/360-june2021/trans.png)
 
@@ -34,4 +34,3 @@ And this is the current Price vs Miles chart. There are not many high mileage lo
 I'll have another update at the end of July. Feel free to check out the [Ferrari 360 spreadsheet](https://rskelton.com/360) for the raw data, more charts, and links to all cars tracked. If you have any additions, corrections or advice on how to improve my pivot tables, leave a comment. 
 
 The 360 Modena in the top picture - that would have been my pick of this month. It's a maroon on tan 360 Modena in Colorado with 36,000 miles. It sold on Bring a Trailer - a site usually known for extremely expensive vehicles - for a very reasonable $63,000.
-
