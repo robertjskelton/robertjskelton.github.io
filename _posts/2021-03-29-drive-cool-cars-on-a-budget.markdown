@@ -11,7 +11,7 @@ One of life's biggest expenses is transportation, especially cars. I love cars, 
 
 The list that follows is all of the cars I’ve owned, how much I paid and sold them for, how many miles I put on them, and about how expensive it was to own each one. I’ve included insurance costs, city/highway MPG, and the cost of oil changes and registration so that you can see how affordable each was to own.
 
-My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Most of my cars have been RWD sports cars that were manual, but a few SUVs and other vehicles too. I've had great experiences with the American and Japanese cars I've owned, an OK experience with the Italian Fiat, and terrible experiences with both Germans, so I'll likely never buy another German car.
+My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Most of my cars have been RWD sports cars that were manual, but a few SUVs and other vehicles too. I've had great experiences with the American and Japanese cars I've owned, an OK experience with the Italian Fiat, and terrible experiences with both Germans, so ~~I'll likely never buy another German car~~ I bought another German car.
 
 Then I went through a phase of 3 red manual Japanese convertibles.
 
@@ -231,7 +231,7 @@ This was such a fun car to drive around in, got tons of look and was just a blas
 * Sold: $19,500 / 37,500 mi
 * MPG: ~25/33, premium gas.
 * Insurance: $43/mo for full coverage
-* Engine: 2.0L 4-cyl with a BBR Turbo
+* Engine: 2.0L 4-cyl with a BBR Turbo, 200RWHP
 * Oil Changes: $40 for full synthetic
 * Taxes/Registration: $800
 
@@ -242,4 +242,21 @@ So I finally bought a Miata, third time is the charm. First time I tried to buy 
 I kept this for about 6 months, and used cars prices started going up a ton during Covid. I decided to sell for a pretty solid profit before depreciation started to really hit. I had it listed for only an HOUR online before someone from Michigan booked a flight to come pick it up. 
 
 ----
+### 15. 2002 Porsche 911 Targa
+* Bought: $21,500 / 118,000 mi
+* Sold: Not yet
+* MPG: 18/26, premium gas.
+* Insurance: $57/mo for full coverage
+* Engine: 3.6L 6-cyl, 320HP
+* Oil Changes: $100 for full synthetic
+* Taxes/Registration: TBD
+
+![996 Targa](/images/cars/targa.jpg)
+
+I said I would never buy another German car, but I like Targas, and not many manufacturers make a targa with a manual. This popped up in Tampa, about 3 hours away from me, at a steal of a price, so I went and bought it that day. It has a manual transmission, nice rims, lowered a bit, and drives really nice. Even has a solid stereo for a 2002. 
+
+The Targa is a relatively rare Porsche 911, only 5k of the 175k 996 911s produced were a targa, and they are my favorite body style. All the practicality of a coupe and the nice body lines, but with a mostly retractable roof like a convertible. Plus, it's a hatchback! It's fast, but not too fast. I'll probably keep this for 1-2 years while I save up for my dream car, a Ferrari 360. 
+
+----
+
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
