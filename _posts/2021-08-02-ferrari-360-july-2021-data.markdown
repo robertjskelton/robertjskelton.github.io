@@ -7,7 +7,7 @@ categories: cars
 
 ![july 2021](/images/360-july2021/360.jpg)
 
-Here's my July 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. This is my third monthly post, previous posts are:
+Here's my July 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. This is my 4th monthly post, previous posts are:
 * [April 2021](https://rskelton.com/ferrari-360-april-2021-data/)
 * [May 2021](https://rskelton.com/ferrari-360-may-2021-data/)
 * [June 2021](https://rskelton.com/ferrari-360-june-2021-data/)
