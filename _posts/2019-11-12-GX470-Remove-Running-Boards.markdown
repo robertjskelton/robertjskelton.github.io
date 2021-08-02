@@ -28,7 +28,10 @@ So here, the best strategy is to cut at the very far ends of each step, shown in
 ![Running Boards](/images/steps/6.jpg)
 ![Running Boards](/images/steps/7.jpg)
 
-The final product should look like this. I used tin snips, which worked pretty well. Once the ends are snipped, the whole step should come off.
+The final product should look like this. I used tin snips, which worked pretty well. Once the ends are snipped, you can use a trim tool to pop out several clips that hold the middle section in, and then the whole step should come off.
+
+![7 5](https://user-images.githubusercontent.com/494430/127753036-9b76eebc-aff1-4a27-9df1-046dc9d2d6a0.jpg)
+
 
 ![Running Boards](/images/steps/5.jpg)
 
