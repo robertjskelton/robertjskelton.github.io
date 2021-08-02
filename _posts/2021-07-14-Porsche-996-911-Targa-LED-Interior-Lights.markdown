@@ -35,7 +35,7 @@ I finally blew the fuse by touching 2 pieces of metal together on the bulb, on t
 
 ![996_led](/images/996_led/5.jpg)
 
-And that's all there is to it, now the 996 Targa looks a bit more modern!
+And that's all there is to it, now the 996 Targa looks a bit more modern! Another guide to install these, with more pictures and details, [is here](http://bd8ba3c866c8cbc330ab-7b26c6f3e01bf511d4da3315c66902d6.r6.cf1.rackcdn.com/PDF_2079_Porsche_997_LED_Interior_Kit_Installation.pdf). 
 
 
 

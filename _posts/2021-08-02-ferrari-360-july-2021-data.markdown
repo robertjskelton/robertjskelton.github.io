@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Ferrari 360 - July 2021 Data"
+date:   2021-08-02 12:30:14 -0400
+categories: cars
+---
+
+![july 2021](/images/360-july2021/360.jpg)
+
+Here's my July 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. This is my third monthly post, previous posts are:
+* [April 2021](https://rskelton.com/ferrari-360-april-2021-data/)
+* [May 2021](https://rskelton.com/ferrari-360-may-2021-data/)
+* [June 2021](https://rskelton.com/ferrari-360-june-2021-data/)
+
+This is the first month I've followed the trends in sellers - auction vs private vs dealer. The biggest increase was in auctions - likely because 360 owners are seeing Manual 360s sell for crazy money on Bring a Trailer, then listing their own. I've seen many sales over $120K, but Bring a Trailer always sells some nice examples. 
+
+![july 2021](/images/360-july2021/seller.png)
+
+In July 2021, I found 33 new Ferrari 360s listed for sale, with an average price of $78,513. That is a few less vehicles than last month, and prices have gone slightly up. However, I once again noticed that many vehicles are having price drops, and the highly priced ones are sitting for sale for a long time. Ones listed for reasonable prices sell within days. One I was following in Orlando finally sold after over 160 days on the market!
+
+I'm not including Salvage titled vehicles in my data, but I am noting the data in a [separate sheet](https://rskelton.com/360). I've noticed a few more reasonable priced salvage 360s this month. 
+
+![july 2021](/images/360-july2021/overall.png)
+
+I removed the color white from my color chart, since I've seen only 1 for sale, and it was wrapped. So the cheapest color is the silverish/blueish, one of my favorite colors. Most prices are trending up, especially Navy - since previously I had only found a few cheap navy cars, adding more to the data is getting a better trend. Navy is a rare and desirable color, and looks great with a tan interior. 
+
+![july 2021](/images/360-july2021/color.png)
+
+This month, the Spider still costs more the $3k more than a Modena. The tracked prices of Modenas have gone up .29%, and the Spiders up .88%, so Spiders seem to be getting more expensive, quicker. 
+
+![july 2021](/images/360-july2021/style.png)
+
+A manual transmission demands about a $5K premium over a F1 transmission. Any manuals that I see under $90k tend to sell extremely quickly. I'm also noticing something weird with some of the higher mileage manuals, they get sold/swapped extremely often. One yellow/tan example I've seen sold or lsited for sale by 4 different sellers in the last 5 months. What is going on with that car. 
+
+![july 2021](/images/360-july2021/trans.png)
+
+And this is the current Price vs Miles chart. There are not many high mileage lower priced ones being listed, but with the number of 360s being listed for sale trending up, the right side of the chart (higher miles) has started to fill up.
+
+![july 2021](/images/360-july2021/miles.png)
+
+I'll have another update at the end of August. Feel free to check out the [Ferrari 360 spreadsheet](https://rskelton.com/360) for the raw data, more charts, and links to all cars tracked. If you have any additions, corrections or advice on how to improve my pivot tables, leave a comment. 
+
+The 360 Modena in the top picture - that would have been my pick of this month. It's a dark gray on RED 360 Modena in Florida with 33,000 miles (and 9 owners). It sold on ebay for $75K. I love that color combination.
