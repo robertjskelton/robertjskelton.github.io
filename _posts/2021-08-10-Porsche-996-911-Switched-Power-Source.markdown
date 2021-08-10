@@ -26,14 +26,17 @@ So I tapped the positive (red) into a plug that I connected to wire #3, and the 
 
 ![911](/images/911/1.jpg)
 
-Finally, decide where to mount it. I considered in the center console (not enough room to mount easily), in the glove box (worried it would move too much), replacing the existing 12V cigarette lighter port (but I want to use the 12V for a radar detector sometimes). I decided to use the little pocket cubbies, and mount at the back of them. Reaching inside is a little difficult, but not too bad. 
+Finally, decide where to mount it. I considered in the center console (not enough room to mount easily), in the glove box (worried it would move too much), replacing the existing 12V cigarette lighter port (but I want to use the 12V for a radar detector sometimes), or in the passenger footwell (couldn't find a decent spot to mount it easily). I decided to use the little pocket cubbies, and mount at the back of them. Reaching inside is a little difficult, but not too bad. 
 
 ![911](/images/911/2.jpg)
 
-To install it in a cubby, remove the 2 side pieces by just pulling. Then pull the cubby, should come out super easy. Drill a hole the right size for your adapter, mount it in, run the wiring, done. This does mean that you can't use the rubber tray cover, so throw that into storage. If you decided you don't like the USB adapter, or whatever plug you use, you can simply use the rubber tray to cover it all up. 
+To install it in a cubby, remove the 2 side pieces by just pulling. Then pull the cubby, should come out super easy. 
 
 ![911](/images/911/3.jpg)
 ![911](/images/911/4.jpg)
+
+Drill a hole the right size for your adapter, mount it in, run the wiring, done. I also ran an AUX cable, so I drilled one of the small holes slightly larger so that the AUX cable could fit. Installing it this way means that you can't use the rubber tray cover, so throw that into storage. If you decided you don't like the USB adapter, or whatever plug you use, you can simply use the rubber tray to cover it all up. 
+
 ![911](/images/911/5.jpg)
 ![911](/images/911/6.jpg)
 ![911](/images/911/7.jpg)
