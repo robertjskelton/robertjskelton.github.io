@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Porsche 996 911 Targa - Switched Power Source"
-date:   2021-08-10 12:00:14 -0400
+date:   2021-08-10 11:00:14 -0400
 categories: cars
 ---
 
@@ -30,7 +30,7 @@ Finally, decide where to mount it. I considered in the center console (not enoug
 
 ![911](/images/911/2.jpg)
 
-To install it in a cubby, remove the 2 side pieces by just pulling. Then pull the cubby, should come out super easy. Drill a hole the right size for your adapter, mount it in, run the wiring, done. 
+To install it in a cubby, remove the 2 side pieces by just pulling. Then pull the cubby, should come out super easy. Drill a hole the right size for your adapter, mount it in, run the wiring, done. This does mean that you can't use the rubber tray cover, so throw that into storage. If you decided you don't like the USB adapter, or whatever plug you use, you can simply use the rubber tray to cover it all up. 
 
 ![911](/images/911/3.jpg)
 ![911](/images/911/4.jpg)
