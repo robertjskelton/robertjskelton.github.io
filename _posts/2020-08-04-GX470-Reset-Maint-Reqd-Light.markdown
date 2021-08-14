@@ -15,6 +15,6 @@ Turn your key to "On", you don't have to start the engine.
 
 Turn the odometer to ODO, where it shows your mileage. Not either of your Trip meters.
 
-Turn on the key. Hold the reset trip button, then turn the key back to "On", but not starting it. Keep holding the button.
+Turn off the key. Hold the reset trip button, then turn the key back to "On", but not starting it. Keep holding the button.
 
 The light will flash a few times, then go away. You can release the button now, you're done.
