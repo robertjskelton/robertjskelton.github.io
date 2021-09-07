@@ -75,7 +75,7 @@ First, remove the fog relay (under the engine bay, right fuse box), and bend thi
 ![update](/images/update/18.jpg)
 ![update](/images/update/19.jpg)
 
-Use a fuse tap, or similar, with a spade connector. I had to modify a fuse tap I already had, soldered a space connector on, then electrical taped it to hold well. 
+Use a [fuse tap, add-a-circuit](https://amzn.to/3he0ssT), or similar, with a spade connector. I had to modify a fuse tap I already had, soldered a spade connector on, then electrical taped it to hold well. 
 
 ![update](/images/update/20.jpg)
 
