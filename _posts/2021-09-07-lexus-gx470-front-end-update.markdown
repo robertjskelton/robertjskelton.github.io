@@ -25,7 +25,7 @@ Parts Used:
 
 First off, I removed the front bumper. To do this, there's a ton of 10mm and a few 12mm, and a few T30 bits to remove too. I have no idea if that's what is supposed to be there, but that's what on my GX. You'll have to remove most of the front fender liner on both side, then the attachments to the skid plates as well. 
 
-A 10mm bolt holds on each fog light housing. Remove those, and disconnect the wiring harness. There are a few plastic tabs in the engine bay, so pop those out. The palstic behind the grill will come out. There are a few hidden 10mm around behind the fender liners, which were the last ones to remove for me. 
+A 10mm bolt holds on each fog light housing. Remove those, and disconnect the wiring harness. There are a few plastic tabs in the engine bay, so pop those out. The plastic behind the grill will come out. There are also a few hidden 10mm around behind the fender liners, which were the final ones to remove for me. 
 
 Now you can remove the bumper. Bring it to a work area to install the fog pods later. 
 
