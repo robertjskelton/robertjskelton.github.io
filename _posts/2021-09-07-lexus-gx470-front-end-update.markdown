@@ -67,7 +67,31 @@ This involved splicing the power (red) of the 2 lights on each side to the power
 
 This makes installing them in the bumper super easy! You just attach the connector from the Fog pods, to their connector, to the stock connector. You can mount the LEDs on the bumper while removed, then install the bumper back on your GX, then hook up the wiring. 
 
-To test, turn on your headlights, then your fogs. By default, your fogs will only come on while your headlights are on, or you can do a [simple mod like this](https://www.youtube.com/watch?v=_hG-ZVaFDjA) to run the fogs independently. These fogs are mega bright, so make sure you angle them properly and keep them off when you're behind someone. 
+# Fog Light Mod
+By default, your fogs will only come on while your headlights are on, or you can do a [simple mod like this](https://www.youtube.com/watch?v=_hG-ZVaFDjA) to run the fogs independently. I did this mod, it took only about 10 minutes since I already had the parts and my soldering gun was still out. 
+
+First, remove the fog relay (under the engine bay, right fuse box), and bend this tab up. 
+![update](/images/update/18.jpg)
+![update](/images/update/19.jpg)
+
+Use a fuse tap, or similar, with a spade connector. I had to modify a fuse tap I already had, soldered a space connector on, then electrical taped it to hold well. 
+
+![update](/images/update/20.jpg)
+
+Remove the 20A fuse from the heated seats fuse location in the same fuse box. Put that 20A in the upper fuse location of the tap, and a new 5A fuse in the bottom location, shown below. 
+
+![update](/images/update/21.jpg)
+
+Now your fog lights will work independently of your low beams! 
+
+Low beams on, fogs on
+
+![update](/images/update/22.jpg)
+
+Low beams off, fogs on (this is a new feature because of this mod)
+
+![update](/images/update/23.jpg)
+
 
 # Repaint grill
 
