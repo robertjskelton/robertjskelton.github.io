@@ -45,3 +45,4 @@ All installed, now let's test it out. To expand the awning, there are two poles 
 
 To put it back up, pack away the poles in reverse order and roll up the awning, strap it in, zip it up. I'm impressed all this is just $105. Good purchase. 
 
+Update: I also ordered some extra [heavy duty velcro straps](https://amzn.to/3BHgR0S) to put on the awning when closed, just for peace of mind.

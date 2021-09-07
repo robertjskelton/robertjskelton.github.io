@@ -68,6 +68,7 @@ This involved splicing the power (red) of the 2 lights on each side to the power
 This makes installing them in the bumper super easy! You just attach the connector from the Fog pods, to their connector, to the stock connector. You can mount the LEDs on the bumper while removed, then install the bumper back on your GX, then hook up the wiring. 
 
 # Fog Light Mod
+
 By default, your fogs will only come on while your headlights are on, or you can do a [simple mod like this](https://www.youtube.com/watch?v=_hG-ZVaFDjA) to run the fogs independently. I did this mod, it took only about 10 minutes since I already had the parts and my soldering gun was still out. 
 
 First, remove the fog relay (under the engine bay, right fuse box), and bend this tab up. 
