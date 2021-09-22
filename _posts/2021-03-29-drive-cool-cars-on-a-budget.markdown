@@ -249,7 +249,7 @@ I kept this for about 6 months, and used cars prices started going up a ton duri
 * Insurance: $57/mo for full coverage
 * Engine: 3.6L 6-cyl, 320HP
 * Oil Changes: $100 for full synthetic
-* Taxes/Registration: TBD
+* Taxes/Registration: $912. 
 
 ![996 Targa](/images/cars/targa.jpg)
 
