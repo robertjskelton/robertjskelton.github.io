@@ -46,3 +46,16 @@ All installed, now let's test it out. To expand the awning, there are two poles 
 To put it back up, pack away the poles in reverse order and roll up the awning, strap it in, zip it up. I'm impressed all this is just $105. Good purchase. 
 
 Update: I also ordered some extra [heavy duty velcro straps](https://amzn.to/3BHgR0S) to put on the awning when closed, just for peace of mind.
+
+Second update: I took off the heavy duty velcro straps, and made two mods. First, I reinforced the whole awning following [this guide from the Napa Awning Support Group](https://www.facebook.com/groups/547381919618584/permalink/582390352784407). 
+
+![napa](/images/napa/20.jpg)
+![napa](/images/napa/21.jpg)
+
+
+
+Second, I added some [Ironman Quick Release Awning Brackets](https://ironman4x4america.com/awning-quick-release-mounting-brackets/). These were on sale for 20% off, plus it will save me some MPG being able to take this on and off quickly. To install, I needed to purchase some M8 x 1.25 x 20mm bolts, along with some M-1.25mm nylon locking nuts. The 20mm length is VERY IMPORTANT, since the quick release for these brackets is a locking pin. The locking pin needs short bolts on your awning in order to fit properly. Trust me, I tried 25mm length bolts, which is what the Napa awning came with, and couldn't get the locking pins on at all. And the Ironman brakcets ship with M6 head bolts, which are too small for the Napa awning (they will just spin in the channel). 
+
+![napa](/images/napa/22.jpg)
+![napa](/images/napa/23.jpg)
+![napa](/images/napa/24.jpg)
