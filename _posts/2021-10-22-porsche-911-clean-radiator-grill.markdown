@@ -40,4 +40,4 @@ I then sprayed them off a few times, used a leftover can of [Air conditioner coi
 
 Finally, re-install. 
 
-My next project is a set of grills to prevent additional leaves and debris from even getting in there. 
+My next project is some [DIY radiator grills](https://rskelton.com/porsche-911-grill-screens/) to prevent additional leaves and debris from even getting in there. 
