@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Porsche 996 911 Targa - LED Interior Lights"
+title:  "Porsche 996 911 - LED Interior Lights"
 date:   2021-07-14 12:00:14 -0400
 categories: cars
 ---

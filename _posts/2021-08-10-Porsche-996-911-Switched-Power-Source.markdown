@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Porsche 996 911 Targa - Switched Power Source"
+title:  "Porsche 996 911 - Switched Power Source"
 date:   2021-08-10 11:00:14 -0400
 categories: cars
 ---
