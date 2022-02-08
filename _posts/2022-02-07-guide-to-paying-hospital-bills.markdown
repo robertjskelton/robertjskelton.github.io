@@ -5,10 +5,7 @@ date:   2022-02-07 9:29:12 -0400
 categories: finance
 ---
 
-![oil](/images/oil/1.jpg)
-
-
-If you're into saving money and investing, you probably are like us and have a High Deductible Health Plan in order to maximize your retirement savings. These health insurance plans can get terrible when you actually go to a doctor, so we hit our Max Out of Pocket every year. I've found out how to get the bills lower from our local hospitals, here's how. 
+If you're into saving money and investing, you probably are like us and have a High Deductible Health Plan with a HSA in order to [maximize your retirement savings](https://www.madfientist.com/ultimate-retirement-account/). These health insurance plans can get terrible when you actually go to a doctor, so we hit our Max Out of Pocket every year. I've found out how to get the bills lower from our local hospitals, here's how. 
 
 Health First is the main hospital in Brevard County. When they send your bill, they will not negotiate the dollar amount down, however, they will let you pay it off over 28 months. Our deductible is $7,000, so every January they send us bills that add up to $7k, and we have the option to pay them $250 a month for the next 28 months. They will not let you negotiate a lower amount. 
 
