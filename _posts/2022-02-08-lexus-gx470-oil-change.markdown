@@ -25,13 +25,15 @@ Drive your GX on ramps, if available. If not, you can do the whole oil change wi
 
 To start, warm up your engine. 
 
-Remove the 2 skid plates at the front, using 10mm and 12mm sockets. If yours are ugly or rusted, you can spray paint them black, or even use [spray on truck bed liner](https://amzn.to/336KwVF). Makes it look a little better.  
+Remove the 2 skid plates at the front, using 10mm and 12mm sockets. If your skid plates are ugly or rusted, you can spray paint them black, or even use [spray on truck bed liner](https://amzn.to/336KwVF). Makes it look a little better.  
+
+![oil](/images/oil/4.jpg)
 
 Grab your oil pan and put it under the drain plug. Open the oil filler cap in the engine bay, then remove the drain plug (14mm).
 
-![oil](/images/oil/3.jpg)
-
 Let the oil drain for 30 minutes or so. 
+
+![oil](/images/oil/3.jpg)
 
 Remove the old oil filter. Touch the new oil filter to the oil one on the o-ring, so some oil comes off and lubricates the new oil filter. 
 
@@ -42,3 +44,5 @@ Add 6 quarts of oil. Start the GX470, let it warm up. Check the oil level. If it
 Reset the [Maint Light](https://rskelton.com/GX470-Reset-Maint-Reqd-Light/).
 
 Re-install the skid plates. 
+
+If you prefer video form, here's a great video from [KRT LYFE](https://www.youtube.com/watch?v=KV8DZ1IMVJM).
