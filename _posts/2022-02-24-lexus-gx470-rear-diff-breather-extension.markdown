@@ -7,9 +7,11 @@ categories: cars
 
 ![differential](/images/diff/9.jpg)
 
-So the rear differential breather is apparently a weak spot for GX470s if you drive through high water, since the breather sits right on top of the diff. This means that if there is expansion within the differential, the breather will open, and if your diff is under water, it could suck in water. Not good. I've driven through some high water recently, and plan to again in the future, so this will make the GX470 safer for these water crossings. 
+The rear differential breather is a weak spot for GX470s if you drive through high water, since the breather sits right on top of the diff. This means that if there is expansion within the differential, the breather will open, and if your diff is under water, it could suck in water. Not good. 
 
-Pretty easy fix though! You can make the breather sit higher up. You need 3 parts - a [Toyota union](https://amzn.to/3vfYakS), to replace original union on top of the diff, a [hose](https://amzn.to/3M0mdub), and a [vent breather](https://amzn.to/355ZyMf) to go on the other end of the hose. 
+I've driven through some high water recently, and plan to again in the future, so this will make the GX470 safer for these water crossings. 
+
+Pretty easy fix! You can make the breather sit higher up. You need 3 parts - a [Toyota union](https://amzn.to/3vfYakS), to replace original union on top of the diff, a [hose](https://amzn.to/3M0mdub), and a [vent breather](https://amzn.to/355ZyMf) to go on the other end of the hose. 
 
 Parts:
 * [Dorman 924-284 Differential Vent Breather](https://amzn.to/355ZyMf)
@@ -22,25 +24,21 @@ First, take off the spare tire. This can be done using the stock tool set to low
 
 ![differential](/images/diff/2.jpg)
 
-Then, remove the original breather on the diff. It's pretty easy to find if you crawl under the GX, no lift or ramps needed. Rmove that breather with a 14mm wrench. 
+Then, remove the original breather on the diff. It's pretty easy to find if you crawl under the GX, no lift or ramps needed. Remove the stock breather with a 14mm wrench. 
 
 ![differential](/images/diff/3.jpg)
-
 
 Install the new Toyota union with a 12mm wrench. 
 
 ![differential](/images/diff/6.jpg)
 
-
 Now, run the hose. This was the most difficult part for me. I tried running it down the gas tank line, poking a hole in the rubber next to the fill area. Couldn't get it fed through right. Gave up. 
 
 ![differential](/images/diff/5.jpg)
 
-
 Ended up running it to the rear hatch, under where the door opens. I ran it under the grey plastic strip, same strip that holds the spare tire lowering mechanism. Some people extend that and run it under the left taillight. 
 
 ![differential](/images/diff/8.jpg)
-
 
 Once the hose is run, attach the breather on that end. Some dish soap helps it slide on. 
 
@@ -51,7 +49,6 @@ The other end of the hose attaches to the Toyota union. Make sure the hose is ru
 ![differential](/images/diff/7.jpg)
 ![differential](/images/diff/9.jpg)
 
-That's about it. Now your GX is a bit safer in water crossings. 
-
+That's about it. Now your GX is safer in water crossings. For more security, you could route the new breather extension even higher, but this will be sufficient for me!
 
 [This](https://www.youtube.com/watch?v=RinBmzUdroc) is a great video I used for inspiration
