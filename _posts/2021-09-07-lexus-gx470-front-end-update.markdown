@@ -43,7 +43,7 @@ My OEM headlights have yellowed beyond saving, and I've sanded and clear coated 
 
 ![update](/images/update/5.jpg)
 
-On the Depo branded headlights, I've read stories about them becoming not watertight after a few years. As a prevention to that, I added a new line of [butyl rope](https://amzn.to/3yV3Leu) around each headlight housing, between where the clear plastic meets the black plastic. Butyl rope is used as a sealant between these two, and adding an extra letter makes me sleep better at night. 
+On the Depo branded headlights, I've read stories about them becoming not watertight after a few years. As a prevention to that, I added a new line of [butyl rope](https://amzn.to/3yV3Leu) around each headlight housing, between where the clear plastic meets the black plastic. Butyl rope is used as a sealant between these two, and adding an extra layer helps me sleep better at night. 
 
 I also used [3M Headlight Clear Coat](https://amzn.to/3hauZba) on each headlight before I installed it, so that they can withstand UV a bit better, and prevent yellowing. If you use these wipes, make sure you wait a long time between coats - I waited the recommended 15 minutes, but I wish I waited an hour or more. The second coat wiped off some of the initial coat, so it wasn't perfect. 
 
