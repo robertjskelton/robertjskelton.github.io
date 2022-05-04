@@ -4,7 +4,7 @@ title: About Robert Skelton
 permalink: /about/
 ---
 
-I am a [Sr Specialist](https://www.linkedin.com/in/robertjskelton/) at [Deloitte](https://www2.deloitte.com/us/en.html) based in Palm Bay, FL. I earned a BS in Computer Engineering from Auburn University in May 2015. My expertise is in automation with Chef, Terraform, and Gitlab CI, and with architecture in AWS. My [resume can always be found here](https://rskelton.com/docs/resume.pdf).
+Hi, I'm Robert. This is my personal blog to write about things I like and do.
 
 My favorite topics are [finance](https://rskelton.com/category/finance/), [technology](https://rskelton.com/category/tech/), craft beer, [college football](https://rskelton.com/football), [cars](https://rskelton.com/category/cars/), and [home renovations](https://rskelton.com/category/renovations/).
 
