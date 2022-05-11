@@ -243,7 +243,7 @@ I kept this for about 6 months, and used cars prices started going up a ton duri
 
 ----
 ### 15. 2002 Porsche 911 Targa
-* Bought: $21,500 / 118,000 mi
+* Bought: $--- / 118,000 mi
 * Sold: Not yet
 * MPG: 18/26, premium gas.
 * Insurance: $57/mo for full coverage
