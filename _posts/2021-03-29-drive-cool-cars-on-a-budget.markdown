@@ -243,8 +243,8 @@ I kept this for about 6 months, and used cars prices started going up a ton duri
 
 ----
 ### 15. 2002 Porsche 911 Targa
-* Bought: $--- / 118,000 mi
-* Sold: Not yet
+* Bought: $21,500 / 118,000 mi
+* Sold: $24,750 / 122,000 mi
 * MPG: 18/26, premium gas.
 * Insurance: $57/mo for full coverage
 * Engine: 3.6L 6-cyl, 320HP
@@ -257,6 +257,23 @@ I said I would never buy another German car, but I like Targas, and not many man
 
 The Targa is a relatively rare Porsche 911, only 5k of the 175k 996 911s produced were a targa, and they are my favorite body style. All the practicality of a coupe and the nice body lines, but with a mostly retractable roof like a convertible. Plus, it's a hatchback! It's fast, but not too fast. I'll probably keep this for 1-2 years while I save up for my dream car, a Ferrari 360. 
 
+Update: I did it. 
+
 ----
+### 16. 2001 Ferrari 360 Spider
+* Bought: 29,000 miles
+* Sold: No
+* MPG: lol
+* Insurance: $145/mo for full coverage
+* Engine: 3.6L 8-cyl, 400HP
+* Oil Changes: $740 for full synthetic at Ferrari dealer. Never again. 
+* Taxes/Registration: lol
+
+![360](/images/cars/360.jpg)
+
+I bought my dream car. 
+
+----
+
 
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
