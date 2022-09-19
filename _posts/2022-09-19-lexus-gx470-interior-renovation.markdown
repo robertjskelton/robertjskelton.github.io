@@ -7,7 +7,7 @@ categories: cars
 
 ![interior](/images/interior/34.jpg)
 
-After almost 4 years of ownership, I decided to completely remove the wood grain from the interior of my Lexus GX470. I have tried this before, but gave up when trying to wrap the large vents near the head unit. This time, I just bought the silver vents from the GX470 Sport edition and Land Cruiser Prado for $30 from Ali Express, then wrapped the other, much easier to wrap parts. This whole post took about $50 in parts and makes the GX feel so much newer. 
+After almost 4 years of ownership, I decided to completely remove and cover the dated wood grain from the interior of my 2007 Lexus GX470. I have tried this before, but gave up when trying to wrap the large air conditioner vents near the head unit. This time, I just bought the silver vents from the GX470 Sport edition and Land Cruiser Prado for $30 from Ali Express, then wrapped the rest of the (much easier to wrap) parts. This whole remodel took about $50 in parts and makes the GX feel so much newer. 
 
 I also added some rear storage cubbies, swapped the gear shifter, and detailed the car, since it has been on 40k miles worth of road trips with dogs with no concern for cleanliness. I had already wrapped my steering wheel last year, so that wood grain is gone. 
 
@@ -38,14 +38,13 @@ Remove center console to wrap that middle piece. I also cleaned and applied leat
 ![interior](/images/interior/14.jpg)
 ![interior](/images/interior/15.jpg)
 
-Cleaned and installed
+Cleaned everything with an old makeup brush and installed
 ![interior](/images/interior/16.jpg)
 ![interior](/images/interior/17.jpg)
 ![interior](/images/interior/18.jpg)
 
-For the door panel trim, you actually have to remove the door panel to access 5-6 screws behind each to remove the wood trim. Kinda annoying but it's not too bad. Pop up the leather arm rest, the plastic cover behind the door handle, and the window control. 1 screw behind each, then the door panel will pop up. Take the screws off the wood panel, remove, wrap, re-install. 
+For the door panel trim, you actually have to remove the door panel to access 5-6 screws behind each to remove the wood trim. Kinda annoying but it's not too bad. Pop up the leather arm rest, the plastic cover behind the door handle, and the window control. 1 Phillips screw behind each, then the door panel will pop up. Take the screws off the wood panel, remove, wrap, re-install. 
 
-![interior](/images/interior/18.jpg)
 ![interior](/images/interior/19.jpg)
 ![interior](/images/interior/20.jpg)
 ![interior](/images/interior/21.jpg)
@@ -65,7 +64,7 @@ There is also a trim piece to the left of the steering wheel and above the glove
 
 Also you'll need to re-index your windows by going to each door, holding the window down button til it's all the way down, hold 2 seconds, raise the window til it is up and then hold 2 seconds. Then your driver window controls will work for all 4 windows. 
 
-All done
+All done! Looks great and the GX feels so much newer now.
 
 ![interior](/images/interior/33.jpg)
 ![interior](/images/interior/34.jpg)
