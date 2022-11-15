@@ -16,3 +16,5 @@ This is a post for my own knowledge, to keep track of what paint colors are in m
 * Trim - Valspar Simplicity Zero Voc Paint + Primer, Base A
 
 * Floors - 8mm Ann Arbor Oak laminate from Home Decorators collection
+
+* Pool - Sherwin Williams SW7672 - Knitting Needles
