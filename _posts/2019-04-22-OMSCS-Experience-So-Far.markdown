@@ -31,11 +31,11 @@ This is considered to be one of the easiest classes in OMSCS, but it wasn't for 
 
 # [Spring 2017 - CS6475 - Computational Photography](https://cs6475.wordpress.com/)
 * Grade: D
-* Advice against
+* Advise against
 
 This class with Dr. Irfan Issa has been my worst Georgia Tech class, and second worse classroom experience ever (no one will ever top Dr. Baginski's Analog Electronics at Auburn). So this class I really struggled in, but I put in a ton of effort, and expected to make a mid C. A bad grade, but at least credit towards graduation. This class is heavy on Python and matrix algebra, both topics I am not strong in. So I go into the final project with a 75, and I just have to get about a 10 (out of 100) to keep my C. One annoying thing about Dr. Issa is that he gives you the assignment file as something like final_project.pdf, and wants the deliverable to have the exact same name (final_project.pdf). You can see how this can cause issues if you're keeping your projects in the same directory, like a logical person.
 
-Well, I uploaded my final project after completion and did an OK job, not A material, but definitely more than a 10 material. When grades came back a few weeks later, I saw that I had a D in the class. I asked the TAs and professor why, and it was because I uploaded the final_project.pdf that was the instructions, not my actual final report. When I selected the file to upload, I was in the wrong directory. I received a 0 on the final project, they would not accept my completed final_report.pdf, and therefore I failed this class. I brought this up to Georgia Tech as a Official Grade Dispute, and it was not re-graded. My D stood.
+Well, I uploaded my final project after completion and did an OK job, not A material, but definitely more than a 10 material. When grades came back a few weeks later, I saw that I had a D in the class. I asked the TAs and professor why, and it was because I uploaded the final_project.pdf that was the instructions, not my actual final report. When I selected the file to upload, I was in the wrong directory. I received a 0 on the final project, they would not accept my completed final_report.pdf, and therefore I failed this class. I brought this up to Georgia Tech as a Official Grade Dispute, and it was not re-graded. My D stood. This was probably the worst experience I've had in an academic setting, and foreshadowed the rest of my expirience at GT. 
 
 Overall, I would recommend not taking this class unless you have a very strong interest in Computational Photography.
 
@@ -43,7 +43,7 @@ Overall, I would recommend not taking this class unless you have a very strong i
 * Grade: A
 * Would recommend
 
-This is another really good class, and it was nice to take a interesting class after my awful previous semester. I had considered dropping the whole program after getting a D in my previous course. In this database course, I learned a bunch, and worked with a really great group on my projects in this course. Dr. Mark is funny and keeps lectures interesting. This class also helped me in my work, as I've been working more with databases now than ever before.
+This is a really good class, and it was nice to take a interesting class after my awful previous semester. I had considered dropping the whole program after getting a D in my previous course. In this database course, I learned a bunch, and worked with a really great group on my projects in this course. Dr. Mark is funny and keeps lectures interesting. This class also helped me in my work, as I've been working more with databases now than ever before.
 
 # Fall 2017 - None
 [Why do school when you can watch football?](https://www.youtube.com/watch?v=UgOu1zPtW2I)
@@ -74,7 +74,12 @@ Honeymoon for a week in Costa Rica, no way I'm doing school then.
 # Fall 2019 - CS6238 - Secure Computing Systems
 This is the first time this class has been taught, so it'll either be super easy or the worst class ever. I'll let you know in December.
 
+Update: Hardest class ever, dropped. 
+
 ----
 
 # Summary 
 So as of April 2019, I have 18 credits out of 30. I need to pass 4 more classes by Spring 2022 in order to graduate.
+
+# 2022 Update
+Dropped out in 2019, so happy I did, this degree wasn't worth the time for me and my career ended up not requiring a MS degree. If you do need a MS, this is a great value but it is very very difficult. 
