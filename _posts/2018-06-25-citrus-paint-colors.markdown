@@ -7,7 +7,7 @@ categories: renovations
 
 This is a post for my own knowledge, to keep track of what colors I've painted what rooms in my house on Citrus.
 
-* Guest Bathroom - Fresh Arboretum PPG Eggshell, PPG83-310. 50 GY 74/273.
+* Guest Bathroom - Valspar Starlight, Interioer Ultra Semigloss, 4001-7A
 
 * Living room, hallways - Dorian Gray, SW7017 eggshell.
 
@@ -32,3 +32,7 @@ This is a post for my own knowledge, to keep track of what colors I've painted w
 * Trim - Behr Marquee Interior Gloss Enamel,  Semi-Brilliant, green can. I finish baseboards and other wood trim in a coat or two of this.
 
 * Ceilings - Valspar flat ceiling paint.
+
+* Exterior Windows - Behr Ultra Base: 4853, PP Ultra Exterior/Flat, Matte, N160-7 Brown Velvet. 
+
+* Pool Deck - Sherwin Williams SW7672 - Knitting Needles, Pool Deck paint. 
