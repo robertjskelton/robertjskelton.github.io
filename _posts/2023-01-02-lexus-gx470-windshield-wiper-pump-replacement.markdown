@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Lexus GX470 - Windshield Wiper Pump Replacement"
-date:   2022-01-02 9:39:12 -0400
+date:   2023-01-02 9:39:12 -0400
 categories: cars
 ---
 
 ![ww](/images/ww/9.jpg)
 
-I bought the Lexus GX470 because it didn't have many parts that break, and after over 4 years of ownership I finally had a weird part break. My windshield wiper pump. It broke while on vacation in a snowy area, so I was having to clean my windshield with the gas station wipers every stop (often, this GX gets bag MPG). To replace the pump was pretty simple, and it's a basic part that seems to be pretty easy to find. It also required no tools. 
+I bought the Lexus GX470 because it didn't have many parts that break, and after over 4 years of ownership, and at 187k miles, I finally had a weird part break. My windshield wiper pump. It broke while on vacation in a snowy area, so I was having to clean my windshield with the gas station wipers every stop (often, this GX gets bag MPG). To replace the pump was pretty simple, and it's a basic part that seems to be pretty easy to find. It also required no tools. 
 
 Parts:
 * [177138 Windshield Washer Pump](https://amzn.to/3jN7Gs9)
@@ -27,7 +27,7 @@ There are 2 lines to remove from their holders, so do that.
 ![ww](/images/ww/1.jpg)
 ![ww](/images/ww/2.jpg)
 
-There is 1 electrical plug to remove. Simply wiggle it back and forth and out until the part comes out. Once the pump is out, you'll notice one fluid line to disconnect from the pump. So the old pump only has 1 electrical and 1 fluid connector. 
+There is 1 electrical plug to remove, so do that. Then, simply wiggle the pump back and forth and out until the part comes out. Once the pump is out, you'll notice one fluid line to disconnect from the pump. So the old pump only has 1 electrical and 1 fluid connector. 
 
 ![ww](/images/ww/4.jpg)
 
