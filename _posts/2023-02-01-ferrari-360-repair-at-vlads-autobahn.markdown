@@ -12,160 +12,161 @@ Before dropping off the car, I knew it had an oil leak, the convertible top was 
 
 Also put in some info about dealing with State Farm insurance on an agreed value policy. 
 
-# 5/24/2022 - Day 0
+### 5/24/2022 - Day 0
 Drop car off for work to be done. Was quoted 1 month for car to be picked up and completed. Vlad offers to sell me his Ferrari 360 Modular wheels. I decline. 
 
-# 5/31/2022 - 7 days after drop off
+### 5/31/2022 - 7 days after drop off
 Bought some new stock Ferrari 360 "starfish" rims to replace the 20" rims that came on my Ferrari. $1,400 with tires, picked up in Orlando. 
 
 ![vlad](/images/vlad/2.jpeg)
 
-# 6/6/2022 - 13 days after drop off
+### 6/6/2022 - 13 days after drop off
 Vlad says estimate will be ready today. 
 
-# 6/8/2022 - 15 days after drop off
+### 6/8/2022 - 15 days after drop off
 Vlad says estimate will be ready today for everything except transmission, which is being torn apart right now since it did not shift well on his test drive.  
 
-# 6/10/2022 - 17 days after drop off
+### 6/10/2022 - 17 days after drop off
 Receive initial estimate of $27,941.58, [here](/docs/vlad/1.pdf). Asked for a few items to be removed (didn't need new air filter and didn't want a new undertray) which brought the total down to $26,946.46, [here](/docs/vlad/2.pdf). Vlad noted every thing wrong with the car mechanically, and I approved all other repairs. 
 
-# 6/11/2022 - 18 days after drop off
+### 6/11/2022 - 18 days after drop off
 Vlad says he found a broken shift fork in the transmission. 
 
-# 6/16/2022 - 23 days after drop off
+### 6/16/2022 - 23 days after drop off
 Dropped of $15,000 for parts to be ordered and work to begin. Picked up the rear challenge grill to clean and repaint it myself. 
 Vlad says the new rims need a different size lug bolt, so I order a set shipped to him off of ebay for $150. 
 
-# 6/23/2022 - 30 days after drop off
+### 6/23/2022 - 30 days after drop off
 New lug bolts for the new rims arrive at Vlad's. 
 
-# 7/6/2022 - 43 days after drop off
+### 7/6/2022 - 43 days after drop off
 Vlad installs new rims with new lug bolts. 
 
 ![vlad](/images/vlad/3.jpeg)
 
-# 7/7/2022 - 44 days after drop off
+### 7/7/2022 - 44 days after drop off
 I pick up the old 20" rims and drop off the newly painted rear Challenge grill. 
 
-# 7/21/2022 - 58 days after drop off
+### 7/21/2022 - 58 days after drop off
 Vlad says a shipment of parts arrived on my car and they are ready to begin work. Vlad offers to sell me his Ferrari 360 Challenge wheels for $2,300. I declined, wish I hadn't. 
 
-# 7/25/2022 - 62 days after drop off
+### 7/25/2022 - 62 days after drop off
 Steering rack arrives. 
 
-# 7/28/2022 - 65 days after drop off
+### 7/28/2022 - 65 days after drop off
 Vlad says not all parts are in but steering rack will begin install on Monday, 8/1/2022.
 
-# 8/8/2022 - 76 days after drop off
+### 8/8/2022 - 76 days after drop off
 Vlad says steering rack going in today and that they're still waiting on other parts, and that he will make me a list of parts that they're still waiting on. 
 
 ![vlad](/images/vlad/4.jpeg)
 
-# 8/10/2022 - 78 days after drop off
+### 8/10/2022 - 78 days after drop off
 Vlad says steering rack is in the car and work on the convertible seals has begun. 
 
-# 8/16/2022 - 84 days after drop off
+### 8/16/2022 - 84 days after drop off
 Received the quote for the transmission work, totalling $7,911.13 [here](/docs/vlad/3.pdf). 
 
-# 8/19/2022 - 87 days after drop off
+### 8/19/2022 - 87 days after drop off
 Dropped off $6,100 for transmission parts to be ordered and work to begin. Picked up the old steering rack and took it home. 
 
-# 8/26/2022 - 94 days after drop off
+### 8/26/2022 - 94 days after drop off
 Registered the Ferrari in Florida and got a license plate for it. Took forever due to having to order a New York title and get that shipped here, then had to go to the Florida DMV. 
 
-# 8/31/2022 - 99 days after drop off
+### 8/31/2022 - 99 days after drop off
 Vlad says still waiting on some transmission parts. 
 
-# 9/12/2022 - 111 days after drop off
+### 9/12/2022 - 111 days after drop off
 Vlad says still waiting on some transmission parts, and that the only work left is the transmission and timing belts, and should be 3 days of work. 
 
-# 9/14/2022 - 113 days after drop off
+### 9/14/2022 - 113 days after drop off
 Vlad says that the shift forks he was waiting on for the transmission will ship on 9/28/2022. 
 
-# 9/26/2022 - 125 days after drop off
+### 9/26/2022 - 125 days after drop off
 Vlad says still waiting on parts, and once all parts are in it will take a week of work to finish. 
 
-# 10/9/2022 - 138 days after drop off
+### 10/9/2022 - 138 days after drop off
 Vlad says transmission parts are still not in, and that he will follow up on 10/10/2022. 
 
-# 10/12/2022 - 141 days after drop off
+### 10/12/2022 - 141 days after drop off
 Vlad says the shipment should arrive by 10/21/2022. 
 
-# 10/20/2022 - 149 days after drop off
+### 10/20/2022 - 149 days after drop off
 Asked Vlad to send me some certain pictures of the car to obtain new insurance through State Farm. 
 
-# 10/24/2022 - 154 days after drop off
+### 10/24/2022 - 154 days after drop off
 Asked for the above pics again, and asked for how progress is going - Vlad says still waiting on parts. He says some of the parts still haven't shipped. 
 I asked for the list of parts he is still waiting on to see if I can find them elsewhere. He said that he was told by his supplier that the parts I need should be available by the end of October. I get mad and ask to find parts outside of his usual means. He gets mad and says I can pick up my transmission, which is torn apart on a table, take it to another shop to rebuild, and he will put the rebuilt trans in with no warranty or guarantee on it. I say I don't want to do that, I just want part numbers you need and to see if I can expedite it, as my car has been in the shop for 158 days at this point. 
 
-# 10/26/2022 - 156 days after drop off
+### 10/26/2022 - 156 days after drop off
 Vlad says he has an update on parts, that all parts should be in by 11/4/2022. 
 
-# 10/31/2022 - 161 days after drop off
+### 10/31/2022 - 161 days after drop off
 Vlad says he has been re-assembling the transmission and still waiting on the 1st-2nd gear synchro. 
 
-# 11/1/2022 - 162 days after drop off
+### 11/1/2022 - 162 days after drop off
 Asked for pics for insurance again. 
 
-# 11/2/2022 - 163 days after drop off
+### 11/2/2022 - 163 days after drop off
 Vlad sends pics of the car for insurance. 
 
-# 11/4/2022 - 165 days after drop off
+### 11/4/2022 - 165 days after drop off
 Vlad says he thinks he has all of the parts, he will let me know again on 11/7/2022. 
 
-# 11/7/2022 - 168 days after drop off
+### 11/7/2022 - 168 days after drop off
 Vlad says he is 99% sure he has all of the parts and can begin work again after 11/21/2022. 
 
-# 11/9/2022 - 170 days after drop off
+### 11/9/2022 - 170 days after drop off
 Vlad says he is working on the transmission again. 
 
-# 11/15/2022 - 176 days after drop off
+### 11/15/2022 - 176 days after drop off
 Vlad calls and says he wants to do a cam shaft degreeing service for an additional 17 hours of labor, I decline. He says my car will be ready before Christmas. 
 
-# 11/19/2022 - 179 days after drop off
+### 11/19/2022 - 179 days after drop off
 State Farm issues an insurance policy on the Ferrari with an agreed value of $25,000. I do not agree with this value and ask them to raise it to $100k. 
 
-# 11/21/2022 - 182 days after drop off
+### 11/21/2022 - 182 days after drop off
 I ask Vlad if work will begin this week. 
 
-# 11/22/2022 - 183 days after drop off
+### 11/22/2022 - 183 days after drop off
 I ask if work will begin this week, again. He says yes. 
 
-# 11/26/2022 - 187 days after drop off
+### 11/26/2022 - 187 days after drop off
 I ask how progress was this week, he says they are working on the trasmission. 
 
-# 11/30/2022 - 190 days after drop off
-He says the transmission should be assembled today or tomorrow. 
+### 11/30/2022 - 190 days after drop off
+Vlad says the transmission should be assembled today or tomorrow. 
 
-# 12/2/2022 - 192 days after drop off
-He says the transmission is assembled and the car should be ready for pickup the week of 12/12/2022. 
+### 12/2/2022 - 192 days after drop off
+Vlad says the transmission is assembled and the car should be ready for pickup the week of 12/12/2022. 
 
-# 12/11/2022 - 201 days after drop off
+### 12/11/2022 - 201 days after drop off
 Vlad says the car should be ready for pickup on 12/16/2022. 
 
-# 12/15/2022 - 205 days after drop off
+### 12/15/2022 - 205 days after drop off
 Vlad says the car will not be ready for pickup this week, it needs a coolant hose and a gasket. Transmission and timing belt service is complete. 
 
-# 12/21/2022 - 211 days after drop off
+### 12/21/2022 - 211 days after drop off
 Vlad says the coolant hose has arrived and waiting on a gasket that should arrive today. 
 
-# 12/22/2022 - 212 days after drop off
+### 12/22/2022 - 212 days after drop off
 Vlad sent me a video of the 360 running and said it will be drivable today. 
 
-# 12/28/2022 - 218 days after drop off
+### 12/28/2022 - 218 days after drop off
 Vlad says he drove the car 20 miles and that a suspension light and a check engine light came on, and that the car needs an alignment, and that the car drove nice. 
 
-# 12/31/2022 - 221 days after drop off
+### 12/31/2022 - 221 days after drop off
 I asked when the car will be ready. 
  
-# 1/3/2023 - 224 days after drop off
+### 1/3/2023 - 224 days after drop off
 Vlad called and said work is complete, but a new Check Engine Light for a timing issue has come on and he thinks it is the variator. He said he will call me tomorrow. I ask him for my final bill without any variator work. 
 
-# 1/4/2023 -  225 days after drop off
+### 1/4/2023 -  225 days after drop off
 I call Vlad late in the day and he said he no word on parts or a variator quote, he will call me tomorrow. I ask him for my final bill without any variator work. 
 Renewed the registration on the license plate that I haven't even put on the car yet. 
+
 State Farm finally responds that my car is not worth $100k, it is worth $60k. 
 I do not agree that my car is worth $60,000 and I submit additional documentation on valuation. 
 
-# 1/5/2023  - 226 days after drop off
-Vlad messages me on Instagram that still no word and he will call me tomorrow. I ask him for my final bill without any variator work. 
+##### 1/5/2023  - 226 days after drop off
+Vlad said still no word and he will call me tomorrow. I ask him for my final bill without any variator work. 
