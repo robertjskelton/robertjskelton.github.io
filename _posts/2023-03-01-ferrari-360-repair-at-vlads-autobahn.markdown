@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ferrari 360 Repair at Vlad's Autobahn"
-date:   2023-02-01 9:39:12 -0400
+date:   2023-03-01 9:39:12 -0400
 categories: cars
 ---
 
@@ -163,10 +163,36 @@ Vlad called and said work is complete, but a new Check Engine Light for a timing
 
 ### 1/4/2023 -  225 days after drop off
 I call Vlad late in the day and he said he no word on parts or a variator quote, he will call me tomorrow. I ask him for my final bill without any variator work. 
+He said he will send me the bill and the estimate for the variator work tomorrow. 
 Renewed the registration on the license plate that I haven't even put on the car yet. 
 
 State Farm finally responds that my car is not worth $100k, it is worth $60k. 
 I do not agree that my car is worth $60,000 and I submit additional documentation on valuation. 
 
-##### 1/5/2023  - 226 days after drop off
+### 1/5/2023  - 226 days after drop off
 Vlad said still no word and he will call me tomorrow. I ask him for my final bill without any variator work. 
+
+### 1/6/2023  - 227 days after drop off
+Vlad's mom said she will have a final bill for me on 1/9/2023. 
+
+### 1/9/2023  - 230 days after drop off
+Asked for an update, no response. 
+
+### 1/10/2023 - 231 days after drop off
+Asked for an update, no response. 
+
+### 1/11/2023 - 232 days after drop off
+Received a final bill from Vlad's mom, [here](/docs/vlad/4.pdf). No other communication about any variator issues. Noticed that power steering items and engine mounts were removed from the bill and spark plugs and air filters were added. Number of hours on the transmission had doubled from 10 hours to 20 hours. Timing belt tensioners went from $340 on the estimate to $664 on the bill, and the hours worked on the convertible top went from 6 hours to 8. Also noticed that his hourly rate changed from $180 to $195/hr, but I was still paying $180/hr. 
+
+# 1/12/2023 - 233 days after drop off
+Vlad lets me know they sent the bill, that they are short staffed, that parts delays are happening, and he will get me a quote on the variator. 
+Called Strictly Foreign and left a voice mail. Stan called me back an hour later, said he could diagnose and fix my issue, but it will be a few weeks before they have room. His rate is 
+$165/hr.
+
+# 1/18/2023 - 239 days after drop off
+Asked State Farm if the Agreed Value has been updated to $100k. They said it has (great news) and asked for more pictures of the car. 
+Asked Vlad for more pictures of the car. He said he will send them, and that his mom had sent an estimate for the variator fix (she hadn't). He said he wil followup. 
+He asked if I could come pay for the rest of what I owe on the car, I asked him to let me know once it's ready and I could come pay for it. 
+
+# 1/24/2023 - 245 days after drop off
+I receive an estimate to replace the variator from Vlad. It is a $295 part and 26 hours of labor at his new rate of $195/hr. I inform him that I will be declined this repair and picking up my car next week. He offers to have it detailed. 
