@@ -13,7 +13,7 @@ Before dropping off the car, I knew it had an oil leak, the convertible top was 
 Also put in some info about dealing with State Farm insurance on an agreed value policy. 
 
 ### 5/24/2022 - Day 0
-Drop car off for work to be done. Was quoted 1 month for car to be picked up and completed. Vlad offers to sell me his Ferrari 360 Modular wheels. I decline. 
+Drop car off for work to be done. Was quoted 1 month for car to be picked up and completed. Vlad offers to sell me his Ferrari 360 Modular wheels. I decline. He says they will fix it up real nice, it'll be in perfect shape when it is done, and says he will even roll the fenders on it for free, and says he has some other surprises for me. 
 
 ### 5/31/2022 - 7 days after drop off
 Bought some new stock Ferrari 360 "starfish" rims to replace the 20" rims that came on my Ferrari. $1,400 with tires, picked up in Orlando. 
@@ -195,4 +195,35 @@ Asked Vlad for more pictures of the car. He said he will send them, and that his
 He asked if I could come pay for the rest of what I owe on the car, I asked him to let me know once it's ready and I could come pay for it. 
 
 # 1/24/2023 - 245 days after drop off
-I receive an estimate to replace the variator from Vlad. It is a $295 part and 26 hours of labor at his new rate of $195/hr. I inform him that I will be declined this repair and picking up my car next week. He offers to have it detailed. 
+I receive an estimate to replace the variator from Vlad. It is a $295 part and 26 hours of labor at his new rate of $195/hr. I inform him that I will be declined this repair and picking up my car next week. He offers to have it detailed. Asked when I could come pay and pick up and he says next week after he is done racing. 
+
+# 2/2/2023 - 254 days after drop off
+Paid off the balance in full, $35,373.22. He had installed air filters I had declined, as the car had new engine air filters, which he threw away, so he gave me the new air filters for free. 
+
+Vlad noted he performed the convertible top work he quoted, but did not fix the sag in the top and informed me that I should buy a new top. First time in 9 months he had mentioned that. He also mentioned for the first that that the timing belt pulleys that he ordered 6 months ago were not Hill Engineering as I had asked, but OEM Ferrari (which are an inferior part), and cost almost twice as much as the Hill part. 
+
+He made me sign an agreement that he is not liable for any engine damage of his causing because I am turning down the 26 hour variator replacement. He says I can not pick up the car until the check clears, but it can not stay more than a few days, so I plan to pick it up on Monday, 2/7/2023.
+
+I installed my license plate, took pictures for State Farm insurance, and picked up the box of old parts to take home. 
+
+# 2/6/2023 - 258 days after drop off
+Picked up my car at Vlad's, they had put in a new old battery since they said mine died. Noticed they did not roll the front driver fender like they said they would. 
+The car had a engine light, suspension light, and SLOW DOWN light on. 
+Drove it to Simply Foreign and dropped it off to finish the work there. 
+
+Stan from Simply Foreign called me an hour later and said the timing was done incorrectly by the previous shop. 
+Vlad unfollows me on Instagram. 
+
+# 2/10/2023
+Called Strictly Foreign, they said the timing was done incorrectly by Vlad's Autobahn, that the camshaft and crankshaft were not in time. 
+He advised me to go back to Vlad's and ask them to redo it, or the better solution would be to take it to a Ferrari dealer. 
+Called Vlad's from 2 different phone numbers, no response. Voice mail is shut off. 
+Called the Orlando Ferrari dealer, they couldn't get me in until March. 
+Tampa Ferrari dealer sent me a quote for transport ($600 each way) and could get me in on 2/17. 
+Palm Beach Ferrari said they could get me in on 2/13 or 2/14, and could comp the tow and would definitely get this fixed, and was apologetic over Vlad's Autobahn giving me the runaround. 
+
+# 2/14/2023
+Dropped off car at Ferrari Palm Beach. $340/hr for labor. Ouch. 
+
+# 2/17/2023
+Ferrari Palm Beach said they will have an update for me next week. 
