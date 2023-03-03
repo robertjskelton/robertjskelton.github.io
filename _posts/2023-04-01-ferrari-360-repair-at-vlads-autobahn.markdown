@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ferrari 360 Repair at Vlad's Autobahn"
-date:   2023-03-01 9:39:12 -0400
+date:   2023-04-01 9:39:12 -0400
 categories: cars
 ---
 
@@ -210,8 +210,6 @@ I installed my license plate, took pictures for State Farm insurance, and picked
 Picked up my car at Vlad's, they had put in a new old battery since they said mine died. Noticed they did not roll the front driver fender like they said they would. 
 The car had a engine light, suspension light, and SLOW DOWN light on. 
 Drove it to Simply Foreign and dropped it off to finish the work there. 
-
-Stan from Simply Foreign called me an hour later and said the timing was done incorrectly by the previous shop. 
 Vlad unfollows me on Instagram. 
 
 # 2/10/2023
@@ -223,7 +221,10 @@ Tampa Ferrari dealer sent me a quote for transport ($600 each way) and could get
 Palm Beach Ferrari said they could get me in on 2/13 or 2/14, and could comp the tow and would definitely get this fixed, and was apologetic over Vlad's Autobahn giving me the runaround. 
 
 # 2/14/2023
-Dropped off car at Ferrari Palm Beach. $340/hr for labor. Ouch. 
+Dropped off car at Ferrari Palm Beach. $340/hr for labor. Ouch. They will also install the new fuel pumps (my left one was leaking)
 
 # 2/17/2023
 Ferrari Palm Beach said they will have an update for me next week. 
+
+# 3/1/2023
+Ferrari Palm Beach said my car is ready and timing is fixed - they said the previous shop had either not replaced the timing belts or put in used parts. Total is $5228 to fix the work that Vlad's did incorrectly and to install the new fuel pumps. 
