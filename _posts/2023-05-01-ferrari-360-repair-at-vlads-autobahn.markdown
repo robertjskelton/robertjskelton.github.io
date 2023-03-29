@@ -200,7 +200,7 @@ I receive an estimate to replace the variator from Vlad. It is a $295 part and 2
 # 2/2/2023 - 254 days after drop off
 Paid off the balance in full, $35,373.22. He had installed air filters I had declined, as the car had new engine air filters, which he threw away, so he gave me the new air filters for free. 
 
-Vlad noted he performed the convertible top work he quoted, but did not fix the sag in the top and informed me that I should buy a new top. First time in 9 months he had mentioned that. He also mentioned for the first that that the timing belt pulleys that he ordered 6 months ago were not Hill Engineering as I had asked, but OEM Ferrari (which are an inferior part), and cost almost twice as much as the Hill part. 
+Vlad noted he performed the convertible top work he quoted, but did not fix the sag in the top and informed me that I should buy a new top. First time in 9 months he had mentioned that. He also mentioned for the first time that the timing belt pulleys that he ordered 6 months ago were not Hill Engineering as I had asked, but OEM Ferrari (which are an inferior part), and cost almost twice as much as the Hill part. 
 
 He made me sign an agreement that he is not liable for any engine damage of his causing because I am turning down the 26 hour variator replacement. He says I can not pick up the car until the check clears, but it can not stay more than a few days, so I plan to pick it up on Monday, 2/7/2023.
 
@@ -228,3 +228,11 @@ Ferrari Palm Beach said they will have an update for me next week.
 
 # 3/1/2023
 Ferrari Palm Beach said my car is ready and timing is fixed - they said the previous shop had either not replaced the timing belts or put in used parts. Total is $5228 to fix the work that Vlad's did incorrectly and to install the new fuel pumps. 
+State Farm said that since my car is "high mileage" at 29k, it is only worth $80k for insurance agreed value. 
+
+# 3/4/2023
+Picked up the car from Ferrari Palm Beach. Drove it 200 miles in the next few days, it drove perfect, no check engine lights. They said the timing was off by 6 degrees and the belts were old. 
+Noticed the air conditioner doesn't blow cold. 
+
+# 3/28/2023
+The top that Vlad had fixed stopped working completely. Won't go up or down and is stuck in the middle. 
