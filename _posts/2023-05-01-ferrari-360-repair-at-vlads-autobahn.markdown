@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ferrari 360 Repair at Vlad's Autobahn"
-date:   2023-04-01 9:39:12 -0400
+date:   2023-05-01 9:39:12 -0400
 categories: cars
 ---
 
@@ -215,10 +215,11 @@ Vlad unfollows me on Instagram.
 # 2/10/2023
 Called Strictly Foreign, they said the timing was done incorrectly by Vlad's Autobahn, that the camshaft and crankshaft were not in time. 
 He advised me to go back to Vlad's and ask them to redo it, or the better solution would be to take it to a Ferrari dealer. 
-Called Vlad's from 2 different phone numbers, no response. Voice mail is shut off. 
+Called Vlad's from 3 different phone numbers, no response. Voice mail is shut off. 
 Called the Orlando Ferrari dealer, they couldn't get me in until March. 
 Tampa Ferrari dealer sent me a quote for transport ($600 each way) and could get me in on 2/17. 
-Palm Beach Ferrari said they could get me in on 2/13 or 2/14, and could comp the tow and would definitely get this fixed, and was apologetic over Vlad's Autobahn giving me the runaround. 
+Palm Beach Ferrari said they could get me in on 2/13 or 2/14, and could comp the tow and would definitely get this fixed, and was apologetic over Vlad's Autobahn giving me the runaround.
+Decided on using Ferrari Palm Beach.  
 
 # 2/14/2023
 Dropped off car at Ferrari Palm Beach. $340/hr for labor. Ouch. They will also install the new fuel pumps (my left one was leaking)
@@ -233,6 +234,10 @@ State Farm said that since my car is "high mileage" at 29k, it is only worth $80
 # 3/4/2023
 Picked up the car from Ferrari Palm Beach. Drove it 200 miles in the next few days, it drove perfect, no check engine lights. They said the timing was off by 6 degrees and the belts were old. 
 Noticed the air conditioner doesn't blow cold. 
+Started a chargeback through Chase for $3800 for the timing issues and transmission issues. 
 
 # 3/28/2023
-The top that Vlad had fixed stopped working completely. Won't go up or down and is stuck in the middle. 
+The top that Vlad had "fixed" stopped working completely. Won't go up or down and is stuck in the middle. I ended up partially fixing it myself, but this is definitely an issue that Vlad's caused by rebuilding a hydrauilic incorrectly. The hydraulic behind the passenger headrest is shooting fluid. 
+
+# 4/28/2023
+Chase approves my first charge back on the transmission/timing/timing belt issues. Still need to open a 2nd charge back for the convertible top work. 
