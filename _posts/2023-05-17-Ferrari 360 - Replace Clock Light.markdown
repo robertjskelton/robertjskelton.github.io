@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ferrari 360 Spider - Replace Clock Light"
-date:   2020-08-17 10:00:14 -0400
+date:   2023-05-17 10:00:14 -0400
 categories: cars
 ---
 
@@ -32,7 +32,6 @@ There are 2 Phillips screws kinda holding on the clock, just back them out a bit
 
 ![LED](/images/360-clock/4.jpg)
 
-
 Now that the clock is off, you can remove the light, if your fingers can't reach than a set of needle nose pliers should work. 
 
 ![LED](/images/360-clock/6.jpg)
@@ -48,4 +47,3 @@ Total install time: 12 minutes according to my clock
 ![LED](/images/360-clock/7.jpg)
 
 Set your clock using a small device, I used my trim removal tool. The left button sets the hour, the right button sets the minute. Now you have a usable clock!
-
