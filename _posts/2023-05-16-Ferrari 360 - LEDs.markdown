@@ -1,30 +1,46 @@
 ---
 layout: post
-title:  "Ferrari 360 - LED Swap"
+title:  "Ferrari 360 Spider - LED Swap"
 date:   2020-08-16 10:00:14 -0400
 categories: cars
 ---
 
+So I've had my Ferrari 360 Spider a while now, and the first mod is always new LEDs. I replcaed the dome, license plate, and frunk bulbs on my 2001 360 Spider with LEDs, here's how. 
+
 ![LED](/images/360-led/1.jpg)
 
 Parts:
-* [Dome Light x1, 194](https://amzn.to/3W81xpn)
-* [Frunk Light: 36mm festoon, thin x2](https://amzn.to/450UJOs)
+* [Dome Light x1, 194](https://amzn.to/3o8yq8P)
+* [Frunk Light: 36mm festoon, thin x1](https://amzn.to/450UJOs)
 * [License Plate Lights: 36mm festoon x2](https://amzn.to/450UJOs)
 
-To replace the old bulbs on your Ferrari 360, buy the above parts. 
+To replace the old bulbs on your Ferrari 360, buy the above parts. You'll also want a [plastic trim tool](https://amzn.to/41NBftE) to not scratch anything. 
 
-To replace the license plate bulbs, unscrew the 2 phillips screws on each license plate bulb, then swap the new festoon in, verifying it works before re-installing as the LEDs do have polarity. 
+To replace the license plate bulbs, unscrew the 2 phillips screws on each license plate bulb, then swap the new 36mm festoon in, verifying it works before re-installing as the LEDs do have polarity. 
 
 ![LED](/images/360-led/1.jpg)
 
-For the dome light, use a trim tool to pop the light out, then replace the 194 bulb. This is a weird light, where if you don't buy the correct LED you could be stuck with a light that only comes on when the door is open, and won't turn on when you flip the switch to turn on, see [this write-up on FChat](https://www.ferrarichat.com/forum/threads/diy-360-spider-overhead-light-led-upgrade.444987/). 
+The dome light on the Ferrari 360 Spider is different than a Modena, so this part is for the Spider version. The part on mine must have been repurposed from something else, seeing as it shows 4 doors on the car. 
+
+![LED](/images/360-led/9.jpg)
+
+For the dome light, use a [trim tool](https://amzn.to/41NBftE) to pop the light out, remove the bulb holder by pressing in on the grey tabs on both sides. Pry apart the clear cover, be patient to not break it. Once you can pry the clear part off, take the metal housing out, or else your new bulb will not fit. Finally, replace the [194 bulb](https://amzn.to/3o8yq8P). 
 
 ![LED](/images/360-led/2.jpg)
+![LED](/images/360-led/8.jpg)
+![LED](/images/360-led/10.jpg)
+![LED](/images/360-led/11.jpg)
+![LED](/images/360-led/12.jpg)
 
-For the frunk, same thing, just pop the old light out with a trim tool, new festoon in. 
+This is a weird light, where if you don't buy the correct LED you could be stuck with a light that only comes on when the door is open, and won't turn on when you flip the switch to turn on, see [this write-up on FChat](https://www.ferrarichat.com/forum/threads/diy-360-spider-overhead-light-led-upgrade.444987/). This is how mine is currently setup, and the link to the recommended LEDs from FChat, also linked above, work perfectly. 
+
+For the frunk, same thing, just pop the old light out with a trim tool, new 36mm festoon in. 
 
 ![LED](/images/360-led/3.jpg)
+![LED](/images/360-led/5.jpg)
+![LED](/images/360-led/6.jpg)
+![LED](/images/360-led/7.jpg)
 
-There is also a light in the glove box, but my glove box is zip tied shut for now. 
+There is also a light in the glove box, but my glove box is zip tied shut for now. It's probably another 194 or 36mm festoon though. 
 
+And there's a quick and easy way to make your Ferrari 360 brighter. 
