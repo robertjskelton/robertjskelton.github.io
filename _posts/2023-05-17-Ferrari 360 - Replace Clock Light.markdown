@@ -21,7 +21,7 @@ Parts and Tools:
 * 4mm Allen wrench
 * Phillips screwdriver
 
-First, remove your dome light, I detailed how to do this in my last post on replacing all the LEDs. 
+First, remove your dome light, I detailed how to do this in my [last post on replacing all the LEDs](https://rskelton.com/Ferrari-360-LEDs/). 
 
 Behind the dome light, there are 2x 4mm allen screws to remove, then your whole housing can come off. 
 
@@ -32,7 +32,7 @@ There are 2 Phillips screws kinda holding on the clock, just back them out a bit
 
 ![LED](/images/360-clock/4.jpg)
 
-Now that the clock is off, you can remove the light, if your fingers can't reach than a set of needle nose pliers should work. 
+Now that the clock is off, you can remove the light, if your fingers can't reach it then a set of needle nose pliers should work. 
 
 ![LED](/images/360-clock/6.jpg)
 
