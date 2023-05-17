@@ -7,8 +7,8 @@ categories: cars
 
 ![vlad](/images/vlad/1.jpg)
 
-This is the story of getting my 2001 Ferrari 360 Spider maintenance done at [Vlad's Autobahn](https://vladsautobahn.com/) in West Melbourne, Florida, and the timeline and costs. 
-Before dropping off the car, I knew it had an oil leak, the convertible top was slow to close, there was a suspension light on, and that it couldn't turn right properly. 
+This is the story of getting my 2001 Ferrari 360 Spider maintenance done at [Vlad's Autobahn](https://vladsautobahn.com/) in West Melbourne, Florida, owned by Vlad (or Eric) Hamke and the timeline and costs. 
+Before dropping off the car, the Ferrari had an oil leak, the convertible top was slow to close, there was a suspension light on, and that it couldn't turn right properly. 
 
 Also put in some info about dealing with State Farm insurance on an agreed value policy. 
 
@@ -48,7 +48,7 @@ Vlad installs new rims with new lug bolts.
 I pick up the old 20" rims and drop off the newly painted rear Challenge grill. 
 
 ### 7/21/2022 - 58 days after drop off
-Vlad says a shipment of parts arrived on my car and they are ready to begin work. Vlad offers to sell me his Ferrari 360 Challenge wheels for $2,300. I declined, wish I hadn't. 
+Vlad says a shipment of parts arrived on my car and they are ready to begin work. Vlad offers to sell me his Ferrari 360 Challenge wheels for $2,300. I declined. 
 
 ### 7/25/2022 - 62 days after drop off
 Steering rack arrives. 
@@ -65,10 +65,10 @@ Vlad says steering rack going in today and that they're still waiting on other p
 Vlad says steering rack is in the car and work on the convertible seals has begun. 
 
 ### 8/16/2022 - 84 days after drop off
-Received the quote for the transmission work, totalling $7,911.13 [here](/docs/vlad/3.pdf). 
+Received the quote for the transmission work, totalling $7,911.13 [here](/docs/vlad/3.pdf), on top of the other work already approved. 
 
 ### 8/19/2022 - 87 days after drop off
-Dropped off $6,100 for transmission parts to be ordered and work to begin. Picked up the old steering rack and took it home. 
+Dropped off $6,100 for transmission parts to be ordered and work to begin. 
 
 ### 8/26/2022 - 94 days after drop off
 Registered the Ferrari in Florida and got a license plate for it. Took forever due to having to order a New York title and get that shipped here, then had to go to the Florida DMV. 
@@ -108,7 +108,7 @@ Vlad says he has been re-assembling the transmission and still waiting on the 1s
 Asked for pics for insurance again. 
 
 ### 11/2/2022 - 163 days after drop off
-Vlad sends pics of the car for insurance. 
+Asked for pics for insurance again. Vlad sends pics of the car for insurance. 
 
 ### 11/4/2022 - 165 days after drop off
 Vlad says he thinks he has all of the parts, he will let me know again on 11/7/2022. 
@@ -120,10 +120,12 @@ Vlad says he is 99% sure he has all of the parts and can begin work again after 
 Vlad says he is working on the transmission again. 
 
 ### 11/15/2022 - 176 days after drop off
-Vlad calls and says he wants to do a cam shaft degreeing service for an additional 17 hours of labor, I decline. He says my car will be ready before Christmas. 
+Vlad calls and says he wants to do a cam shaft degreeing service for an additional 17 hours of labor, I decline. 
+He says my car will be ready before Christmas. 
 
 ### 11/19/2022 - 179 days after drop off
-State Farm issues an insurance policy on the Ferrari with an agreed value of $25,000. I do not agree with this value and ask them to raise it to $100k. 
+State Farm issues an insurance policy on the Ferrari with an agreed value of $25,000. 
+I do not agree with this value and ask them to raise it to $100k. 
 
 ### 11/21/2022 - 182 days after drop off
 I ask Vlad if work will begin this week. 
@@ -162,7 +164,7 @@ I asked when the car will be ready.
 Vlad called and said work is complete, but a new Check Engine Light for a timing issue has come on and he thinks it is the variator. He said he will call me tomorrow. I ask him for my final bill without any variator work. 
 
 ### 1/4/2023 -  225 days after drop off
-I call Vlad late in the day and he said he no word on parts or a variator quote, he will call me tomorrow. I ask him for my final bill without any variator work. 
+I call Vlad and he said he no word on parts or a variator quote, he will call me tomorrow. I ask him for my final bill without any variator work. 
 He said he will send me the bill and the estimate for the variator work tomorrow. 
 Renewed the registration on the license plate that I haven't even put on the car yet. 
 
@@ -182,39 +184,38 @@ Asked for an update, no response.
 Asked for an update, no response. 
 
 ### 1/11/2023 - 232 days after drop off
-Received a final bill from Vlad's mom, [here](/docs/vlad/4.pdf). No other communication about any variator issues. Noticed that power steering items and engine mounts were removed from the bill and spark plugs and air filters were added. Number of hours on the transmission had doubled from 10 hours to 20 hours. Timing belt tensioners went from $340 on the estimate to $664 on the bill, and the hours worked on the convertible top went from 6 hours to 8. Also noticed that his hourly rate changed from $180 to $195/hr, but I was still paying $180/hr. 
+Received a final bill from Vlad's mom, [here](/docs/vlad/4.pdf). No other communication about any variator issues. Noticed that power steering items and engine mounts were removed from the bill and spark plugs and air filters were added. Number of hours on the transmission had doubled from 10 hours to 20 hours. Timing belt tensioners went from $340 on the estimate to $664 on the bill, and the hours worked on the convertible top went from 6 hours to 8. Also noticed that his hourly rate changed from $180 to $195/hr. 
 
 # 1/12/2023 - 233 days after drop off
 Vlad lets me know they sent the bill, that they are short staffed, that parts delays are happening, and he will get me a quote on the variator. 
-Called Strictly Foreign and left a voice mail. Stan called me back an hour later, said he could diagnose and fix my issue, but it will be a few weeks before they have room. His rate is 
-$165/hr.
+Called Strictly Foreign, a reputable Ferrari shop in town, and left a voice mail. Stan, the owner of Strictly Foreign, called me back an hour later, said he could diagnose and fix my issue, but it will be a few weeks before they have room to work on my car. His rate is $165/hr.
 
 # 1/18/2023 - 239 days after drop off
-Asked State Farm if the Agreed Value has been updated to $100k. They said it has (great news) and asked for more pictures of the car. 
+Asked State Farm if the Agreed Value has been updated to $100k. They said it has and asked for more pictures of the car. 
 Asked Vlad for more pictures of the car. He said he will send them, and that his mom had sent an estimate for the variator fix (she hadn't). He said he wil followup. 
 He asked if I could come pay for the rest of what I owe on the car, I asked him to let me know once it's ready and I could come pay for it. 
 
 # 1/24/2023 - 245 days after drop off
-I receive an estimate to replace the variator from Vlad. It is a $295 part and 26 hours of labor at his new rate of $195/hr. I inform him that I will be declined this repair and picking up my car next week. He offers to have it detailed. Asked when I could come pay and pick up and he says next week after he is done racing. 
+I receive an estimate to replace the variator from Vlad. It is a $295 part and 26 hours of labor at his new rate of $195/hr. I inform him that I will be declining this repair and picking up my car next week. He offers to have it detailed. I then asked when I could come pay and pick up and he says next week after he is done racing. 
 
 # 2/2/2023 - 254 days after drop off
 Paid off the balance in full, $35,373.22. He had installed air filters I had declined, as the car had new engine air filters, which he threw away, so he gave me the new air filters for free. 
 
-Vlad noted he performed the convertible top work he quoted, but did not fix the sag in the top and informed me that I should buy a new top. First time in 9 months he had mentioned that. He also mentioned for the first time that the timing belt pulleys that he ordered 6 months ago were not Hill Engineering as I had asked, but OEM Ferrari (which are an inferior part), and cost almost twice as much as the Hill part. 
+Vlad noted he performed the convertible top work he quoted, but did not fix the sag in the top and informed me that I should buy a new top. This is the first time in 9 months he had mentioned that. He also mentioned that the timing belt pulleys that he ordered 6 months ago were not Hill Engineering as I had asked, but OEM Ferrari (which are an inferior part), and cost almost twice as much as the Hill part. 
 
 He made me sign an agreement that he is not liable for any engine damage of his causing because I am turning down the 26 hour variator replacement. He says I can not pick up the car until the check clears, but it can not stay more than a few days, so I plan to pick it up on Monday, 2/7/2023.
 
 I installed my license plate, took pictures for State Farm insurance, and picked up the box of old parts to take home. 
 
 # 2/6/2023 - 258 days after drop off
-Picked up my car at Vlad's, they had put in a new old battery since they said mine died. Noticed they did not roll the front driver fender like they said they would. 
-The car had a engine light, suspension light, and SLOW DOWN light on. 
-Drove it to Simply Foreign and dropped it off to finish the work there. 
+Picked up my car at Vlad's, they had put in a new old battery since they said mine died. Noticed they did not roll the front driver fender like they said they would, or if they rolled it they did a not very good job. 
+The car had a check engine light, suspension light, and SLOW DOWN light on when I picked it up.
+I drove the car to Simply Foreign and dropped it off for further diagnosis.  
 Vlad unfollows me on Instagram. 
 
 # 2/10/2023
 Called Strictly Foreign, they said the timing was done incorrectly by Vlad's Autobahn, that the camshaft and crankshaft were not in time. 
-He advised me to go back to Vlad's and ask them to redo it, or the better solution would be to take it to a Ferrari dealer. 
+He advised me that my options were to go back to Vlad's and ask them to redo it, or the better solution would be to take it to a Ferrari dealer. 
 Called Vlad's from 3 different phone numbers, no response. Voice mail is shut off. 
 Called the Orlando Ferrari dealer, they couldn't get me in until March. 
 Tampa Ferrari dealer sent me a quote for transport ($600 each way) and could get me in on 2/17. 
@@ -222,22 +223,22 @@ Palm Beach Ferrari said they could get me in on 2/13 or 2/14, and could comp the
 Decided on using Ferrari Palm Beach.  
 
 # 2/14/2023
-Dropped off car at Ferrari Palm Beach. $340/hr for labor. Ouch. They will also install the new fuel pumps (my left one was leaking)
+Dropped off car at Ferrari Palm Beach. $340/hr for labor. They will also install the new fuel pumps (my left one was leaking)
 
 # 2/17/2023
-Ferrari Palm Beach said they will have an update for me next week. 
+Ferrari Palm Beach said they will have an update for me next week and that the timing job was done incorrectly. 
 
 # 3/1/2023
-Ferrari Palm Beach said my car is ready and timing is fixed - they said the previous shop had either not replaced the timing belts or put in used parts. Total is $5228 to fix the work that Vlad's did incorrectly and to install the new fuel pumps. 
-State Farm said that since my car is "high mileage" at 29k, it is only worth $80k for insurance agreed value. 
+Ferrari Palm Beach said my car is ready and timing is fixed - they said the previous shop had either not replaced the timing belts or put in used parts. The previous shop had the timing 6 degress off. Total is $5228 to fix the work that Vlad's did incorrectly and to install the new fuel pumps. 
+State Farm said that since my car is "high mileage" at 29k, it is only worth $80k for insurance agreed value, even after they said it was worth $100k previously.  
 
 # 3/4/2023
-Picked up the car from Ferrari Palm Beach. Drove it 200 miles in the next few days, it drove perfect, no check engine lights. They said the timing was off by 6 degrees and the belts were old. 
+Picked up the car from Ferrari Palm Beach. Drove it 200 miles in the next few days, it drove perfect, no check engine lights. 
 Noticed the air conditioner doesn't blow cold. 
-Started a chargeback through Chase for $3800 for the timing issues and transmission issues. 
+Started a chargeback through Chase for $3800 for the timing issues and transmission hours doubling without being informed, which is illegal in Florida. . 
 
 # 3/28/2023
-The top that Vlad had "fixed" stopped working completely. Won't go up or down and is stuck in the middle. I ended up partially fixing it myself, but this is definitely an issue that Vlad's caused by rebuilding a hydrauilic incorrectly. The hydraulic behind the passenger headrest is shooting fluid. 
+The top that Vlad had "fixed" stopped working completely. Won't go up or down and is stuck in the middle. I ended up partially fixing it myself, but this is an issue that Vlad's Autobahn caused by rebuilding a hydrauilic incorrectly. The hydraulic behind the passenger headrest is shooting fluid. 
 
 # 4/28/2023
-Chase approves my first charge back on the transmission/timing/timing belt issues. Still need to open a 2nd charge back for the convertible top work. 
+Chase approves my first charge back on the transmission/timing/timing belt issues.
