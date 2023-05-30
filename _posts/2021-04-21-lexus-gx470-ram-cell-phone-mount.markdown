@@ -19,7 +19,7 @@ Parts Used:
 * [1x RAM Ball](https://amzn.to/2QOqKrb)
 * [1x M6-1.0x70mm bolts](https://amzn.to/3tGfCvg)
 * [1x RAM Composite Double Socket Swivel and Ratchet Arm](https://amzn.to/2RPMOlT)
-* [1x RAM X-Grip Phnoe Holder](https://amzn.to/3dF32a8)
+* [1x RAM X-Grip Phone Holder](https://amzn.to/3dF32a8)
 * Random rubber spacer from my toolbox
 
 You can get some of these parts cheaper than Amazon, like the bolts at Home Depot or Lowes.
