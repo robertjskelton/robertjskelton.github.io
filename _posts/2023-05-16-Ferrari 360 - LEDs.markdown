@@ -5,7 +5,7 @@ date:   2023-05-16 10:00:14 -0400
 categories: cars
 ---
 
-So I've had my Ferrari 360 Spider a while now, and the first mod is always new LEDs. I replcaed the dome, license plate, and frunk bulbs on my 2001 360 Spider with LEDs, here's how. 
+So I've had my Ferrari 360 Spider a while now, and the first mod is always new LEDs. I replaced the dome, license plate, and frunk bulbs on my 2001 360 Spider with LEDs, here's how. 
 
 ![LED](/images/360-led/1.jpg)
 
