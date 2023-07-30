@@ -37,7 +37,7 @@ The shed was delivered where I asked (as close to the site as possible). It came
 
 The second box contained the rest of the shed, and it looked very small, but it had all of the parts in it! 
 
-![Shed](/images/shed/roof.jpg)
+![Shed](/images/shed/roof.jpeg)
 
 One difficult instruction for us was putting up the triangle eave wall, above the front and rear walls. The instructions aren't very clear, but you are supposed to put the top eave triangle plywood OVER the bottom plywood, as opposed to putting them flush. 
 
@@ -57,7 +57,7 @@ We put up all of the walls in 1 day, which looked like we were almost done, but 
 
 Putting up the rafters/roof was the next day. 
 
-![Shed](/images/shed/roof2.jpg)
+![Shed](/images/shed/roof2.jpeg)
 
 Doing the roof felt and drip edge, and other trim and eaves work was the 3rd day. 
 
