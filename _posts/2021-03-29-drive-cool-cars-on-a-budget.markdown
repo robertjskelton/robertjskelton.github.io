@@ -13,7 +13,7 @@ The list that follows is all of the cars I’ve owned, how much I paid and sold 
 
 My first 3 cars I owned in high school, so my parents helped me out by paying for gas, insurance, and registration. Most of my cars have been RWD sports cars that were manual, but a few SUVs and other vehicles too. I've had great experiences with the American and Japanese cars I've owned, an OK experience with the Italian Fiat, and terrible experiences with both Germans, so ~~I'll likely never buy another German car~~ I bought another German car.
 
-Then I went through a phase of 3 red manual Japanese convertibles.
+Then I went through a phase of 3 red manual Japanese convertibles. 
 
 ----
 ### 1. 1993 Ford Mustang LX
@@ -263,15 +263,21 @@ Update: I did it.
 ### 16. 2001 Ferrari 360 Spider
 * Bought: 29,000 miles
 * Sold: No
-* MPG: lol
-* Insurance: $145/mo for full coverage
+* MPG: 10? Premium? it's bad
+* Insurance: $45/mo for agreed value coverage
 * Engine: 3.6L 8-cyl, 400HP
 * Oil Changes: $740 for full synthetic at Ferrari dealer. Never again. 
-* Taxes/Registration: lol
+* Taxes/Registration: too much
 
 ![360](/images/cars/360.jpg)
 
-I bought my dream car. 
+I bought my dream car. I'm writing this a year later. It is the most expensive, least reliable, most attention getting car I've ever owned. It's my dream car. It's amazing and I love it and hate it at the same time. 
+
+All the parts are expensive. I spent $40k getting it running at a [shady mechanic in town](https://rskelton.com/ferrari-360-repair-at-vlads-autobahn/). I love driving it so much, but it's so expensive and half the stuff doesn't even work still. But I don't plan on selling it. 
+
+I did finance my Ferrari through Lightstream, and [this is a referral link](https://refer.lightstream.com/iv52k). I'd highly recommend them if you need a car loan and need it quick, and the rates were competitive. They deposited the money for the car in just a day, and you can pay it off on your own terms (faster, not slower).  
+
+I initially tried to get a car loan with [DCU](https://www.dcu.org/), which ended up wanting me to pay for an appraisal and send the car to them for 2 weeks, before I even bought it. Not a fan of DCU. They even made me open a bank account just to apply for the car loan. 
 
 ----
 
