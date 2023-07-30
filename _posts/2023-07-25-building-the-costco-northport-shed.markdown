@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Building the Costo Nortport Shed"
+title:  "Building the Costo Northport Shed"
 date:   2023-07-25 10:00:14 -0400
 categories: renovations
 ---
 
 ![Shed](/images/shed/5.jpg)
 
-My dad and I built the [Costco Nortport](https://www.costco.com/northport-wood-storage-shed---do-it-yourself-assembly.product.4000051398.html) shed over a long weekend, here's how we did it, how much it costs, and some other details. 
+My dad and I built the [Costco Northport](https://www.costco.com/northport-wood-storage-shed---do-it-yourself-assembly.product.4000051398.html) shed over a long weekend, here's how we did it, how much it costs, and some other details. 
 
 [Full Google Photos Album](https://photos.app.goo.gl/Qv9BwJ5rraUtgQgA6)
 
@@ -15,11 +15,15 @@ My dad and I built the [Costco Nortport](https://www.costco.com/northport-wood-s
 This shed normally costs $2,600 + tax, I got it on sale for $2,000 + tax, plus 5% back on whatever credit card I used, which was 5% back on wholesale clubs. 
 
 I had to build a shed pad, which I did used 2 4x4x12 and 2 4x4x16, to make a 12x16 pad. I then put 2' rebar through the 4x4s every few feet, and then filled the boards with 2 yards of crushed rock. 
+
 Rebar: $100
+
 4x4s: $100
+
 Rocks delivered: $250
 
 I then made a base from 4 more 4x4x8 to fit under the shed, and all of the wood I've mentioned so far has been pressure treated. 
+
 More 4x4s: $100
 
 Since this shed is under 100sqft and built on skids (4x4s) I did not need a permit, but I built this shed even stronger than the manufacturer recommends, because I want it to last a long time. 
@@ -29,7 +33,11 @@ Since this shed is under 100sqft and built on skids (4x4s) I did not need a perm
 
 The shed was delivered where I asked (as close to the site as possible). It came in 2 boxes, the first was for the base, and it was on top, so that was nice. I built the shed base myself, and the instructions say to use the shed base for the rest of the build as your work platform. 
 
+![Shed](/images/shed/base.jpeg)
+
 The second box contained the rest of the shed, and it looked very small, but it had all of the parts in it! 
+
+![Shed](/images/shed/roof.jpg)
 
 One difficult instruction for us was putting up the triangle eave wall, above the front and rear walls. The instructions aren't very clear, but you are supposed to put the top eave triangle plywood OVER the bottom plywood, as opposed to putting them flush. 
 
@@ -49,6 +57,8 @@ We put up all of the walls in 1 day, which looked like we were almost done, but 
 
 Putting up the rafters/roof was the next day. 
 
+![Shed](/images/shed/roof2.jpg)
+
 Doing the roof felt and drip edge, and other trim and eaves work was the 3rd day. 
 
 The doors and windows were the 4th and final day with my dad. 
@@ -59,11 +69,15 @@ I did the shingles, inside workbench, caulk on a few subsequent days.
 
 A few weeks later, I painted it. I'd highly recommend painting the trim first, as most of the edges of the trim are un-primed MDF, which is hard to apply paint to. So do the trim, I did white, then do your main color. It took almost 1 gallon of white and 1 gallon of the main color, and I used some leftover for the door insert color. The guide recommends 2 gallons of the main color and 2 quarts for the trim color, I found that was not accurate for me. 
 
+For paint colors, I used the matching main and trim colors for our house, which are Valspar Ocean Storm as the dark color, and  Valspar Gravity as the light grey for the door inserts. It looks weirdly similar to the example shed Costco has on their website!
+
+![Shed](/images/shed/costco.jpg)
+
 # Costs to Finish
 ## Modifications:
 * We put in rafter blocking for all rafters, so a few 2x4s
 * Liquid nails on all plywood before nailing to the 2x4s
-* [Solar Shed Light](https://amzn.to/3rnp6iP)
+* [Solar Shed Light](https://amzn.to/3rnp6iP) - $30 (I would get one with 2 separate lights, one for the front and one for the rear of the shed)
 * [Peg Board Hooks](https://amzn.to/44xm7T4) - $20
 
 ## Parts not included:

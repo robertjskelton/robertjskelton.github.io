@@ -16,5 +16,7 @@ This is a post for my own knowledge, to keep track of what colors I've painted w
 * Floors - Style Selections Vinyl Plank - Slate Oak
 
 * Interior - Valspar Signature Eggshell Interior - Ultra White
+
 or 
+
 * Behr - Interior Eggshell Enamel - Ultra Pure White 
