@@ -13,6 +13,8 @@ Parts:
 * [Dome Light x1, 194](https://amzn.to/3o8yq8P)
 * [Frunk Light: 36mm festoon, thin x1](https://amzn.to/450UJOs)
 * [License Plate Lights: 36mm festoon x2](https://amzn.to/450UJOs)
+* [Marker Lights x2, 194](https://amzn.to/47mv8R8)
+* [High Beams LEDs x2, 9005](https://amzn.to/3o8yq8P)
 
 To replace the old bulbs on your Ferrari 360, buy the above parts. You'll also want a [plastic trim tool](https://amzn.to/41NBftE) to not scratch anything. 
 
@@ -42,5 +44,9 @@ For the frunk, same thing, just pop the old light out with a trim tool, new 36mm
 ![LED](/images/360-led/7.jpg)
 
 There is also a light in the glove box, but my glove box is zip tied shut for now. It's probably another 194 or 36mm festoon though. 
+
+![LED](/images/360-led/new.jpeg)
+
+Later, I replaced my high beams and marker lights. To replace these lights that are within the headlight, you have to remove the wheel and the headlight rear cover, which uses a 7 or 8mm socket. The high beams are a [9005 size bulb](https://amzn.to/47mv8R8), and the marker lights are [size 194](https://amzn.to/3o8yq8P) LEDs. 
 
 And there's a quick and easy way to make your Ferrari 360 brighter. 
