@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "EZGO TXT Golf Cart - Safety Grab Bar and Triangle Install"
+title:  "E-Z-GO TXT Golf Cart - Safety Grab Bar and Triangle Install"
 date:   2023-08-27 10:00:14 -0400
 categories: cars
 ---
 
 ![Golf Cart](/images/golfcart/5.jpg)
 
-We bought a 2015 EZGO TXT golf cart, and it didn't come with a safety grab bar, or low speed vehicle triangle. 
+We purchased a 2015 E-Z-GO TXT golf cart, and it didn't come with a safety grab bar, or low speed vehicle triangle. I wanted to install them to drive legally and for safety of the rear passengers.  
 
 ![Golf Cart](/images/golfcart/1.jpg)
 
@@ -19,7 +19,7 @@ The grab bar I installed didn't come with instructions, but basically assemble i
 
 ![Golf Cart](/images/golfcart/2.jpg)
 
-For the triangle, I drilled holes in the rear of the triangle around the grab bar metal, then zip tied it on. 
+For the triangle, I drilled holes in the rear of the triangle around the grab bar metal, then zip tied it on. I clipped the ties afterwards. 
 
 ![Golf Cart](/images/golfcart/3.jpg)
 ![Golf Cart](/images/golfcart/4.jpg)
