@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Suzuki Cappuccino - Storage Net"
-date:   2023-09-25 10:00:14 -0400
+date:   2023-09-25 8:00:14 -0400
 categories: cars
 ---
 
@@ -14,6 +14,6 @@ The Cappo has almost no storage in it, but the area behind the seats has a cut o
 ![Net](/images/net/1.jpg)
 ![Net](/images/net/2.jpg)
 
-Install was very easy. Take the tops off, push the rear window back, to maximize your working space. Use 4 [plastic car clips](https://amzn.to/3t2f33j) to secure it if you dont want to use self tapping screws and washers. I drilled a hole in the plastic for one side at the top, mounted a clip, then did the same for the other side at the top, mounted it. Then did the final bottom 2 holes. Very secure, and can hold some stuff. 
+Install was very easy. Take the tops off, push the rear window back, to maximize your working space. Use 4 [plastic car clips](https://amzn.to/3t2f33j) to secure it if you dont want to use self tapping screws and washers. I drilled a hole in the plastic for one side at the top, mounted a clip, then did the same for the other side at the top, mounted it. Then did the final bottom 2 holes. Very secure, and can hold some stuff.
 
 ![Net](/images/net/3.jpg)
