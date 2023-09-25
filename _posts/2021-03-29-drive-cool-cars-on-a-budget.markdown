@@ -263,7 +263,7 @@ Update: I did it.
 ### 16. 2001 Ferrari 360 Spider
 * Bought: 29,000 miles
 * Sold: No
-* MPG: 10? Premium? it's bad
+* MPG: 10-12 on Premium, it's bad
 * Insurance: $45/mo for agreed value coverage
 * Engine: 3.6L 8-cyl, 400HP
 * Oil Changes: $740 for full synthetic at Ferrari dealer. Never again. 
@@ -278,6 +278,21 @@ All the parts are expensive. I spent $40k getting it running at a [shady mechani
 I did finance my Ferrari through Lightstream, and [this is a referral link](https://refer.lightstream.com/iv52k). I'd highly recommend them if you need a car loan and need it quick, and the rates were competitive. They deposited the money for the car in just a day, and you can pay it off on your own terms (faster, not slower).  
 
 I initially tried to get a car loan with [DCU](https://www.dcu.org/), which ended up wanting me to pay for an appraisal and send the car to them for 2 weeks, before I even bought it. Not a fan of DCU. They even made me open a bank account just to apply for the car loan. 
+
+
+----
+### 17. 1992 Suzuki Cappuccino
+* Bought: $6,200 / 33,000 km
+* Sold: No
+* MPG: 50ish on premium. 5 gallon tank
+* Insurance: $50/mo
+* Engine: .6L Turbo, 63HP
+* Oil Changes: Cheap - 3L and a filter. 
+* Taxes/Registration: $500ish - tag was cheap because it is antique
+
+![Net](/images/net/4.jpg)
+
+I bought Kyle's Cappuccino. It's the only car I've ever bought 2 of the exact same style of car. 
 
 ----
 
