@@ -35,3 +35,4 @@ I am getting into the habit of installing car parts before I even get the delive
 Once you have the new pump and gasket on there, re-install as before and tighten down the 2 Phillips screws, then use a funnel and add your favorire [washer fluid](https://amzn.to/45DgXoY). Done!
 
 ![Washer](/images/washer/11.jpg)
+![Washer](/images/washer/12.jpg)
