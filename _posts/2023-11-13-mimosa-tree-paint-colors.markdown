@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mimosa Tree Massage Paint Colors"
-date:   2023-05-07 8:05:14 -0400
+date:   2023-11-13 8:05:14 -0400
 categories: renovations
 ---
 
@@ -11,6 +11,10 @@ This is a post for my own knowledge, to keep track of what colors I've painted w
 
 * Green Accent wall in Room A - Billiard green. 0016 satin architectural latex Sherwin Williams 
 
-* Black Accent wall in Bathroom - 
+* Black Accent wall in Bathroom - Tricorn Black, HGSW6258, Interior Showcase Satin
 
-* White accent wall in Bathroom - 
+* White accent wall in Bathroom - Ibis White Interior Showcase Satin, HGSW7000
+
+* Tile - Crema Beige Polished Porcelain
+
+* Floors - Flax Oak from Lowes
