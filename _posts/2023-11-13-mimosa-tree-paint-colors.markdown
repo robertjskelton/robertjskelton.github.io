@@ -5,7 +5,7 @@ date:   2023-11-13 8:05:14 -0400
 categories: renovations
 ---
 
-This is a post for my own knowledge, to keep track of what colors I've painted what rooms in the [Mimosa Tree Massage](mimosatreemassage.com) spaffice.
+This is a post for my own knowledge, to keep track of what colors I've painted what rooms in the [Mimosa Tree Massage](www.mimosatreemassage.com) spaffice.
 
 * Most Interior Walls - Alabaster. Sherwin Williams showcase interior satin. Alabaster. Interior Ultra white base. 
 
