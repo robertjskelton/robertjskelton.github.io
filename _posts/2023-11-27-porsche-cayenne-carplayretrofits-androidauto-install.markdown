@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Porsche Cayenne - CarPlayRetrofits Android Auto/Carplay Install"
+title:  "Porsche Cayenne (958) - CarPlayRetrofits Android Auto/Carplay Install"
 date:   2023-11-28 8:05:14 -0400
 categories: cars
 ---
@@ -8,7 +8,7 @@ categories: cars
 ![AA](/images/aa/10.jpeg)
 ![AA](/images/aa/7.jpg)
 
-I bought the [carplayretrofits.com Android Auto/Carplay head unit upgrade](https://carplayretrofits.com/products/carplay-andrioid-auto-plug-and-play-kit-for-porsche-pcm-3-1) for $480, this is how the install/support went. 
+I bought the [carplayretrofits.com Android Auto/Carplay head unit upgrade](https://carplayretrofits.com/products/carplay-andrioid-auto-plug-and-play-kit-for-porsche-pcm-3-1) for $480, this is how the install/support went in my 2014 Porsche Cayenne Diesel. 
 
 After the product arrived, I read the install instructions. Apparently this unit sold by carplayretrofits.com is actually a [Isudar board](https://amzn.to/3GnR6H6), which are known for being slow and buggy, but the seller claims they are modified with a different chipset, ram, ram controller, audio controller and custom firmware. If I had known this was an Isudar board with a 200% markup, I would not have bought it. These can be bought cheaply from Amazon and Ali Express. 
 
@@ -30,11 +30,11 @@ Once you are ready to go back to the car, this is a instruction that is complete
 ![AA](/images/aa/6.jpg)
 ![AA](/images/aa/5.jpg)
 
-Once installed, you need to select the AUX input on your stereo. This is something than can only be enabled by a dealer or a person with the PIWIS Porsche scan tool, which is also not something indicated by the seller. The local dealer quoted $300 to enable the AUX input, and the carplayretrofits.com owner said he would mail me his PIWIS for a $1,200 deposit with $1,050 being refundable. I ended up borrowing an [Autel Maxisys MS906BT](https://amzn.to/3QTdxsI) from a friend, which let me enable the aux input and a few other fun settings, but it took a while to find.
+Once installed, you need to select the AUX input on your stereo. This is something than can only be enabled by a dealer or a person with the PIWIS Porsche scan tool, which is also not something indicated by the seller. The local dealer quoted $300 to enable the AUX input, and the carplayretrofits.com owner said he would mail me his PIWIS for a $1,200 deposit with $1,050 being refundable. I ended up borrowing an [Autel Maxisys MS906BT](https://amzn.to/3QTdxsI) from a friend, which let me enable the aux input and a few other fun settings, but it took a while to find. [I have a full blog post on that here.](https://rskelton.com/porsche-cayenne-autel-code-writing/)
 
 ![AA](/images/aa/8.jpeg)
 
-So I was able to get Android Auto and CarPlay to launch, however I could not get sound except through the stock radio or CD player until I used the Autel code writer function. I found a workaround before I got aux enabled, which was to use the Aux Bluetooth input. This meant my phone was connecting to PCM as a BT device, and to Android Auto as a BT device. So 2 BT connections, and it DRAINED my phones battery. Also the way to launch the custom interface is pretty slow - you have to hold the INFO button for 3 seconds, and it's just generally slow. 
+So I was able to get Android Auto and CarPlay to launch, however I could not get sound except through the stock radio or CD player until I used the [Autel code writer function](https://rskelton.com/porsche-cayenne-autel-code-writing/). I found a workaround before I got aux enabled, which was to use the Aux Bluetooth input. This meant my phone was connecting to PCM as a BT device, and to Android Auto as a BT device. So 2 BT connections, and it DRAINED my phones battery. Also the way to launch the custom interface is pretty slow - you have to hold the INFO button for 3 seconds, and it's just generally slow. 
 
 Eventually, when I got the Aux input enabled, it was much quicker and less of a drain on my phones battery and resources. It also launches pretty quick and goes directly to Android Auto on start. So overall, I'd recommend a CarPlay/Android Auto upgrade, but would not buy from [carplayretrofits.com](https://carplayretrofits.com/products/carplay-andrioid-auto-plug-and-play-kit-for-porsche-pcm-3-1). I would probably consider the [Mr 12 Volt option](https://www.mr12volt.com/collections/porsche/products/p2000-pcm31mm), which doesn't use the Aux setup at all to do audio, which is the better option if you don't have access to a high end code writer for a car. 
 
