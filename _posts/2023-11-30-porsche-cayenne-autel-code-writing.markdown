@@ -30,6 +30,7 @@ But you're not done there for the boost gauge - you need to set the scale correc
 However, most people aren't familiar with Bar as the units for boost, we like PSI. So let's get that selectable. To do that, under Instrument Cluster / All / Bordcomputer Menukonfiguration, I enabled the followed 4 items. 1 of them allowed Boost pressure to be changed from Bar to PSI in your Instrument cluster settings in your car (not from the computer.) I'm not sure what the rest enabled, but it seemed to add a "Aux heater" option to my instrument panel. 
 
 ![Coding](/images/coding/16.jpg)
+![Coding](/images/coding/18.jpg)
 
 # Aux Input
 For your Aux to be enabled, that is under the setting for PCM/CDR / All / Auxliary (yeah it is not spelled correctly, German). Select Auxliary, then Activated, then Write. 
