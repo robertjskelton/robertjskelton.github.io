@@ -17,7 +17,7 @@ To start, plug the OBD2 scanner in, turn on the Autel tablet, then go to Program
 
 ![Coding](/images/coding/11.jpg)
 ![Coding](/images/coding/12.jpg)
-
+ # Boost Gauge 
 First, I enabled a Turbo/boost gauge on the car computer, this is a hidden setting not available on the Cayenne Diesel. To get to this section, go to Instrument cluster / All / On Board Computer display configuration factory setting. This menu, and most menus, are mostly in German, but you will see where there are some settings numbered 1, 2, 3, 4. That is on your Vehicle display on your dash - those 4 lines correspond to each numbered setting. I set line 4 as "Boost Pressure", which is your turbo. 
 
 ![Coding](/images/coding/7.jpg)
@@ -27,7 +27,12 @@ But you're not done there for the boost gauge - you need to set the scale correc
 ![Coding](/images/coding/2.jpg)
 ![Coding](/images/coding/1.jpg)
 
-For your Aux to be enabled, that is under the setting for PCM/CDR / Auxliary (yeah it is not spelled correctly, German). Select Auxliary, then Activated, then Write. 
+However, most people aren't familiar with Bar as the units for boost, we like PSI. So let's get that selectable. To do that, under Instrument Cluster / All / Bordcomputer Menukonfiguration, I enabled the followed 4 items. 1 of them allowed Boost pressure to be changed from Bar to PSI in your Instrument cluster settings in your car (not from the computer.) I'm not sure what the rest enabled, but it seemed to add a "Aux heater" option to my instrument panel. 
+
+![Coding](/images/coding/16.jpg)
+
+# Aux Input
+For your Aux to be enabled, that is under the setting for PCM/CDR / All / Auxliary (yeah it is not spelled correctly, German). Select Auxliary, then Activated, then Write. 
 
 ![Coding](/images/coding/4.jpg)
 ![Coding](/images/coding/5.jpg)
@@ -36,10 +41,18 @@ I enabled the Phone section of my PCM here, as it was not enabled on my headunit
 
 ![Coding](/images/coding/6.jpg)
 
+# Auto fold Mirrors
+I'd also recommend enabling the Auto fold mirrors option, which is changable later in your car without a computer. This can be done in PCM/CDR / All / Additional equipment / Automatic folding mirror function.
+
+![Coding](/images/coding/15.jpg)
+![Coding](/images/coding/17.jpg)
+
+# Seat Belt Chimes
 I also disabled the seat belt chimes, under Instrument cluster / All / Coding Value. I always wear my seat belt, but this Cayenne seems to beep at me when sitting in the car with my seat belt on, it got annoying. I changed the 3 lines shown below.  
 
 ![Coding](/images/coding/9.jpg)
 
+# Splash Screen
 I even changed the splash screen for the dash From "Cayenne" to "Cayenne Diesel", also under Instrument cluster / All / Coding Value.
 
 ![Coding](/images/coding/13.jpg)
