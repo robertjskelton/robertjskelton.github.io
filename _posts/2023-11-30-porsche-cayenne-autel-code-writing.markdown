@@ -17,7 +17,9 @@ To start, plug the OBD2 scanner in, turn on the Autel tablet, then go to Program
 
 ![Coding](/images/coding/11.jpg)
 ![Coding](/images/coding/12.jpg)
- # Boost Gauge 
+
+# Boost Gauge 
+
 First, I enabled a Turbo/boost gauge on the car computer, this is a hidden setting not available on the Cayenne Diesel. To get to this section, go to Instrument cluster / All / On Board Computer display configuration factory setting. This menu, and most menus, are mostly in German, but you will see where there are some settings numbered 1, 2, 3, 4. That is on your Vehicle display on your dash - those 4 lines correspond to each numbered setting. I set line 4 as "Boost Pressure", which is your turbo. 
 
 ![Coding](/images/coding/7.jpg)
