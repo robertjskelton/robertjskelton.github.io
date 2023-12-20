@@ -5,6 +5,8 @@ date:   2018-04-03 14:05:14 -0400
 categories: cars
 ---
 
+Update: Don't Use Turo - [here's my horror story that happened a few months later](https://rskelton.com/My-Turo-Claim-Horror-Story/). 
+
 I recently purchased a 2016 [Corvette](https://turo.com/rentals/cars/fl/palm-bay/chevrolet-corvette/381353?s=-UnccSTA), a very nice, pretty expensive car. To help go towards the monthly payments, I listed the Corvette for rent on [Turo](https://turo.com/c/roberts974), a site where other people can rent your car with insurance. [Turo](https://turo.com/c/roberts974) is sort of like a AirBNB for cars.
 
 ![Corvette](/images/turo/vette.jpg)

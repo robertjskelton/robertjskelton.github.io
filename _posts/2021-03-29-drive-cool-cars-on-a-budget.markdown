@@ -144,7 +144,7 @@ Since my Vette was CPO, I never paid for oil changes on it. I owned it for almos
 ----
 ### 9. 2007 Lexus GX470
 * Bought: $10,000 / 145,000 miles
-* Sold: Not yet, and not planning on selling
+* Sold: $10,500 / 193,000 miles
 * MPG: 15/19, premium gas
 * Insurance: $60/mo for excellent coverage
 * Engine: 4.7L 8-cylinder, 270HP
@@ -160,6 +160,8 @@ I was originally going to buy a 2003 GX470 in Pennsylvania for $5,000, but it ha
 I was planning to go look at it, so I scheduled and appointment with this local car dealer for the next day. They called me that day and said the car had already sold, pending financing. Oh well.
 
 They called me back another day later and said financing fell through, so I went down that day and bought it, putting almost $7k of the purchase on a Capital One Venture card to get a signing bonus! This car was nearly perfect, super low miles for the model, recent maintenance on the timing belt and water pump, new battery, tires, brakes - it needs nothing. I got this car for below market (the car would've sold the next day if I didn't buy it), and I plan on driving it until it dies. This is a car that needs very little maintenance since it's a Toyota, it'll run 3,4,500k miles, and I'm already loving it.
+
+Update: Owned this for 5 years and about 50k miles, had very few issues and learned a lot while working on this car. 
 
 If you check the [cars category](https://rskelton.com/category/cars/) of my website, I detail many of the mods I've been doing on my GX, I really love this car.
 
@@ -261,7 +263,7 @@ Update: I did it.
 
 ----
 ### 16. 2001 Ferrari 360 Spider
-* Bought: 29,000 miles
+* Bought: Too much/ 29,000 miles
 * Sold: No
 * MPG: 10-12 on Premium, it's bad
 * Insurance: $45/mo for agreed value coverage
@@ -279,8 +281,8 @@ I did finance my Ferrari through Lightstream, and [this is a referral link](http
 
 I initially tried to get a car loan with [DCU](https://www.dcu.org/), which ended up wanting me to pay for an appraisal and send the car to them for 2 weeks, before I even bought it. Not a fan of DCU. They even made me open a bank account just to apply for the car loan. 
 
-
 ----
+
 ### 17. 1992 Suzuki Cappuccino
 * Bought: $6,200 / 33,000 km
 * Sold: No
@@ -293,6 +295,21 @@ I initially tried to get a car loan with [DCU](https://www.dcu.org/), which ende
 ![Net](/images/net/4.jpg)
 
 I bought Kyle's Cappuccino. It's the only car I've ever bought 2 of the exact same style of car. 
+
+----
+
+### 18. 2014 Porsche Cayenne Diesel
+* Bought: $13,500 / 167,000 mi
+* Sold: No
+* MPG: 37mpg Diesel
+* Insurance: $60/mo
+* Engine: 3.0L Turbo Diesel 6 cylinder
+* Oil Changes: $80 DIY
+* Taxes/Registration: $1,000
+
+![Net](/images/cars/cayenne.jpeg)
+
+I bought a 7 year newer car to replace the GX470 we owned for 5 years. 
 
 ----
 
