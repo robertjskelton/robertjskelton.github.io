@@ -32,10 +32,11 @@ This is a good opportunity to clean these up, as the typical Ferrari sticky butt
 
 ![Backlight](/images/backlight/3.jpg)
 
-Next, drop the steering column by removing 2 nearly hidden and impossible to get to 8mm bolts. Remove the closer bolt, and just loosen the further one, this will let your steering column drop a bit. These are located on the left of your steering column. 
+Next, drop the steering column by removing 2 nearly hidden and impossible to get to 8mm bolts. Remove the closer bolt, and just loosen the further one, this will let your steering column drop a bit. These are located on the left of your steering column. This was the most difficult part of the entire project for me.  
 
 ![Backlight](/images/backlight/6.jpg)
 
+There are 4x 3mm Allen key screws to remove on the front of the cluster. 
 Put a towel over your steering column to avoid scratching the gauges, then you can finally remove the gauge cluster. 
 
 ![Backlight](/images/backlight/5.jpg)
@@ -51,7 +52,7 @@ Remove the aluminum part with 4 silver screws. Then you can remove the aluminum 
 ![Backlight](/images/backlight/7.jpg)
 ![Backlight](/images/backlight/8.jpg)
 
-Under that is 6 black screws to remove the black gauge surround. 
+Under that is 6 black screws to remove the black gauge surround. The clear covers over the gauges will probably separate, but it's easy to find which goes over which gauge. I'd clean both sides of these while they are out of the car. 
 
 ![Backlight](/images/backlight/9.jpg)
 
