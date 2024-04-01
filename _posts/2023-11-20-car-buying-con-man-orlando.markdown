@@ -23,7 +23,7 @@ I let him take my license plate home when he took the GX home by himself, and he
 
 Thomas Robson goes radio silent for a long time, eventually comes back pointing out more stuff wrong with my car. Keep in mind this is a used 16 year old car with 193k miles, and he has also owned the car for 24 hours, and given how he test drove my car (taking turns like a race car, weaving, no seat belt, speeding 20MPH over the speed limit beachside), any damage that has occured is likely his fault. He claims he is keeping my plate until I pay him to diagnose and fix these issues. I called him multiple times asking him to bring my license plate back, since I needed it to go on my next car. He declined all of my calls, and replies that he will need to text only from now on for legal means. 
 
-I believe this is part of Thomas Robson's con - extorting private car sales by keeping license plates. He has a stack of stolen plates at his apartment in Orlando. Since my plate had been stolen, I filed a police report with Indian Harbour Beach, and the plate was noted by the state of Florida as being stolen. I do have Thomas Robson's address (email me if you need it), and I even considered driving up to his apartment in Orlando to take my plate back. I talked to the Orange County Sheriffs Office, and they indicated they would meet me at Thomas Robson's apartment in order to faciliate getting my plate back, but I didn't think it was worth the gas money.
+I believe this is part of Thomas Robson's con - extorting private car sales by keeping license plates. He has a stack of stolen plates at his apartment in Orlando. Since my plate had been stolen, I filed a police report with Indian Harbour Beach (CR 2023-00014273), and the plate was noted by the state of Florida as being stolen. I do have Thomas Robson's address (email me if you need it), and I even considered driving up to his apartment in Orlando to take my plate back. I talked to the Orange County Sheriffs Office, and they indicated they would meet me at Thomas Robson's apartment in order to faciliate getting my plate back, but I didn't think it was worth the gas money.
 
 In short - be careful of who you deal with, and don't let car buyers keep your license plate in Florida. This guy had enough red flags to sail a cruise ship, and in hindsight I should have not sold my GX to him. He is not deserving of a car that nice. And the saddest part is not that I had to get police involved, or that he ruined half of my Saturday. The worst part for me is that the GX470 that I spent 5 years building, driving, and creating memories with my family is now with a terrible person as an owner. I can only help he will re-sell to someone who will treat it right. 
 
@@ -32,4 +32,7 @@ Thomas Robson has been using my stolen license plate to sell cars and drive cars
 
 ![GX](/images/gxsale/15.jpeg)
 ![GX](/images/gxsale/robson.jpeg)
+
+# Update - 4/1/2024 
+He's still using my plate and I'm still getting Sunpass invoices about him. Spent an hour on the phone about it. I really regret selling my vehicle to this sad excuse for a human being. 
 
