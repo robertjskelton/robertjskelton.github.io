@@ -22,7 +22,7 @@ First, get your front wheels raised so that the front undertray can be removed. 
 
 ![Coolant](/images/coolant/1.jpg)
 
-Then remove the front undertray. This was 7 or so 8mm screws, then 10x 10mm bolts. Slide that out. Remember where each screw goes. The black ones go on the front, the smallest 2 ones attach to the middle undertray, the 4 with the multiple washer sit on the outside near the tires, and the final 4 are somewhere in the middle. 
+Then remove the front undertray. This involved removing 6x 8mm screws, then 10x 10mm bolts. Slide that out. Remember where each screw goes. The black ones go on the front, the smallest 2 ones attach to the middle undertray, the 4 with the multiple washer sit on the outside near the tires, and the final 4 are somewhere in the middle. 
 
 ![Coolant](/images/coolant/2.jpg)
 ![Coolant](/images/coolant/11.jpg)
@@ -41,13 +41,14 @@ Next step is to drain the radiators. There is a drain cap for each radiator, rem
 
 Remove the coolant cap on the overflow tank in the engine bay. Blow some compressor air down there using one of the attachments from the Airvac tool and your air compressor. This will clear out much more of the coolant lines. 
 
+![Coolant](/images/coolant/14.jpg)
+
 Seal your radiators back up by re-installing the drain caps. Attach the Airvac tool to the coolant overflow tank. Tighten it in.
 
 ![Coolant](/images/coolant/9.jpg)
 
 Attach your air compressor to the tool and draw a vacuum (instructions vary based on your tool). Let it hold a vacuum for a few minutes to confirm there is no leaks in your system. 
 
-![Coolant](/images/coolant/14.jpg)
 ![Coolant](/images/coolant/10.jpg)
 
 Combine your distilled water and G48 coolant in the 5 gallon bucket. 
@@ -58,7 +59,9 @@ Put the drawing hose from the Airvac into the bottom of the bucket. Open the val
 
 ![Coolant](/images/coolant/13.jpg)
 
-I used a turkey baster to remove a bit of the coolant, then re-installed the coolant cap. If your coolant cap is over a year old, you might consider [replacing it now](https://www.ricambiamerica.com/radiator-tank-cap.html), they're cheap and a consumable part on the Ferrari 360. 
+I used a turkey baster to remove a bit of the coolant, then re-installed the coolant cap. It is still filled very high, so it will overflow some as you break it in. 
+
+If your coolant cap is over a year old, you might consider [replacing it now](https://www.ricambiamerica.com/radiator-tank-cap.html), they're cheap and a consumable part on the Ferrari 360. 
 
 Finally, re-install the front undertray, lower your car off the ramps, and enjoy driving!
 
