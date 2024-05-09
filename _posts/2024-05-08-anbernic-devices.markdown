@@ -14,10 +14,10 @@ This is a different type of post for my blog, but I've got really into these por
 There are many other brands making portable gaming handhelds now, such as Miyoo, Anbernic, Retroid, Powkiddy, and GKD. If you really want to go down a rabbithole, check out the [related subreddit](https://www.reddit.com/r/SBCGaming/). 
 
 # Costs
-The costs on these devices are very affordable, and Aliexpress is often the cheapest place to buy then. Shipping will take a few weeks. You can buy them off Amazon in the US, but will pay more. They often show up as sales on Slickdeals too. 
+The costs on these devices are very affordable, and Aliexpress is often the cheapest place to buy then. Shipping will take a few weeks. You can buy them off Amazon in the US, but will pay a bit more. They often show up as sales on Slickdeals too. 
 
-* [RG35XX](https://www.aliexpress.us/item/3256806417284973.html?pdp_npi=4%40dis%21USD%21US%20%24177.19%21US%20%2447.32%21%21%211273.86%21340.25%21%402101d69b17151775055571084e1f17%2112000037794779151%21sh%21US%214261812895%21&spm=a2g0o.store_pc_aeChoiceSimplified.allitems_choice_2004641054488.1005006603599725&gatewayAdapt=glo2usa) - I paid $60, but can now be found as low as $20
-* [RG35XXH](https://www.aliexpress.us/item/3256806417284973.html?pdp_npi=4%40dis%21USD%21US%20%24177.19%21US%20%2447.32%21%21%211273.86%21340.25%21%402101d69b17151775055571084e1f17%2112000037794779151%21sh%21US%214261812895%21&spm=a2g0o.store_pc_aeChoiceSimplified.allitems_choice_2004641054488.1005006603599725&gatewayAdapt=glo2usa) - I paid $52, but can be found a little lower than that now. 
+* [RG35XX](https://amzn.to/4aco0XQ) - I paid $60, but can now be found as low as $20
+* [RG35XXH](https://amzn.to/4aiGXIm) - I paid $52, but can be found a little lower than that now. 
 * [MicroSD Card](https://amzn.to/3yaff3f) - it is recommended to not use the included SD card that comes with the device due to the low quality, so budget $10-20 for a good SD card and flash your own OS. 
 
 ![Anbernic](/images/gameboy/3.jpeg)
