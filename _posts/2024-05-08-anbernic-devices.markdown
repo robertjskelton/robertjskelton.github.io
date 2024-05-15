@@ -25,7 +25,7 @@ The costs on these devices are very affordable, and Aliexpress is often the chea
 # Operating System 
 Both consoles I have modified to have custom firmware. 
 * RG35XX - [GarlicOS](https://www.patreon.com/posts/76561333) is simply the best, and I wish it worked as well on other consoles. It has an incredible sleep function that auto-saves your game, can switch between games insanely fast, and has a cool heads up display for hot keys (fast forwards, save states, etc)
-* RG35XXH - I have tried most of the options for this device - Stock OS, Batocera, and MuOS, but prefer [MuOS](https://muos.dev/help/installation) due to the quicker boot times. 
+* RG35XXH - I have tried most of the options for this device - Stock OS, Batocera, and MuOS, but prefer [MuOS](https://muos.dev/help/installation) due to the quicker boot times and simplicity. I am also using the [Verde Dark](https://www.patreon.com/posts/verde-theme-only-99679785) theme now.
 
 # Games
 I normally play Gameboy or Gameboy Advance games, Super Nintendo or Playstation 1 games. The RG35XXH plays Nintendo DS and 64 games much better, as it is a newer and powerful device. 
@@ -43,7 +43,7 @@ Here are some of the games I've completed since I bought my first handheld video
 * **[Air Delivery](https://www.lexaloffle.com/bbs/?pid=129275)** - quick platformer for Pico 8. Pico 8 is a modern game engine meant to replicate older arcade games, which is supported on both of my consoles. The controls are very simple. 
 * **Pokemon Unbound** - considered to be one of the best Pokemon rom hacks around, with an all new story, region, and excellent game play. 
 * **Chrono Trigger** - greatest RPG ever, originally for the SNES, but also has a DS version. Don't play the PS1 version. 
-* **Final Fantasy 6** - great RPG for SNES, very difficult, so save states are a must. 
+* **Final Fantasy 6** - great RPG for SNES/GBA, very difficult, so save states are a must. 
 * **Pokemon Trading Card Game 2** - the sequel to the original Pokemon Trading Card Game for Gameboy Color was only released in Japanese. There is a newer fan translation for this game, and it is fun to play. 
 
 ![Anbernic](/images/gameboy/5.jpeg)

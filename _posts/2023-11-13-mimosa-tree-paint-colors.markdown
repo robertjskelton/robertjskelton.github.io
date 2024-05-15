@@ -18,3 +18,5 @@ This is a post for my own knowledge, to keep track of what colors I've painted w
 * Tile - Crema Beige Polished Porcelain
 
 * Floors - Flax Oak from Lowes
+
+* Air Filter - 18x18x1
