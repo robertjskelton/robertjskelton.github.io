@@ -31,7 +31,7 @@ Remove the spark plugs with a [spark plug socket](https://amzn.to/3VOZIPJ).
 
 ![Cappuccino](/images/capsp/5.jpg)
 
-Re-install the new plugs with the spark plug socket. I found 23Nm as the torque spec, but didn't follow it. 
+Re-install the new plugs with the spark plug socket. 10-20Nm is the torque spec, but I didn't check mine. 
 
 ![Cappuccino](/images/capsp/8.jpg)
 
@@ -42,3 +42,5 @@ Re-attach the spark plug lines.  You can remove your labels here.
 Test your car, then re-install the spark plug cover. 
 
 ![Cappuccino](/images/capsp/10.jpg)
+
+Larry also has a [great video](https://www.youtube.com/watch?v=PiD3RfLF6YA) documenting this. 
