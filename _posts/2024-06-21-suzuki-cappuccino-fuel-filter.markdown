@@ -7,7 +7,7 @@ categories: cars
 
 ![Cappuccino](/images/capfp/1.jpg)
 
-After getting some fuel cut issues, I decided to change the fuel pump on my 1992 Suzuki Cappuccino. 
+After getting some fuel cut issues, I decided to change the fuel pump on my 1992 Suzuki Cappuccino (EA11R). 
 I bought a [PF5982](https://amzn.to/4cbraNk) fuel filter, which fits a Chevy Tracker and Suzuki Vitara, it was a little bit longer but still fit. 
 
 Replacing the filter was pretty annoying to do. There is very little room to work in this cramped area of the car. 
@@ -32,7 +32,9 @@ I removed 2x 12mm bolts holding the fuel filter mount in place, then could wiggl
 
 I also removed 1x 10mm bolt holding the fuel filter to the mount. 
 
-Then I removed the 2x fuel lines going in to each side - and replace like for like on the fuel lines. Make sure your new filter is in the bracket before installing the new lines. 
+Then I removed the 2x fuel lines going in to each side - and replace like for like on the fuel lines.
+Put a bucket or bowl under your car to catch the gas - some will leak before you install the new filter. 
+Make sure your new filter is in the bracket before installing the new lines. 
 
 ![Cappuccino](/images/capfp/7.jpg)
 ![Cappuccino](/images/capfp/8.jpg)

@@ -7,6 +7,8 @@ categories: cars
 
 ![Cappuccino](/images/capsp/7.jpg)
 
+I replaced the spark plugs on my 1992 Suzuki Cappuccino - EA11r. 
+
 The Cappuccino takes [3x NGK DCPR7EIX 6046spark plugs](https://amzn.to/3VBdcNP) - it was cheaper to buy 4 than 3. 
 This might be a good time to change your spark plug wires too, the NGK part number for that is RC-SE43. 
 
@@ -14,7 +16,7 @@ To change your spark plugs on the Suzuki Cappuccino, pop your hood.
 
 ![Cappuccino](/images/capsp/1.jpg)
 
-Remove 8 Phillips head screws removing the spark plug cover. 
+Remove 8 Phillips head screws removing the spark plug cover. The front drivers side screw is tough, I used a watch screwdriver to remove it. 
 
 ![Cappuccino](/images/capsp/2.jpg)
 
@@ -27,7 +29,7 @@ Remove the spark plug lines, and either remember where they go, or label them, s
 
 ![Cappuccino](/images/capsp/4.jpg)
 
-Remove the spark plugs with a [spark plug socket](https://amzn.to/3VOZIPJ). 
+Remove the spark plugs with a [spark plug socket](https://amzn.to/3VOZIPJ), which is a deep socket with a rubber insert so that the spark plug doesn't fall out. 
 
 ![Cappuccino](/images/capsp/5.jpg)
 
