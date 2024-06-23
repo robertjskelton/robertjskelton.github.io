@@ -11,6 +11,7 @@ After getting some fuel cut issues, I decided to change the fuel pump on my 1992
 I bought a [PF5982](https://amzn.to/4cbraNk) fuel filter, which fits a Chevy Tracker and Suzuki Vitara, it was a little bit longer but still fit. 
 
 Replacing the filter was pretty annoying to do. There is very little room to work in this cramped area of the car. 
+There is a fuel pressure release procedure, found in the Suzuki Cappuccino service manual, [linked here](https://www.facebook.com/groups/2024808397586129/permalink/2738903102843318). I did not follow this procedure. 
 
 ![Cappuccino](/images/capfp/2.jpg)
 
