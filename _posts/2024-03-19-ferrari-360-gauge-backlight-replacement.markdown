@@ -15,7 +15,7 @@ Before
 
 [Google Photos Album of all pictures](https://photos.app.goo.gl/DkCZ5kezxeinzoiS6)
 
-The backlight on the gauges of my 2001 Ferrari 360 Spider went out, so I could no longer see my RPMs, temps, or speed when driving at night. This is a known issue with these cars, so I bought a replacement backlight and installed it. The part ([purchased here](https://amzn.to/3x8h9AI)) was $165, and was a pretty difficult install. 
+The backlight on the gauges of my 2001 Ferrari 360 Spider went out, so I could no longer see my RPMs, temps, or speed when driving at night. This is a known issue with these cars, so I bought a replacement backlight and installed it. The part ([purchased here](https://amzn.to/3x8h9AI)) was $165, and was a pretty difficult install. Update - don't buy this part. It worked for just one day, and I couldn't get a refund on it. 
 
 [Seb's Supercar](https://www.youtube.com/watch?v=migjCi5j-4w) on Youtube has a great guide on removing the gauges, which I followed. My 360 is manual, so I didn't have to remove the F1 paddles. 
 
