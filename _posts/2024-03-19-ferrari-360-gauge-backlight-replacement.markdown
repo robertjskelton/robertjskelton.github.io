@@ -15,7 +15,7 @@ Before
 
 [Google Photos Album of all pictures](https://photos.app.goo.gl/DkCZ5kezxeinzoiS6)
 
-The backlight on the gauges of my 2001 Ferrari 360 Spider went out, so I could no longer see my RPMs, temps, or speed when driving at night. This is a known issue with these cars, so I bought a replacement backlight and installed it. The part ([purchased here](https://amzn.to/3x8h9AI)) was $165, and was a pretty difficult install. Update - don't buy this part. It worked for just one day, and I couldn't get a refund on it. 
+The backlight on the gauges of my 2001 Ferrari 360 Spider went out, so I could no longer see my RPMs, temps, or speed when driving at night. This is a known issue with these cars, so I bought a replacement backlight and installed it. The part ([purchased here](https://amzn.to/3x8h9AI)) was $165, and was a pretty difficult install. Update - don't buy this part. It worked for just one day, and I couldn't get a refund on it. The part from [EL Panel in the UK](https://www.ebay.com/itm/233203448720) works better. 
 
 [Seb's Supercar](https://www.youtube.com/watch?v=migjCi5j-4w) on Youtube has a great guide on removing the gauges, which I followed. My 360 is manual, so I didn't have to remove the F1 paddles. 
 
@@ -75,8 +75,9 @@ Make sure your gauge faces are on correctly, or else your screens will be off ce
 
 ![Backlight](/images/backlight/16.jpg)
 
-Red goes on top, and the new backlight cable will stick out a little bit on the end, but will be covered by your dash. Then just re-install in reverse order. 
+Red goes on top, and the new backlight cable will stick out a little bit on the end, but will be covered by your dash. Then just re-install in reverse order. Make sure you clean out the inside of the gauges well - the first time I re-installed, I noticed a hair fell in there. 
 
+![Backlight](/images/backlight/26.jpg)
 ![Backlight](/images/backlight/17.jpg)
 ![Backlight](/images/backlight/20.jpg)
 
@@ -85,3 +86,17 @@ This part works great and looks just like the factory green lights. Some people 
 ![Backlight](/images/backlight/21.jpg)
 
 In the last month, I removed the gauges from both my Ferrari 360 and Suzuki Cappuccino. Suzuki designed the removal process much much much better.
+
+Update: My first EL panel from Amazon broke, then I bought a used OEM panel that was never tested and was also broken, so I bought a new part from [EL Panels in the UK](https://www.ebay.com/itm/233203448720). 
+
+![Backlight](/images/backlight/22.jpg)
+
+This is the OEM, Amazon, and ebay panel from top to bottom. 
+
+![Backlight](/images/backlight/23.jpg)
+
+The transparent red connector is the Amazon part, the non-transparent red is ebay. 
+
+I noticed there is a tab to cut out next the the EL panel connector, so I snipped that with some pliers. 
+![Backlight](/images/backlight/24.jpg)
+![Backlight](/images/backlight/25.jpg)
