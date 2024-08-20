@@ -72,6 +72,7 @@ Then you can replace the backlight that is under them. Make sure you seat the ne
 ![Backlight](/images/backlight/15.jpg)
 
 Make sure your gauge faces are on correctly, or else your screens will be off center.
+Also make sure your needles are on the correct gauge. The longest needle goes on the RPM gauge, not the speedo, as I accidentally found out. 
 
 ![Backlight](/images/backlight/16.jpg)
 
