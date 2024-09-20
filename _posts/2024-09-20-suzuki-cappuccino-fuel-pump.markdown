@@ -9,7 +9,7 @@ categories: cars
 
 I replaced the [fuel filter](https://rskelton.com/suzuki-cappuccino-fuel-filter/) in my Cappuccino recently, and also ordered a [fuel pump](https://amzn.to/4gyzUQ1) at the same time. This is how to install it. 
 
-First, remove your tops and cargo net, if needed. Push down the rear window. 
+First, remove your tops (and cargo net if you are lucky enough to have one). Push down the rear window. 
 
 ![Cappuccino](/images/cap_fuel_pump/1.jpg)
 
@@ -19,13 +19,13 @@ Next, you need to remove the plastic center trim piece that sits behind the pass
 
 Next, you need to remove 6x 10mm bolts on the cover. 
 
-![Cappuccino](/images/cap_fuel_pump/5.jpg)
+![Cappuccino](/images/cap_fuel_pump/3.jpg)
 
 Then remove the 6x phillips screws on the top of the fuel pump. Be careful not to drop them. 
 
-![Cappuccino](/images/cap_fuel_pump/3.jpg)
+![Cappuccino](/images/cap_fuel_pump/5.jpg)
 
-Then remove the 2 fuel lines and label them, and also unclip the electrical connection. 
+Then remove the 2 fuel lines and label them, and also unclip the electrical connection. This is needed so you can wiggle the pump out.  
 
 Now you can remove the fuel pump, make sure to have a bucket or bowl nearby to put this in. I took my fuel pump inside to replace it. 
 
@@ -56,4 +56,3 @@ For the part leading from the top of the new fuel pump to the metal line on the 
 Re-install is just the inverse of the install. 
 
 ![Cappuccino](/images/cap_fuel_pump/16.jpg)
-
