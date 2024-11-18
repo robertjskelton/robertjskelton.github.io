@@ -9,10 +9,10 @@ categories: cars
 For any car I own, I like to replace old bulbs with something a little brighter. The Cappuccino had 1 bad high beam, and the 2 small marker lights were just unplugged within the headlight housing. Here are the bulbs I replaced:
 
 ### Parts Required
-* [H1 High Beams x2](https://amzn.to/300sizs)
-* [H3 Low Beams x2](https://amzn.to/3frnutn)
+* [H1 High Beams x2](https://amzn.to/4fPuQpt)
+* [H3 Low Beams x2](https://amzn.to/40MsZgQ)
 * [194 Marker lights x2](https://amzn.to/2C8xj0R)
-* [BA15S Reverse light x1](https://amzn.to/3gYvOkz)
+* [BA15S Reverse light x1](https://amzn.to/4fwx79l)
 
 # High Beams and Marker Lights
 To replace the high beams and marker lights, you actually have to take the headlight housing completely off, but it isn't too hard. You do have to lift the front end of the car in order to rotate the wheels freely, so jack up the front end to where the wheels are off the ground.
