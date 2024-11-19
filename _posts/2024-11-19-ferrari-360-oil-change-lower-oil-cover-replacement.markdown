@@ -1,58 +1,53 @@
 ---
 layout: post
 title:  "Ferrari 360 - Oil Change and Lower Oil Cover Replacement"
-date:   2024-11-19 11:05:14 -0400
+date:   2024-11-20 11:05:14 -0400
 categories: cars
 ---
 
 ![Cappuccino](/images/cap_fuel_pump/17.jpg)
 
-I replaced the [fuel filter](https://rskelton.com/suzuki-cappuccino-fuel-filter/) in my Cappuccino recently, and also ordered a [fuel pump](https://amzn.to/4gyzUQ1) at the same time. This is how to install it. 
+My Ferrari 360 Spider started leaking oil from the lower oil cover after a rally recently, and my car did scrape the pavement quite a few times over some bridge crossings. I checked, and one of the screws was nearly ground down.
 
-First, remove your tops (and cargo net if you are lucky enough to have one). Push down the rear window. 
+ I figure this would be a good time to replace the lower oil cover, while also doing an oil change that I was almost due for anyways. 
 
-![Cappuccino](/images/cap_fuel_pump/1.jpg)
+While I had the undertray off for that work, I also did some [significant fibgerlass repair on my undertray](https://rskelton.com/ferrari-360-undertray-repair/).
 
-Next, you need to remove the plastic center trim piece that sits behind the passengers. There are 4 plastic clips at the top, and 2 Phillips screws at the bottom, which are hidden by the center console. I had to remove 2 screws near the back trim on the center console, slide the back piece of the center console out by holding the switch for the back window down, then I could reach the 2 screws holding the back trim piece. 
+## Parts and Tools
+* [Ricambi Oil Change Kit](https://www.ricambiamerica.com/360ock-360-oil-change-kit.html) - includes the 2 copper crush washers, one new drain plug, an oil filter
+* [Up to 10L of Oil, I used Liquimoly 5W-40](https://amzn.to/4eIl9YS)
+* [Hex Socket Set](https://amzn.to/48UlDKh) - you at least need the 12mm and 14mm
+* [Oil Filter Removal Tool](https://amzn.to/3YTk4Yh) - I used this exact tool, and have for all my cars, however there is a Ferrari specific removal tool that might make it easier. But this one DOES work. 
+* [177549 GASKET](https://www.ricambiamerica.com/177549-gasket.html) - 1 of 2 gaskets on the in line filter to replace
+* [177550 GASKET](https://www.ricambiamerica.com/177550-gasket.html) - 1 of 2 gaskets on the in line filter to replace
+* [Lower Oil Cover](https://www.ricambiamerica.com/171045-plate-cover-for-gearbox-loc-01.html) - upgraded Hill Engineering part, much beefier
+* [New screws for the Oil Cover x6](https://www.ricambiamerica.com/16286121-screw-w-flange-6x-20.html) - minimum buy of 10 on Ricambi
+* [Permatex Ultra Black](https://amzn.to/3OeM83p) - gasket maker for the lower oil cover
+* [Blue Loctite](https://amzn.to/48TnX4h) - threadlocker for the lower oil cover screws
+* [Gloves](https://amzn.to/48YyGdE)
 
-![Cappuccino](/images/cap_fuel_pump/2.jpg)
+First, lift the car however you normally do, and remove the undertray below the engine. There is about 20 screws to remove. 
 
-Next, you need to remove 6x 10mm bolts on the cover. 
+Next, go about a normal oil change procedure. This includes the removing the 2 drain plugs (12mm and 14mm hex). Remove the in line filter from the gear box with 2x 10mm bolts and remove that filter. Clean this filter and replace the 2 O-rings with some new grease, I used Red and Tacky which I already had.
 
-![Cappuccino](/images/cap_fuel_pump/3.jpg)
+Also remove the oil filter, on my Spider I had to remove 2x 10mm bolts on the power steering resoivor, then I was able to finagle my standard oil filter removeal tool in from one side and get my longest socket extender in from the top. This was an awful oil filter to remove, and I had to be sitting on top of the exhaust to reach it. 
 
-Then remove the 6x phillips screws on the top of the fuel pump. Be careful not to drop them. 
+And of course remove the oil cap so more oil can drain. 
 
-![Cappuccino](/images/cap_fuel_pump/5.jpg)
+Once done draining, I removed the Lower Oil Cover with 6x 10mm screws, including one that was nearly missing the head, luckily I could get it out. 
 
-Then remove the 2 fuel lines and label them, and also unclip the electrical connection. This is needed so you can wiggle the pump out.  
+I installed some [Permatex Ultra Black gasket maker](https://amzn.to/3OeM83p) around the perimeter of the inside of the lower oil cover, including around the screw holes. I chose the Ultra Black because it was recommended for anything that could come into contact with oil, whereas the grey didn't seem to work as well with oil. 
 
-Now you can remove the fuel pump, make sure to have a bucket or bowl nearby to put this in. I took my fuel pump inside to replace it. 
+The instructions for the Ultra Black say to hand tighten anything using this gasket maker, then let it sit for an hour or more, then fully tighten. So I did that by putting all 6 screws in (with some [Blue Loctite](https://amzn.to/48TnX4h) on each) and using a socket until I felt a slight resistance, let it sit for 2 hours, then tighened until the resistance was higher. 
 
-![Cappuccino](/images/cap_fuel_pump/6.jpg)
-![Cappuccino](/images/cap_fuel_pump/7.jpg)
-![Cappuccino](/images/cap_fuel_pump/8.jpg)
+Note that the workshop manual for the Ferrari 360 says to use 25Nm - DO NOT DO THAT. It stripped my first screw directly into the oil pan, and luckily I was able to get it back out with channel locks. 
 
-Mine was very rusted, so I cleaned it with a [wire brush](https://amzn.to/4emdqQy) and water. 
+So once you have the lower oil pan cover in, it recommends to let it cure for 24 hours before adding oil. In the mean time, you can go ahead and install your drain plugs. Ricambi inludes 1 new drain plug that you should put a new crush washer on, and you will re-use 1 old drain plug, but add a new copper crush washer to it. Again, the factory manual recommends 75NM, but that is way too high, I followed the advice of [Aldous](https://aldousvoice.com/2012/11/27/ferrari-360-annual-service/) and did hand tight plus about 1/4 turn on the socket. 
 
-![Cappuccino](/images/cap_fuel_pump/10.jpg)
-![Cappuccino](/images/cap_fuel_pump/11.jpg)
-![Cappuccino](/images/cap_fuel_pump/12.jpg)
+Install your new oil filter, you don't need to use the tool for this, hand tight as much as you can get is always good for filters. 
 
-There is a 3MM allen screw at the bottom holding the actual pump onto the housing, remove and save that. 
+This is a good time to measure how much oil came out of your Ferrari's engine. Mine measuered about 9 quarts, so I'd expect to add that much, but I added a bit less just in case. Then let it warm up after refilling by running the engine or driving. To check the oil, you have to pull the dip stick while the engine is running and while it is warm. Add oil as need be, but be careful not to overfill it. 
 
-![Cappuccino](/images/cap_fuel_pump/9.jpg)
+Check for leaks. I was all good on the first try, thankfully! 
 
-Remove your old pump. Re-install the new pump with the rubber housing and fuel pump filter of your choice. Mine came with 2, I used the one that looked like it had more surface area. 
-
-![Cappuccino](/images/cap_fuel_pump/4.jpg)
-![Cappuccino](/images/cap_fuel_pump/13.jpg)
-![Cappuccino](/images/cap_fuel_pump/14.jpg)
-
-For the part leading from the top of the new fuel pump to the metal line on the Cappuccino housing - I used a bit of the rubber hose that came with the new pump, cut down to size so it would fit. 
-
-![Cappuccino](/images/cap_fuel_pump/15.jpg)
-
-Re-install is just the inverse of the install. 
-
-![Cappuccino](/images/cap_fuel_pump/16.jpg)
+Finally, reinstall the undertray, lower the car, and enjoy another year of driving. 
