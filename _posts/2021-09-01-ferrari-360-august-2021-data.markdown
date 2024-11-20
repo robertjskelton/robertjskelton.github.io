@@ -7,7 +7,7 @@ categories: cars
 
 ![August 2021](/images/360-aug2021/360.jpg)
 
-Here's my August 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. This month is going to be noticably different though - I removed the price limit. Previously, I was only tracking cars for sale for under $90k. Now, I am tracking all asking prices. There are some that are asking as high as $250k - so data will shift. This is my 5th monthly post, previous posts are:
+Here's my August 2021 update on Ferrari 360 prices. You can read my [original post](https://rskelton.com/ferrari-360-april-2021-data/) to see how and where I am collecting my data. This month is going to be noticeably different though - I removed the price limit. Previously, I was only tracking cars for sale for under $90k. Now, I am tracking all asking prices. There are some that are asking as high as $250k - so data will shift. This is my 5th monthly post, previous posts are:
 * [April 2021](https://rskelton.com/ferrari-360-april-2021-data/)
 * [May 2021](https://rskelton.com/ferrari-360-may-2021-data/)
 * [June 2021](https://rskelton.com/ferrari-360-june-2021-data/)
@@ -29,7 +29,7 @@ And here's the big kicker - almost everything over $90k has a manual transmissio
 
 ![August 2021](/images/360-aug2021/trans.png)
 
-And this is the current Price vs Miles chart. A few more high miled examples sold this month.
+And this is the current Price vs Miles chart. A few more high mile examples sold this month.
 
 ![August 2021](/images/360-aug2021/miles.png)
 

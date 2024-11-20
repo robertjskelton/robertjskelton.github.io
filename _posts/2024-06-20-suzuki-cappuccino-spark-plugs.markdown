@@ -37,7 +37,7 @@ Re-install the new plugs with the spark plug socket. 10-20Nm is the torque spec,
 
 ![Cappuccino](/images/capsp/8.jpg)
 
-Re-attach the spark plug line or install new ones.  You can remove your labels here. There are 3 lines, 1 to each spark plug, and a shorter one to the distrubuter. The bigger connection end I attached to the spark plug, and it fit under the cover.  
+Re-attach the spark plug line or install new ones.  You can remove your labels here. There are 3 lines, 1 to each spark plug, and a shorter one to the distributor. The bigger connection end I attached to the spark plug, and it fit under the cover.  
 
 ![Cappuccino](/images/capsp/9.jpg)
 ![Cappuccino](/images/capsp/11.jpg)

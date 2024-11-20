@@ -28,7 +28,7 @@ Next, I placed the awning and the L brackets above the roof rack, on the drivers
 ![napa](/images/napa/7.jpg)
 ![napa](/images/napa/8.jpg)
 
-Tighten everything up, 4 total bolts per L bracket. For the sandwich part, you'll have to use a 13mm to hold the nut, and your 13mm socket to tighen the bolt. Pretty annoying to do, but try to keep everything level. 
+Tighten everything up, 4 total bolts per L bracket. For the sandwich part, you'll have to use a 13mm to hold the nut, and your 13mm socket to tighten the bolt. Pretty annoying to do, but try to keep everything level. 
 
 ![napa](/images/napa/9.jpg)
 ![napa](/images/napa/10.jpg)
@@ -54,7 +54,7 @@ Second update: I took off the heavy duty velcro straps, and made two mods. First
 
 
 
-Second, I added some [Ironman Quick Release Awning Brackets](https://ironman4x4america.com/awning-quick-release-mounting-brackets/). These were on sale for 20% off, plus it will save me some MPG being able to take this on and off quickly. To install, I needed to purchase some M8 x 1.25 x 20mm bolts, along with some M-1.25mm nylon locking nuts. The 20mm length is VERY IMPORTANT, since the quick release for these brackets is a locking pin. The locking pin needs short bolts on your awning in order to fit properly. Trust me, I tried 25mm length bolts, which is what the Napa awning came with, and couldn't get the locking pins on at all. And the Ironman brakcets ship with M6 head bolts, which are too small for the Napa awning (they will just spin in the channel). 
+Second, I added some [Ironman Quick Release Awning Brackets](https://ironman4x4america.com/awning-quick-release-mounting-brackets/). These were on sale for 20% off, plus it will save me some MPG being able to take this on and off quickly. To install, I needed to purchase some M8 x 1.25 x 20mm bolts, along with some M-1.25mm nylon locking nuts. The 20mm length is VERY IMPORTANT, since the quick release for these brackets is a locking pin. The locking pin needs short bolts on your awning in order to fit properly. Trust me, I tried 25mm length bolts, which is what the Napa awning came with, and couldn't get the locking pins on at all. And the Ironman brackets ship with M6 head bolts, which are too small for the Napa awning (they will just spin in the channel). 
 
 ![napa](/images/napa/22.jpg)
 ![napa](/images/napa/23.jpg)

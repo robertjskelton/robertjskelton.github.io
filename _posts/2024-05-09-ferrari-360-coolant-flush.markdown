@@ -31,7 +31,7 @@ I also took my undertray outside and cleaned it with water to remove dirt and su
 
 ![Coolant](/images/coolant/8.jpg)
 
-Next step is to drain the radiators. There is a drain cap for each radiator, remove those and catch the old coolant. For my passenger side cap, I had to clip the wing on each side, since the radaitor was sitting very close to a piece of the frame, but it's still easy to get on and off. Watch the coolant to see if any oil is mixed in, if so, you likely need a heat exchanger replacement. 
+Next step is to drain the radiators. There is a drain cap for each radiator, remove those and catch the old coolant. For my passenger side cap, I had to clip the wing on each side, since the radiator was sitting very close to a piece of the frame, but it's still easy to get on and off. Watch the coolant to see if any oil is mixed in, if so, you likely need a heat exchanger replacement. 
 
 ![Coolant](/images/coolant/3.jpg)
 ![Coolant](/images/coolant/4.jpg)

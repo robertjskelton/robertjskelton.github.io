@@ -15,14 +15,14 @@ Parts Used:
 * [USB 3.0 Charger Socket](https://amzn.to/3s89P1n) 
 * [T-taps](https://amzn.to/3AxlMky)
 
-First, find the phone plug. It is located behind the radio. I took off the foorwell carpet cover on the drivers side, and just reached inside and found it. It has 4 wires going into the plug. 
+First, find the phone plug. It is located behind the radio. I took off the footwell carpet cover on the drivers side, and just reached inside and found it. It has 4 wires going into the plug. 
 
 * Wire #1 Brown - GROUND - use this for your ground
 * Wire #2 Yellow/Black - MUTE - don't use this
 * Wire #3 Green/Red - SWITCHED - use this for your power
 * Wire #4 Red - CONSTANT - do not use
 
-So I tapped the positive (red) into a plug that I connected to wire #3, and the ground (black) I connected to wire #1. Test it - the USBs should only have power once you turn the ignition on, then turn off when you turn the ignition off. One way to do this is with [T-taps](https://amzn.to/3AxlMky). I then used tons of electrical tape - both to elimintate intereference, but also I don't want this wires coming undone while driving. 
+So I tapped the positive (red) into a plug that I connected to wire #3, and the ground (black) I connected to wire #1. Test it - the USBs should only have power once you turn the ignition on, then turn off when you turn the ignition off. One way to do this is with [T-taps](https://amzn.to/3AxlMky). I then used tons of electrical tape - both to eliminate interference, but also I don't want this wires coming undone while driving. 
 
 ![911](/images/911/1.jpg)
 

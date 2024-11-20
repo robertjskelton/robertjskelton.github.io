@@ -7,7 +7,7 @@ categories: cars
 
 ![rad](/images/rad/13.jpg)
 
-The 996 was Porsche's first water-cooled 911, so it has some radiators and condesers in the front of the vehicle. These are hidden behind the bumper with no debris protection, so they can get quite dirty. It's a good idea to clean them every few years for your 911 to run more efficiently. Here's how I cleaned mine out on my 2002 Porsche 911 Targa!
+The 996 was Porsche's first water-cooled 911, so it has some radiators and condensers in the front of the vehicle. These are hidden behind the bumper with no debris protection, so they can get quite dirty. It's a good idea to clean them every few years for your 911 to run more efficiently. Here's how I cleaned mine out on my 2002 Porsche 911 Targa!
 
 First, remove the front bumper, [this is a good Youtube video on how to do that](https://www.youtube.com/watch?v=qEfsNXbx-Mg). Basically, pop the side marker lights off, remove a few Phillips behind the marker lights on each side, a few more Phillips under the frunk/hood, and a few T-30 screws under the front bumper. I was able to get the T-30s off with just a bit + a wrench, since I was too lazy to lift the Porsche. You'll probably break a decent amount of plastic, it's very brittle. 
 
@@ -19,7 +19,7 @@ Next, you can remove the air ducts. There are a few T-25 to remove, 5 per air du
  
 ![rad](/images/rad/13.jpg)
 
-Then you can disconnect the front grill with an 8mm socket, and lean it off a bit so you can get to both the condesner and the radiator. You've gone this far, might as well clean both of them. [Here's a good video](https://youtu.be/jyYgpYwJtq8?t=210) on how to lean the 2 grills apart. 
+Then you can disconnect the front grill with an 8mm socket, and lean it off a bit so you can get to both the condenser and the radiator. You've gone this far, might as well clean both of them. [Here's a good video](https://youtu.be/jyYgpYwJtq8?t=210) on how to lean the 2 grills apart. 
 
 Clean the leaves and gunk off of both of them, mine had a ton! It took 4-5 dust pans full to remove the dry debris. 
 

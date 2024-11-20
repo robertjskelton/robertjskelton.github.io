@@ -14,7 +14,7 @@ This is a different type of post for my blog, but I've got really into these por
 There are many other brands making portable gaming handhelds now, such as Miyoo, Anbernic, Retroid, Powkiddy, and GKD. If you really want to go down a rabbithole, check out the [related subreddit](https://www.reddit.com/r/SBCGaming/). 
 
 # Costs
-The costs on these devices are very affordable, and Aliexpress is often the cheapest place to buy then. Shipping will take a few weeks. You can buy them off Amazon in the US, but will pay a bit more. They often show up as sales on Slickdeals . 
+The costs on these devices are very affordable, and Aliexpress is often the cheapest place to buy then. Shipping will take a few weeks. You can buy them off Amazon in the US, but will pay a bit more. They often show up as sales on Slickdeals. 
 
 * [RG35XX](https://amzn.to/4aco0XQ) - I paid $60, but can now be found as low as $20
 * [RG35XXH](https://amzn.to/4aiGXIm) - I paid $52, but can be found a little lower than that now. 

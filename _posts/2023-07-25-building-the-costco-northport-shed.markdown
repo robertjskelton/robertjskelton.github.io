@@ -26,7 +26,7 @@ I then made a base from 4 more 4x4x8 to fit under the shed, and all of the wood 
 
 More 4x4s: $100
 
-Since this shed is under 100sqft and built on skids (4x4s) I did not need a permit, but I built this shed even stronger than the manufacturer recommends, because I want it to last a long time. 
+Since this shed is under 100 sqft and built on skids (4x4s) I did not need a permit, but I built this shed even stronger than the manufacturer recommends, because I want it to last a long time. 
 
 # Build 
 [Shed Instructions](https://content.syndigo.com/asset/914492b1-a5ec-4edf-b7c4-27cd03a2d938/original.pdf)
@@ -84,7 +84,7 @@ For paint colors, I used the matching main and trim colors for our house, which 
 * Extra wood screws in 2" and 4" length, for about $60.
 * 2" nails, used more than they said to - 
 * 4 tubes of liquid nails: $16
-* Roofing Felt 216sqft - $33
+* Roofing Felt 216 sqft - $33
 * 1" roofing nails, 2 boxes - $17
 * 2 tubes of caulk - already on hand
 * Drip edge: $65

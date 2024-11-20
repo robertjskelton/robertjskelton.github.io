@@ -31,7 +31,7 @@ And, of course, behind that panel is some more storage. I keep a small air compr
 
 ![Storage](/images/storage/2.jpg)
 
-My wonderful [table on the rear door](https://rskelton.com/GX470-Rear-Door-Table/)! Behind it, I keep some toilet paper, paper towels, first aid kit, [collapsable dog bowl](https://amzn.to/38OuOyB) (yeah, we travel with our dogs often), and the factory tool set is back there. I even mounted in a [bottle opener](https://amzn.to/35H2dJq). 
+My wonderful [table on the rear door](https://rskelton.com/GX470-Rear-Door-Table/)! Behind it, I keep some toilet paper, paper towels, first aid kit, [collapsible dog bowl](https://amzn.to/38OuOyB) (yeah, we travel with our dogs often), and the factory tool set is back there. I even mounted in a [bottle opener](https://amzn.to/35H2dJq). 
 
 ![Storage](/images/storage/1.jpg)
 
@@ -43,7 +43,7 @@ I also cut some [foam gym tiles](https://amzn.to/3fWII4X) to have a bit more com
 
 ![Storage](/images/storage/14.jpg)
 
-I even added a [rechargable magnetic light](https://amzn.to/2S8JvHe), which can simply attach to the metal of the rear door to light up the rear table at night. This is a great option for adding light above a table when you don't want to run new wiring through the door grommets, which is a hassle. 
+I even added a [rechargeable magnetic light](https://amzn.to/2S8JvHe), which can simply attach to the metal of the rear door to light up the rear table at night. This is a great option for adding light above a table when you don't want to run new wiring through the door grommets, which is a hassle. 
 
 ![Storage](/images/storage/12.jpg)
 

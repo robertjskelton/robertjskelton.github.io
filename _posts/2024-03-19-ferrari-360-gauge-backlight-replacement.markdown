@@ -28,7 +28,7 @@ Next, remove the steering column surround, with 2 screws under it, and pop the l
 ![Backlight](/images/backlight/2.jpg)
 ![Backlight](/images/backlight/4.jpg)
 
-This is a good opportunity to clean these up, as the typical Ferrari sticky buttons apply to the steering column surroud. I find that [makeup wipes](https://amzn.to/43qA7Pp) do a great job of removing the stickiness. I used 10 wipes to clean my surround. 
+This is a good opportunity to clean these up, as the typical Ferrari sticky buttons apply to the steering column surround. I find that [makeup wipes](https://amzn.to/43qA7Pp) do a great job of removing the stickiness. I used 10 wipes to clean my surround. 
 
 ![Backlight](/images/backlight/3.jpg)
 

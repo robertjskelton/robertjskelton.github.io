@@ -30,7 +30,7 @@ The wiring was pretty straight forward, and I made sure the part worked before e
 
 ![pool](/images/pool-light/3.jpg)
 
-For saferty, always work with the power off, and verify with a [power tester pen](https://amzn.to/3ArZeXv) if power is on. My pool light was actually on a sub-panel I had never noticed, so it was not turned off by any of the breakers in my electrical panel.  I cut and pulled out the old light, then started rebuilding the junction box by my pool. It was rusted and ruined and didn't even have a cover. This part took me the longest, as I had 1/2" conduit going in to 1" conduit right next to each other. It just took a while to build the correct setup for my conduit at Lowes. I also painted it green to match the grass, and will plant some flowers or something around it to hide it. 
+For safety, always work with the power off, and verify with a [power tester pen](https://amzn.to/3ArZeXv) if power is on. My pool light was actually on a sub-panel I had never noticed, so it was not turned off by any of the breakers in my electrical panel.  I cut and pulled out the old light, then started rebuilding the junction box by my pool. It was rusted and ruined and didn't even have a cover. This part took me the longest, as I had 1/2" conduit going in to 1" conduit right next to each other. It just took a while to build the correct setup for my conduit at Lowes. I also painted it green to match the grass, and will plant some flowers or something around it to hide it. 
 
 ![pool](/images/pool-light/4.jpg)
 ![pool](/images/pool-light/6.jpg)
@@ -47,7 +47,7 @@ Once I got that junction box fixed up and sealed with conduit glue, I installed 
 ![pool](/images/pool-light/2.jpg)
 
 
-I ended up ripping out my old transormer, but re-used the inground conduit. 
+I ended up ripping out my old transformer, but re-used the in ground conduit. 
 
 ![pool](/images/pool-light/1.jpg)
 ![pool](/images/pool-light/8.jpg)
@@ -56,7 +56,7 @@ I rebuilt the conduit with a new project box and conduit, then fished the pool l
 
 ![pool](/images/pool-light/9.jpg)
 
-The 4 pool light wires hooked into the right side of the transformer with 4 wires, just wire nut together the like for like wires. The left side wires are a red/green/white, which I ran through conduit to my pool timer box. The wiring for my light was already in this box, so I followed the wires and reused the same wiring from the previous pool light. It is just power/neutral/ground. Wire nut those togehter. 
+The 4 pool light wires hooked into the right side of the transformer with 4 wires, just wire nut together the like for like wires. The left side wires are a red/green/white, which I ran through conduit to my pool timer box. The wiring for my light was already in this box, so I followed the wires and reused the same wiring from the previous pool light. It is just power/neutral/ground. Wire nut those together. 
 
 ![pool](/images/pool-light/3.jpg)
 

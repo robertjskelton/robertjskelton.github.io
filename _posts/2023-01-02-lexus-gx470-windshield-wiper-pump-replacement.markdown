@@ -14,7 +14,7 @@ Parts:
 * [Wiper Fluid](https://amzn.to/3Gb00av)
 * [Optionally, Upgrade your Washer Nozzles](https://amzn.to/3YXCI0m)
 
-The windshield wiper pump sits at the bottom of the windshield wiper fluid resoivoir, so when you remove the pump all the fluid will drain out. I caught mine using a large bowl to reuse.
+The windshield wiper pump sits at the bottom of the windshield wiper fluid reservoir, so when you remove the pump all the fluid will drain out. I caught mine using a large bowl to reuse.
 
 ![ww](/images/ww/3.jpg)
 
@@ -35,7 +35,7 @@ Now that you have the broken pump out, keep the gasket from the old pump, the ga
 
 ![ww](/images/ww/5.jpg)
 
-Put the gasket in the resoivoir where it came out (without the pump). Then put the pump in. I found this made it WAY easier to get a good seal on the pump. Connect the electrical and the fluid line, then re-attach the 2 fluid lines into their holders. Turn on the car and try it. Yay, working windshield wipers!
+Put the gasket in the reservoir where it came out (without the pump). Then put the pump in. I found this made it WAY easier to get a good seal on the pump. Connect the electrical and the fluid line, then re-attach the 2 fluid lines into their holders. Turn on the car and try it. Yay, working windshield wipers!
 
 ![ww](/images/ww/6.jpg)
 

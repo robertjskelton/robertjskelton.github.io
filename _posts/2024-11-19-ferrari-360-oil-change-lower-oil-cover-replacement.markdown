@@ -16,7 +16,7 @@ So I decided to replace the lower oil cover, while also doing an oil change that
 
 ![360oil](/images/360oil/3.jpg)
 
-While I had the undertray off for that work, I also did some [significant fibgerlass repair on my undertray](https://rskelton.com/ferrari-360-undertray-repair/). I also ceramic coated the top and bottom of my headers, since I had easy accses to them. 
+While I had the undertray off for that work, I also did some [significant fibgerlass repair on my undertray](https://rskelton.com/ferrari-360-undertray-repair/). I also ceramic coated the top and bottom of my headers, since I had easy access to them. 
 
 ![360oil](/images/360oil/6.jpg)
 
@@ -30,7 +30,7 @@ While I had the undertray off for that work, I also did some [significant fibger
 * [Lower Oil Cover, P/N 171045](https://www.ricambiamerica.com/171045-plate-cover-for-gearbox-loc-01.html) - upgraded Hill Engineering part, much beefier than the OEM cover
 * [New screws for the Oil Cover x6](https://www.ricambiamerica.com/16286121-screw-w-flange-6x-20.html) - minimum buy of 10 on Ricambi
 * [Permatex Ultra Black](https://amzn.to/3OeM83p) - gasket maker for the lower oil cover
-* [Blue Loctite](https://amzn.to/48TnX4h) - threadlocker for the lower oil cover screws
+* [Blue Loctite](https://amzn.to/48TnX4h) - thread locker for the lower oil cover screws
 * [Grease](https://amzn.to/3YW5a3B)
 * [Gloves](https://amzn.to/48YyGdE)
 
@@ -50,7 +50,7 @@ Clean this filter, and replace the 2 O-rings with some new grease, I used [Red N
 
 ![360oil](/images/360oil/7.jpg)
 
-To remove the oil filter on my 360 Spider, I had to remove 2x 10mm bolts on the power steering resoivor, then I was able to finagle my non-Ferrari oil filter removeal tool in from one side and get my longest socket extender in from the top. This was an awful oil filter to remove, and I had to be sitting on top of the exhaust to reach it. 
+To remove the oil filter on my 360 Spider, I had to remove 2x 10mm bolts on the power steering reservoir, then I was able to finagle my non-Ferrari oil filter removal tool in from one side and get my longest socket extender in from the top. This was an awful oil filter to remove, and I had to be sitting on top of the exhaust to reach it. 
 
 ![360oil](/images/360oil/8.jpg)
 ![360oil](/images/360oil/9.jpg)
@@ -58,29 +58,29 @@ To remove the oil filter on my 360 Spider, I had to remove 2x 10mm bolts on the 
 
 Also remove the oil cap so more oil can drain. 
 
-Once the oil is done draining, I removed the Lower Oil Cover with 6x 10mm screws, including one that was nearly missing the head. Luckily, I could get it out with my normal sockets. The replacement Hill Engineering cover is noticably heavier and thicker than the Ferrari OEM part. 
+Once the oil is done draining, I removed the Lower Oil Cover with 6x 10mm screws, including one that was nearly missing the head. Luckily, I could get it out with my normal sockets. The replacement Hill Engineering cover is noticeably heavier and thicker than the Ferrari OEM part. 
 
 ![360oil](/images/360oil/12.jpg)
 ![360oil](/images/360oil/13.jpg)
 
-I installed some [Permatex Ultra Black gasket maker](https://amzn.to/3OeM83p) around the perimeter of the inside of the lower oil cover, including around the screw holes. I chose the Ultra Black because it was recommended for anything that could come into contact with oil, whereas the grey didn't seem to work as well with oil.  Another alternaitve that was recommended is [Three Bond 1211](https://amzn.to/48Vqj2z). 
+I installed some [Permatex Ultra Black gasket maker](https://amzn.to/3OeM83p) around the perimeter of the inside of the lower oil cover, including around the screw holes. I chose the Ultra Black because it was recommended for anything that could come into contact with oil, whereas the grey didn't seem to work as well with oil.  Another alternative that was recommended is [Three Bond 1211](https://amzn.to/48Vqj2z). 
 
 ![360oil](/images/360oil/18.jpg)
 
-The instructions for the Ultra Black say to hand tighten anything using this gasket maker, then let it sit for an hour or more, then fully tighten. So I did that by putting all 6 screws in (with some [Blue Loctite](https://amzn.to/48TnX4h) on each) and using a socket until I felt a slight resistance, let it sit for 2 hours, then tighened until the resistance was higher. 
+The instructions for the Ultra Black say to hand tighten anything using this gasket maker, then let it sit for an hour or more, then fully tighten. So I did that by putting all 6 screws in (with some [Blue Loctite](https://amzn.to/48TnX4h) on each) and using a socket until I felt a slight resistance, let it sit for 2 hours, then tightened until the resistance was higher. 
 
 Note that the workshop manual for the Ferrari 360 says to use 25Nm - DO NOT DO THAT. It stripped my first screw directly into the oil pan, and luckily I was able to get it back out with channel locks. 
 
 ![360oil](/images/360oil/14.jpg)
 ![360oil](/images/360oil/15.jpg)
 
-So once you have the lower oil pan cover in, the Ultra Black instructions recommend to let it cure for 24 hours before adding oil. In the mean time, you can go ahead and install your drain plugs. Ricambi inludes 1 new drain plug that you should put a new crush washer on, and you will re-use 1 old drain plug, but add a new copper crush washer to it. Again, the factory manual recommends 75NM, but that is way too high, I followed the advice of [Aldous](https://aldousvoice.com/2012/11/27/ferrari-360-annual-service/) and did hand tight plus about 1/4 turn on the socket. 
+So once you have the lower oil pan cover in, the Ultra Black instructions recommend to let it cure for 24 hours before adding oil. In the mean time, you can go ahead and install your drain plugs. Ricambi includes 1 new drain plug that you should put a new crush washer on, and you will re-use 1 old drain plug, but add a new copper crush washer to it. Again, the factory manual recommends 75NM, but that is way too high, I followed the advice of [Aldous](https://aldousvoice.com/2012/11/27/ferrari-360-annual-service/) and did hand tight plus about 1/4 turn on the socket. 
 
 ![360oil](/images/360oil/16.jpg)
 
 Install your new oil filter, you don't need to use the tool for this, hand tight as much as you can get is good for filters. 
 
-This is a good time to measure how much oil came out of your Ferrari's engine. Mine measuered about 9 quarts, so I'd expect to add that much, but I added a bit less just in case. Then let it warm up after refilling by running the engine or driving. To check the oil, you have to pull the dip stick while the engine is running and while it is warm. Add oil as need be, but be careful not to overfill it. 
+This is a good time to measure how much oil came out of your Ferrari's engine. Mine measured about 9 quarts, so I'd expect to add that much, but I added a bit less just in case. Then let it warm up after refilling by running the engine or driving. To check the oil, you have to pull the dip stick while the engine is running and while it is warm. Add oil as need be, but be careful not to overfill it. 
 
 Check for leaks. I was all good on the first try, thankfully! 
 

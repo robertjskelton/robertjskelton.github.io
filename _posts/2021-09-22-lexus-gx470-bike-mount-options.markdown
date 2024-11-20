@@ -13,7 +13,7 @@ We recently bought bicycles and became bike people, so we have to take our bikes
 
 ![bike](/images/bike/inside.jpg)
 
-This is my favorite, since the bikes are inside and safe, and it requires no extra parts. We have 2 bikes, so you just take the front wheel off each bike and then put the bike and the wheel inside. You have to push the middle row seats up, and the 3rd row can't be installed (I sold mine anyways). I've seen some people mount a [Quick Release Bike Fork](https://amzn.to/3nVZHsF) or 2 to a 2x4 and place that inside the vechile, so that the bikse can't move around. With 2 bikes in there, they don't move much anyways. This method does use all of the interior space of the GX, so no passengers can fit, and it probably won't work with 3 bikes or more. 
+This is my favorite, since the bikes are inside and safe, and it requires no extra parts. We have 2 bikes, so you just take the front wheel off each bike and then put the bike and the wheel inside. You have to push the middle row seats up, and the 3rd row can't be installed (I sold mine anyways). I've seen some people mount a [Quick Release Bike Fork](https://amzn.to/3nVZHsF) or 2 to a 2x4 and place that inside the vehicle, so that the bikes can't move around. With 2 bikes in there, they don't move much anyways. This method does use all of the interior space of the GX, so no passengers can fit, and it probably won't work with 3 bikes or more. 
 
 Pros: Cheap, Safe, Easy
 

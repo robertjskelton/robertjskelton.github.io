@@ -52,7 +52,7 @@ Repeat for the other side. It took about 15 minutes to do both sides. And my han
 
 ![Sunvisor](/images/sunvisor/11.jpg)
 
-Now you can put the whole assembly back. Don't forget to plug in the map light connector before reassmbling. 
+Now you can put the whole assembly back. Don't forget to plug in the map light connector before reassembling. 
 
 ![Sunvisor](/images/sunvisor/13.jpg)
 

@@ -33,7 +33,7 @@ Once you've got all that lined up, drill into your concrete pad and mount the si
 ![ikuby](/images/ikuby/14.jpg)
 ![ikuby](/images/ikuby/9.jpg)
 
-The carport comes with a lockable front, and the instructions and included parts just tell you to just secure the back to the ground. I wanted to be able to open both sides, so I mounted some part I found in my hardware bin to the ground, and used a carabeaner to clip and unclip the other end. This way, I can open both ends, and all sides of my carport are mounted to concrete. I feel pretty confident about that, plus it's next to my house which will reduce wind even more. 
+The carport comes with a lockable front, and the instructions and included parts just tell you to just secure the back to the ground. I wanted to be able to open both sides, so I mounted some part I found in my hardware bin to the ground, and used a carabiner to clip and unclip the other end. This way, I can open both ends, and all sides of my carport are mounted to concrete. I feel pretty confident about that, plus it's next to my house which will reduce wind even more. 
 
 ![ikuby](/images/ikuby/10.jpg)
 ![ikuby](/images/ikuby/12.jpg)

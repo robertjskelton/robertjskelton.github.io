@@ -29,7 +29,7 @@ Notes:
 * I had to trim every piece of plastic, and one of the rubber boots
 * I had to drill out the A-pillar mount holes to be larger, and did not use the rivets
 
-Alright, here is the install. Remove your passenger front fender line. This involves 3x T25 screws, 2x T30 screws, 3x 10mm bolts and a ton of annoying cips that I broke all of. 
+Alright, here is the install. Remove your passenger front fender line. This involves 3x T25 screws, 2x T30 screws, 3x 10mm bolts and a ton of annoying clips that I broke all of. 
 
 ![snorkel](/images/snorkel/6.jpg)
 
@@ -85,7 +85,7 @@ Tighten all the hose clamps on the rubber boots. Re-install the air box and all 
 
 ![snorkel](/images/snorkel/20.jpg)
 
-The A-pillar part is next, this makes your snorkel more secure. The included instructions say to use rivets and put them into your A-pillar, but the A-pillar is not very replacable, so [Rare Earth Magents](https://amzn.to/2U6xzWW) are recommended. Put electrical tape on the bottom of the magents to prevent scratching the A-pillar paint (I did a bad job at this). These 2 magnets can go through 2 of the holes on the 4 hole side of the A-pillar bracket. I did have to drill those holes out a bit, and also chop the stems of the magents to be shorter. Then, mount them and install the 3 screws into the snorkel to get some more stability. 
+The A-pillar part is next, this makes your snorkel more secure. The included instructions say to use rivets and put them into your A-pillar, but the A-pillar is not very replaceable, so [Rare Earth Magents](https://amzn.to/2U6xzWW) are recommended. Put electrical tape on the bottom of the magnets to prevent scratching the A-pillar paint (I did a bad job at this). These 2 magnets can go through 2 of the holes on the 4 hole side of the A-pillar bracket. I did have to drill those holes out a bit, and also chop the stems of the magnets to be shorter. Then, mount them and install the 3 screws into the snorkel to get some more stability. 
 
 ![snorkel](/images/snorkel/23.jpg)
 ![snorkel](/images/snorkel/24.jpg)

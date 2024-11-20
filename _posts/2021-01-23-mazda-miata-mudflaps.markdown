@@ -9,7 +9,7 @@ categories: cars
 
 The most annoying thing about my ND Miata is the dirt and mud that the front tires kick up on the front quarter panel. What this car needs is some mudflaps! There are some good custom options for ND Miatas from companies like [JB Armor](https://www.jamesbaroneracing.com/shop/index.php?main_page=product_info&cPath=333_366_407_470&products_id=988&fbclid=IwAR26syZfIKyJYyDGiEG3k0QD7_x-uPad5YtfjFZ-YMbeTNvX11FoXJTFl88) for $115, or [Megachip Solutions](https://megachipusa.com/products/nd-mazda-miata-chip-guards?variant=35548669509797) for $89, but you can save a few bucks and make your own from a generic mudflap, so I figured I'd try that out. 
 
-I bought the [MF12-BAS-BLK Rally Armor mudflaps](https://amzn.to/3sNNtlP), which are 4 for $25. Cheap. Inspired by [this miata.net post](https://forum.miata.net/vb/showthread.php?t=678967), I set about creating a carboard template to dry fit the mudflaps behind the front tires, then cut the [Rally Armor mudflaps](https://amzn.to/3sNNtlP) to fit that template. 
+I bought the [MF12-BAS-BLK Rally Armor mudflaps](https://amzn.to/3sNNtlP), which are 4 for $25. Cheap. Inspired by [this miata.net post](https://forum.miata.net/vb/showthread.php?t=678967), I set about creating a cardboard template to dry fit the mudflaps behind the front tires, then cut the [Rally Armor mudflaps](https://amzn.to/3sNNtlP) to fit that template. 
 
 ![Mudflaps](/images/mudflaps/1.jpg)
 
@@ -37,7 +37,7 @@ I then taped the cardboard template to the plastic mudlflaps and cut with some g
 ![Mudflaps](/images/mudflaps/9.jpg)
 ![Mudflaps](/images/mudflaps/10.jpg)
 
-I then taped the plastic mudflap I had already cut to a plastic mudflap I had not cut, then cut it to match. This way both sides will be identical. I also drilled the clip holes for the second mudflap on this part. This will give you a mirror image mudflap for the opposite side of your car. There is a small logo on these mudflaps, so decide if you want these facing in or out, it isn't very noticable though. 
+I then taped the plastic mudflap I had already cut to a plastic mudflap I had not cut, then cut it to match. This way both sides will be identical. I also drilled the clip holes for the second mudflap on this part. This will give you a mirror image mudflap for the opposite side of your car. There is a small logo on these mudflaps, so decide if you want these facing in or out, it isn't very noticeable though. 
 
 ![Mudflaps](/images/mudflaps/11.jpg)
 ![Mudflaps](/images/mudflaps/12.jpg)
@@ -61,7 +61,7 @@ For the passenger side, just do the same thing. I also cleaned out the wheel wel
 ![Mudflaps](/images/mudflaps/19.jpg)
 ![Mudflaps](/images/mudflaps/21.jpg)
 
-Final result! Barely noticable, but it will keep my Miata much cleaner. 
+Final result! Barely noticeable, but it will keep my Miata much cleaner. 
 
 ![Mudflaps](/images/mudflaps/22.jpg)
 ![Mudflaps](/images/mudflaps/23.jpg)

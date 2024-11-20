@@ -134,7 +134,7 @@ I ask Vlad if work will begin this week.
 I ask if work will begin this week, again. He says yes. 
 
 ### 11/26/2022 - 187 days after drop off
-I ask how progress was this week, he says they are working on the trasmission. 
+I ask how progress was this week, he says they are working on the transmission. 
 
 ### 11/30/2022 - 190 days after drop off
 Vlad says the transmission should be assembled today or tomorrow. 
@@ -229,7 +229,7 @@ Dropped off car at Ferrari Palm Beach. $340/hr for labor. They will also install
 Ferrari Palm Beach said they will have an update for me next week and that the timing job was done incorrectly. 
 
 # 3/1/2023
-Ferrari Palm Beach said my car is ready and timing is fixed - they said the previous shop had either not replaced the timing belts or put in used parts. The previous shop had the timing 6 degress off. Total is $5228 to fix the work that Vlad's did incorrectly and to install the new fuel pumps. 
+Ferrari Palm Beach said my car is ready and timing is fixed - they said the previous shop had either not replaced the timing belts or put in used parts. The previous shop had the timing 6 degrees off. Total is $5228 to fix the work that Vlad's did incorrectly and to install the new fuel pumps. 
 State Farm said that since my car is "high mileage" at 29k, it is only worth $80k for insurance agreed value, even after they said it was worth $100k previously.  
 
 # 3/4/2023
@@ -238,7 +238,7 @@ Noticed the air conditioner doesn't blow cold.
 Started a chargeback through Chase for $3800 for the timing issues and transmission hours doubling without being informed, which is illegal in Florida. . 
 
 # 3/28/2023
-The top that Vlad had "fixed" stopped working completely. Won't go up or down and is stuck in the middle. I ended up partially fixing it myself, but this is an issue that Vlad's Autobahn caused by rebuilding a hydrauilic incorrectly. The hydraulic behind the passenger headrest is shooting fluid. 
+The top that Vlad had "fixed" stopped working completely. Won't go up or down and is stuck in the middle. I ended up partially fixing it myself, but this is an issue that Vlad's Autobahn caused by rebuilding a hydraulic incorrectly. The hydraulic behind the passenger headrest is shooting fluid. 
 
 # 4/28/2023
 Chase approves my first charge back on the transmission/timing/timing belt issues.

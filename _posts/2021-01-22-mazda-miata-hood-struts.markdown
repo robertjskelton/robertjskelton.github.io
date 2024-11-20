@@ -38,12 +38,12 @@ For the upper bracket, find the two painted bolts that attach the hood to the ho
 ![Struts](/images/struts/4.jpg)
 ![Struts](/images/struts/5.jpg)
 
-Insert your upper bracket, again L for drivers, R for passenger. Thread the screw into the hole, but don't tighten it much. This bracket has 3M tape on the back, so remove the sticker paper before seating the bracket. Then you can tighen the bolt. 
+Insert your upper bracket, again L for drivers, R for passenger. Thread the screw into the hole, but don't tighten it much. This bracket has 3M tape on the back, so remove the sticker paper before seating the bracket. Then you can tighten the bolt. 
 
 ![Struts](/images/struts/6.jpg)
 ![Struts](/images/struts/7.jpg)
 
-Installing the struts themself was the most difficult part. The instructions have all this info about spring clips, but you don't need to know that. Place the thicker part of the strut on the upper ball joint on the hood itself and push it in. It'll click. 
+Installing the struts was the most difficult part. The instructions have all this info about spring clips, but you don't need to know that. Place the thicker part of the strut on the upper ball joint on the hood itself and push it in. It'll click. 
 
 For the lower part, you don't have to compress or extend the strut, which I kept trying. Remove the stick that holds up the hood, and hold the hood up with another hand, your head, or another person. Raise the hood a bit, and now the thinner part of the strut can fit into the lower ball joint. 
 

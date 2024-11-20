@@ -36,7 +36,7 @@ Now that the clock is off, you can remove the light, if your fingers can't reach
 
 ![LED](/images/360-clock/6.jpg)
 
-Swap the old bulb with your new [T5 LED](https://amzn.to/3IjYi8x), re-install and verify that the light comes on. If it doesn't reverse the polarity of your light. To test, turn the accesory of your 360 on by turning the key 1 click. 
+Swap the old bulb with your new [T5 LED](https://amzn.to/3IjYi8x), re-install and verify that the light comes on. If it doesn't reverse the polarity of your light. To test, turn the accessory of your 360 on by turning the key 1 click. 
 
 ![LED](/images/360-clock/5.jpg)
 

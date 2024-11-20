@@ -19,4 +19,4 @@ There is also something with Visible called [Party Pay](https://www.visible.com/
 
 So I basically paid $260 for a Pixel 4a and $25/mo for unlimited 4G and calls. I really can't complain about that, especially since I can make a complete call now (looking at you, AT&T).
 
-July 2021 Update: I'm still using Visible, no longer have an AT&T phone, and very happy with it overall. Party Pay is discontinuted, I think, but [here's my promo code for $5 on your first month](https://www.visible.com/get/38scdd). 
+July 2021 Update: I'm still using Visible, no longer have an AT&T phone, and very happy with it overall. Party Pay is discontinued, I think, but [here's my promo code for $5 on your first month](https://www.visible.com/get/38scdd). 

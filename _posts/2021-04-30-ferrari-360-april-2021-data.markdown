@@ -29,7 +29,7 @@ A manual transmission demands about a $6,000 premium over a F1 (automatic with p
 
 ![April 2021](/images/360-april2021/trans.png)
 
-And this is the current Price vs Miles chart. The highest miled 360 I've seen had about 80k miles on it, though it was listed for much higher than expected. It's still for sale, and has been for a while. There is a cluster of them for sale in the 20-30k mile range. 
+And this is the current Price vs Miles chart. The highest mile 360 I've seen had about 80k miles on it, though it was listed for much higher than expected. It's still for sale, and has been for a while. There is a cluster of them for sale in the 20-30k mile range. 
 
 ![April 2021](/images/360-april2021/miles.png)
 

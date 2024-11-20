@@ -29,10 +29,10 @@ While you are there, you should clean out the drain under the washer fluid tank,
 ![Washer](/images/washer/7.jpg)
 ![Washer](/images/washer/8.jpg)
 
-I am getting into the habit of installing car parts before I even get the delivery notificions. 
+I am getting into the habit of installing car parts before I even get the delivery notifications. 
 ![Washer](/images/washer/10.jpg)
 
-Once you have the new pump and gasket on there, re-install as before and tighten down the 2 Phillips screws, then use a funnel and add your favorire [washer fluid](https://amzn.to/45DgXoY). Done!
+Once you have the new pump and gasket on there, re-install as before and tighten down the 2 Phillips screws, then use a funnel and add your favorite [washer fluid](https://amzn.to/45DgXoY). Done!
 
 ![Washer](/images/washer/11.jpg)
 ![Washer](/images/washer/12.jpg)

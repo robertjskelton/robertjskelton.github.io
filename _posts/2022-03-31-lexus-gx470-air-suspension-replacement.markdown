@@ -7,7 +7,7 @@ categories: cars
 
 ![air](/images/air/27.jpg)
 
-Lexus GX470 have a rear air suspension, which can air up and down to adjust ride height. Somewhere around 200k miles, there are known to fail, which can lead to your air bags in the rear not holding air, and an uncomfortable ride. A sign of this is if your car seems to sit noticably lower after not driving it for a while. My 2007 GX470 has about 180k miles, and I removed the air suspension and installed a set of springs in the rear. 
+Lexus GX470 have a rear air suspension, which can air up and down to adjust ride height. Somewhere around 200k miles, there are known to fail, which can lead to your air bags in the rear not holding air, and an uncomfortable ride. A sign of this is if your car seems to sit noticeably lower after not driving it for a while. My 2007 GX470 has about 180k miles, and I removed the air suspension and installed a set of springs in the rear. 
 
 Parts:
 * [Rear Air Spring to Coil Spring Conversion Kit](https://amzn.to/3DoMyhz)
@@ -61,7 +61,7 @@ Next, you have a few electrical things to do - removing fuses and relays so that
 ![air](/images/air/7.jpg)
 ![air](/images/air/8.jpg)
 
-Remove the air suspenion controls in the cabin, near your shifter. Disconnect that controller, install the Toyota box thing. 
+Remove the air suspension controls in the cabin, near your shifter. Disconnect that controller, install the Toyota box thing. 
 
 ![air](/images/air/11.jpg)
 ![air](/images/air/12.jpg)

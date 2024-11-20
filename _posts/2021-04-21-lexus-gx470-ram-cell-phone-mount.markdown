@@ -39,7 +39,7 @@ Then install your RAM arm and phone holder to the ball. I actually tried using a
 
 ![Ram](/images/ram/9.jpg)
 
-So I ordered the [nicer more swivally arm](https://amzn.to/2RPMOlT) and was able to find a convenient location for my phone to sit. It has the phone at my eye level, while barely blocking any of my windsheild - you might have to expirement a while to find a good place for your uses. 
+So I ordered the [nicer more swivally arm](https://amzn.to/2RPMOlT) and was able to find a convenient location for my phone to sit. It has the phone at my eye level, while barely blocking any of my windshield - you might have to experiment a while to find a good place for your uses. 
 
 ![Ram](/images/ram/10.jpg)
 ![Ram](/images/ram/11.jpg)

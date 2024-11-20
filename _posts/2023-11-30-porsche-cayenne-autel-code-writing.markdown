@@ -9,7 +9,7 @@ categories: cars
 
 To get my [Porsche Cayenne Android Auto upgrade](https://rskelton.com/porsche-cayenne-carplayretrofits-androidauto-install/) working well, I had to enable the Aux input for the PCM, which can only be done through a PIWIS (Porsche scan tool) at a dealer, some Porsche independent mechanics, or a high end scan tool with a code writing function. I found out that the [Autel Maxisys MS906BT](https://amzn.to/3QTdxsI) that a friend let me borrow has the code writing function, and so I used it to enable the Aux input and a few other nice features on my 2014 Porsche Cayenne Diesel.
 
-To clarify, you are not writing code like programming, but more changing settings that are locked by default in the car menus. It is very simple to do, just requires scrolling through lots of menus, being pateint, and wishing you knew how to read German. 
+To clarify, you are not writing code like programming, but more changing settings that are locked by default in the car menus. It is very simple to do, just requires scrolling through lots of menus, being patient, and wishing you knew how to read German. 
 
 ![Coding](/images/coding/10.jpg)
 
@@ -45,7 +45,7 @@ I enabled the Phone section of my PCM here, as it was not enabled on my headunit
 ![Coding](/images/coding/6.jpg)
 
 # Auto fold Mirrors
-I'd also recommend enabling the Auto fold mirrors option, which is changable later in your car without a computer. This can be done in PCM/CDR / All / Additional equipment / Automatic folding mirror function.
+I'd also recommend enabling the Auto fold mirrors option, which is changeable later in your car without a computer. This can be done in PCM/CDR / All / Additional equipment / Automatic folding mirror function.
 
 ![Coding](/images/coding/15.jpg)
 ![Coding](/images/coding/17.jpg)

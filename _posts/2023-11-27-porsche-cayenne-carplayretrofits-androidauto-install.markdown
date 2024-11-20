@@ -12,7 +12,7 @@ I bought the [carplayretrofits.com Android Auto/Carplay head unit upgrade](https
 
 After the product arrived, I read the install instructions. Apparently this unit sold by carplayretrofits.com is actually a [Isudar board](https://amzn.to/3GnR6H6), which are known for being slow and buggy, but the seller claims they are modified with a different chipset, ram, ram controller, audio controller and custom firmware. If I had known this was an Isudar board with a 200% markup, I would not have bought it. These can be bought cheaply from Amazon and Ali Express. 
 
-Removal of the stock headunit was pretty straightforward, however I don't recommend using the [sellers instructions](https://cdn.shopify.com/s/files/1/0721/0847/4648/files/CPRF.pdf?v=1690511085). The removal head unit removeal instructions linked are for a Macan, which is very different than a Cayenne for the PCM removal. Basically, you need to remove the [2 air vents](https://www.youtube.com/watch?v=2v_dnikEjzM), then 4x TX27 screws, then the radio will pull right out. 
+Removal of the stock headunit was pretty straightforward, however I don't recommend using the [sellers instructions](https://cdn.shopify.com/s/files/1/0721/0847/4648/files/CPRF.pdf?v=1690511085). The removal head unit removal instructions linked are for a Macan, which is very different than a Cayenne for the PCM removal. Basically, you need to remove the [2 air vents](https://www.youtube.com/watch?v=2v_dnikEjzM), then 4x TX27 screws, then the radio will pull right out. 
 
 ![AA](/images/aa/3.jpg)
 

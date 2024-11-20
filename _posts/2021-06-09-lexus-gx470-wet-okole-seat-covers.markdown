@@ -67,7 +67,7 @@ The rears were pretty easy, easier than the fronts for sure. Install them with b
 
 All done! This took me maybe 2 hours in the Florida sun. The new seat covers provide MUCH more padding, they are super comfortable. There also seems to be more storage under the back of the front seats, since there is no longer that flap overhanging there. 
 
-I have also noticed that white dog hair sticks to and shows up pretty noticable on the black neoprence, but our black dogs hair isn't noticable anywhere. The middle seats don't go up and down as easily as before, since there is friction in the middle caused by additional material. And now my interior doesn't look so dated. Except for the wood trim. I think I'll do something about that next. Anyways, here's a ton of pictures after the install.  
+I have also noticed that white dog hair sticks to and shows up pretty noticeable on the black neoprene, but our black dogs hair isn't noticeable anywhere. The middle seats don't go up and down as easily as before, since there is friction in the middle caused by additional material. And now my interior doesn't look so dated. Except for the wood trim. I think I'll do something about that next. Anyways, here's a ton of pictures after the install.  
 
 ![wetokole](/images/wetokole/5.jpg)
 ![wetokole](/images/wetokole/6.jpg)

@@ -102,7 +102,7 @@ I also re-painted my grill. I had [plastidipped](https://rskelton.com/Plasti-Dip
 
 # Results
 
-The final result is a huge upgrade! The GX looks 10 year newer, and the new fog lights are agressive. I can also see much better while driving. 
+The final result is a huge upgrade! The GX looks 10 year newer, and the new fog lights are aggressive. I can also see much better while driving. 
 
 ![update](/images/update/15.jpg)
 ![update](/images/update/16.jpg)
