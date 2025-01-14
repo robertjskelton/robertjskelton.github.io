@@ -7,9 +7,9 @@ categories: cars
 
 ![hydraulic](/images/hydraulics/11.jpg)
 
-I have now replaced both the left and right secondary hydraulic cylinders on the Ferrari 360 Spider's convertible top. These are the 2 hydraulics that sit above the drivers and the passengers head. This is how to remove and install them, and you will need to send them off to another company to be rebuilt. 
+I have now replaced both the left and right secondary hydraulic cylinders on the Ferrari 360 Spider's convertible top. These are the 2 hydraulics that sit above the drivers and the passengers head. This is how to remove and re-install them. You will also need to send them off to another company to be rebuilt. 
 
-Turn the car on and start lowering the top. Once it releases from the center latch and the top goes back some, turn the car off. Now you can move the top around manually. 
+First, turn the car on and start lowering the top. Once it releases from the center latch and the top goes back some, turn the car off. Now you can move the top around manually. 
 
 ![hydraulic](/images/hydraulics/1.jpg)
 
@@ -23,9 +23,12 @@ To remove the cylinder, cut the zip tie holding the hydraulic lines.
 
 Next, you will need to remove the 2 screws holding the hydraulic lines into the cylinder. This part is annoying, since they were already stripped on my car. They need a 2.5mm hex bit, but since mine were rounded into a circle, I found that hammering on a Torx 25 bit on a ratchet, I was able to remove the stripped screws. 
 
+
 ![hydraulic](/images/hydraulics/6.jpg)
 
-If you want to replace the screws with the Ferrari OEM screw, that's part number 66683900. I did not, since those parts strip easily, and used 2 new M4-.7x6 Phillips head zinc screws. These are way less likely to strip, since it's very difficult to get a straight shot on anything because of the hydraulic lines. 
+Also remove the gold hardware under the screws, if you drop it in the frame, a magnet is useful for fishing it out. 
+
+If you want to replace the screws with the Ferrari OEM screw, that's part number 66683900. I did not, since those parts strip easily, and used 2 new [M4-.7x6 Phillips head](https://amzn.to/4g0D8KT) screws. These are way less likely to strip, since it's very difficult to get a straight shot on anything because of the hydraulic lines. 
 
 Next, remove the 1x Torx 25 bolt on the side of the frame to get access to the retaining pin. 
 
@@ -44,7 +47,7 @@ Then it should lift out of the car easily. Put some rags around to catch extra h
 
 ![hydraulic](/images/hydraulics/11.jpg)
 
-Then ship your hydraulic off to be rebuilt. I have used both [Top Hydraulics](https://tophydraulics.com/) in Oregon which was $260 for a rebuild, and [Cabriolet Hydraulics](cabriolethydraulics.com) in Sarasota, FL for $220, which is closer to me for shipping. They both worked well. For shipping, make sure you collapse the hydraulic and drain it of as much fluid as you can. 
+Then ship your hydraulic off to be rebuilt. I have used both [Top Hydraulics](https://tophydraulics.com/83-ferrari-360-f360-spider) in Oregon which was $260 for a rebuild, and [Cabriolet Hydraulics](https://cabriolethydraulics.com/frequently-asked-questions/) in Sarasota, FL for $220, which is closer to me for shipping. They both worked well and claim to have better seals than OEM. For shipping, make sure you collapse the hydraulic and drain as much fluid as you can. 
 
 For the Ferrari 360 Spider, it has 7 different hydraulics powering the top. The left and right secondary cylinders are apparently the ones that break most often, and are the 2 I have replaced myself. When the elastics in the top fail, these 2 cylinders experience additional stress. I also installed a [Elastic Repair Kit from Exotic Specialty Parts](https://www.exoticspecialtyparts.com/product/esp-elastik/30?cp=true&sa=true&sbp=false&q=false), which I'm hoping makes these hydraulic cylinders last longer. 
 
@@ -59,6 +62,6 @@ Install your 2 new screws with the factory seating hardware.
 ![hydraulic](/images/hydraulics/2.jpg)
 
 Put on another zip tie (has to be Ferrari OEM) and cut it. 
-Finally, [fill your hydraulic fluid to the proper level](https://www.ferrarichat.com/forum/threads/ferrari-360-spider-soft-top-roof-hood-hydraulic-liquid-reservoir-how-to-top-it-up.140091/), operate the system a few times, and refill. Always use ZHM fluid. 
+Finally, [fill your hydraulic fluid to the proper level](https://www.ferrarichat.com/forum/threads/ferrari-360-spider-soft-top-roof-hood-hydraulic-liquid-reservoir-how-to-top-it-up.140091/), operate the system a few times, and refill. Always use [ZHM fluid](https://amzn.to/3WkUCuh). 
 
 And now your top should work for another few months!
