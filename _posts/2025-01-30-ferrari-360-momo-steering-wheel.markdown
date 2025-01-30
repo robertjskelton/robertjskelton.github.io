@@ -7,7 +7,6 @@ categories: cars
 
 ![momo](/images/momo/12.jpg)
 
-
 I replaced the factory steering wheel in my Ferrari 360 wheel for pretty cheap. This procedure should work for all Ferrari 360s and the airbag equipped models of the Ferrari 355. Note that I do lose my airbag here - that's not a complaint, as my air bag is 25 years old and I don't trust that it still works anyways. 
 
 Parts Needed:
@@ -42,7 +41,7 @@ This is all that is holding your air bag in, so disconnect it now.
 
 ![momo](/images/momo/5.jpg)
 
-Remove the 4 5mm Hex bolts holding on the steering wheel. 
+Remove the 4x 5mm Hex bolts holding on the steering wheel, marked in blue paint on my picture. 
  
 ![momo](/images/momo/6.jpg)
 
@@ -63,16 +62,17 @@ Almost done! Your hub is on, time to install the wheel using the 6 included Hex 
 
 ![momo](/images/momo/11.jpg)
 
-Finally, you have the 3 connections to make. For your air bag, put the resistor across the 2 leads and either electrical tape or heat shrink it. This will trick the Airbag ECU to think an air bag is installed, so it won't show an air bag light on your dash. 
+Finally, you have the 3 connections to make. For your air bag, put the resistor across the 2 leads and either electrical tape or heat shrink it. This will trick the Airbag ECU to think an air bag is installed, so it won't show an air bag light on your dash. I have read that resistors near 3.3 ohms  will work to mimic the resistance in the factory air bag, however ones as high as 10ohms did not work. Various Fchat threads indicated that 3ohm, 3.3ohm and 4.7ohm resistors worked. If you don't have a resistor, your air bag light will light up on the dash, and apparently it takes a SD1 or SD2 (expensive Ferrari scan tool) to disable. So this part is important if you don't like dash lights!
 
 ![momo](/images/momo/13.jpg)
 ![momo](/images/momo/14.jpg)
+![momo](/images/momo/15.jpg)
+![momo](/images/momo/16.jpg)
 
 For the other two connectors, the one we added the extension to is your ground, this goes on the outside of the horn button's connection. The final one with the stock plastic adapter is the power, I bent the horn power connector a bit to make this fit. 
 
-Turn the car on and test your horn before seating the horn button for good. Done!
+Turn the battery on and test your horn before seating the horn button for good. Done!
 
 ![momo](/images/momo/12.jpg)
 
-
-
+I did not have a good connection on my resistor to start, therefore I had the Air Bag light come on. Fortunately, my [Autel AP200](https://amzn.to/4hzwcp8) with the Ferrari module (an additional $22) was able to read and clear the Air Bag code. I initially tried cutting the leads on the resistor shorter - don't do that. Use the long leads, put them all the way in, then secure the resistor. 
