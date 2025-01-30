@@ -62,7 +62,7 @@ Almost done! Your hub is on, time to install the wheel using the 6 included Hex 
 
 ![momo](/images/momo/11.jpg)
 
-Finally, you have the 3 connections to make. For your air bag, put the resistor across the 2 leads and either electrical tape or heat shrink it. This will trick the Airbag ECU to think an air bag is installed, so it won't show an air bag light on your dash. I have read that resistors near 3.3 ohms  will work to mimic the resistance in the factory air bag, however ones as high as 10ohms did not work. Various Fchat threads indicated that 3ohm, 3.3ohm and 4.7ohm resistors worked. If you don't have a resistor, your air bag light will light up on the dash, and apparently it takes a SD1 or SD2 (expensive Ferrari scan tool) to disable. So this part is important if you don't like dash lights!
+Finally, you have the 3 connections to make. For your air bag, put the resistor across the 2 leads and either electrical tape or heat shrink it. This will trick the Airbag ECU to think an air bag is installed, so it won't show an air bag light on your dash. I have read that resistors near 3.3 ohms  will work to mimic the resistance in the factory air bag, however ones as high as 10ohms did not work. Various Fchat threads indicated that 3ohm, 3.3ohm and 4.7ohm resistors worked. If you don't have a resistor, your air bag light will light up on the dash. 
 
 ![momo](/images/momo/13.jpg)
 ![momo](/images/momo/14.jpg)
