@@ -21,7 +21,7 @@ Parts Needed:
 
 Tools
 * [T30 TamperProof / Security Torx Bit](https://amzn.to/3WAU183) - this is used for 2 screws on your factory steering wheel
-* [Hex 5 bit or Allen Key](https://amzn.to/3Cq6Nzn)
+* [Hex 5mm bit or Allen Key](https://amzn.to/3Cq6Nzn)
 
 This is a pretty simple install. 
 
