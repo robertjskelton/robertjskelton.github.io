@@ -5,6 +5,8 @@ date:   2025-03-03 9:00:14 -0400
 categories: renovations
 ---
 
+![Garage Remodel](/images/garageremodel/8.jpg)
+
 I have a one car garage that I spend a lot of time in, and I figured I should invest some time and money in to making it nice to use. 
 
 # Lights
@@ -34,7 +36,7 @@ And of course, one of the best things you can do to organize your garage and car
 ![Garage Remodel](/images/shed/5.jpg)
 
 # Floor
-My inside A/C unit is located in the garage, and the A/C drain line ran all the way across the floor and out that side of the house. I didn't like seeing that PVC running across my garage, so I re-routed the drain line to run parallel to the wall that the A/C is already on. I had to drill a big hole through concrete to run the drain outside, and it drain into a planter on my front porch. I was able to re-use my [Safe-T switch](https://amzn.to/3XsUw4y), so the only cost for this was about $10 in PVC. I made sure to do this before my floors were coated so that the install would look super clean.  
+My inside A/C unit is located in the garage, and the A/C drain line ran all the way across the floor and out that side of the house. I didn't like seeing that PVC running across my garage floor, so I re-routed the drain line to run parallel to the wall that the A/C is already on. I had to drill a big hole through concrete to run the drain outside, and it drain into a planter on my front porch. I was able to re-use my [Safe-T switch](https://amzn.to/3XsUw4y), so the only cost for this was about $10 in PVC. I made sure to do this before my floors were coated so that the install would look super clean.  
 
 Before - drain line running across the floor
 
@@ -58,7 +60,7 @@ Garage floor after
 Once the floor was done, I had to wait a few days to move everything back in, but once I did I tried to optimize my storage, especially around my washer/dryer area. I was able to shove them even further into the corner and get a few extra inches in my garage by redoing the washer drain!
 
 # Final Things
-I found a metal junction box with live power in it that wasn't being used, so I wired that into 4 outlets, then bought an electronic drum set to use there. I also brought some old rugs from my wife's massage business, Mimosa Tree Massage, and used those as drum and "laundry room" rugs. 
+I found a metal junction box with live power in it that wasn't being used, so I wired that into 4 outlets, then bought an electronic drum set to use there. I also brought some old rugs from my wife's massage business, [Mimosa Tree Massage](https://mimosatreemassage.com/), and used those as drum and "laundry room" rugs. 
 
 ![Garage Remodel](/images/garageremodel/9.jpg)
 ![Garage Remodel](/images/garageremodel/10.jpg)
@@ -69,7 +71,7 @@ I put an extra Alexa in the garage, and hooked up the audio output to some [Edif
 
 ![Garage Remodel](/images/garageremodel/14.jpg)
 
-And the final thing I did was to install a [rubber threshold seal](https://amzn.to/4h4VCKH), only needed 9 feet due to being a 1 car garage. This involved measuring, marking, caulking, then letting it sit for a day to cure. This step is DEFINITELY needed - I thought I could go without it once my floors were redone, but the first week after completion, it rained. THe rain hit my garage door, then ran under the door, and I found a pretty big standing water spot in the morning. This threshold keeps any water from making it under the door and prevents that issue. 
+And the final thing I did was to install a [rubber threshold seal](https://amzn.to/4h4VCKH), and only needed 9 feet due to being a 1 car garage. This involved measuring, marking, caulking, then letting it sit for a day to cure. This step is DEFINITELY needed - I thought I could go without it once my floors were redone, but the first week after completion, it rained. The rain hit my garage door, then ran under the door, and I found a pretty big puddle in the morning. This threshold keeps any water from making it under the door and prevents that issue. 
 
 ![Garage Remodel](/images/garageremodel/8.jpg)
 
