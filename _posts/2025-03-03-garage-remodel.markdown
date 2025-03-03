@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Garage Remodel"
-date:   2025-03-03 10:00:14 -0400
+date:   2025-03-03 9:00:14 -0400
 categories: renovations
 ---
-
 
 I have a one car garage that I spend a lot of time in, and I figured I should invest some time and money in to making it nice to use. 
 
@@ -65,6 +64,10 @@ I found a metal junction box with live power in it that wasn't being used, so I 
 ![Garage Remodel](/images/garageremodel/10.jpg)
 
 A few things I did once we purchased the house were to put a tennis ball hanging from the ceiling, so I never pulled too far forward, and to put pool noodles on the walls, so that the doors don't hit the concrete walls. Total cost for those was $0. 
+
+I put an extra Alexa in the garage, and hooked up the audio output to some [Edifier speakers](https://amzn.to/4hXNHQw) I've had for a while, so I can jam out while I'm working on the cars. 
+
+![Garage Remodel](/images/garageremodel/14.jpg)
 
 And the final thing I did was to install a [rubber threshold seal](https://amzn.to/4h4VCKH), only needed 9 feet due to being a 1 car garage. This involved measuring, marking, caulking, then letting it sit for a day to cure. This step is DEFINITELY needed - I thought I could go without it once my floors were redone, but the first week after completion, it rained. THe rain hit my garage door, then ran under the door, and I found a pretty big standing water spot in the morning. This threshold keeps any water from making it under the door and prevents that issue. 
 
