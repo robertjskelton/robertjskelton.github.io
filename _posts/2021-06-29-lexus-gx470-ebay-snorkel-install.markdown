@@ -7,14 +7,14 @@ categories: cars
 
 ![snorkel](/images/snorkel/1.jpg)
 
-I installed my ebay Snorkel with the help of John Gregulak. This is a cheap mod that looks cool, but it is a pretty big hassle to install. It took about 4 hours to install, and $145 of parts and materials. 
+I installed my [ebay Snorkel](https://ebay.us/29Jj1d) with the help of John Gregulak. This is a cheap mod that looks cool, but it is a pretty big hassle to install. It took about 4 hours to install, and $145 of parts and materials. 
 
 I used the [writeup on Zack's blog](https://blog.awszac.com/2021/02/28/installing-an-ebay-special-snorkel-on-a-lexus-gx470/?fbclid=IwAR3W_wVzXe5yOCelXsUGSdZ4dZnsCxQgpjS8xFpadvk-XEM2998vNlQVZnk) and some other posts on [GXOR](https://www.facebook.com/groups/LexusGXOR/permalink/2120865391377896/) to choose the ebay snorkel and how to install. This snorkel fits with the [Rago Ditch lights bracket](https://rskelton.com/GX470-Ditch-Light-Install/)
 
 Other options include the [Ironman Snorkel](https://ironman4x4america.com/airforce-snorkel-suited-for-lexus-gx470-toyota-prado-120/), the [ARB Safari Snorkel](https://yotamafia.com/product/arb-safari-snorkel-intake-kit-lexus-gx470/), and the [JW Offroad Snorkel](https://www.jwoffroad.com/collections/frontpage/products/gx470-snorkel?variant=39631482880193). These cost much more, and the general consensus is that the more expensive snorkels are just as difficult to install, so I went the cheap route. 
 
 Parts Used:
-* [ebay Snorkel](https://www.ebay.com/itm/324443003836) or [Amazon snorkel](https://amzn.to/3w1U4JP)
+* [ebay Snorkel](https://ebay.us/29Jj1d) or [Amazon snorkel](https://amzn.to/4hdPmAg)
 * [2x Rare Earth Magents](https://amzn.to/2U6xzWW)
 * Electrical tape, painters tape, drill bits, power tools, etc. 
 
@@ -59,7 +59,7 @@ This is the diagram of how it is all supposed to fit together.
 
 ![snorkel](/images/snorkel/diagram.jpg)
 
-Next, you can dry fit the snorkel with the 5 mounting bolts. Once you're satisfied there, you'll want to paint and/or clear coat the exposed metal to prevent rust. I used a dremel to sand down the edges, did 1 coat of touch up silver, then 2 coats of clear coat. 
+Next, you can dry fit the snorkel with the 5 mounting bolts. Once you're satisfied there, you'll want to paint and/or clear coat the exposed metal to prevent rust. I used a [Dremel](https://amzn.to/41x7VJP) to sand down the edges, did 1 coat of touch up silver, then 2 coats of clear coat. 
 
 ![snorkel](/images/snorkel/18.jpg)
 
