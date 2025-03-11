@@ -6,7 +6,7 @@ categories: cars
 ---
 ![Washer](/images/washer/12.jpg)
 
-After topping up my washer fluid tank in the Suzuki Cappuccino the other week, I noticed a hole in the top of the tank. I poked the hole, and realized the whole top of my washer fluid tank was very brittle, leaking, and needed to be replaced. I ordered a [38450-80F00 Suzuki OEM Washer Fluid Tank](https://www.ebay.com/itm/194709595176) for $67 shipped from Japan, and it arrived about 2 weeks later. 
+After topping up my washer fluid tank in the Suzuki Cappuccino the other week, I noticed a hole in the top of the tank. I poked the hole, and realized the whole top of my washer fluid tank was very brittle, leaking, and needed to be replaced. I ordered a [38450-80F00 Suzuki OEM Washer Fluid Tank](https://ebay.us/b9yp01) for $67 shipped from Japan, and it arrived about 2 weeks later. 
 
 ![Washer](/images/washer/1.jpg)
 

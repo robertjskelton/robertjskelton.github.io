@@ -13,7 +13,7 @@ One of trim pieces for the roof rack on my GX broke off, so I ordered some new t
 * [Filler Primer](https://amzn.to/3lBgux7)
 * [Black Plastic Welder](https://amzn.to/36BhP0B)
 
-I ordered [these](https://www.ebay.com/itm/223714678368) for the four front and back trim pieces, I don't recommend them, they don't fit super well. I also had to buy a new middle trim piece since I stepped on and broke mine while doing this project, don't do that. But if you do, you can get the [drivers side middle piece here](https://www.ebay.com/itm/254030774323), or the [passenger side middle piece here](https://www.ebay.com/itm/LEXUS-FACTORY-PASSENGER-SIDE-ROOF-RACK-MIDDLE-COVER-2004-2009-GX470-PEARL-WHITE/333270082906?fits=Model%3AGX470%7CMake%3ALexus&hash=item4d9871e55a:g:AroAAOSw~2ldL7B8). 
+I ordered [these](https://ebay.us/8Q8e35) for the four front and back trim pieces, I don't recommend them, they don't fit super well. I also had to buy a new middle trim piece since I stepped on and broke mine while doing this project, don't do that. But if you do, you can get the [drivers side middle piece here](https://www.ebay.com/itm/254030774323), or the [passenger side middle piece here](https://www.ebay.com/itm/LEXUS-FACTORY-PASSENGER-SIDE-ROOF-RACK-MIDDLE-COVER-2004-2009-GX470-PEARL-WHITE/333270082906?fits=Model%3AGX470%7CMake%3ALexus&hash=item4d9871e55a:g:AroAAOSw~2ldL7B8). 
 
 First, take the rack off the truck. The trim pieces just pop off with some force, three pieces per side. All the bolts are 12mm, 5 bolts per side. To take the screws under the roof rack off, those are T30, but mine were SUPER rusted so most of them just stripped, so I just painted over them. 
 

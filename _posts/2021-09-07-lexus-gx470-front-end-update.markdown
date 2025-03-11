@@ -10,7 +10,7 @@ categories: cars
 I did a major front end update on my GX470. I installed new Depo headlights, new low beam bulbs, and replaced the fog lights and their housings with 2 yellow LED pods per side. I also created a wiring harness, and repainted my stock grill. 
 
 Parts Used:
-* [Depo Sport Headlights](https://www.ebay.com/itm/363114381800) - $419
+* [Depo Sport Headlights](https://ebay.us/P0m5Gh) - $350
 * [4 total Yellow LED fog pod lights](https://amzn.to/38KrTG8) 
 * [Auxito H11 Low Beam LEDs](https://amzn.to/3zRfUCI) 
 * [3M Headlight Clear Coat](https://amzn.to/3hauZba) 
