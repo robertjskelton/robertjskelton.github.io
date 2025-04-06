@@ -71,8 +71,12 @@ I put an extra Alexa in the garage, and hooked up the audio output to some [Edif
 
 ![Garage Remodel](/images/garageremodel/14.jpg)
 
-And the final thing I did was to install a [rubber threshold seal](https://amzn.to/4h4VCKH), and only needed 9 feet due to being a 1 car garage. This involved measuring, marking, caulking, then letting it sit for a day to cure. This step is DEFINITELY needed - I thought I could go without it once my floors were redone, but the first week after completion, it rained. The rain hit my garage door, then ran under the door, and I found a pretty big puddle in the morning. This threshold keeps any water from making it under the door and prevents that issue. 
+And 2 final things I did were to install a [rubber threshold seal for the floor under the garage door](https://amzn.to/4h4VCKH), and a [P bulb garage door bottom seal](https://amzn.to/44aVpCL). I only needed 9 feet due to being a 1 car garage. The bottom seal involved measuring, marking, caulking, then letting it sit for a day to cure. This step is DEFINITELY needed - I thought I could go without it once my floors were redone, but the first week after completion, it rained. The rain hit my garage door, then ran under the door, and I found a pretty big puddle in the morning. 
 
 ![Garage Remodel](/images/garageremodel/8.jpg)
+
+This bottom threshold helped, but didn't prevent it as I found out, as my existing garage doors seal was cut about a foot short for some reason previously. So I bought the [P bulb style seal](https://amzn.to/44aVpCL) due to the bottom of my door just having a single track for a seal (as opposed to 2 which seems more common). I removed the old seal but cutting it out with an exacto knife, then cleaned it and lubed the track with WD-40 before sliding the new seal in. Finally, I cut the seal, and adjusted the opening height of my garage door due to the difference in the height in the old and new seal. And THIS actually kept water out of my garage during heavy rain. 
+
+![Garage Remodel](/images/garageremodel/seal.jpg)
 
 So that's how I turned my little garage into a great new workspace that looks much better. 
