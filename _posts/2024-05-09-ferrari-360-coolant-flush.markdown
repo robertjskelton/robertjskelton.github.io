@@ -47,7 +47,7 @@ Seal your radiators back up by re-installing the drain caps. Attach the Airvac t
 
 ![Coolant](/images/coolant/9.jpg)
 
-Attach your air compressor to the tool and draw a vacuum (instructions vary based on your tool). Let it hold a vacuum for a few minutes to confirm there is no leaks in your system. 
+Attach your air compressor to the tool and draw a vacuum (instructions vary based on your tool, [this is a great video](https://youtu.be/13ekPSv66iI?si=L8zK3FX5qZmU6SLy&t=449) for the [tool I own](https://amzn.to/3WyE82M)). Let it hold a vacuum for a few minutes to confirm there is no leaks in your system. 
 
 ![Coolant](/images/coolant/10.jpg)
 
@@ -55,7 +55,7 @@ Combine your distilled water and G48 coolant in the 5 gallon bucket.
 
 ![Coolant](/images/coolant/12.jpg)
 
-Put the drawing hose from the Airvac into the bottom of the bucket. Open the valve to draw coolant in. This will completely fill your coolant system with mixed coolant and no air, but it will fill the the very top. 
+Put the drawing hose from the Airvac into the bottom of the bucket. Open the air valve, vacuum valve, and finally valve to the coolant quickly to draw coolant into the fill hose, basically priming it. This step will make sure you don't start loading your coolant system with air. Then close the air valve and vacuum valve, and open the coolant vale. This will completely fill your coolant system with mixed coolant and no air, but it will fill the the very top. 
 
 ![Coolant](/images/coolant/13.jpg)
 
@@ -63,6 +63,6 @@ I used a turkey baster to remove a bit of the coolant, then re-installed the coo
 
 If your coolant cap is over a year old, you might consider [replacing it now](https://www.ricambiamerica.com/radiator-tank-cap.html), they're cheap and a consumable part on the Ferrari 360. 
 
-Finally, re-install the front undertray, lower your car off the ramps, and enjoy driving!
+Finally, re-install the front under tray, lower your car off the ramps, and enjoy driving!
 
-[Here's a good YouTube video covering the process.](https://www.youtube.com/watch?v=K1mkTQKiSV8)
+[Here's a good YouTube video covering the process on a Ferrari 360.](https://www.youtube.com/watch?v=K1mkTQKiSV8)
