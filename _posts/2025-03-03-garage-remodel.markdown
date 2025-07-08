@@ -7,6 +7,7 @@ categories: renovations
 
 ![Garage Remodel](/images/garageremodel/8.jpg)
 
+Impact-Site-Verification: f4a7c91f-7f22-4248-8004-586df882bca0
 I have a one car garage that I spend a lot of time in, and I figured I should invest some time and money in to making it nice to use. 
 
 # Lights
