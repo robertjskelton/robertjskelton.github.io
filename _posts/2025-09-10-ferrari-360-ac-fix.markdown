@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ferrari 360 - CarPlay / Android Auto Headunit"
-date:   2025-07-08 9:00:14 -0400
+title:  "Ferrari 360 - Air Conditioner Fix"
+date:   2025-09-10 9:00:14 -0400
 categories: cars
 ---
 
@@ -22,7 +22,7 @@ My main leak was on the fitting to the compressor, which was installed about a y
 ![360 A/C](/images/ac/5.jpg)
 ![360 A/C](/images/ac/6.jpg)
 
-I had to remove the motor mounts. Which were shot anyways, so I replaced them. And when you replace them, the bolt and nut that go through the middle of the motor mount shou   d be replaced, and use a massive 24mm on both sides. So you need both a 24mm socket, which I had, and a 24mm wrench, which I had to buy, to hold it on the other side. You can re-use the washers and the 17mm bolts. 
+I had to remove the motor mounts. Which were shot anyways, so I replaced them. And when you replace them, the bolt and nut that go through the middle of the motor mount should be replaced, and use a massive 24mm on both sides. So you need both a 24mm socket, which I had, and a 24mm wrench, which I had to buy, to hold it on the other side. You can re-use the washers and the 17mm bolts. 
 
 ![360 A/C](/images/ac/8.jpg)
 ![360 A/C](/images/ac/9.jpg)
@@ -51,7 +51,7 @@ And while I had the compressor out, I painted the heat shield for the compressor
 ![360 A/C](/images/ac/14.jpg)
 ![360 A/C](/images/ac/15.jpg)
 
-Before refitting the undertray, I cleaned off the bottom of the engine from an old coolant leak with some brake clean and a wire brush. 
+Before refitting the rear undertray, I cleaned off the bottom of the engine from an old coolant leak with some brake clean and a wire brush. 
 ![360 A/C](/images/ac/2.jpg)
 
 All in all, I replaced:
