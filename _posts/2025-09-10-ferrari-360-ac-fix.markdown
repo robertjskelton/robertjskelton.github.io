@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ferrari 360 - Air Conditioner Fix"
-date:   2025-09-10 9:00:14 -0400
+date:   2025-08-11 8:00:14 -0400
 categories: cars
 ---
 
@@ -15,7 +15,7 @@ This was a multi-step process. First, I realized I had a major leak in the A/C w
 
 There are multiple potential spots for leaks on a Ferrari 360 A/C system. There is the compressor, which is accessible both under the car and front the access panel to the engine behind the seats. There is the drier filter and high and low pressure lines, which are behind a panel in the frunk. There are the fill ports, which are under an easier to access panel in the frunk. And there is the condenser, which is behind the front bumper. I narrowed it down to having leaks in the frunk and on the compressor, so luckily I did not have to remove the front bumper. 
 
-My main leak was on the fitting to the compressor, which was installed about a year ago by a local shop. Removing the compressor was probably the most difficult and annoying job I've ever performed on any car. It involved reaching multiple 0-visibility allen screws with almost no room to work. It also involved removing the motor mounts in order to loosen a bolt. Yeah, you read that right. 
+My main leak was on the fitting to the compressor, which was installed about a year ago by a local shop. Removing the compressor was probably the most difficult and annoying job I've ever performed on any car. It involved reaching multiple 0-visibility 6mm hex screws with almost no room to work. You have to loosen the tensionor pulley and remove the belt. It also involved removing the motor mounts in order to get access to loosen a bolt. Yeah, you read that right. 
 
 ![360 A/C](/images/ac/3.jpg)
 ![360 A/C](/images/ac/4.jpg)
@@ -34,7 +34,7 @@ Once the compressor was out, I replaced a few o-rings there.
 ![360 A/C](/images/ac/12.jpg)
 ![360 A/C](/images/ac/13.jpg)
 
-In the frunk, I replaced the drier filter, which is a every 2 year recommended replacement. While removing the drier filter, I also broke the high pressure fill line, which is a part that doesn't seem to be available new anymore, so I purchased a used one of those. While testing the A/C, I found I had new leaks on the new drier filter, so I re-seated it with new o-rings.
+In the frunk, I replaced the drier filter, which is a every 2 year recommended replacement. I had to buy a 19mm wrench for that. While removing the drier filter, I also broke the high pressure fill line, which is a part that doesn't seem to be available new anymore, so I purchased a used one of those. While testing the A/C, I found I had new leaks on the new drier filter, so I re-seated it with new o-rings.
 
 ![360 A/C](/images/ac/16.jpg)
 ![360 A/C](/images/ac/17.jpg)
@@ -65,7 +65,7 @@ All in all, I replaced:
 * [Charcoal filter](https://www.ebay.com/itm/332890585711) - $55
 
 Tools required: 
-* I added probably $60 of R134 to both my car and the garage floor. 
+* I added probably $60 of [R134](https://amzn.to/4lhJech) to both my car and the garage floor. I used cans with UV dye mostly.  
 * [24mm wrench](https://amzn.to/4lnxDIW) - $10
 * [19mm wrench](https://amzn.to/4ovBNB7) - $10
 * [A/C manifold set](https://amzn.to/47kFQKo) - $130
