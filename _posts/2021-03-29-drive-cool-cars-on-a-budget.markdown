@@ -182,7 +182,7 @@ My wife's parents bought her this car in college. It was a decent little car for
 ----
 ### 11. 2018 Ford Mustang Convertible
 * Bought: $22,000 / 33,000 miles
-* Sold: Not yet, not for a while!
+* Sold: $12,500 / 83,000 miles
 * MPG: 21/32, premium gas
 * Insurance: $60/mo for excellent coverage
 * Engine: 2.3L 4-cylinder, 310HP
@@ -193,7 +193,9 @@ My wife's parents bought her this car in college. It was a decent little car for
 
 Sweet convertible Mustang! It has white paint with a rare red interior, there were only 3 for sale in America with that combo when we bought this. This car is fast for a 4 cylinder, and is just as nice as my Corvette was. It has the Premium Plus package, so it has lots of digital displays, heated and cooled seats, CarPlay and Android Auto and tons of other great features. This is a super comfortable car that is also fun to drive.
 
-We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fiat and Corvette over and traded them both in. It was really sad to see my C7 go, but at the same time, it was way too expensive of a car for me. I got a little upset not having a fun manual sports car though, so I bought myself a...
+We bought this CPO from Sarasota Ford over in Sarasota, FL. We drove both the Fiat and Corvette over and traded them both in. It was really sad to see my C7 go, but at the same time, it was way too expensive of a car for me. 
+
+We drove this for about 8 years and lost about $10,000 total on it, it was super reliable, and had 1 issue that was covered under warranty. We upgraded my wife's car to a 2021 Mercedes C43 AMG. 
 
 ----
 ### 12. 2004 Honda S2000
@@ -233,7 +235,7 @@ This was such a fun car to drive around in, got tons of look and was just a blas
 * Sold: $19,500 / 37,500 mi
 * MPG: ~25/33, premium gas.
 * Insurance: $43/mo for full coverage
-* Engine: 2.0L 4-cyl with a BBR Turbo, 200RWHP
+* Engine: 2.0L 4-cyl with a BBR Turbo, 200HP
 * Oil Changes: $40 for full synthetic
 * Taxes/Registration: $800
 
@@ -263,10 +265,10 @@ Update: I did it.
 
 ----
 ### 16. 2001 Ferrari 360 Spider
-* Bought: Too much/ 29,000 miles
-* Sold: No
+* Bought: $80,000/ 29,000 miles
+* Sold: $86,000 / 34,000 miles
 * MPG: 10-12 on Premium, it's bad
-* Insurance: $45/mo for agreed value coverage
+* Insurance: $48/mo (Collector insurance)
 * Engine: 3.6L 8-cyl, 400HP
 * Oil Changes: $740 for full synthetic at Ferrari dealer. Never again. 
 * Taxes/Registration: too much
@@ -281,13 +283,15 @@ I did finance my Ferrari through Lightstream, and [this is a referral link](http
 
 I initially tried to get a car loan with [DCU](https://www.dcu.org/), which ended up wanting me to pay for an appraisal and send the car to them for 2 weeks, before I even bought it. Not a fan of DCU. They even made me open a bank account just to apply for the car loan. 
 
+I owned the car for 4 years, and lost about $55,000 in maintenance on the car. This was one of the worst financial decisions I've ever made. 
+
 ----
 
 ### 17. 1992 Suzuki Cappuccino
 * Bought: $6,200 / 33,000 km
-* Sold: No
+* Sold: Nope.
 * MPG: 50ish on premium. 5 gallon tank
-* Insurance: $50/mo
+* Insurance: $18/mo (Collector insurance)
 * Engine: .6L Turbo, 63HP
 * Oil Changes: Cheap - 3L and a filter. 
 * Taxes/Registration: $500ish - tag was cheap because it is antique
@@ -309,8 +313,37 @@ I bought Kyle's Cappuccino. It's the only car I've ever bought 2 of the exact sa
 
 ![Net](/images/cars/cayenne.jpeg)
 
-I bought a 7 year newer car to replace the GX470 we owned for 5 years. 
+I bought a 7 year newer car to replace the GX470 we owned for 5 years. This Cayenne is great, 3 years later and it's at 198k miles. 
 
 ----
+
+### 19. 2021 Mercedes-Benz C43 AMG
+* Bought: $37,000 / 49,000 miles
+* Sold: No
+* MPG: 20/28
+* Insurance: $130/mo
+* Engine: 3.0L Twin Turbo V6, 385 HP
+* Oil Changes: TBD
+* Taxes/Registration: $1,500ish
+
+![Net](/images/cars/benz.jpg)
+
+We upgraded my wife's Mustang to a C43 AMG. Black on red on red, some great options. I bought it at a dealer in Tallahassee and drove it home after negotiating for a week or so. It's super nice. 
+----
+
+### 20. 2005 Lotus Elise
+* Bought: $38,000 / 37,000 miles
+* Sold: No
+* MPG: 30ish
+* Insurance: $36/mo (Collector insurance)
+* Engine: 1.8L  4-cylinder, 190HP
+* Oil Changes: TBD
+* Taxes/Registration: $1,500ish
+
+![Net](/images/cars/elise.jpg)
+
+I upgraded my 360 to a Lotus Elise. It has variable valve timing, targa, and weighs under 2,000 pounds. It's a blast, and I drove it 1,000 miles home from Tennessee the first weekend I've owned it. 
+----
+
 
 So those are the cars I’ve owned, and the details on how much they cost to buy and own. Do you have any good stories about cars and how they impacted your plans? Leave them in the comments!
