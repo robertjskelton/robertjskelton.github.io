@@ -329,6 +329,7 @@ I bought a 7 year newer car to replace the GX470 we owned for 5 years. This Caye
 ![Net](/images/cars/benz.jpg)
 
 We upgraded my wife's Mustang to a C43 AMG. Black on red on red, some great options. I bought it at a dealer in Tallahassee and drove it home after negotiating for a week or so. It's super nice. 
+
 ----
 
 ### 20. 2005 Lotus Elise
@@ -343,6 +344,7 @@ We upgraded my wife's Mustang to a C43 AMG. Black on red on red, some great opti
 ![Net](/images/cars/elise.jpg)
 
 I upgraded my 360 to a Lotus Elise. It has variable valve timing, targa, and weighs under 2,000 pounds. It's a blast, and I drove it 1,000 miles home from Tennessee the first weekend I've owned it. 
+
 ----
 
 
