@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Lotus Elise - Power Acoustik Headunit Install"
-date:   2025-12-30 8:15:14 -0400
+date:   2026-03-27 8:15:14 -0400
 categories: cars
 ---
 
 ![Radio](/images/elise_radio/1.jpg)
 
-I recently bought a Lotus Elise, and the head unit that came with it was a flip out screen which hit the windshield wiper when it opened. I liked the Power [Acoustik Headunit]((https://www.walmart.com/ip/Power-Acoustik-CP-71WAK-Single-DIN-6-5-Color-Touchscreen-Car-Stereo-with-Bluetooth-Connected-Apple-CarPlay-Android-Auto/17530903908)) I had in my Ferrari 360, and decided to put the newer version of that stereo in. The new version has a volume knob instead of a volume up and down button. 
+I recently bought a Lotus Elise, and the head unit that came with it was a flip out screen which hit the windshield wiper when it opened. I liked the [Power Acoustik Headunit](https://www.walmart.com/ip/Power-Acoustik-CP-71WAK-Single-DIN-6-5-Color-Touchscreen-Car-Stereo-with-Bluetooth-Connected-Apple-CarPlay-Android-Auto/17530903908) I had in my Ferrari 360, and decided to put the newer version of that stereo in. The new version has a volume knob instead of a volume up and down button. 
 
 ![Radio](/images/elise_radio/18.jpg)
 ![Radio](/images/elise_radio/19.jpg)
@@ -22,7 +22,7 @@ The install of the head unit was easy, it was a [single wiring harness to buy](h
 
 ![Radio](/images/elise_radio/17.jpg)
 
-For the [reverse camera]((https://amzn.to/4td4UKT)), I ran the wires under the dash to the center tunnel (you don't have a center console on an Elise), then under the rear carpet, through a firewall behind the driver's seat into the engine bay, through the engine bay into a grommet into the trunk area, and finally into another grommet near the license plate lights. Having a [fish tape](https://amzn.to/4sGs90e) was required and super helpful.
+For the [reverse camera](https://amzn.to/4td4UKT), I ran the wires under the dash to the center tunnel (you don't have a center console on an Elise), then under the rear carpet, through a firewall behind the driver's seat into the engine bay, through the engine bay into a grommet into the trunk area, and finally into another grommet near the license plate lights. Having a [fish tape](https://amzn.to/4sGs90e) was required and super helpful.
 
 ![Radio](/images/elise_radio/6.jpg)
 ![Radio](/images/elise_radio/7.jpg)
