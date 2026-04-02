@@ -7,7 +7,23 @@ categories: cars
 
 ![Radio](/images/elise_radio/1.jpg)
 
-I recently bought a Lotus Elise, and the head unit that came with it was a flip out screen which hit the windshield wiper when it opened. I liked the [Power Acoustik Headunit](https://www.walmart.com/ip/Power-Acoustik-CP-71WAK-Single-DIN-6-5-Color-Touchscreen-Car-Stereo-with-Bluetooth-Connected-Apple-CarPlay-Android-Auto/17530903908) I had in my Ferrari 360, and decided to put the newer version of that stereo in. The new version has a volume knob instead of a volume up and down button. 
+I recently bought a Lotus Elise, and the head unit that came with it was a flip out screen which hit the windshield wiper when it opened. I liked the [Power Acoustik Headunit](https://www.walmart.com/ip/Power-Acoustik-CP-71WAK-Single-DIN-6-5-Color-Touchscreen-Car-Stereo-with-Bluetooth-Connected-Apple-CarPlay-Android-Auto/17530903908) I had in my Ferrari 360, and decided to put the newer version of that stereo in. The new version has a volume knob instead of a volume up and down button.
+
+# Parts Required
+* [16 Pin Wire Harness ISO Standard Adapter Cable](https://amzn.to/3Ps4MJf)
+* [Power Acoustik CP-71WAK](https://www.walmart.com/ip/Power-Acoustik-CP-71WAK-Single-DIN-6-5-Color-Touchscreen-Car-Stereo-with-Bluetooth-Connected-Apple-CarPlay-Android-Auto/17530903908)
+* [Backup Camera](https://amzn.to/4td4UKT)
+* [1x wire connector for the reverse trigger wiring](https://amzn.to/4deD8Jw)
+* [2x T-taps for the reverse power wiring](https://amzn.to/4lQYPBq)
+
+# Optional 
+* [Cloth Wiring Tape](https://amzn.to/40Y5vEw)
+* [17801-0D020 Air filter](https://amzn.to/4sC7tX7)
+
+# Specialty Tools 
+* [Fish Tape](https://amzn.to/4sGs90e)
+* [Trim removal tool](https://amzn.to/4rViVvJ)
+* [Heat Gun or hair dryer for heat shrink connector](https://amzn.to/4th8jZq)
 
 ![Radio](/images/elise_radio/18.jpg)
 ![Radio](/images/elise_radio/19.jpg)
@@ -62,19 +78,3 @@ So far, this is a great upgrade and pretty reasonably priced. Head unit was $160
 
 ![Radio](/images/elise_radio/14.jpg)
 ![Radio](/images/elise_radio/26.jpg)
-
-# Parts Required
-* [16 Pin Wire Harness ISO Standard Adapter Cable](https://amzn.to/3Ps4MJf)
-* [Power Acoustik CP-71WAK](https://www.walmart.com/ip/Power-Acoustik-CP-71WAK-Single-DIN-6-5-Color-Touchscreen-Car-Stereo-with-Bluetooth-Connected-Apple-CarPlay-Android-Auto/17530903908)
-* [Backup Camera](https://amzn.to/4td4UKT)
-* [1x wire connector for the reverse trigger wiring](https://amzn.to/4deD8Jw)
-* [2x T-taps for the reverse power wiring](https://amzn.to/4lQYPBq)
-
-# Optional 
-* [Cloth Wiring Tape](https://amzn.to/40Y5vEw)
-* [17801-0D020 Air filter](https://amzn.to/4sC7tX7)
-
-# Specialty Tools 
-* [Fish Tape](https://amzn.to/4sGs90e)
-* [Trim removal tool](https://amzn.to/4rViVvJ)
-* [Heat Gun or hair dryer for heat shrink connector](https://amzn.to/4th8jZq)
