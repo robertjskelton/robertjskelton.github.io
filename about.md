@@ -13,4 +13,4 @@ My favorite topics are [finance](https://rskelton.com/category/finance/), [techn
 * [Football Games](https://rskelton.com/football)
 * [Concerts](https://rskelton.com/concerts)
 
-There are some links on this site that earn me referrals. As an Amazon Associate I earn from qualifying purchases. However, I do not post products that I don't personally recommend. 
+There are some links on this site that earn me referrals. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner Network Affiliate, I earn from qualifying purchases. However, I do not post products that I don't personally recommend. 
