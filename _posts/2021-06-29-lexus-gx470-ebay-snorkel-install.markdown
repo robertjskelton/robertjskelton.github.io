@@ -99,3 +99,5 @@ Attach the top of the snorkel air ram with the last hose clamp. Re-install the f
 If that's all done, button everything up, go drive through some water. Long term, I might upgrade the air ram to a [pre-cleaner system](https://amzn.to/3qxoK4u)
 
 Here is a [Google Photos album](https://photos.app.goo.gl/2V5EcdPGEHyQTbnUA) with all pictures from the install. 
+
+As an eBay Partner Network Affiliate, I earn from qualifying purchases.
