@@ -7,7 +7,7 @@ categories: cars
 
 ![snorkel](/images/snorkel/1.jpg)
 
-I installed my [ebay Snorkel](https://ebay.us/29Jj1d) with the help of John Gregulak. This is a cheap mod that looks cool, but it is a pretty big hassle to install. It took about 4 hours to install, and $145 of parts and materials. 
+I installed my [ebay Snorkel](https://ebay.us/29Jj1d) with the help of John Gregulak. As an eBay Partner Network Affiliate, I earn from qualifying purchases. This is a cheap mod that looks cool, but it is a pretty big hassle to install. It took about 4 hours to install, and $145 of parts and materials. 
 
 I used the [writeup on Zack's blog](https://blog.awszac.com/2021/02/28/installing-an-ebay-special-snorkel-on-a-lexus-gx470/?fbclid=IwAR3W_wVzXe5yOCelXsUGSdZ4dZnsCxQgpjS8xFpadvk-XEM2998vNlQVZnk) and some other posts on [GXOR](https://www.facebook.com/groups/LexusGXOR/permalink/2120865391377896/) to choose the ebay snorkel and how to install. This snorkel fits with the [Rago Ditch lights bracket](https://rskelton.com/GX470-Ditch-Light-Install/)
 
@@ -100,4 +100,3 @@ If that's all done, button everything up, go drive through some water. Long term
 
 Here is a [Google Photos album](https://photos.app.goo.gl/2V5EcdPGEHyQTbnUA) with all pictures from the install. 
 
-As an eBay Partner Network Affiliate, I earn from qualifying purchases.
