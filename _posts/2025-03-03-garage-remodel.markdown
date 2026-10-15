@@ -81,6 +81,6 @@ This bottom threshold helped, but didn't prevent it as I found out, as my existi
 
 Over a year later, I decided to add [these grey rubber baseboards](https://amzn.to/4yPN9EG), seen below. It was an easy install, and cleaned up the look at the bottom of the garage. I also got to cover up an accidental huge hole I drilled when re-routing the A/C drain line .
 
-![Garage Remodel](/images/garageremodel/15.jpg)
+![Garage Remodel](/images/garage/15.jpg)
 
 So that's how I turned my little garage into a great new workspace that looks much better. 
