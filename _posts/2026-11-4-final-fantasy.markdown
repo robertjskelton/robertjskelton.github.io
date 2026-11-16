@@ -5,9 +5,9 @@ date:   2026-11-4 8:15:14 -0400
 categories: etc
 ---
 
-One of my life goals is to play every mainline Final Fantasy game. I started playing these as a kids, and have started most of them, but not completed them all yet.
+One of my life goals is to play every mainline Final Fantasy game. I started playing these as a kid, starting with 7 of course, and have started most of them, but not completed them all. Yet. Here's my list, in numerical order. 
 
-**Complete:**
+**Complete**
 
 * [Final Fantasy V](https://link.amazon/B02OdYbqH) - **8/10** - I completed the Pixel Remaster on Switch of Final Fantasy in November 2025. I really enjoyed the game, it has some great twists and doesn't hold your hand. I do think the Pixel Remaster has to be the one to play, as you can turn off random battles and enable 4x money and EXP, so you can basically just play the game 4x faster. The job system is really cool and customizable. 
 
@@ -17,7 +17,7 @@ One of my life goals is to play every mainline Final Fantasy game. I started pla
 
 * [Final Fantasy XVI](https://link.amazon/B0iGNgWOS) - **9/10** - This was a really fun game with a great new combat system, some good twists and memorable characters. 
 
-**Incomplete:**
+**Incomplete**
 
 * [Final Fantasy II](https://link.amazon/B02OdYbqH) - might have played this as a kid but don't remember anything about it. 
 
@@ -39,7 +39,7 @@ One of my life goals is to play every mainline Final Fantasy game. I started pla
 
 * [Final Fantasy XV](https://link.amazon/B0fhwA8gE) - started this once, really could not get into it, I think this might be a chore.  
 
-**Beat but need to beat again to count on my list:**
+**Beat but need to beat again to count on my list**
 
 * [Final Fantasy I](https://link.amazon/B02OdYbqH) - completed this when I was in middle or high school, don't remember much about it other than Chaos and it was pretty generic and short. I'll play it again. 
 
