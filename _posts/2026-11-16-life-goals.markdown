@@ -17,21 +17,21 @@ Writing this to document some of my life goals.
 
 **TODO**
 
-* Go to a home game at every SEC football stadium - still need to visit Arkansas , Kentucky, South Carolina, Georgia, Texas, LSU
+* Go to a home game at every SEC football stadium - still need to visit Arkansas, Kentucky, South Carolina, Georgia, Texas, LSU.
 * Never change a diaper - good so far. 
-* [Beat all mainline Final Fantasy games](https://rskelton.com/final-fantasy/) - quite a few left 
-* Learn Spanish - working on it
+* [Beat all mainline Final Fantasy games](https://rskelton.com/final-fantasy/) - quite a few left. 
+* Learn Spanish - working on it.
 * Own a wagon 
 * Take Elizabeth to all Disney parks - been to every park in America, now the parks getting more difficult to visit. 
 * Watch IMDB Top 250 movies
-* Visit Belgium
-* Drive the Nurburgring 
-* Visit every state - most of them done
-* Visit all US national parks 
+* Visit Belgium.
+* Drive the Nurburgring.
+* Visit every state - most of them done.
+* Visit all US national parks.
 * Drive 200 MPH
 * Try the top 250 beers of all time 
 * Buy a house with a 3+ car garage
-* Record every Led Zeppelin song on every instrument - very very long term goal
+* Record every Led Zeppelin song on every instrument - very very very long term goal, need a bigger house first.
 * Build a kit car - need that big garage first
-* Live in spain
-* Be a bartender
+* Live in Spain
+* Work as a bartender
